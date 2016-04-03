@@ -11,6 +11,16 @@
 - find new ways to categorize/classify authors
 - produce readable maps and timelines
 
+## datasets
+
+- network graph of influenced/influencedBy philosophers: [gexf](https://github.com/taniki/comp.soc-of-philosophy/blob/master/datasets/influences.gexf) [json](https://github.com/taniki/comp.soc-of-philosophy/blob/master/datasets/influences.dbpedia.json)
+- full content of last revisions of corresponding pages of philosophers: [folder](https://github.com/taniki/comp.soc-of-philosophy/tree/master/datasets/pages)
+
+
+## workflow
+
+## exploration
+
 ## current sources
 
-- wikipedia/dbpedia
+- [wikipedia](http://en.wikipedia.org) and [dbpedia](http://wiki.dbpedia.org/)

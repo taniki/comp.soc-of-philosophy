@@ -1,0 +1,929 @@
+leibniz redirects here
+other uses see leibniz disambiguation
+gottfried wilhelm leibniz portrait christoph bernhard francke born july 1646 leipzig electorate saxony holy roman empire died november 14 17161716-11-14 aged 70 hanover electorate hanover holy roman empire nationality german alma mater leipzig university 1661–1666 ba phil
+1662 ma phil
+1664 ll
+1665 dr
+1666 university jena summer school 1663 university altdorf dr
+1666 era 17 th-/18 th-century philosophy region western philosophy school rationalism main interests mathematics metaphysics logic theodicy universal language notable ideas calculus monads best possible worlds leibniz formula πleibniz harmonic triangle leibniz formula determinants leibniz integral rule principle sufficient reason diagrammatic reasoning notation differentiation proof fermat's little theorem kinetic energy entscheidungsproblem astlaw continuity transcendental law homogeneity characteristica universalis ars combinatoria calculus ratiocinator universalwissenschaft influences plato aristotle plotinus augustine hippo scholasticism thomas aquinas maimonides nicholas cusa suárez giordano bruno descartes hobbes pico della mirandola jakob thomasius gassendi malebranche spinoza bossuet pascal huygens j
+bernoulli weigel g
+wagner steno llull confucius conway influenced c
+wolff tetens maupertuis vico platner boscovich bonnet diderot hume husserl kant hegel g
+wagner bonald russell howison varisco chaitin wiener gödel heidegger rouche du châtelet f
+frobenius ravaisson peirce bergson frege rescher ferreira dos santos deleuze tarde signature gottfried wilhelm leibniz theses de arte combinatoria combinatorial art mar
+1666 disputatio inauguralis de casibus perplexis jure inaugural disputation ambiguous legal cases nov
+1666 doctoral advisor bartholomäus leonhard schwendendörffer dr
+other academic advisors erhard weigel jena jakob thomasius leipzig christiaan huygens notable students christian wolff gottfried wilhelm von leibniz /ˈlaɪbnɪts/ german [ˈɡɔtfʁiːt ˈvɪlhɛlm fɔn ˈlaɪbnɪts] [ˈlaɪpnɪts] french godefroi guillaume leibnitz july 1646 november 14 1716 german polymath philosopher occupies prominent place history mathematics history philosophy
+scholars including bertrand russell believe leibniz developed calculus independently isaac newton leibniz's notation widely used ever since published
+20 th century law continuity transcendental law homogeneity found mathematical implementation means non-standard analysis
+became most prolific inventors field mechanical calculators
+while working adding automatic multiplication division pascal's calculator first describe pinwheel calculator 1685 invented leibniz wheel used arithmometer first mass-produced mechanical calculator
+also refined binary number system foundation virtually digital computers
+philosophy leibniz most noted optimism
+conclusion our universe restricted sense best possible god created idea often lampooned others such voltaire
+leibniz along rené descartes baruch spinoza three great 17 th-century advocates rationalism
+work leibniz anticipated modern logic analytic philosophy philosophy also looks back scholastic tradition conclusions produced applying reason first principles prior definitions rather empirical evidence
+leibniz made major contributions physics technology anticipated notions surfaced much later philosophy probability theory biology medicine geology psychology linguistics computer science
+works philosophy politics law ethics theology history philology
+leibniz's contributions vast array subjects scattered various learned journals tens thousands letters unpublished manuscripts
+several languages primarily latin french german
+there no complete gathering writings leibniz
+contents biography
+early life
+2 1666–1674
+3 house hanover 1676–1716 2 death 3 personal life 4 philosopher 4
+principles 4
+2 monads 4
+3 theodicy optimism 4
+4 symbolic thought 4
+5 formal logic 5 mathematician 5
+calculus 5
+2 topology 6 scientist engineer 6
+physics 6
+vis viva 6
+2 other natural science 6
+3 social science 6
+4 technology 6
+computation 6
+5 librarian 6
+6 advocate scientific societies 7 lawyer moralist 7
+ecumenism philologist 9 sinophile 10 polymath posthumous reputation
+mathematician philosopher 12 writings edition 12
+selected works 12
+2 collections 13 see also 14 notes 15 references 15
+bibliographies 15
+2 primary literature 15
+3 secondary literature up 1950 15
+4 secondary literature post-1950 16 external links biography early life gottfried leibniz born july 1646 toward end thirty years' war leipzig saxony friedrich leibniz catharina schmuck
+friedrich noted family journal 21
+juny am sontag 1646 ist mein sohn gottfried wilhelm post sextam vespertinam 1/4 uff 7 uhr abents zur welt gebohren im wassermann
+english sunday 21 june [ns july] 1646 my son gottfried wilhelm born world quarter after six evening aquarius
+father died six half years old point raised mother
+her teachings influenced leibniz's philosophical thoughts later life
+[citation needed] leibniz's father professor moral philosophy university leipzig boy later inherited father's personal library
+given free access age seven
+while leibniz's schoolwork largely confined study small canon authorities father's library enabled study wide variety advanced philosophical theological works—ones otherwise able read until college years
+access father's library largely written latin also led proficiency latin language achieved age 12
+also composed 300 hexameters latin verse single morning special event school age 13
+april 1661 enrolled father's former university age 15 completed bachelor's degree philosophy december 1662
+defended disputatio metaphysica de principio individui metaphysical disputation principle individuation addressed principle individuation june 9 1663
+leibniz earned master's degree philosophy february 7 1664
+published defended dissertation specimen quaestionum philosophicarum ex jure collectarum essay collected philosophical problems right arguing both theoretical pedagogical relationship philosophy law december 1664
+after year legal studies awarded bachelor's degree law september 28 1665
+dissertation titled de conditionibus conditions
+early 1666 age 19 leibniz first book de arte combinatoria combinatorial art first part also habilitation thesis philosophy defended march 1666
+next goal earn license doctorate law normally required three years study
+1666 university leipzig turned down leibniz's doctoral application refused grant doctorate law most likely due relative youth
+leibniz subsequently left leipzig
+leibniz then enrolled university altdorf quickly submitted thesis probably working earlier leipzig
+title thesis disputatio inauguralis de casibus perplexis jure inaugural disputation ambiguous legal cases
+leibniz earned license practice law doctorate law november 1666
+next declined offer academic appointment altdorf saying my thoughts turned entirely different direction
+adult leibniz often introduced himself gottfried von leibniz
+many posthumously published editions writings presented name title page freiherr g
+von leibniz
+however no document ever found any contemporary government stated appointment any form nobility
+1666–1674 engraving gottfried wilhelm leibniz leibniz's first position salaried secretary alchemical society nuremberg
+knew fairly little subject time presented himself deeply learned
+soon met johann christian von boyneburg 1622–1672 dismissed chief minister elector mainz johann philipp von schönborn
+von boyneburg hired leibniz assistant shortly thereafter reconciled elector introduced leibniz
+leibniz then dedicated essay law elector hope obtaining employment
+stratagem worked elector asked leibniz assist redrafting legal code electorate
+1669 leibniz appointed assessor court appeal
+although von boyneburg died late 1672 leibniz remained under employment widow until she dismissed 1674
+[citation needed] von boyneburg much promote leibniz's reputation latter's memoranda letters began attract favorable notice
+after leibniz's service elector there soon followed diplomatic role
+published essay under pseudonym fictitious polish nobleman arguing unsuccessfully german candidate polish crown
+main force european geopolitics during leibniz's adult life ambition louis france backed french military economic might
+meanwhile thirty years' war left german-speaking europe exhausted fragmented economically backward
+leibniz proposed protect german-speaking europe distracting louis follows
+france invited take egypt stepping stone towards eventual conquest dutch east indies
+return france agree leave germany netherlands undisturbed
+plan obtained elector's cautious support
+1672 french government invited leibniz paris discussion plan soon overtaken outbreak franco-dutch war became irrelevant
+napoleon's failed invasion egypt 1798 seen unwitting late implementation leibniz's plan after eastern hemisphere colonial supremacy europe already passed dutch british
+[citation needed] thus leibniz began several years paris
+soon after arriving met dutch physicist mathematician christiaan huygens realised own knowledge mathematics physics patchy
+huygens mentor began program self-study soon pushed making major contributions both subjects including discovering version differential integral calculus
+met nicolas malebranche antoine arnauld leading french philosophers day studied writings descartes pascal unpublished well published
+befriended german mathematician ehrenfried walther von tschirnhaus corresponded rest their lives
+1675 admitted french academy sciences foreign honorary member despite lack attention academy
+[citation needed] stepped reckoner became clear france implement part leibniz's egyptian plan elector sent nephew escorted leibniz related mission english government london early 1673
+there leibniz came acquaintance henry oldenburg john collins
+met royal society demonstrated calculating machine designed building since 1670
+machine able execute four basic operations adding subtracting multiplying dividing society quickly made external member
+mission ended abruptly news elector's death 12 february 1673 reached them
+leibniz promptly returned paris planned mainz
+sudden deaths two patrons same winter meant leibniz find new basis career
+regard 1669 invitation john frederick brunswick visit hanover proved fateful
+leibniz declined invitation begun corresponding duke 1671
+1673 duke offered leibniz post counsellor
+leibniz very reluctantly accepted position two years later after became clear no employment paris whose intellectual stimulation relished habsburg imperial court forthcoming
+[citation needed] house hanover 1676–1716 section needs additional citations verification
+please help improve article adding citations reliable sources
+unsourced material may challenged removed
+january 2014 leibniz managed delay arrival hanover until end 1676 after making short journey london newton accused having seen newton's unpublished work calculus advance
+alleged evidence supporting accusation made decades later stolen calculus newton
+journey london hanover leibniz stopped hague met van leeuwenhoek discoverer microorganisms
+also spent several days intense discussion spinoza just completed masterwork ethics
+1677 promoted request privy counselor justice post held rest life
+leibniz served three consecutive rulers house brunswick historian political adviser most consequentially librarian ducal library
+thenceforth employed pen various political historical theological matters involving house brunswick resulting documents form valuable part historical record period
+among few people north germany accept leibniz electress sophia hanover 1630–1714 her daughter sophia charlotte hanover 1668–1705 queen prussia avowed disciple caroline ansbach consort her grandson future george ii
+each these women correspondent adviser friend
+turn approved leibniz their spouses future king george great britain
+population hanover 10000 provinciality eventually grated leibniz
+nevertheless major courtier house brunswick quite honor especially light meteoric rise prestige house during leibniz's association
+1692 duke brunswick became hereditary elector holy roman empire
+british act settlement 1701 designated electress sophia her descent royal family england once both king william iii sister-in-law successor queen anne dead
+leibniz played role initiatives negotiations leading up act effective
+example something published anonymously england thinking promote brunswick cause formally censured british parliament
+brunswicks tolerated enormous effort leibniz devoted intellectual pursuits unrelated duties courtier pursuits such perfecting calculus writing other mathematics logic physics philosophy keeping up vast correspondence
+began working calculus 1674 earliest evidence use surviving notebooks 1675
+1677 coherent system hand publish until 1684
+leibniz's most important mathematical papers published 1682 1692 usually journal otto mencke founded 1682 acta eruditorum
+journal played key role advancing mathematical scientific reputation turn enhanced eminence diplomacy history theology philosophy
+leibniz's correspondence papers notes 1669-1704 national library poland
+elector ernest augustus commissioned leibniz write history house brunswick going back time charlemagne earlier hoping resulting book advance dynastic ambitions
+1687 1690 leibniz traveled extensively germany austria italy seeking finding archival materials bearing project
+decades went no history appeared next elector became quite annoyed leibniz's apparent dilatoriness
+leibniz never finished project part because huge output many other fronts also because insisted writing meticulously researched erudite book based archival sources patrons quite happy short popular book perhaps little genealogy commentary completed three years less
+never knew fact carried out fair part assigned task material leibniz written collected history house brunswick finally published 19 th century filled three volumes
+1708 john keill writing journal royal society newton's presumed blessing accused leibniz having plagiarized newton's calculus
+thus began calculus priority dispute darkened remainder leibniz's life
+formal investigation royal society newton unacknowledged participant undertaken response leibniz's demand retraction upheld keill's charge
+historians mathematics writing since 1900 tended acquit leibniz pointing important differences leibniz's newton's versions calculus
+1711 while traveling northern europe russian tsar peter great stopped hanover met leibniz then took interest russian matters rest life
+1712 leibniz began two-year residence vienna appointed imperial court councillor habsburgs
+death queen anne 1714 elector george louis became king george great britain under terms 1701 act settlement
+even though leibniz done much bring happy event hour glory
+despite intercession princess wales caroline ansbach george forbade leibniz join london until completed least volume history brunswick family father commissioned nearly 30 years earlier
+moreover george include leibniz london court deemed insulting newton seen having won calculus priority dispute whose standing british official circles higher
+finally dear friend defender dowager electress sophia died 1714
+death leibniz died hanover 1716 time out favor neither george happened near hanover time nor any fellow courtier other personal secretary attended funeral
+even though leibniz life member royal society berlin academy sciences neither organization saw fit honor passing
+grave went unmarked 50 years
+leibniz eulogized fontenelle before academie des sciences paris admitted foreign member 1700
+eulogy composed behest duchess orleans niece electress sophia
+personal life leibniz never married
+complained occasion money fair sum left sole heir sister's stepson proved brunswicks large paid well
+diplomatic endeavors times verged unscrupulous too often case professional diplomats day
+several occasions leibniz backdated altered personal manuscripts actions put bad light during calculus controversy
+other hand charming well-mannered without humor imagination
+many friends admirers over europe
+leibniz's religious views although considered biographers deist also claimed philosophical theist
+philosopher leibniz's philosophical thinking appears fragmented because philosophical writings consist mainly multitude short pieces journal articles manuscripts published long after death many letters many correspondents
+two book-length philosophical treatises théodicée 1710 published lifetime
+leibniz dated beginning philosopher discourse metaphysics composed 1686 commentary running dispute nicolas malebranche antoine arnauld
+led extensive valuable correspondence arnauld discourse published until 19 th century
+1695 leibniz made public entrée european philosophy journal article titled new system nature communication substances
+1695 1705 composed new essays human understanding lengthy commentary john locke's 1690 essay concerning human understanding upon learning locke's 1704 death lost desire publish new essays published until 1765
+monadologie composed 1714 published posthumously consists 90 aphorisms
+leibniz met spinoza 1676 read unpublished writings since suspected appropriating spinoza's ideas
+while leibniz admired spinoza's powerful intellect also forthrightly dismayed spinoza's conclusions especially these inconsistent christian orthodoxy
+unlike descartes spinoza leibniz thorough university education philosophy
+influenced leipzig professor jakob thomasius also supervised ba thesis philosophy
+leibniz also eagerly read francisco suárez spanish jesuit respected even lutheran universities
+leibniz deeply interested new methods conclusions descartes huygens newton boyle viewed their work through lens heavily tinted scholastic notions
+yet remains case leibniz's methods concerns often anticipate logic analytic linguistic philosophy 20 th century
+principles leibniz variously invoked another seven fundamental philosophical principles identity/contradiction
+proposition true then negation false vice versa
+identity indiscernibles
+two distinct things cannot their properties common
+every predicate possessed x also possessed vice versa then entities x identical suppose two things indiscernible suppose same thing under two names
+frequently invoked modern logic philosophy
+identity indiscernibles often referred leibniz's law
+attracted most controversy criticism especially corpuscular philosophy quantum mechanics
+sufficient reason
+there must sufficient reason anything exist any event occur any truth obtain
+pre-established harmony
+[t]he appropriate nature each substance brings happens corresponds happens others without however their acting upon another directly
+discourse metaphysics dropped glass shatters because knows hit ground because impact ground compels glass split
+law continuity
+natura non saltum facit
+god assuredly chooses best
+leibniz believed best possible worlds actualize every genuine possibility argued théodicée best possible worlds will contain possibilities our finite experience eternity giving no reason dispute nature's perfection
+leibniz occasion give rational defense specific principle often took them granted
+monads leibniz's best known contribution metaphysics theory monads exposited monadologie
+according leibniz monads elementary particles blurred perceptions another
+monads also compared corpuscles mechanical philosophy rené descartes others
+monads ultimate elements universe
+monads substantial forms being following properties eternal indecomposable individual subject their own laws un-interacting each reflecting entire universe pre-established harmony historically important example panpsychism
+monads centers force substance force while space matter motion merely phenomenal
+ontological essence monad irreducible simplicity
+unlike atoms monads possess no material spatial character
+also differ atoms their complete mutual independence interactions among monads apparent
+instead virtue principle pre-established harmony each monad follows preprogrammed set instructions peculiar itself monad knows each moment
+virtue these intrinsic instructions each monad like little mirror universe
+monads need small e
+each human being constitutes monad case free will problematic
+monads purported gotten rid problematic interaction mind matter arising system descartes lack individuation inherent system spinoza represents individual creatures merely accidental
+theodicy optimism further information best possible worlds word optimism used classic sense optimal optimistic
+theodicy tries justify apparent imperfections world claiming optimal among possible worlds
+must best possible most balanced world because created powerful knowing god choose create imperfect world better world known possible exist
+effect apparent flaws identified world must exist every possible world because otherwise god chosen create world excluded those flaws
+leibniz asserted truths theology religion philosophy cannot contradict each other since reason faith both gifts god their conflict imply god contending against himself
+theodicy leibniz's attempt reconcile personal philosophical system interpretation tenets christianity
+project motivated part leibniz's belief shared many conservative philosophers theologians during enlightenment rational enlightened nature christian religion compared purportedly less advanced non-western counterparts
+also shaped leibniz's belief perfectibility human nature humanity relied correct philosophy religion guide belief metaphysical necessity must rational logical foundation even metaphysical causality seemed inexplicable terms physical necessity natural laws identified science
+because reason faith must entirely reconciled any tenet faith defended reason must rejected
+leibniz then approached central criticisms christian theism god good wise powerful how evil come world? answer according leibniz while god indeed unlimited wisdom power human creations creations limited both their wisdom their will power act
+predisposes humans false beliefs wrong decisions ineffective actions exercise their free will
+god does arbitrarily inflict pain suffering humans rather permits both moral evil sin physical evil pain suffering necessary consequences metaphysical evil imperfection means humans identify correct their erroneous decisions contrast true good
+further although human actions flow prior causes ultimately arise god therefore known metaphysical certainty god individual's free will exercised within natural laws choices merely contingently necessary decided event wonderful spontaneity provides individuals escape rigorous predestination
+symbolic thought leibniz believed much human reasoning reduced calculations sort such calculations resolve many differences opinion way rectify our reasonings make them tangible those mathematicians find our error glance there disputes among persons simply say let us calculate [calculemus] without further ado see right
+leibniz's calculus ratiocinator resembles symbolic logic viewed way making such calculations feasible
+leibniz memoranda now read groping attempts get symbolic logic—and thus calculus—off ground
+gerhard couturat publish these writings until modern formal logic emerged frege's begriffsschrift writings charles sanders peirce students 1880 s hence well after boole de morgan began logic 1847
+leibniz thought symbols important human understanding
+attached much importance development good notations attributed discoveries mathematics
+notation calculus example skill regard
+peirce 19 th-century pioneer semiotics shared leibniz's passion symbols notation belief these essential well-running logic mathematics
+leibniz took speculations much further
+defining character any written sign then defined real character represents idea directly simply word embodying idea
+real characters such notation logic serve facilitate reasoning
+many characters well known day including egyptian hieroglyphics chinese characters symbols astronomy chemistry deemed real
+instead proposed creation characteristica universalis universal characteristic built alphabet human thought each fundamental concept represented unique real character obvious find characters signs suited expressing our thoughts clearly exactly arithmetic expresses numbers geometry expresses lines matters insofar subject reasoning arithmetic geometry
+investigations depend reasoning carried out transposing these characters species calculus
+complex thoughts represented combining characters simpler thoughts
+leibniz saw uniqueness prime factorization suggests central role prime numbers universal characteristic striking anticipation gödel numbering
+granted there no intuitive mnemonic way number any set elementary concepts using prime numbers
+leibniz's idea reasoning through universal language symbols calculations however remarkably foreshadows great 20 th century developments formal systems such turing completeness computation used define equivalent universal languages see turing degree
+because leibniz mathematical novice first characteristic first conceive algebra rather universal language script
+1676 conceive kind algebra thought modeled including conventional algebra notation
+resulting characteristic included logical calculus combinatorics algebra analysis situs geometry situation universal concept language
+leibniz actually intended characteristica universalis calculus ratiocinator extent modern formal logic does justice calculus may never established
+formal logic main article algebraic logic leibniz most important logicians aristotle 1847 george boole augustus de morgan each published books began modern formal logic
+leibniz enunciated principal properties now call conjunction disjunction negation identity set inclusion empty set
+principles leibniz's logic arguably whole philosophy reduce two our ideas compounded very small number simple ideas form alphabet human thought
+complex ideas proceed these simple ideas uniform symmetrical combination analogous arithmetical multiplication
+formal logic emerged early 20 th century also requires minimum unary negation quantified variables ranging over universe discourse
+leibniz published nothing formal logic lifetime most subject consists working drafts
+book history western philosophy bertrand russell went far claim leibniz developed logic unpublished writings level reached 200 years later
+mathematician although mathematical notion function implicit trigonometric logarithmic tables existed day leibniz first 1692 1694 employ explicitly denote any several geometric concepts derived curve such abscissa ordinate tangent chord perpendicular
+18 th century function lost these geometrical associations
+leibniz first see coefficients system linear equations arranged array now called matrix manipulated find solution system any
+method later called gaussian elimination
+leibniz's discoveries boolean algebra symbolic logic also relevant mathematics discussed preceding section
+best overview leibniz's writings calculus may found bos 1974
+calculus leibniz credited along sir isaac newton discovery calculus differential integral calculus
+according leibniz's notebooks critical breakthrough occurred november 1675 employed integral calculus first time find area under graph function = ƒx
+introduced several notations used day instance integral sign ∫ representing elongated s latin word summa used differentials latin word differentia
+cleverly suggestive notation calculus probably most enduring mathematical legacy
+leibniz publish anything calculus until 1684
+product rule differential calculus still called leibniz's law
+addition theorem tells how differentiate under integral sign called leibniz integral rule
+leibniz exploited infinitesimals developing calculus manipulating them ways suggesting paradoxical algebraic properties
+george berkeley tract called analyst also de motu criticized these
+recent study argues leibnizian calculus free contradictions better grounded berkeley's empiricist criticisms
+1711 until death leibniz engaged dispute john keill newton others over whether leibniz invented calculus independently newton
+subject treated length article leibniz-newton controversy
+use infinitesimals mathematics frowned upon followers karl weierstrass[citation needed] survived science engineering even rigorous mathematics via fundamental computational device known differential
+beginning 1960 abraham robinson worked out rigorous foundation leibniz's infinitesimals using model theory context field hyperreal numbers
+resulting non-standard analysis seen belated vindication leibniz's mathematical reasoning
+robinson's transfer principle mathematical implementation leibniz's heuristic law continuity while standard part function implements leibnizian transcendental law homogeneity
+topology leibniz first use term analysis situs later used 19 th century refer now known topology
+there two takes situation
+hand mates citing 1954 paper german jacob freudenthal argues although leibniz situs sequence points completely determined distance them altered those distances altered admirer euler famous 1736 paper solving königsberg bridge problem generalizations used term geometria situs such sense situs remains unchanged under topological deformations
+mistakenly credits leibniz originating concept
+sometimes realized leibniz used term entirely different sense hence hardly considered founder part mathematics
+hideaki hirano argues differently quoting mandelbrot sample leibniz' scientific works sobering experience
+next calculus other thoughts carried out completion number variety premonitory thrusts overwhelming
+saw examples 'packing'
+my leibniz mania further reinforced finding moment hero attached importance geometric scaling
+euclidis prota
+attempt tighten euclid's axioms states
+'i diverse definitions straight line
+straight line curve any part similar whole alone property among curves among sets
+claim proved today
+thus fractal geometry promoted mandelbrot drew leibniz's notions self-similarity principle continuity natura non saltum facit
+also see leibniz metaphysical vein straight line curve any part similar whole anticipating topology two centuries
+packing leibniz friend correspondent des bosses imagine circle then inscribe within three congruent circles maximum radius latter smaller circles filled three even smaller circles same procedure
+process continued infinitely arises good idea self-similarity
+leibniz's improvement euclid's axiom contains same concept
+scientist engineer leibniz's writings currently discussed their anticipations possible discoveries yet recognized ways advancing present knowledge
+much writing physics included gerhardt's mathematical writings
+physics see also dynamism metaphysics conatus § leibniz leibniz contributed fair amount statics dynamics emerging around often disagreeing descartes newton
+devised new theory motion dynamics based kinetic energy potential energy posited space relative whereas newton thoroughly convinced space absolute
+important example leibniz's mature physical thinking specimen dynamicum 1695
+until discovery subatomic particles quantum mechanics governing them many leibniz's speculative ideas aspects nature reducible statics dynamics made little sense
+instance anticipated albert einstein arguing against newton space time motion relative absolute my own opinion once hold space something merely relative time hold order coexistences time order successions
+leibniz's relationist notion space time against newton's substantivalist views
+according newton's substantivalism space time entities their own right existing independently things
+leibniz's relationism other hand describes space time systems relations exist objects
+rise general relativity subsequent work history physics put leibniz's stance favorable light
+leibniz's projects recast newton's theory vortex theory
+however project went beyond vortex theory since heart there attempt explain most difficult problems physics origin cohesion matter
+leibniz's rule derivatives products important often overlooked step many proofs diverse fields physics
+principle sufficient reason invoked recent cosmology identity indiscernibles quantum mechanics field even credit having anticipated sense
+those advocate digital philosophy recent direction cosmology claim leibniz precursor
+vis viva leibniz's vis viva latin living force mv2 twice modern kinetic energy
+realized total energy conserved certain mechanical systems considered innate motive characteristic matter
+here too thinking gave rise another regrettable nationalistic dispute
+vis viva seen rivaling conservation momentum championed newton england descartes france hence academics those countries tended neglect leibniz's idea
+reality both energy momentum conserved two approaches equally valid
+other natural science proposing earth molten core anticipated modern geology
+embryology preformationist also proposed organisms outcome combination infinite number possible microstructures their powers
+life sciences paleontology revealed amazing transformist intuition fueled study comparative anatomy fossils
+principal works subject protogaea unpublished lifetime recently published english first time
+worked out primal organismic theory
+medicine exhorted physicians time—with results—to ground their theories detailed comparative observations verified experiments distinguish firmly scientific metaphysical points view
+social science much leibniz's work went great impact field psychology
+theory regarding consciousness relation principle continuity seen early theory regarding stages sleep
+believed principle phenomena found nature continuous default likely transition conscious unconscious states intermediary steps
+though leibniz's ideas regarding pre-established harmony rejected many psychologists embraced ideas psychophysical parallelism
+idea refers mind–body problem stating mind brain act upon each other act alongside each other separately harmony
+leibniz believed mind very active role perception plays much larger role sensory input
+focused heavily perception distinguishing type perception conscious stimulus other being aware distinct perception
+thought there many petites perceptions small perceptions perceive unaware
+example bag rice spilled see rice necessarily aware how many grains pile
+principle there infinite number perceptions within us any given time unaware
+true there must also portion mind unaware any given time
+way leibniz's theory perception viewed many theories leading up idea unconscious
+additionally idea subliminal stimuli traced back theory small perceptions
+leibniz direct influence ernst platner credited originally coining term unbewußtseyn unconscious
+leibniz's ideas regarding music tonal perception went influence laboratory studies wilhelm wundt
+public health advocated establishing medical administrative authority powers over epidemiology veterinary medicine
+worked set up coherent medical training program oriented towards public health preventive measures
+economic policy proposed tax reforms national insurance program discussed balance trade
+even proposed something akin much later emerged game theory
+sociology laid ground communication theory
+technology 1906 garland published volume leibniz's writings bearing many practical inventions engineering work
+date few these writings translated english
+nevertheless well understood leibniz serious inventor engineer applied scientist great respect practical life
+following motto theoria cum praxi urged theory combined practical application thus claimed father applied science
+designed wind-driven propellers water pumps mining machines extract ore hydraulic presses lamps submarines clocks etc
+denis papin invented steam engine
+even proposed method desalinating water
+1680 1685 struggled overcome chronic flooding afflicted ducal silver mines harz mountains succeed
+computation leibniz may first computer scientist information theorist
+early life documented binary numeral system base 2 then revisited system throughout career
+anticipated lagrangian interpolation algorithmic information theory
+calculus ratiocinator anticipated aspects universal turing machine
+1961 norbert wiener suggested leibniz should considered patron saint cybernetics
+1671 leibniz began invent machine execute four arithmetic operations gradually improving over number years
+stepped reckoner attracted fair attention basis election royal society 1673
+number such machines made during years hanover craftsman working under supervision
+unambiguous success because fully mechanize carry operation
+couturat reported finding unpublished note leibniz dated 1674 describing machine capable performing algebraic operations
+leibniz also devised now reproduced cipher machine recovered nicholas rescher 2010
+1693 leibniz released public design machine theory integrate differential equations
+leibniz groping towards hardware software concepts worked out much later charles babbage ada lovelace
+1679 while mulling over binary arithmetic leibniz imagined machine binary numbers represented marbles governed rudimentary sort punched cards
+modern electronic digital computers replace leibniz's marbles moving gravity shift registers voltage gradients pulses electrons otherwise run roughly leibniz envisioned 1679
+librarian while serving librarian ducal libraries hanover wolfenbuettel leibniz effectively became founders library science
+latter library enormous day contained 100000 volumes leibniz helped design new building believed first building explicitly designed library
+also designed book indexing system ignorance other such system then extant bodleian library oxford university
+also called publishers distribute abstracts new titles produced each year standard form facilitate indexing
+hoped abstracting project eventually include everything printed day back gutenberg
+neither proposal met success time something like them became standard practice among english language publishers during 20 th century under aegis library congress british library
+called creation empirical database way further sciences
+characteristica universalis calculus ratiocinator community minds—intended among other things bring political religious unity europe—can seen distant unwitting anticipations artificial languages e
+esperanto rivals symbolic logic even world wide web
+advocate scientific societies leibniz emphasized research collaborative endeavor
+hence warmly advocated formation national scientific societies along lines british royal society french academie royale des sciences
+specifically correspondence travels urged creation such societies dresden saint petersburg vienna berlin
+such project came fruition 1700 berlin academy sciences created
+leibniz drew up first statutes served first president remainder life
+academy evolved german academy sciences publisher ongoing critical edition works
+lawyer moralist possible exception marcus aurelius no philosopher ever much experience practical affairs state leibniz
+leibniz's writings law ethics politics long overlooked english-speaking scholars changed late
+while leibniz no apologist absolute monarchy like hobbes tyranny any form neither echo political constitutional views contemporary john locke views invoked support democracy 18 th-century america later elsewhere
+following excerpt 1695 letter baron j
+boyneburg's son philipp very revealing leibniz's political sentiments
+great question power sovereigns obedience their peoples owe them usually say good princes persuaded their people right resist them people other hand persuaded obey them passively
+am however quite opinion grotius ought obey rule evil revolution being greater beyond comparison evils causing
+yet recognize prince go such excess place well-being state such danger obligation endure ceases
+most rare however theologian authorizes violence under pretext should take care against excess excess being infinitely dangerous deficiency
+1677 leibniz called european confederation governed council senate whose members represent entire nations free vote their consciences sometimes considered anticipation european union
+believed europe adopt uniform religion
+reiterated these proposals 1715
+same time arrived propose interreligious multicultural project create universal system justice required broad interdisciplinary perspective
+order combined linguistics especially sinology moral law philosophy management economics politics
+ecumenism leibniz devoted considerable intellectual diplomatic effort now called ecumenical endeavor seeking reconcile first roman catholic lutheran churches later lutheran reformed churches
+respect followed example early patrons baron von boyneburg duke john frederick—both cradle lutherans converted catholicism adults—who encourage reunion two faiths warmly welcomed such endeavors others
+house brunswick remained lutheran because duke's children follow their father
+these efforts included corresponding french bishop jacques-bénigne bossuet involved leibniz fair bit theological controversy
+evidently thought thoroughgoing application reason suffice heal breach caused reformation
+philologist leibniz philologist avid student languages eagerly latching any information vocabulary grammar came way
+refuted belief widely held christian scholars day hebrew primeval language human race
+also refuted argument advanced swedish scholars day form proto-swedish ancestor germanic languages
+puzzled over origins slavic languages aware existence sanskrit fascinated classical chinese
+published princeps editio first modern edition late medieval chronicon holtzatiae latin chronicle county holstein
+sinophile diagram ching hexagrams sent leibniz joachim bouvet
+arabic numerals added leibniz
+leibniz perhaps first major european intellect take close interest chinese civilization knew corresponding reading other works european christian missionaries posted china
+having read confucius sinarum philosophus first year publication concluded europeans learn much confucian ethical tradition
+mulled over possibility chinese characters unwitting form universal characteristic
+noted fascination how ching hexagrams correspond binary numbers 000000 111111 concluded mapping evidence major chinese accomplishments sort philosophical mathematics admired
+leibniz's attraction chinese philosophy originates perception chinese philosophy similar own
+historian e
+hughes suggests leibniz's ideas simple substance pre-established harmony directly influenced confucianism pointing fact conceived during period reading confucius sinarum philosophus
+polymath while making grand tour european archives research brunswick family history never completed leibniz stopped vienna may 1688 february 1689 much legal diplomatic work brunswicks
+visited mines talked mine engineers tried negotiate export contracts lead ducal mines harz mountains
+proposal streets vienna lit lamps burning rapeseed oil implemented
+during formal audience austrian emperor subsequent memoranda advocated reorganizing austrian economy reforming coinage much central europe negotiating concordat habsburgs vatican creating imperial research library official archive public insurance fund
+published important paper mechanics
+leibniz also short paper primae veritates first published louis couturat 1903 pp
+518–523 summarizing views metaphysics
+paper undated while vienna 1689 determined 1999 ongoing critical edition finally published leibniz's philosophical writings period 1677–90
+couturat's reading paper launching point much 20 th-century thinking leibniz especially among analytic philosophers
+after meticulous study leibniz's philosophical writings up 1688—a study 1999 additions critical edition made possible—mercer 2001 begged differ couturat's reading jury still out
+posthumous reputation mathematician philosopher leibniz died reputation decline
+remembered book théodicée whose supposed central argument voltaire lampooned popular book candide concludes character candide saying non liquet clear term applied during roman republic legal verdict proven
+voltaire's depiction leibniz's ideas influential many believed accurate description
+thus voltaire candide bear blame lingering failure appreciate understand leibniz's ideas
+leibniz ardent disciple christian wolff whose dogmatic facile outlook leibniz's reputation much harm
+also influenced david hume read théodicée used ideas
+any event philosophical fashion moving away rationalism system building 17 th century leibniz such ardent proponent
+work law diplomacy history seen ephemeral interest
+vastness richness correspondence went unrecognized
+much europe came doubt leibniz discovered calculus independently newton hence whole work mathematics physics neglected
+voltaire admirer newton also candide least part discredit leibniz's claim having discovered calculus leibniz's charge newton's theory universal gravitation incorrect
+[citation needed] leibniz's long march present glory began 1765 publication nouveaux essais kant read closely
+1768 louis dutens edited first multi-volume edition leibniz's writings followed 19 th century number editions including those edited erdmann foucher de careil gerhardt gerland klopp mollat
+publication leibniz's correspondence notables such antoine arnauld samuel clarke sophia hanover her daughter sophia charlotte hanover began
+1900 bertrand russell published critical study leibniz's metaphysics
+shortly thereafter louis couturat published important study leibniz edited volume leibniz's heretofore unpublished writings mainly logic
+made leibniz somewhat respectable among 20 th-century analytical linguistic philosophers english-speaking world leibniz already great influence many germans such bernhard riemann
+example leibniz's phrase salva veritate meaning interchangeability without loss compromising truth recurs willard quine's writings
+nevertheless secondary literature leibniz really blossom until after world war ii
+especially true english speaking countries gregory brown's bibliography fewer 30 english language entries published before 1946
+american leibniz studies owe much leroy loemker 1904–1985 through translations interpretive essays le clerc 1973
+nicholas jolley surmised leibniz's reputation philosopher now perhaps higher any time since alive
+analytic contemporary philosophy continue invoke notions identity individuation possible worlds
+work history 17 th- 18 th-century ideas revealed clearly 17 th-century intellectual revolution preceded better-known industrial commercial revolutions 18 th 19 th centuries
+1985 german government created leibniz prize offering annual award
+55 million euros experimental results 770000 euros theoretical ones
+world's largest prize scientific achievement
+collection manuscript papers leibniz gottfried wilhelm leibniz bibliothek niedersächische landesbibliothek inscribed unesco's memory world register 2007
+writings edition leibniz mainly three languages scholastic latin french german
+during lifetime published many pamphlets scholarly articles two philosophical books combinatorial art théodicée
+published numerous pamphlets often anonymous behalf house brunswick-lüneburg most notably de jure suprematum major consideration nature sovereignty
+substantial book appeared posthumously nouveaux essais sur l'entendement humain leibniz withheld publication after death john locke
+1895 bodemann completed catalogue leibniz's manuscripts correspondence enormous extent leibniz's nachlass become clear 15000 letters 1000 recipients plus 40000 other items
+moreover quite few these letters essay length
+much vast correspondence especially letters dated after 1700 remains unpublished much published recent decades
+amount variety disorder leibniz's writings predictable result situation described letter follows cannot tell you how extraordinarily distracted spread out am
+am trying find various things archives look old papers hunt up unpublished documents
+these hope shed light history [house of] brunswick
+receive answer huge number letters
+same time many mathematical results philosophical thoughts other literary innovations should allowed vanish often know begin
+extant parts critical edition leibniz's writings organized follows series
+political historical general correspondence
+25 vols
+series 2
+philosophical correspondence
+3 vols
+series 3
+mathematical scientific technical correspondence
+series 4
+political writings
+7 vols
+series 5
+historical linguistic writings
+series 6
+philosophical writings
+7 vols
+1663–90 nouveaux essais sur l'entendement humain
+series 7
+mathematical writings
+6 vols
+scientific medical technical writings
+systematic cataloguing leibniz's nachlass began 1901
+hampered two world wars decades german division two states cold war's iron curtain separating scholars also scattering portions literary estates
+ambitious project deal seven languages contained 200000 pages written printed paper
+1985 reorganized included joint program german federal state länder academies
+since then branches potsdam münster hanover berlin jointly published 57 volumes critical edition average 870 pages prepared index concordance works
+selected works year given usually work completed eventual publication
+de arte combinatoria art combination partially translated loemker §1 parkinson 1966
+hypothesis physica nova new physical hypothesis loemker §8
+1673 confessio philosophi philosopher's creed english translation available
+nova methodus pro maximis et minimis new method maximums minimums translated struik
+source book mathematics 1200–1800
+harvard university press 271–81
+discours de métaphysique martin brown 1988 ariew garber 35 loemker §35 wiener iii
+3 woolhouse francks
+online translation jonathan bennett available
+generales inquisitiones de analysi notionum et veritatum general inquiries analysis concepts truths 1695
+système nouveau de nature et de communication des substances new system nature 1700
+accessiones historicae 1703
+explication de l'arithmétique binaire explanation binary arithmetic gerhardt mathematical writings vii
+online translation lloyd strickland available
+scriptores rerum brunsvicensium 1710
+théodicée farrer
+huggard e
+1985 1952
+wiener iii
+online translation available project gutenberg
+monadologie translated nicholas rescher
+monadology edition students
+university pittsburgh press
+ariew garber 213 loemker §67 wiener iii
+13 woolhouse francks 19
+online translations jonathan bennett's translation latta's translation french latin spanish edition facsimile leibniz's manuscript
+collectanea etymologica edited secretary leibniz johann georg von eckhart 1750
+origines guelficae 1765
+nouveaux essais sur l'entendement humain completed 1704
+remnant peter bennett jonathan trans
+new essays human understanding langley translation 1896
+cambridge university press
+wiener iii
+6 part
+online translation preface book jonathan bennett available
+collections six important collections english translations wiener 1951 parkinson 1966 loemker 1969 ariew garber 1989 woolhouse francks 1998 strickland 2006
+ongoing critical edition leibniz's writings sämtliche schriften und briefe
+see also philosophy portal mathematics portal information technology portal alternating series test - leibniz test general leibniz rule leibniz association leibniz operator list german inventors discoverers list things named after gottfried leibniz mathesis universalis scientific revolution university hanover - gottfried wilhelm leibniz universität hannover notes c arthur 2014 p
+franz exner über leibnitz'ens universal-wissenschaft 1843 universalwissenschaft meyers großes konversations-lexikon stanley burris leibniz's influence 19 th century logic stanford encyclopedia philosophy c arthur 2014 p
+history philosophy vol
+iv modern philosophy descartes leibniz frederick c
+copleston 1958 leibniz tarde finds main conditions metaphysics possession
+sees monadology 1714 beginning movement dissolution classical ontology notably identity being simplicity still implicitand unthinking form find most obvious confirmation today's science
+dynamics possession introduction sociology gabriel tarde didier debaise kurt huber leibniz philosoph universalen harmonie severus verlag 2014 p
+gottfried wilhelm leibniz mathematics genealogy project leibniz entry collins english dictionary harper collins publishers 1998
+max mangold ed
+duden-aussprachewörterbuch duden pronunciation dictionary german 7 th ed
+mannheim bibliographisches institut gmb h
+eva-maria krech et al
+deutsches aussprachewörterbuch german pronunciation dictionary german st ed
+berlin walter de gruyter gmb h & co
+see inscription engraving depicted 1666–1674 section
+russell bertrand 2013-04-15
+history western philosophy collectors edition
+david smith pp
+173–181 1929 roughly 40% 35% 25% respectively
+legacy leibniz gottfried wilhelm leibniz bibliothek three official libraries german state lower saxony
+baird forrest e
+walter kaufmann 2008
+plato derrida
+upper saddle river new jersey pearson prentice hall
+possible words aquarius refer moon sun cancer sagittarius rising ascendant see astro-databank chart gottfried leibniz
+original 1/4 uff 7 uhr there no reason assume 17 th century meant quarter seven
+quote given hartmut hecht gottfried wilhelm leibniz teubner-archiv zur mathematik volume 2 1992 first lines chapter 2 junge leibniz p
+15 see h
+hecht junge leibniz see also g
+guhrauer g
+breslau 1846 anm
+mackie 1845 21 mackie 1845 mackie 1845 c e arthur 2014 p
+hubertus busche leibniz' weg ins perspektivische universum eine harmonie im zeitalter berechnung meiner verlag 1997 p
+few copies de arte combinatoria produced requested habilitation procedure reprinted without consent 1690
+jolley nicholas 1995
+cambridge companion leibniz
+cambridge university press
+20 simmons george 2007
+calculus gems brief lives memorable mathematics
+143 mackie 1845 38 mackie 1845 39 mackie 1845 40 aiton 1985 312 ariew r
+leibniz life works p
+21 cambridge companion leibniz ed
+jolley cambridge university press 1994
+extract page 21 mackie 1845 43 mackie 1845 44-45 mackie 1845 58-61 mackie 1845 69-70 mackie 1845 73-74 encounter newton leibniz review evidence see alfred rupert hall philosophers war quarrel newton leibniz cambridge 2002 pp
+mackie 1845 p
+117-118 study leibniz's correspondence sophia charlotte see mac donald ross george 1990 leibniz’s exposition system queen sophie charlotte other ladies
+leibniz berlin ed
+heinekamp stuttgart franz steiner 1990 61-69
+mackie 1845 109 see wiener iv
+6 loemker § 40
+also see curious passage titled leibniz's philosophical dream first published bodemann 1895 translated p
+253 morris mary ed
+philosophical writings
+dent & sons ltd
+christian mathematicians leibniz - god & math - thinking christianly math education
+gottfried wilhelm leibniz
+peter loptson ed
+discourse metaphysics other writings
+broadview press
+answer unknowable may unreasonable see least theological terms essentially deist
+determinist there no miracles events called being merely instances infrequently occurring natural laws christ no real role system live forever hence carry after our deaths then everything — every individual substance — carries forever
+nonetheless leibniz theist
+system generated needs postulate creative god
+fact though despite leibniz's protestations god architect engineer vast complex world-system embodiment love christian orthodoxy
+|access-date= requires |url= help christopher ernest cosans 2009
+owen's ape & darwin's bulldog beyond darwinism creationism
+indiana university press
+advancing system mechanics newton claimed collisions celestial objects cause loss energy require god intervene time time maintain order solar system vailati 1997 37–42
+criticizing implication leibniz remarks sir isaac newton followers also very odd opinion concerning work god
+according their doctrine god almighty wants wind up watch time time otherwise cease move
+leibniz 1715 675 leibniz argues any scientific theory relies god perform miracles after first made universe indicates god lacked sufficient foresight power establish adequate natural laws first place
+defense newton's theism clarke unapologetic 'tis diminution true glory workmanship nothing done without continual government inspection' leibniz 1715 676–677
+clarke believed consulted closely newton how respond leibniz
+asserts leibniz's deism leads notion materialism fate 1715 677 because excludes god daily workings nature
+|access-date= requires |url= help shelby
+hunt 2003
+controversy marketing theory reason realism truth objectivity
+consistent liberal views enlightenment leibniz optimist respect human reasoning scientific progress popper 1963 p
+although great reader admirer spinoza leibniz being confirmed deist rejected emphatically spinoza's pantheism god nature leibniz simply two different labels same thing
+|access-date= requires |url= help ariew & garber 69 loemker §§36 38 ariew & garber 138 loemker §47 wiener ii
+4 ariew & garber 272–84 loemker §§14 20 21 wiener iii
+mates 1986 chpts
+3 9 loemker 717 see jolley 1995 129–31 woolhouse francks 1998 mercer 2001
+loemker 311 arthur lovejoy great chain being
+harvard university press 1936 chapter v plenitude sufficient reason leibniz spinoza p
+precis leibniz meant these other principles see mercer 2001 473–84
+classic discussion sufficient reason plenitude see lovejoy 1957
+rutherford 1998 detailed scholarly study leibniz's theodicy
+magill frank ed
+masterpieces world philosophy
+new york harper collins 1990
+magill frank ed
+1990 art discovery 1685 wiener 51 many memoranda translated parkinson 1966
+loemker however translated leibniz's works english symbols chemistry real characters there disagreement among leibniz scholars point
+preface general science 1677
+revision rutherford's translation jolley 1995 234
+also wiener
+4 good introductory discussion characteristic jolley 1995 226–40
+early yet still classic discussion characteristic calculus couturat 1901 chpts
+struik 1969 367 jesseph douglas m
+leibniz foundations calculus question reality infinitesimal magnitudes
+perspectives science
+1&2 6–40
+retrieved 31 december 2011
+leibniz gottfried wilhelm freiherr von gerhardt carl immanuel trans
+early mathematical manuscripts leibniz
+open court publishing
+retrieved 10 november 2013
+english translation paper see struik 1969 271–84 also translates parts two other key papers leibniz calculus
+katz mikhail sherry david leibniz's infinitesimals their fictionality their modern implementations their foes berkeley russell beyond erkenntnis ar xiv1205
+0174 doi10
+1007/s10670-012-9370-y loemker §27 mates 1986 240 hirano hideaki
+leibniz's cultural pluralism natural law
+archived original may 2009
+retrieved march 10 2010
+mandelbrot 1977 419
+quoted hirano 1997
+ariew garber 117 loemker §46 w ii
+leibniz physics see chapter garber jolley 1995 wilson 1989
+see h
+alexander ed
+leibniz-clarke correspondence manchester manchester university press pp
+futch michael
+leibniz’s metaphysics time space
+new york springer 2008
+ray christopher
+time space philosophy
+london routledge
+rickles dean
+symmetry structure spacetime
+oxford elsevier 2008
+arthur 2014 p
+see ariew garber 155–86 loemker §§53–55 w ii
+6–7 leibniz biology see loemker 1969 viii
+leibniz psychology see loemker 1969 ix
+larry m
+jorgensen principle continuity leibniz's theory consciousness
+brett king wayne viney william woody
+history psychology ideas context 2009 150–153
+nicholls leibscher thinking unconscious nineteenth-century german thought 2010 6
+king et al
+2009 150–153
+nicholls leibscher thinking unconscious nineteenth-century german thought 2010 9
+klempe sh 2011
+role tone sensation musical stimuli early experimental psychology
+journal history behavioral sciences 47 2 187–99
+pmid 21462196
+aiton 1985 107–114 136 davis 2000 discusses leibniz's prophetic role emergence calculating machines formal languages
+see couturat 1901 473–78
+wiener n
+cybernetics 2 nd edition revisions two additional chapters mit press wiley new york 1961 p
+couturat 1901 115 see n
+rescher leibniz cryptography pittsburgh university library systems university pittsburgh
+reality club wake up call europe tech leibniz's projects scientific societies see couturat 1901 app
+see example ariew garber 19 94 111 193 riley 1988 loemker §§2 7 20 29 59 62 65 w
+1–3 see order difficulty jolley 2005 chpt
+7 gregory brown's chapter jolley 1995 hostler 1975 riley 1996
+loemker 59 fn 16
+translation revised
+loemker 58 fn 9 see josé andrés-gallego 42
+“are humanism mixed methods related? leibniz’s universal chinese dream” journal mixed methods research 292 2015 118-132 http//mmr
+perkins 2004 117 c mungello david e
+leibniz's interpretation neo-confucianism
+philosophy east west 21 3–22
+leibniz ching binary numbers see aiton 1985 245–48
+leibniz's writings chinese civilization collected translated cook rosemont 1994 discussed perkins 2004
+later translated loemker 267 woolhouse francks 30 vi 4 n
+324 pp
+1643-1649 title principia logico-metaphysica see also irenaean theodicy § gottfried leibniz vasilyev 1993 russell 1900 jolley 217–19 letters gottfried wilhelm leibniz within collection manuscript papers gottfried wilhelm leibniz
+unesco memory world programme
+retrieved 2009-12-15
+letter vincent placcius 15 september 1695 louis dutens ed
+gothofridi guillemi leibnitii opera omnia vol
+1768 pp
+see photograph there
+c arthur william holland 1910 germany bibliography german history encyclopaedia britannica th ed
+new york oclc 14782424 references bibliographies bodemann eduard die leibniz-handschriften königlichen öffentlichen bibliothek zu hannover 1895 anastatic reprint hildesheim georg olms 1966
+bodemann eduard briefwechsel des gottfried wilhelm leibniz königlichen öffentliche bibliothek zu hannover 1895 anastatic reprint hildesheim georg olms 1966
+ravier émile bibliographie des œuvres de leibniz paris alcan 1937 anastatic reprint hildesheim georg olms 1966
+heinekamp albert mertens marlen
+die literatur über leibniz bis 1980 frankfurt vittorio klostermann 1984
+heinekamp albert mertens marlen
+die literatur über leibniz
+band ii 1981-1990 frankfurt vittorio klostermann 1996
+updated bibliography 25
+000 titles available leibniz bibliographie
+primary literature wiener philip ed
+leibniz selections
+schrecker paul & schrecker anne martin eds
+monadology other philosophical essays
+parkinson g
+logical papers
+clarendon press
+mason h
+& parkinson g
+leibniz-arnauld correspondence
+manchester university press
+loemker leroy ed
+1969 1956
+leibniz philosophical papers letters
+morris mary & parkinson g
+philosophical writings
+everyman’s university library
+riley patrick ed
+leibniz political writings
+cambridge university press
+niall r
+& brown stuart eds
+discourse metaphysics related writings
+manchester university press
+ariew roger garber daniel
+leibniz philosophical essays
+rescher nicholas ed
+leibniz’s monadology
+edition students university pittsburgh press
+parkinson g
+de summa rerum
+metaphysical papers 1675-1676
+yale university press
+cook daniel & rosemont henry jr
+leibniz writings china
+open court
+farrer austin ed
+theodicy open court
+remnant peter & bennett jonathan eds
+1996 1981
+leibniz new essays human understanding
+cambridge university press
+woolhouse r
+francks r
+leibniz’s ‘new system’ associated contemporary texts
+oxford university press
+woolhouse r
+francks r
+leibniz philosophical texts
+oxford university press
+ariew roger ed
+leibniz samuel clarke correspondence
+richard t
+arthur ed
+labyrinth continuum writings continuum problem 1672-1686
+yale university press
+richard t
+arthur 2014
+john wiley & sons
+robert c
+sleigh jr
+confessio philosophi papers concerning problem evil 1671-1678
+yale university press
+dascal marcelo ed
+art controversies’’ springer
+strickland lloyd 2006 ed
+shorter leibniz texts collection new translations
+look brandon rutherford donald eds
+leibniz-des bosses correspondence yale university press
+cohen claudine wakefield andre eds
+university chicago press
+murray michael ed
+dissertation predestination grace yale university press
+strickand lloyd ed
+leibniz two sophies
+philosophical correspondence toronto
+lodge paul ed
+leibniz-de volder correspondence selections correspondence leibniz johann bernoulli yale university press
+artosi alberto pieri bernardo sartor giovanni eds
+leibniz logico-philosophical puzzles law springer
+secondary literature up 1950 du bois-reymond paul 1974
+leibnizsche gedanken neueren naturwissenschaft berlin dummler 1871 reprinted vorträge über philosophie und gesellschaft hamburg felix meiner
+couturat louis 1901
+logique de leibniz
+paris felix alcan
+heidegger martin 1983
+metaphysical foundations logic
+indiana university press lecture course 1928
+lovejoy arthur o
+1957 1936
+plenitude sufficient reason leibniz spinoza great chain being
+harvard university press 144–82
+reprinted frankfurt h
+leibniz collection critical essays
+anchor books 1972
+mackie john milton guhrauer gottschalk eduard 1845
+life godfrey william von leibnitz
+gould kendall lincoln
+russell bertand 1900 critical exposition philosophy leibniz cambridge university press
+smith david eugene 1929
+source book mathematics
+new york london mc graw-hill book company inc
+trendelenburg f
+1857 über leibnizens entwurf einer allgemeinen charakteristik philosophische abhandlungen königlichen akademie wissenschaften zu berlin
+aus dem jahr 1856 berlin commission dümmler pp
+leibniz politician lecture secondary literature post-1950 adams robert merrihew
+leibniz determinist theist idealist
+new york oxford oxford university press
+aiton eric j
+leibniz biography
+hilger uk
+antognazza maria rosa 2008
+leibniz intellectual biography
+cambridge univ
+barrow john
+tipler frank j
+anthropic cosmological principle
+oxford university press
+lccn 87028148
+bos h
+differentials higher-order differentials derivative leibnizian calculus
+archive history exact sciences 14 1–90
+stuart brown ed
+young leibniz philosophy 1646-76 dordrecht kluwer
+davis martin 2000
+universal computer road leibniz turing
+ww norton
+deleuze gilles 1993
+fold leibniz baroque
+university minnesota press
+finster reinhard & van den heuvel gerd 2000
+gottfried wilhelm leibniz
+mit selbstzeugnissen und bilddokumenten
+rowohlt reinbek bei hamburg rowohlts monographien 50481
+grattan-guinness ivor 1997
+norton history mathematical sciences
+w w norton
+philosophers war quarrel newton leibniz
+cambridge university press
+hostler john 1975
+leibniz's moral philosophy
+uk duckworth
+ishiguro hidé 1990
+leibniz's philosophy logic language
+cambridge university press
+jolley nicholas ed
+cambridge companion leibniz
+cambridge university press
+kaldis byron 2011
+leibniz' argument innate ideas just arguments 100 most important arguments western philosophy edited m bruce & s barbone
+le clerc ivor ed
+philosophy leibniz modern world
+vanderbilt university press
+luchte james 2006
+mathesis analysis finitude infinite monadology leibniz
+heythrop journal 47 4 519–543
+mates benson 1986
+philosophy leibniz metaphysics language
+oxford university press
+mercer christia 2001
+leibniz's metaphysics origins development
+cambridge university press
+perkins franklin 2004
+leibniz china commerce light
+cambridge university press
+riley patrick 1996
+leibniz's universal jurisprudence justice charity wise
+harvard university press
+rutherford donald 1998
+leibniz rational order nature
+cambridge university press
+smith justin e
+divine machines
+leibniz sciences life princeton university press
+wilson catherine 1989
+leibniz's metaphysics historical comparative study
+princeton university press
+zalta e
+leibnizian theory concepts pdf
+philosophiegeschichte und logische analyse / logical analysis history philosophy 3 137–183
+external links wikimedia commons media related gottfried wilhelm leibniz
+wikisource original works written gottfried leibniz wikiquote quotations related gottfried wilhelm leibniz works gottfried wilhelm leibniz project gutenberg works gottfried wilhelm leibniz internet archive works gottfried wilhelm leibniz libri vox public domain audiobooks gottfried wilhelm leibniz entry brandon c
+look stanford encyclopedia philosophy leibniz's influence 19 th century logic entry volker peckhaus stanford encyclopedia philosophy gottfried leibniz metaphysics entry douglas burnham internet encyclopedia philosophy gottfried leibniz causation entry laurence carlin internet encyclopedia philosophy leibniz logic entry wolfgang lenzen internet encyclopedia philosophy o'connor john j
+robertson edmund f
+gottfried wilhelm leibniz mac tutor history mathematics archive university st andrews
+gottfried wilhelm leibniz mathematics genealogy project translations jonathan bennett new essays exchanges bayle arnauld clarke 15 shorter works
+gottfried wilhelm leibniz texts translations compiled donald rutherford ucsd leibnitiana links resources edited gregory brown university houston philosophical works leibniz translated g
+duncan 1890 best possible worlds nicholas rescher talks gottfried wilhelm von leibniz's versatility creativity protogæa 1693 latin acta eruditorum - linda hall library protogaea 1749 german - full digital facsimile linda hall library leibniz's 1768 6-volume opera omnia - digital facsimile leibniz' arithmetical machine 1710 online analyzed bib num [click 'à télécharger' english analysis] leibniz' binary numeral system 'de progressione dyadica' 1679 online analyzed bib num [click 'à télécharger' english analysis] vte gottfried wilhelm leibniz mathematics andphilosophy alternating series test best possible worlds calculus ratiocinator characteristica universalis difference identity indiscernibles law continuity leibniz wheel leibniz's gap pre-established harmony principle sufficient reason salva veritate theodicy transcendental law homogeneity vis viva well-founded phenomenon works de arte combinatoria 1666 discourse metaphysics 1686 new essays human understanding 1704 théodicée 1710 monadology 1714 leibniz–clarke correspondence 1715–1716 other calculus controversy links related articlesvte age enlightenment topics atheism capitalism civil liberties counter-enlightenment critical thinking deism democracy empiricism encyclopédistes enlightened absolutism free markets haskalah humanism human rights liberalism liberté égalité fraternité methodological skepticism natural philosophy objectivity rationality rationalism reason reductionism sapere aude science scientific method socialism universality weimar classicism thinkers america benjamin franklin thomas jefferson james madison george mason thomas paine england edward gibbon francis bacon john locke isaac newton mary wollstonecraft robert hooke samuel johnson france georges-louis leclerc comte de buffon étienne bonnot de condillac marquis de condorcet jean le rond d'alembert baron d'holbach denis diderot claude adrien helvétius montesquieu françois quesnay jean-jacques rousseau marquis de sade voltaire germany johann wolfgang von goethe johann gottfried von herder immanuel kant gotthold ephraim lessing moses mendelssohn friedrich schiller ireland edmund burke robert boyle italy cesare beccaria gaetano filangieri antonio genovesi pietro verri poland tadeusz czacki hugo kołłątaj stanisław konarski ignacy krasicki julian ursyn niemcewicz stanisław august poniatowski stanisław staszic jędrzej śniadecki józef wybicki andrzej stanisław załuski józef andrzej załuski scotland joseph black james boswell adam ferguson david hume francis hutcheson thomas reid adam smith vte infinitesimals history adequality leibniz's notation integral symbol criticism non-standard analysis analyst method mechanical theorems cavalieri's principle method indivisibles related branches non-standard analysis non-standard calculus internal set theory synthetic differential geometry constructive non-standard analysis infinitesimal strain theory physics formalizations differentials hyperreal numbers dual numbers surreal numbers individual concepts standard part function transfer principle hyperinteger increment theorem monad internal set levi-civita field hyperfinite set law continuity overspill microcontinuity transcendental law homogeneity scientists gottfried wilhelm leibniz abraham robinson pierre de fermat augustin-louis cauchy leonhard euler textbooks analyse des infiniment petits elementary calculus cours d'analyse vte metaphysics metaphysicians parmenides plato aristotle plotinus duns scotus thomas aquinas francisco suárez nicolas malebranche rené descartes john locke david hume thomas reid immanuel kant isaac newton arthur schopenhauer baruch spinoza georg w
+hegel george berkeley gottfried wilhelm leibniz henri bergson friedrich nietzsche charles sanders peirce joseph maréchal ludwig wittgenstein martin heidegger alfred n
+whitehead bertrand russell dorothy emmet g
+moore jean-paul sartre gilbert ryle hilary putnam p
+strawson r
+collingwood adolph stöhr rudolf carnap saul kripke willard v
+quine g
+anscombe donald davidson michael dummett david malet armstrong david lewis alvin plantinga peter van inwagen derek parfit
+theories abstract object theory action theory anti-realism determinism dualism enactivism essentialism existentialism free will idealism libertarianism liberty materialism meaning life monism naturalism nihilism phenomenalism realism physicalism pirsig's metaphysics quality platonic idealism relativism scientific realism solipsism subjectivism substance theory type theory concepts abstract object anima mundi being category being causality choice cogito ergo sum concept embodied cognition entity essence existence experience hypostatic abstraction idea identity identity change information insight intelligence intention linguistic modality matter meaning memetics mental representation mind motion necessity notion object pattern perception physical body principle property qualia quality reality soul subject substantial form thought time truth type–token distinction universal unobservable value
+related topics axiology cosmology epistemology feminist metaphysics interpretations quantum mechanics meta- ontology philosophy mind philosophy psychology philosophy self philosophy space time teleology theoretical physics category portal wiki project vte philosophy religion concepts religion afterlife euthyphro dilemma faith intelligent design miracle problem evil religious belief soul spirit theodicy theological veto conceptions god aristotelian view brahman demiurge divine simplicity egoism holy spirit maltheism pandeism personal god process theology supreme being unmoved mover god abrahamic religions buddhism christianity hinduism islam jainism judaism mormonism sikhism bahá'í faith wicca existence god beauty christological consciousness cosmological kalam contingency degree desire experience fine-tuning universe love miracles morality ontological pascal's wager proper basis reason teleological natural law watchmaker analogy transcendental against 747 gambit atheist's wager evil free will hell inconsistent revelations nonbelief noncognitivism occam's razor omnipotence poor design russell's teapot theology acosmism agnosticism animism antireligion atheism creationism dharmism deism divine command theory dualism esotericism exclusivism existentialism christian agnostic atheistic feminist theology thealogy womanist theology fideism fundamentalism gnosticism henotheism humanism religious secular christian inclusivism theories religions monism monotheism mysticism naturalism metaphysical religious humanistic new age nondualism nontheism pandeism panentheism pantheism perennialism polytheism process theology religious skepticism spiritualism shamanism taoic theism transcendentalism
+religious language eschatological verification language-game logical positivism apophatic theology verificationism problem evil augustinian theodicy best possible worlds euthyphro dilemma inconsistent triad irenaean theodicy natural evil theodicy philosophersof religionby date active ancientand medieval heraclitus augustine hippo boethius anselm canterbury gaunilo marmoutiers averroes thomas aquinas maimonides pico della mirandola desiderius erasmus enlightenment rené descartes blaise pascal baruch spinoza nicolas malebranche gottfried w leibniz william wollaston thomas chubb david hume baron d'holbach immanuel kant johann g herder 18001850 friedrich schleiermacher karl c f krause georg w f hegel william whewell ludwig feuerbach søren kierkegaard karl marx albrecht ritschl 18801900 ernst haeckel w
+clifford friedrich nietzsche harald høffding william james vladimir solovyov ernst troeltsch rudolf otto lev shestov sergei bulgakov pavel florensky ernst cassirer joseph maréchal 1920 postwar george santayana bertrand russell martin buber rené guénon paul tillich karl barth emil brunner rudolf bultmann reinhold niebuhr charles hartshorne mircea eliade j l mackie walter kaufmann martin lings peter geach george mavrodes william alston antony flew 197019902010 william l rowe dewi z phillips alvin plantinga anthony kenny nicholas wolterstorff richard swinburne robert merrihew adams peter van inwagen daniel dennett loyal rue jean-luc marion william lane craig ali akbar rashad alexander pruss related topics criticism religion ethics religion exegesis history religions religion religious language religious philosophy relationship religion science political science religion faith rationality
+portal category vte philosophy language philosophers plato cratylus gorgias confucius xunzi aristotle stoics pyrrhonists scholasticism ibn rushd ibn khaldun thomas hobbes gottfried wilhelm leibniz johann herder ludwig noire wilhelm von humboldt fritz mauthner paul ricœur ferdinand de saussure gottlob frege franz boas paul tillich edward sapir leonard bloomfield zhuangzi henri bergson lev vygotsky ludwig wittgenstein philosophical investigations tractatus logico-philosophicus bertrand russell rudolf carnap jacques derrida grammatology limited inc benjamin lee whorf gustav bergmann j
+austin noam chomsky hans-georg gadamer saul kripke
+ayer g
+anscombe jaakko hintikka michael dummett donald davidson paul grice gilbert ryle p
+strawson willard van orman quine hilary putnam david lewis john searle joxe azurmendi scott soames stephen yablo john hawthorne stephen neale theories causal theory reference contrast theory meaning contrastivism conventionalism cratylism deconstruction descriptivist theory names direct reference theory dramatism expressivism linguistic determinism logical atomism logical positivism mediated reference theory nominalism non-cognitivism phallogocentrism quietism relevance theory semantic externalism semantic holism structuralism supposition theory symbiosism theological noncognitivism theory descriptions verification theory concepts ambiguity linguistic relativity meaning language truth-bearer proposition use–mention distinction concept categories set class intension logical form metalanguage mental representation principle compositionality property sign sense reference speech act symbol entity sentence statement
+related articles analytic philosophy philosophy information philosophical logic linguistics pragmatics rhetoric semantics formal semantics semiotics category task force discussion vte philosophy mind philosophers anscombe austin aquinas bain bergson bhattacharya block brentano broad burge chalmers churchland dennett dharmakirti davidson descartes goldman heidegger husserl fodor james kierkegaard leibniz lewis mc dowell merleau-ponty minsky moore nagel parfit putnam popper rorty ryle searle spinoza turing vasubandhu wittgenstein zhuangzi
+theories behaviorism biological naturalism dualism eliminative materialism emergent materialism epiphenomenalism functionalism idealism interactionism materialism monism naïve realism neutral monism phenomenalism phenomenology existential neurophenomenology physicalism identity theory pragmatism property dualism representational solipsism subjectivism substance dualism concepts abstract object artificial intelligence chinese room cognition cognitive closure concept concept object consciousness hard problem consciousness hypostatic abstraction idea identity ingenuity intelligence intentionality introspection intuition language thought materialism mental event mental image mental process mental property mental representation mind mind–body problem new mysterianism pain problem other minds propositional attitude qualia tabula rasa understanding zombie
+related topics metaphysics philosophy artificial intelligence / information / perception / self portal category task force discussion vte social political philosophy philosophers alinsky aristotle augustine aurobindo aquinas averroes azurmendi badiou bakunin baudrillard benoist bentham berlin bonald bosanquet burke camus chanakya chomsky cicero comte confucius debord đilas durkheim engels foucault fourier gandhi gehlen gentile al-ghazali gramsci grotius habermas han fei hobbes hume kant kirk kropotkin le bon le play leibniz locke luxemburg machiavelli maistre malebranche marcuse maritain marsilius marx mencius michels mill montesquieu möser mozi muhammad negri nietzsche nozick oakeshott ortega pareto pettit plamenatz plato polanyi popper rand rawls renan rothbard rousseau royce russell santayana sarkar sartre schmitt searle shang smith sombart spann spencer spirito stirner strauss taine taylor thoreau vivekananda walzer žižek social theories vaisheshika anarchism authoritarianism collectivism communism communitarianism conflict theories confucianism consensus theory conservatism contractualism culturalism fascism feminist political theory gandhism individualism legalism liberalism libertarianism mohism national liberalism republicanism social constructionism social constructivism social darwinism social determinism socialism utilitarianism social concepts civil disobedience democracy four occupations justice law mandate heaven peace property revolution rights social contract society war
+related articles jurisprudence philosophy economics philosophy education philosophy history philosophy love philosophy sex philosophy social science social epistemology category portal task force authority control world cat identities viaf 9849392 lccn n79081493 isni 0000 0001 2099 0070 gnd 118571249 selibr 217685 sudoc 027328341 bnf cb11912259 r data ulan 500228235 music brainz df6939 f9-b49 b-45 b8-9983-728 fe32725 c9 mgp 60985 nla 36517029 ndl 00447280 nkc jn20000603705 iccu it\iccu\cfiv\021597 bne xx967786

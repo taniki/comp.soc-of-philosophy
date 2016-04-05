@@ -1,0 +1,163 @@
+nicole oresme portrait nicole oresme miniature oresme's traité de l’espere bibliothèque nationale paris france fonds français 565 fol
+born 1323 fleury-sur-orne normandy france died july 1382 lisieux normandy france era 14 th-century philosophy region western philosophy main interests natural philosophy astronomy theology mathematics influences aristotle william ockham nicole oresme french [nikɔl ɔʁɛm] c
+1320–1325 july 1382 also known nicolas oresme nicholas oresme nicolas d'oresme significant philosopher later middle ages
+influential works economics mathematics physics astrology astronomy philosophy theology bishop lisieux translator counselor king charles v france probably most original thinkers 14 th century europe
+contents oresme's life 2 oresme's scientific work 2
+cosmology 2
+2 critiques astrology 2
+3 sense perception 2
+4 translations 2
+5 mathematics 2
+6 economics 3 translations 4 see also 5 footnotes 6 references 7 external links oresme's life nicole oresme born c
+1320-1325 village allemagne today's fleury-sur-orne vicinity caen normandy diocese bayeux
+practically nothing known concerning family
+fact oresme attended royally sponsored subsidized college navarre institution students too poor pay their expenses while studying university paris makes probable came peasant family
+oresme studied artes paris together jean buridan so-called founder french school natural philosophy albert saxony perhaps marsilius inghen there received magister artium
+already regent master arts 1342 during crisis over william ockham's natural philosophy
+1348 student theology paris
+1356 received doctorate same year became grand master grand-maître college navarre
+1364 appointed dean cathedral rouen
+around 1369 began series translations aristotelian works request charles v granted pension 1371 royal support appointed bishop lisieux 1377
+1382 died lisieux
+oresme's scientific work cosmology page oresme's livre du ciel et du monde 1377 showing celestial spheres livre du ciel et du monde oresme discussed range evidence against daily rotation earth axis
+astronomical considerations maintained earth moving celestial spheres movements see heavens computed astronomers appear exactly same spheres rotating around earth
+rejected physical argument earth moving air left behind causing great wind east west
+view earth water air share same motion
+scriptural passage speaks motion sun concludes passage conforms customary usage popular speech taken literally
+also noted economical small earth rotate axis immense sphere stars
+nonetheless concluded none these arguments conclusive everyone maintains think myself heavens move earth
+critiques astrology mathematical work oresme developed notion incommensurate fractions fractions expressed powers another made probabilistic statistical arguments their relative frequency
+argued very probable length day year incommensurate irrational indeed periods motions moon planets
+noted planetary conjunctions oppositions never recur quite exactly same way
+oresme maintained disproves claims astrologers thinking know punctual exactness motions aspects conjunctions oppositions… [judge] rashly erroneously future events
+oresme's critique astrology livre de divinacions treats having six parts
+first essentially astronomy movements heavenly bodies considers good science precisely knowable
+second part deals influences heavenly bodies earthly events scales
+oresme does deny such influence states line commonly held opinion either arrangements heavenly bodies signify events purely symbolically actually cause such events deterministically
+mediaevalist chauncey wood remarks major elision makes very difficult determine believed astrology
+third part concerns predictiveness covering events three different scales great events such plagues famines floods wars weather winds storms medicine influences humours four aristotelian fluids body
+oresme criticizes these misdirected though accepts prediction legitimate area study argues effect weather less well known effect great events
+observes sailors farmers better predicting weather astrologers specifically attacks astrological basis prediction noting correctly zodiac moved relative fixed stars because precession equinoxes since zodiac first described ancient times
+these first three parts oresme considers physical influences stars planets including sun moon earth while offers critiques them accepts effects exist
+last three parts oresme considers concern good bad fortune
+interrogations meaning asking stars things such business deals elections meaning choosing best time things such getting married fighting war nativities meaning natal astrology birth charts forms much modern astrological practice
+oresme classifies interrogations elections totally false arts critique nativities measured
+denies any path predetermined heavenly bodies because humans free will accepts heavenly bodies influence behaviour habitual mood via combination humours each person
+overall oresme's skepticism strongly shaped understanding scope astrology
+accepts things modern skeptic reject rejects things — such knowability planetary movements effects weather — accepted modern science
+sense perception discussing propagation light sound oresme adopted common medieval doctrine multiplication species developed optical writers such alhacen robert grosseteste roger bacon john pecham witelo
+oresme maintained these species immaterial corporeal
+three-dimensional entities
+translations like most scholarly contemporaries oresme primarily latin urging king charles v also french providing french versions own works selected works aristotle
+mathematics oresme's most important contributions mathematics contained tractatus de configurationibus qualitatum et motuum
+quality accidental form such heat distinguished intensio degree heat each point extensio length heated rod
+these two terms often replaced latitudo longitudo
+sake clarity oresme conceived idea visualizing these concepts plane figures approaching now call rectangular co-ordinates
+intensity quality represented length latitudo proportional intensity erected perpendicular base given point base line represents longitudo
+oresme proposed geometrical form such figure regarded corresponding characteristic quality itself
+oresme defined uniform quality represented line parallel longitude any other quality difform
+uniformly varying qualities represented straight line inclined axis longitude while described many cases nonuniformly varying qualities
+oresme extended doctrine figures three dimensions
+considered analysis applicable many different qualities such hotness whiteness sweetness
+significantly later developments oresme applied concept analysis local motion latitudo intensity represented speed longitudo represented time area figure represented distance travelled
+shows method figuring latitude forms applicable movement point condition time taken longitude speed latitude quantity then space covered given time
+virtue transposition theorem latitudo uniformiter difformis became law space traversed case uniformly varied motion thus oresme published taught over two centuries prior galileo´s making famous
+diagrams velocity accelerating object against time latitude forms jacobus de sancto martino sometimes attributed oresme cited credit oresme discovery proto bar charts
+significantly oresme developed first proof divergence harmonic series something replicated later centuries bernoulli brothers
+proof requiring less advanced mathematics current standard tests divergence example integral test begins noting any n power 2 there n/2 terms series 1/n/2 1/n
+each these terms least 1/n since there n/2 them sum least 1/2
+instance there term 1/2 then two terms 1/3+1/4 together sum least 1/2 then four terms 1/5+1/6+1/7+1/8 also sum least 1/2
+thus series must greater series + 1/2 + 1/2 + 1/2 +
++ 1/2 does finite limit
+proves harmonic series must divergent
+argument shows sum first n terms grows correct within multiplicative constant
+oresme first mathematician prove fact after proof lost proven again until 17 th century pietro mengoli
+also worked fractional powers notion probability over infinite sequences ideas further developed next three five centuries respectively
+economics treatise origin nature law alterations money de origine natura jure et mutationibus monetarum earliest manuscripts devoted economic matter oresme brings interesting insight medieval conception money
+translations nicole oresme's de visione stellarum seeing stars critical edition oresme's treatise optics atmospheric refraction translated dan burton leiden boston brill 2007 nicole oresme marvels nature study de causis mirabilium translated bert hansen toronto pontifical institute mediaeval studies 1985 questiones super quatuor libros meteororum sc mc cluskey ed nicole oresme light color rainbow edition translation introduction critical notes part book three questiones super quatuor libros meteororum ph dissertation university wisconsin 1974 nicole oresme kinematics circular motion tractatus de commensurabilitate vel incommensurabilitate motuum celi translated edward grant madison university wisconsin press 1971 nicole oresme medieval geometry qualities motions treatise uniformity difformity intensities known tractatus de configurationibus qualitatum et motuum translated marshall clagett madison university wisconsin press 1968 le livre du ciel et du monde
+denomy ed
+madison university wisconsin press 1968
+de proportionibus proportionum ad pauca respicientes
+edward grant ed
+madison university wisconsin press 1966
+de moneta n
+oresme english mint documents translated c
+johnson london 1956 see also list multiple discoveries science middle ages oresme crater list roman catholic scientist-clerics footnotes léon warnant 1987
+dictionnaire de prononciation française dans sa norme actuelle french 3 rd ed
+gembloux j
+duculot s
+wallace william
+prelude galileo essays medieval sixteenth-century sources galileo's thought
+springer science & business
+edward grant ed
+de proportionibus proportionum ad pauca respicientes madison university wisconsin pr
+1966 p
+william j
+courtenay early career nicole oresme isis vol
+91 no
+3 sept
+2000 pp 542–548
+edward grant ed
+de proportionibus proportionum ad pauca respicientes madison university wisconsin pr
+1966 pp
+edward grant foundations modern science middle ages cambridge cambridge university press 1996 pp
+oresme le livre du ciel et du monde pp
+521–3 oresme le livre du ciel et du monde p
+531 oresme le livre du ciel et du monde p
+535 oresme le livre du ciel et du monde p
+537 james franklin science conjecture evidence probability before pascal johns hopkins university press 2001 see chapter 6 pp
+140 - 145 oresme ad pauca respicientes p
+coopland g
+nicole oresme astrologers study livre de divinacions
+harvard university press liverpool university press
+c wood 1970
+9 wood 1970
+8–11 bert hansen nicole oresme marvels nature toronto pontifical institute mediaeval studies 1985 pp
+david c
+lindberg theories vision al-kindi kepler chicago university chicago pr
+1976 pp
+78–80 98 113–16 peter marshall nicole oresme nature reflection speed light isis 72 1981 357–374 pp
+clagett marshall 1968 nicole oresme medieval geometry qualities motions treatise uniformity difformity intensities known tractatus de configurationibus qualitatum et motuum madison univ
+wisconsin press pp
+164–211 0-299-04880-2 catholic encyclopedia nicole oresme clagett marshall 1968 nicole oresme medieval geometry qualities motions treatise uniformity difformity intensities known tractatus de configurationibus qualitatum et motuum madison univ
+wisconsin press 0-299-04880-2 clagett marshall 1968 nicole oresme medieval geometry qualities motions treatise uniformity difformity intensities known tractatus de configurationibus qualitatum et motuum madison univ
+wisconsin press pp
+85–99 0-299-04880-2 beniger james r
+robyn dorothy l
+1978 quantitative graphics statistics brief history american statistician taylor & francis ltd
+1–11 jstor 2683467 geoff everitt brian s
+handbook statistical graphics using sas ods
+chapman hall - crc
+pickover clifford
+2009 math book pythagoras 57 th dimension 250 milestones history mathematics sterling publishing company inc
+104 9781402757969 nicole oresme
+first prove divergence harmonic series c
+results lost several centuries result proved again italian mathematician pietro mengoli 1647 swiss mathematician johann bernoulli 1687
+references clagett marshall 1970
+nicole oresme pdf
+gillispie charles
+dictionary scientific biography 10
+new york scribner & american council learned societies
+clagett marshall 1968
+nicole oresme medieval geometry qualities motions treatise uniformity difformity intensities known tractatus de configurationibus qualitatum motuum
+madison university wisconsin press
+grant edward 1971
+nicole oresme kinematics circular motion
+madison university wisconsin press
+hansen bert 1985
+nicole oresme marvels nature study de causis mirabilium critical edition translation commentary
+pontifical institute medieval studies
+mäkeler hendrik 2003
+nicolas oresme und gabriel biel zur geldtheorie im späten mittelalter
+scripta mercaturae zeitschrift für wirtschafts- und sozialgeschichte 37 56–94
+covers oresme's monetary theory
+wood chauncey 1970
+chaucer country stars poetical uses astrological imagery
+princeton princeton university press
+external links wikiquote quotations related nicole oresme wikimedia commons media related nicholas oresme
+works nicole oresme internet archive kirschner stefan
+stanford encyclopedia philosophy |contribution= ignored help
+o'connor john j
+robertson edmund f
+mac tutor history mathematics archive |contribution= ignored help
+oresme biography article oresme's monetary theory de moneta nicholas oresme english mint documents pdf tractatus de origine natura jure et mutationibus monetarum latin vte medieval philosophers islamic early al-jahiz alkindus ibn al-rawandi al-razi rhazes al-farabi alpharabius ibn masarra al amiri ebn meskavayh ibn al-haytham alhazen abu rayhan biruni brethren purity high avicenna ibn hazm al-ghazali algazel abu'l-barakāt al-baghdādī ibn bajjah avempace ayn al-quzat hamadani ibn tufail averroes late ibn sab'in shahab al-din suhrawardi fakhr ad-din ar-razi rashid al-din ibn arabi zachariah kazwin abd-el-latif athīr al-dīn al-abharī nasir al-din al-tusi ibn al-nafis qutb al-din al-shirazi ibn taymiyyah ibn khaldun jewish medieval saadia gaon solomon ibn gabirol judah halevi abraham ibn daud maimonides nahmanides gersonides hasdai crescas joseph albo christian early church fathers augustine hippo boethius pseudo-dionysius areopagite isidore seville john scotus eriugena alcuin 11–12 thcentury anselm canterbury peter abelard anselm laon hugh saint victor richard saint victor roscelin peter lombard alexander hales bernard chartres dominicus gundissalinus gilbert de porrée alain de lille 13–14 thcentury robert grosseteste albertus magnus bonaventure thomas aquinas boetius dacia henry ghent roger bacon john peckham ramon llull petrus aureolus petrus peregrinus de maricourt durandus giles rome godfrey fontaines duns scotus william ockham late jean buridan nicole oresme albert saxony francesc eiximenis vincent ferrer paul venice lambertus de monte john hennon see also scholasticism renaissance philosophy authority control world cat identities viaf 64010010 lccn n50002658 isni 0000 0001 0908 5280 gnd 118734946 selibr 204878 sudoc 027053377 bnf cb119181813 data

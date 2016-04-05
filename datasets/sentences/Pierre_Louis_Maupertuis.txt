@@ -1,0 +1,158 @@
+maupertuis redirects here
+other uses see maupertuis disambiguation
+pierre louis maupertuis maupertuis wearing lapmudes lapland expedition
+born 1698-07-1717 july 1698 saint-malo france died 27 july 17591759-07-27 aged 60 basel switzerland nationality french fields mathematics physics biology metaphysic moral philosophy astronomy geography institutions french academy berlin academy known principle least action precursor transmutation influences leibniz newton descartes malebranche harvey berkeley aristoteles seneca influenced euler buffon diderot kant pierre louis moreau de maupertuis french [mopɛʁtɥi] 1698 27 july 1759 french mathematician philosopher man letters
+became director académie des sciences first president prussian academy science invitation frederick great
+maupertuis made expedition lapland determine shape earth
+often credited having invented principle least action version known maupertuis' principle integral equation determines path followed physical system
+work natural history interesting relation modern science since touched aspects heredity struggle life
+contents biography 2 evolution 3 least action principle 3
+relation kant 4 main works 4
+honours 5 notes 6 references 7 further reading external links biography maupertuis born saint-malo france moderately wealthy family merchant-corsairs
+father renė involved number enterprises central monarchy thrived socially politically
+son educated mathematics private tutor nicolas guisnée upon completing formal education father secured largely honorific cavalry commission
+after three years cavalry during time became acquainted fashionable social mathematical circles moved paris began building reputation mathematician literary wit
+1723 admitted académie des sciences
+early mathematical work revolved around vis viva controversy maupertuis developed extended work isaac newton whose theories yet widely accepted outside england argued against waning cartesian mechanics
+1730 s shape earth became flashpoint battle among rival systems mechanics
+maupertuis based exposition newton help mentor johan bernoulli predicted earth should oblate while rival jacques cassini measured astronomically prolate
+1736 maupertuis acted chief french geodesic mission sent king louis xv lapland measure length degree arc meridian
+results published book detailing procedures essentially settled controversy favor
+book included adventure narrative expedition account käymäjärvi inscriptions
+return home became member almost scientific societies europe
+maupertuis'opinion cassini'sopinion after lapland expedition maupertuis set generalizing earlier mathematical work proposing principle least action metaphysical principle underlies laws mechanics
+also expanded biological realm anonymously publishing book part popular science part philosophy part erotica vénus physique
+work maupertuis proposed theory generation
+reproduction organic matter possessed self-organizing “intelligence” analogous contemporary chemical concept affinities widely read commented upon favorably georges-louis leclerc comte de buffon
+later developed views living things further formal pseudonymous work explored heredity collecting evidence confirmed contributions both sexes treated variations statistical phenomena
+1740 maupertuis went berlin invitation frederick ii prussia took part battle mollwitz taken prisoner austrians
+release returned berlin thence paris elected director academy sciences 1742 following year admitted académie française
+returning berlin 1744 again desire frederick ii chosen president royal prussian academy sciences 1746 controlled help leonhard euler until death
+position became extremely awkward outbreak seven years' war home country patron's reputation suffered both paris berlin
+finding health declining retired 1757 south france went 1758 basel died year later
+maupertuis' difficult disposition involved constant quarrels controversies samuel könig voltaire during latter part life examples
+brilliance much undermined tendency leave work unfinished failure realise own potential
+insight genius led least-action principle lack intellectual energy rigour prevented giving mathematical foundation lagrange provide
+reveals remarkable powers perception heredity understanding mechanism species developed even immunology no fully elaborated theory
+philosophical work most enthralling bold exciting well argued
+evolution historians science point work biology significant precursor development evolutionary theory specifically theory natural selection
+other writers contend remarks cursory vague incidental particular argument
+mayr's verdict neither evolutionist nor founders theory natural selection [but] pioneers genetics
+maupertuis espoused theory pangenesis postulating particles both mother father responsible characters child
+bowler credits studies heredity natural origin human races idea forms life may changed time
+maupertuis strong critic natural theologians pointing phenomena incompatible concept good wise creator
+also first consider animals terms variable populations opposition natural history tradition emphasized description individual specimens
+difficulty interpreting maupertius gauged reading original works
+below translation vénus physique followed original french passage say fortuitous combinations productions nature there must characterized certain relation fitness able subsist wondered fitness present species currently existence? chance say produced innumerable multitude individuals small number found themselves constructed such manner parts animal able satisfy needs another infinitely greater number there neither fitness nor order these latter perished
+animals lacking mouth live others lacking reproductive organs perpetuate themselves
+species see today smallest part blind destiny produced
+— ne pourrait-on pas dire que dans combinaison fortuite des productions de nature comme il n'y avait que celles où se trouvaient certain rapport de convenance qui puissent subsister il n'est pas marveilleux que cette convenance se trouve dans toutes les espèces qui existent actuellement? le hasard dirait-on avait produit une multitude innombrable d'individus un petit nombre se trouvait construit de manière que les parties de l'animal pouvaient satisfaire à ses besoins dans un autre infiniment plus grand il n'y avait ni convenance ni ordre tous ces derniers ont péri des animaux sans bouche ne pouvaient pas vivre d'autres qui manquaient d'organes pour génération ne pouvaient se perpétuer
+les espèces que nous voyons aujourd'hui ne sont que plus petite partie de ce qu'un destin aveugle avait produit
+nearly identical argument may found maupertuis' 1746 work les loix du mouvement et du repos déduites d'un principe metaphysique translation derivation laws motion equilibrium metaphysical principle
+king-hele 1963 points similar though identical ideas thirty years later david hume dialogues concerning natural religion 1777
+chief debate maupertuis engaged treated competing theories generation
+preformationism epigenesis
+account life involved spontaneous generation new kinds animals plants together massive elimination deficient forms
+these ideas avoid need creator part modern thinking evolution
+date these speculations 1745 concurrent carl linnaeus's own work predates any firm notion species
+also work genealogy coupled tracing phenotypic characters through lineages foreshadows later work done genetics
+least action principle principle least action states natural phenomena quantity called ‘action’ tends minimized
+maupertuis developed such principle over two decades
+action expressed mathematically product mass body involved distance traveled velocity traveling
+1741 gave paper paris academy sciences loi du repos des corps law bodies rest
+showed system bodies rest tends reach position any change create smallest possible change quantity argued assimilated action
+1744 another paper paris academy gave accord de plusieurs lois naturelles qui avaient paru jusqu’ici incompatibles agreement several natural laws hitherto seemed incompatible show behaviour light during refraction bends entering new medium such total path followed point first medium point second minimised quantity again assimilated action
+finally 1746 gave further paper loix du mouvement et du repos laws movement rest time berlin academy sciences showed point masses also minimise action
+point masses bodies treated purposes analysis being certain amount matter mass concentrated single point
+major debate early part eighteenth century concerned behaviour such bodies collisions
+cartesian newtonian physicists argued their collisions point masses conserved both momentum relative velocity
+leibnizians other hand argued also conserved called live force vis viva
+unacceptable their opponents two reasons first live force conservation apply so-called ‘hard’ bodies bodies totally incompressible whereas other two conservation principles second live force defined product mass square velocity
+why velocity appear twice quantity squaring suggests? leibnizians argued simple enough there natural tendency matter towards motion even rest there inherent velocity bodies begin move there second velocity term corresponding their actual motion
+anathema cartesians newtonians
+inherent tendency towards motion ‘occult quality’ kind favoured mediaeval scholastics resisted costs
+today course concept ‘hard’ body rejected
+mass times square velocity just twice kinetic energy modern mechanics reserves major role inheritor quantity ‘live force’
+maupertuis however important retain concept hard body
+beauty principle least action applied just well hard elastic bodies
+since shown principle also applied systems bodies rest light seemed truly universal
+final stage argument came maupertuis set out interpret principle cosmological terms
+‘least action’ sounds like economy principle roughly equivalent idea economy effort daily life
+universal principle economy effort seem display working wisdom very construction universe
+seems maupertuis’s view powerful argument existence infinitely wise creator any other advanced
+published thinking these matters essai de cosmologie essay cosmology 1750
+shows major arguments advanced prove god wonders nature apparent regularity universe open objection wonder there existence certain particularly repulsive insects regularity there observation planets turn nearly same plane exactly same plane might striking 'nearly same plane' far less convincing
+universal principle wisdom provides undeniable proof shaping universe wise creator
+hence principle least action just culmination maupertuis’s work several areas physics sees most important achievement philosophy too giving incontrovertible proof god
+flaws reasoning principally there no obvious reason why product mass velocity distance should particularly viewed corresponding action even less reason why minimisation should ‘economy’ principle like minimisation effort
+indeed product mass velocity distance mathematically equivalent integral live force over time
+leibniz already shown quantity likely either minimised maximised natural phenomena
+minimising quantity conceivably demonstrate economy how maximising it? see also corresponding principles stationary actions lagrange hamilton
+relation kant arthur schopenhauer suggested immanuel kant's most important brilliant doctrine - contained critique pure reason 1781 - asserted maupertuis say find kant's most important brilliant doctrine ideality space merely phenomenal existence corporeal world expressed already thirty years previously maupertuis?
+maupertuis expresses paradoxical doctrine decidedly yet without addition proof must supposed also obtained somewhere else
+— world will representation vol
+ii ch
+iv main works lettres sur figure de terre 1738 discours sur parallaxe de lune 1741 discours sur figure des astres 1742 eléments de géographie 1742 lettre sur comète de 1742 1742 accord de différentes loix de nature qui avoient jusqu’ici paru incompatibles 1744 english translation vénus physique 1745 astronomie nautique 1745 1746 les loix du mouvement et du repos déduites d'un principe metaphysique 1746 english translation essai de philosophie morale 1749
+essai de cosmologie 1750
+honours crater maupertuis moon named after asteroid 3281 maupertuis
+notes article includes list references sources remain unclear because insufficient inline citations
+please help improve article introducing precise citations
+january 2014 city archives saint-malo baptism date given 28 september 1698
+actual birth date unknown
+& shank 2008 p
+terrall mary 2002
+man flattened earth
+university chicago press
+retrieved 14 june 2015
+terrall 2002
+beeson 1992
+maupertuis intellectual biography
+bently glass maupertius pioneer genetics evolution glass
+temkin o
+& straus w
+jr 1959
+forerunners darwin 1745–1859
+p51–83 mayr ernst
+growth biological thought
+p328 p646
+bowler peter j
+evolution history idea
+berkeley ca
+p73–75 fitness read having precision modern technical term fitness population genetics
+maupertuis venus physique earthly venus
+retrieved january 2014
+roger jacques 1963
+les sciences de vie dans pensée francaise du xviie et xviiie sicle
+armand paris
+schmadel lutz
+international astronomical union 2003
+dictionary minor planet names
+berlin new york springer-verlag
+retrieved 9 september 2011
+references article incorporates text publication now public domain chisholm hugh ed
+maupertuis pierre louis moreau de
+encyclopædia britannica th ed
+cambridge university press
+further reading wikimedia commons media related maupertuis
+wikisource original works written pierre louis moreau de maupertuis wikiquote quotations related pierre louis maupertuis lancaster h o may 1995
+mathematicians medicine biology
+genetics before mendel maupertuis réaumur
+journal medical biography 3 2 84–9
+pmid 11640042
+sandler 1983
+pierre louis moreau de maupertuis - precursor mendel
+journal history biology 16 101–36
+pmid 11611246
+hoffheimer m h 1982
+maupertuis eighteenth-century critique preexistence
+journal history biology 15 119–44
+pmid 11615887
+shank j
+newton wars
+u chicago press
+terrall mary 2002
+man flattened earth maupertuis sciences enlightenment
+external links o'connor john j
+robertson edmund f
+pierre louis maupertuis mac tutor history mathematics archive university st andrews
+nineteenth century account maupertius principle least action vte académie française seat claude de malleville 1634 jean ballesdens 1648 géraud de cordemoy 1675 jean-louis bergeret 1684 charles-irénée castel de saint-pierre 1694 pierre louis maupertuis 1743 jean-jacques lefranc marquis de pompignan 1759 jean-sifrein maury 1784 michel-louis-étienne regnaud de saint-jean d'angély 1803 pierre-simon laplace 1816 pierre paul royer-collard 1827 charles de rémusat 1846 jules simon 1875 adrien albert marie de mun 1897 alfred-henri-marie baudrillart 1918 octave aubry 1946 édouard herriot 1946 jean rostand 1959 michel déon 1978 authority control world cat identities viaf 95152459 lccn n81043717 isni 0000 0001 2321 3314 gnd 118731998 selibr 214395 sudoc 027018512 bnf cb11915229 j data bpn 09817263 hds 41462 nla 35713480

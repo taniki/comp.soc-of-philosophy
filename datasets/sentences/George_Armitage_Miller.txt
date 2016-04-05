@@ -1,0 +1,623 @@
+george armitage miller born 1920-02-03 february 3 1920 charleston west virginia died july 20122012-07-22 aged 92 plainsboro new jersey nationality american fields psychology cognitive science institutions princeton university harvard university massachusetts institute technology rockefeller university oxford university university alabama american psychological association alma mater harvard university university alabama thesis optimal design jamming signals 1946 doctoral advisor stanley smith stevens notable students george sperling ulric neisser known contributions cognitive psychology science magical number seven plus minus two directing word net notable awards national medal science louis e
+levy medal george armitage miller february 3 1920 july founders cognitive psychology field
+also contributed birth psycholinguistics cognitive science general
+miller several books directed development word net online word-linkage database usable computer programs
+authored paper magical number seven plus minus two insightfully observed many different experimental findings considered together reveal presence average limit seven human short-term memory capacity
+paper frequently cited both psychology wider culture
+also won awards such national medal science
+miller started education focusing speech language published papers these topics focusing mathematical computational psychological aspects field
+started career time reigning theory psychology behaviorism eschewed any attempt study mental processes focused observable behavior
+working mostly harvard university mit princeton university miller introduced experimental techniques study psychology mental processes linking new field cognitive psychology broader area cognitive science including computation theory linguistics
+collaborated co-authored work other figures cognitive science psycholinguistics such noam chomsky
+moving psychology realm mental processes aligning move information theory computation theory linguistics miller considered great twentieth-century psychologists
+review general psychology survey published 2002 ranked miller 20 th most cited psychologist era
+contents biography
+2 death 2 major contributions 2
+working memory 2
+2 word net 2
+3 language psychology computation 3 books 3
+language communication 1951 3
+2 plans structure behavior 1960 3
+3 psychology communication 1967 4 legacy 5 awards 6 list miller's books 6
+chapters books 7 references external links biography miller born february 3 1920 charleston west virginia son executive steel company george e
+miller florence armitage miller
+soon after parents divorced
+grew up mother during great depression attended public school graduated charleston high school 1937
+relocated mother stepfather washington
+george washington university year
+family practiced christian science required turning prayer rather medical science healing
+after stepfather transferred birmingham alabama miller transferred university alabama
+received bachelor's degree history speech 1940 master's speech 1941 university alabama
+taken courses phonetics voice science speech pathology
+membership drama club fostered interest courses speech department
+also influenced professor donald ramsdell introduced both psychology indirectly through seminar future wife katherine james
+married november 29 1939
+katherine died january 1996
+married margaret ferguson skutch page 2008
+miller taught course introduction psychology alabama two years
+enrolled ph
+program psychology harvard university 1943 after coming university 1942
+received doctorate 1946 harvard's psycho-acoustic laboratory under supervision stanley smith stevens researching military voice communications army signal corps during world war ii
+doctorate thesis optimal design jamming signals classified top secret us army
+career after receiving doctorate miller stayed research fellow harvard continue research speech hearing
+appointed assistant professor psychology 1948
+course developed language communication eventually lead first major book language communication 1951
+took sabbatical 1950 spent year visiting fellow institute advanced study princeton pursue interest mathematics
+miller befriended j
+robert oppenheimer whom played squash
+1951 miller joined mit associate professor psychology
+led psychology group mit lincoln lab
+worked voice communication human engineering whereupon identified minimal voice features speech required intelligible
+based work 1955 invited talk eastern psychological association
+presentation magical number seven plus minus two later published paper went legendary cognitive psychology
+miller moved back harvard tenured associate professor 1955 became full professor 1958 expanding research how language affects human cognition
+university met young noam chomsky another founders cognitive science
+spent summer together stanford training faculty their two families shared house
+1958–59 miller took leave join center advanced study behavioral sciences palo alto california now stanford university
+there collaborated eugene galanter karl pribram book plans structure behavior
+1960 along jerome s
+bruner co-founded center cognitive sciences harvard
+cognitive term break then-dominant school behaviorism insisted cognition fit scientific study
+center attracted such notable visitors jean piaget alexander luria chomsky
+miller then became chair psychology department
+miller instrumental time recruiting timothy leary teach harvard
+miller knew leary university alabama miller teaching psychology leary graduated undergraduate degree department
+1967 miller taught rockefeller university year visiting professor 1968 1979 professor rockefeller university continued adjunct professor there 1979-1982
+new president's selection rockefeller made leave
+moved princeton university 1979 james s
+mc donnell distinguished university professor psychology
+1986 helped founding cognitive science laboratory princeton
+eventually became professor emeritus senior research psychologist princeton
+also directed mc donnell-pew program cognitive science
+miller honorary doctorates university sussex 1984 columbia university 1980 yale university 1979 catholic university louvain 1978 carnegie mellon university humane letters 2003 honorary dsc williams college 2000
+elected american academy arts sciences 1957 national academy sciences 1962 presidency eastern psychological association 1962 presidency american psychological association 1969 royal netherlands academy arts sciences 1985
+miller keynote speaker first convention association psychological science 1989
+fulbright research fellow oxford university 1964–65 received national medal science
+death later years miller enjoyed playing golf
+died home plainsboro new jersey complications pneumonia dementia
+time death survived wife margaret children first marriage son donnally james daughter nancy saunders two stepsons david skutch christopher skutch three grandchildren gavin murray-miller morgan murray-miller nathaniel james miller
+major contributions miller's career started during reign behaviorism psychology
+behaviorists questioned whether mental thought processes fit scientific study being observable
+focused working responses stimuli particularly among other animals
+miller disagreed
+jerome bruner noam chomsky considered founders field cognitive psychology replaced behaviorism framework analyzing mind
+working memory days william james psychologists idea memory consisted short-term long-term memory
+while short-term memory expected limited exact limits known
+1956 miller quantify capacity limit paper magical number seven plus minus two
+tested immediate memory via tasks such asking person repeat set digits presented absolute judgment presenting stimulus label asking them recall label later span attention asking them count things group few items quickly
+three cases miller found average limit seven items
+mixed feelings focus work exact number seven quantifying short-term memory felt misquoted often
+stated introducing paper research first time being persecuted integer
+miller also found humans remembered chunks information interrelating bits using scheme limit applied chunks
+miller himself saw no relationship among disparate tasks immediate memory absolute judgment lumped them fill one-hour presentation
+results influenced budding field cognitive psychology
+word net many years starting 1986 miller directed development word net large computer-readable electronic reference usable applications such search engines
+wordnet large lexical database representing human semantic memory english
+fundamental building block synset collection synonyms representing concept idea
+words multiple synsets
+entire class synsets grouped nouns verbs adjectives adverbs separately links existing within these four major groups them
+going beyond thesaurus word net also includes inter-word relationships such part/whole relationships hierarchies inclusion
+although intended dictionary wordnet many short definitions added time went
+miller colleagues planned tool test psycholinguistic theories how humans use understand words
+miller also later worked closely developers simpli
+com inc
+meaning-based keyword search engine based word net
+wordnet proved extremely influential international scale
+now emulated wordnets many different languages
+language psychology computation miller considered founders psycholinguistics links language cognition psychology analyze how people use create language
+1951 book language communication considered seminal field
+later book science words also focused language psychology
+published papers along noam chomsky mathematics computational aspects language syntax two new areas study
+miller also researched how people understood words sentences same problem faced artificial speech-recognition technology
+book plans structure behavior 1960 written eugene galanter karl h
+pribram explored how humans plan act trying extrapolate how robot programmed plan things
+miller also known coining miller's law order understand another person saying you must assume true try imagine true
+books miller authored several books many considered first major works their respective fields
+language communication 1951 miller's language communication first significant texts study language behavior
+book scientific study language emphasizing quantitative data based mathematical model claude shannon's information theory
+used probabilistic model imposed learning-by-association scheme borrowed behaviorism miller yet attached pure cognitive perspective
+first part book reviewed information theory physiology acoustics phonetics speech recognition comprehension statistical techniques analyze language
+focus speech generation recognition
+second part psychology idiosyncratic differences across people language use developmental linguistics structure word associations people use symbolism language social aspects language use
+reviewing book charles e
+osgood classified book graduate-level text based objective facts theoretical constructs
+thought book verbose topics too brief others directly related author's expertise area
+also critical miller's use simple skinnerian single-stage stimulus-response learning explain human language acquisition use
+approach per osgood made impossible analyze concept meaning idea language consisting representational signs
+find book objective emphasis facts over theory depicting clearly application information theory psychology
+plans structure behavior 1960 plans structure behavior miller co-authors tried explain through artificial-intelligence computational perspective how animals plan act
+radical break behaviorism explained behavior set sequence stimulus-response actions
+authors introduced planning element controlling such actions
+saw plans being executed based input using stored inherited information environment called image using strategy called test-operate-test-exit tote
+image essentially stored memory past context akin tolman's cognitive map
+tote strategy initial test phase compared input against image there incongruity operate function attempted reduce
+cycle repeated till incongruity vanished then exit function invoked passing control another tote unit hierarchically arranged scheme
+peter milner review canadian journal psychology noted book short concrete details implementing tote strategy
+also critically viewed book being able tie model details neurophysiology molecular level
+per book covered brain gross level lesion studies showing regions possibly implement tote strategies without giving reader indication how region implement strategy
+psychology communication 1967 miller's 1967 work psychology communication collection seven previously published articles
+first information memory dealt chunking presenting idea separating physical length number items presented learned psychological length number ideas recipient manages categorize summarize items
+capacity short-term memory measured units psychological length arguing against pure behaviorist interpretation since meaning items beyond reinforcement punishment central psychological length
+second essay paper magical number seven
+third 'the human link communication systems' used information theory idea channel capacity analyze human perception bandwidth
+essay concluded how much impinges us absorb knowledge limited each property stimulus handful items
+paper psycholinguists described how effort both speaking understanding sentence related how much self-reference similar-structures-present-inside there sentence broken down clauses phrases
+book general used chomskian view seeing language rules grammar having biological basis—disproving simple behaviorist idea language performance improved reinforcement—and using tools information computation place hypotheses sound theoretical framework analyze data practically efficiently
+miller specifically addressed experimental data refuting behaviorist framework concept level field language cognition
+noted qualified behaviorism level cognition overthrow other spheres psychology
+legacy cognitive neuroscience society established george
+miller prize 1995 contributions field
+american psychological association established george
+miller award 1995 outstanding article general psychology
+1987 department psychology princeton university presented george
+miller prize annually best interdisciplinary senior thesis cognitive science
+paper magical number seven continues cited both popular press explain liking seven-digit phone numbers argue against nine-digit zip codes academia especially modern psychology highlight break behaviorist paradigm
+miller considered 20 th most eminent psychologist 20 th century list republished among others american psychological association
+awards distinguished scientific contribution award american psychological association apa 1963
+distinguished service award american speech hearing association 1976
+award behavioral sciences new york academy sciences 1982
+guggenheim fellow 1986
+william james fellow american psychological society 1989
+hermann von helmholtz award cognitive neurosciences institute 1989
+gold medal american psychological foundation 1990
+national medal science white house
+louis e
+levy medal franklin institute
+international prize fyssen foundation 1992
+william james book award apa division general psychology 1993
+john p
+mc govern award american association advancement science 2000
+outstanding lifetime contribution psychology award apa 2003
+antonio zampolli prize european languages research association 2006
+list miller's books — 1963
+language communication
+mc graw hill
+asin b000 srsoik
+— 1965
+mathematics psychology perspectives psychology
+john wiley & sons
+frank smith & george
+miller eds
+genesis language psycholinguistic approach proceedings conference language development children
+mit press
+frank smith & george miller 1968
+genesis language psycholinguistic approach
+mit press
+miller ed
+communication language meaning perspectives psychology
+basic books
+— 1974
+linguistic communication perspectives research
+international reading association
+— 1975
+psychology communication
+harper androw-1975
+miller & philip n johnson-laird 1976
+language perception
+harvard university press
+morris halle joan bresnan & george
+miller eds
+linguistic theory psychological reality
+mit press
+miller & elizabeth lenneberg eds
+psychology biology language thought essays honor eric lenneberg
+academic press
+oscar grusky & george
+miller eds
+sociology organizations 2 ed
+free press
+ned joel block jerrold j
+katz george
+miller eds
+readings philosophy psychology volume ii
+harvard university press
+miller eugene galanter & karl h
+pribram 1986
+plans structure behavior
+adams bannister cox pubs
+— 1987
+spontaneous apprentices children language tree life
+seabury press
+— 1987
+language speech
+w h freeman & co sd
+psychology science mental life
+penguin books ltd
+science words
+w h freeman & co
+chapters books miller george
+galanter eugene 1960 comments stochastic models psychological theories arrow kenneth j
+karlin samuel suppes patrick mathematical models social sciences 1959 proceedings first stanford symposium stanford mathematical studies social sciences iv stanford california stanford university press pp
+277–297 9780804700214
+references c e f g h paul vitello august
+miller pioneer cognitive psychology dead 92
+new york times
+retrieved august
+haggbloom steven j
+warnick jason e
+jones vinessa k
+yarbrough gary l
+russell tenea m
+borecky chris m
+mc gahhey reagan et al
+100 most eminent psychologists 20 th century
+review general psychology 6 2 139–152
+cs1 maint explicit use et al
+link c e f g h j k l m n o p q profie details george armitage miller
+marquis who's
+retrieved august 7
+c e f g h j k l m n no authorship indicated
+gold medal awards life achievement george armitage miller
+american psychologist 46 4 326
+1037/0003-066 x
+c e thomas m
+haugh ii august 6
+miller dies 92 pioneer cognitive psychology
+los angeles times
+retrieved august
+emily langer august 3
+miller helped transform study psychology 92
+washington post
+retrieved august
+robert oppenheimer life
+oxford university press
+c richard hébert july 2006
+miller's tale
+american psychological society
+retrieved august 10
+lindzey g
+history psychology autobiography
+stanford university press
+preeminent leaders awarded honorary degrees
+carnegie mellon university carnegie mellon today
+may 13 2003
+retrieved august 23
+honorary degrees
+williams university office president
+retrieved august 23
+c e f michael hotchkiss july
+george miller princeton psychology professor cognitive pioneer dies
+retrieved august 10
+'george' miller 1920 -
+royal netherlands academy arts sciences
+retrieved 17 july 2015
+history aps timeline
+association psychological science
+retrieved august
+cowan n
+morey c
+chen z
+legend magical number seven
+sergio della sala
+tall tales brain separating fact fiction pdf
+oxford university press
+978-0-19-856877-3 daniel shiffman
+daniel shiffman word net
+retrieved august 10
+sampson geoffrey 2000
+international journal lexicography 13 54
+beyond keyword searching
+oingo simpli
+com introduce meaning-based searching
+december 20 1999
+retrieved august 10
+encyclopedia britannica
+retrieved august
+chomsky george
+miller 1957
+pattern conception technical report
+document ad110076
+noam chomsky george
+miller 1958
+finite state languages pdf
+control 91–112
+chomsky george
+miller 1962
+introduction formal analysis natural languages
+bush e
+galanter r
+handbook mathematical psychology 2
+robert j
+banis september 2007
+ba 3320
+introduction operations management
+retrieved august 10
+c osgood c
+language communication
+psychological bulletin 49 4 361
+smith s
+language communication
+journal abnormal social psychology 47 3 734–735
+c milner p
+review plans structure behavior
+canadian journal psychology 14 4 281
+c 1960
+plans structure behavior review
+american anthropologist 62 6 1065–1067
+02 a00190
+c bunge mario 1968
+reviews george
+miller psychology communication
+british journal philosophy science 18 4 350
+miller psychology communication seven essays review
+journal business communication 5 2 54–55
+miller prize cognitive neuroscience
+cognitive neuroscience society
+retrieved august 10
+miller award outstanding recent article general psychology
+american psychological association
+retrieved august 10
+miller sr
+thesis prize
+department psychology princeton university
+retrieved august 10
+haggbloom s
+warnick jason e
+jones vinessa k
+yarbrough gary l
+russell tenea m
+borecky chris m
+mc gahhey reagan et al
+100 most eminent psychologists 20 th century
+review general psychology 6 2 139
+cs1 maint explicit use et al
+link sidebar eminent psychologists 20 th century
+monitor psychology 33 7 29
+lrec 2006 conference winners 2006 antonio zampolli prize
+retrieved august 10
+external links 2007 discussion cognitive revolution chomsky bruner pinker others part 2007 discussion cognitive revolution chomsky bruner pinker others part ii 2007 discussion cognitive revolution chomsky bruner pinker others part iii 2007 discussion cognitive revolution chomsky bruner pinker others part iv classics history psychology seven plus/minus two paper bio kurtzweil
+net old faculty page communication language meaning edited miller blog links discussions seven-plus-minus-two paper neurotree miller's academic genealogy george
+miller library congress authorities catalog records educational offices preceded abraham maslow 78 th president american psychological association1969-70 succeeded george w
+albee vte psychology history portal psychologist basic psychology abnormal affective science affective neuroscience behaviorism behavioral neuroscience cognitive cognitive neuroscience comparative cross-cultural cultural developmental differential evolutionary experimental intelligence mathematical neuropsychology personality psycholinguistics psychophysics psychophysiology social theoretical applied psychology anomalistic applied behavior analysis assessment clinical community consumer counseling educational ergonomics feminist forensic health industrial organizational legal media military music occupational health pastoral political psychometrics religion school sport exercise suicidology systems traffic methodologies animal testing archival research behavior genetics behavior epigenetics case study content analysis experiments human subject research interviews mindfulness neuroimaging observation qualitative research quantitative research self-report inventory statistical surveys orientations adlerian analytical behaviorism cognitive behavioral therapy cognitivism descriptive ecological systems theory emotionally focused therapy existential therapy family therapy feminist therapy gestalt psychology humanistic logotherapy narrative therapy philosophy psychoanalysis psychoanalytic theory psychodrama psychodynamic psychotherapy rational emotive behavior therapy transpersonal psychologists alfred adler gordon allport albert bandura aaron t
+beck john bowlby raymond cattell kenneth mamie clark albert ellis erik erikson hans eysenck leon festinger viktor frankl sigmund freud harry harlow donald o
+hebb clark l
+hull william james carl jung jerome kagan daniel kahneman kurt lewin ole ivar lovaas abraham maslow david mc clelland george armitage miller neal e
+miller walter mischel jacob levy moreno ivan pavlov jean piaget carl rogers stanley schachter
+skinner edward thorndike john
+watson wilhelm wundt lists counseling topics disciplines important publications organizations outline psychologists psychotherapies research methods schools thought timeline topics wiktionary definition wiktionary category wikisource wikimedia commons wikiquote wikinews wikibooks vte united states national medal science laureates behavioral social science1960 s 1964 roger adams othmar h
+ammann theodosius dobzhansky neal elgar miller 1980 s 1986 herbert
+simon 1987 anne anastasi george j
+stigler 1988 milton friedman 1990 s 1990 leonid hurwicz patrick suppes robert w
+kates george
+miller 1992 eleanor j
+gibson 1994 robert k
+merton 1995 roger n
+shepard 1996 paul samuelson 1997 william k
+estes 1998 william julius wilson 1999 robert m
+solow 2000 s 2000 gary becker 2001 george bass 2003 r
+duncan luce 2004 kenneth arrow 2005 gordon h
+bower 2008 michael
+posner 2009 mortimer mishkin 2010 s 2011 anne treisman 2014 robert axelrod biological sciences1960 s 1963 c
+van niel 1964 marshall w
+nirenberg 1965 francis p
+rous george g
+simpson donald
+van slyke 1966 edward f
+knipling fritz albert lipmann william c
+rose sewall wright 1967 kenneth s
+cole harry f
+harlow michael heidelberger alfred h
+sturtevant 1968 horace barker bernard
+brodie detlev w
+bronk jay lush burrhus frederic skinner 1969 robert huebner ernst mayr 1970 s 1970 barbara mc clintock albert
+sabin 1973 daniel
+arnon earl w
+sutherland jr
+1974 britton chance erwin chargaff james v
+neel james augustine shannon 1975 hallowell davis paul gyorgy sterling
+hendricks orville lvin vogel 1976 roger guillemin keith roberts porter efraim racker e
+wilson 1979 robert h
+burris elizabeth c
+crosby arthur kornberg severo ochoa earl reece stadtman george ledyard stebbins paul alfred weiss 1980 s 1981 philip handler 1982 seymour benzer glenn w
+burton mildred cohn 1983 howard l
+bachrach paul berg wendell l
+roelofs berta scharrer 1986 stanley cohen donald
+henderson vernon
+mountcastle george emil palade joan
+steitz 1987 michael e
+de bakey theodor o
+diener harry eagle har gobind khorana rita levi-montalcini 1988 michael s
+brown stanley norman cohen joseph l
+goldstein maurice r
+hilleman eric r
+kandel rosalyn sussman yalow 1989 katherine esau viktor hamburger philip leder joshua lederberg roger w
+sperry harland g
+wood 1990 s 1990 baruj benacerraf herbert w
+boyer daniel e
+koshland jr
+lewis david g
+nathan e
+donnall thomas mary ellen avery g
+evelyn hutchinson elvin
+kabat salvador luria paul
+marks folke k
+skoog paul c
+zamecnik 1992 maxine singer howard martin temin 1993 daniel nathans salome g
+waelsch 1994 thomas eisner elizabeth f
+neufeld 1995 alexander rich 1996 ruth patrick 1997 james watson robert
+weinberg 1998 bruce ames janet rowley 1999 david baltimore jared diamond lynn margulis 2000 s 2000 nancy c
+andreasen peter h
+raven carl woese 2001 francisco j
+ayala mario r
+capecchi ann graybiel gene e
+likens victor
+mc kusick harold varmus 2002 james e
+darnell evelyn m
+witkin 2003 j
+michael bishop solomon h
+snyder charles yanofsky 2004 norman e
+borlaug phillip
+sharp thomas e
+starzl 2005 anthony s
+fauci torsten n
+wiesel 2006 rita r
+colwell nina fedoroff lubert stryer 2007 robert j
+lefkowitz bert w
+o'malley 2008 francis s
+collins elaine fuchs j
+craig venter 2009 susan l
+lindquist stanley
+prusiner 2010 s 2010 ralph l
+brinster shu chien rudolf jaenisch 2011 lucy shapiro leroy hood sallie chisholm 2014 may berenbaum bruce alberts chemistry1980 s 1982 f
+albert cotton gilbert stork 1983 roald hoffmann george c
+pimentel richard n
+zare 1986 harry
+gray yuan tseh lee carl s
+marvel frank h
+westheimer 1987 william s
+johnson walter h
+stockmayer max tishler 1988 william o
+baker konrad e
+bloch elias j
+corey 1989 richard
+bernstein melvin calvin rudolph
+marcus harden m
+mc connell 1990 s 1990 elkan blout karl folkers john
+roberts ronald breslow gertrude
+elion dudley r
+herschbach glenn t
+seaborg 1992 howard e
+simmons jr
+1993 donald j
+cram norman hackerman 1994 george s
+hammond 1995 thomas cech isabella l
+karle 1996 norman davidson 1997 darleane c
+hoffman harold s
+johnston 1998 john w
+cahn george m
+whitesides 1999 stuart
+rice john ross susan solomon 2000 s 2000 john
+baldeschwieler ralph f
+hirschmann 2001 ernest r
+davidson gábor
+somorjai 2002 john
+brauman 2004 stephen j
+lippard 2006 marvin h
+caruthers peter
+dervan 2007 mostafa
+el-sayed 2008 joanna fowler jo anne stubbe 2009 stephen j
+benkovic marye anne fox 2010 s 2010 jacqueline k
+barton peter j
+stang 2011 allen j
+bard m
+frederick hawthorne 2014 judith p
+klinman jerrold meinwald 2015 geraldine l
+richmond engineering sciences1960 s 1962 theodore von kármán 1963 vannevar bush john robinson pierce 1964 charles s
+draper 1965 hugh l
+dryden clarence l
+johnson warren k
+lewis 1966 claude e
+shannon 1967 edwin h
+land igor
+sikorsky 1968 j
+presper eckert nathan m
+newmark 1969 jack st
+clair kilby 1970 s 1970 george e
+mueller 1973 harold e
+edgerton richard t
+whitcomb 1974 rudolf kompfner ralph brazelton peck abel wolman 1975 manson benedict william hayward pickering frederick e
+terman wernher von braun 1976 morris cohen peter c
+goldmark erwin wilhelm müller 1979 emmett n
+leith raymond
+mindlin robert n
+noyce earl r
+parker simon ramo 1980 s 1982 edward h
+heinemann donald l
+katz 1983 william redington hewlett george m
+low john g
+trump 1986 hans wolfgang liepmann t
+lin bernard m
+oliver 1987 r
+byron bird h
+bolton seed ernst weber 1988 daniel c
+drucker willis m
+hawkins george w
+housner 1989 harry george drickamer herbert e
+grier 1990 s 1990 mildred dresselhaus nick holonyak jr
+george h
+heilmeier luna
+leopold h
+guyford stever 1992 calvin f
+quate john roy whinnery 1993 alfred
+cho 1994 ray w
+clough 1995 hermann
+haus 1996 james l
+flanagan c
+kumar n
+patel 1998 eli ruckenstein 1999 kenneth n
+stevens 2000 s 2000 yuan-cheng
+fung 2001 andreas acrivos 2002 leo beranek 2003 john m
+prausnitz 2004 edwin n
+lightfoot 2005 jan
+achenbach tobin j
+marks 2006 robert s
+langer 2007 david j
+wineland 2008 rudolf e
+kálmán 2009 amnon yariv 2010 s 2011 sidney drell sandra faber sylvester james gates john goodenough mathematical statistical computer sciences1960 s 1963 norbert wiener 1964 solomon lefschetz h
+marston morse 1965 oscar zariski 1966 john milnor 1967 paul cohen 1968 jerzy neyman 1969 william feller 1970 s 1970 richard brauer 1973 john tukey 1974 kurt gödel 1975 john w
+backus shiing-shen chern george dantzig 1976 kurt otto friedrichs hassler whitney 1979 joseph l
+doob donald e
+knuth 1980 s 1982 marshall harvey stone 1983 herman goldstine isadore singer 1986 peter lax antoni zygmund 1987 raoul bott michael freedman 1988 ralph e
+gomory joseph
+keller 1989 samuel karlin saunders mac lane donald c
+spencer 1990 s 1990 george f
+carrier stephen cole kleene john mc carthy alberto calderón 1992 allen newell 1993 martin david kruskal 1994 john cocke 1995 louis nirenberg 1996 richard karp stephen smale 1997 shing-tung yau 1998 cathleen synge morawetz 1999 felix browder ronald r
+coifman 2000 s 2000 john griggs thompson karen k
+uhlenbeck 2001 calyampudi r
+rao elias m
+stein 2002 james g
+glimm 2003 carl r
+de boor 2004 dennis p
+sullivan 2005 bradley efron 2006 hyman bass 2007 leonard kleinrock andrew j
+viterbi 2009 david
+mumford 2010 s 2010 richard
+tapia s
+srinivasa varadhan 2011 solomon golomb barry mazur 2014 alexandre chorin thomas kailath david blackwell physical sciences1960 s 1963 luis w
+alvarez 1964 julian schwinger harold clayton urey robert burns woodward 1965 john bardeen peter debye leon m
+lederman william rubey 1966 jacob bjerknes subrahmanyan chandrasekhar henry eyring john h
+van vleck vladimir k
+zworykin 1967 jesse beams francis birch gregory breit louis hammett george kistiakowsky 1968 paul bartlett herbert friedman lars onsager eugene wigner 1969 herbert c
+brown wolfgang panofsky 1970 s 1970 robert h
+dicke allan r
+sandage john c
+slater john
+wheeler saul winstein 1973 carl djerassi maurice ewing arie jan haagen-smit vladimir haensel frederick seitz robert rathbun wilson 1974 nicolaas bloembergen paul flory william alfred fowler linus carl pauling kenneth sanborn pitzer 1975 hans
+bethe joseph o
+hirschfelder lewis sarett edgar bright wilson chien-shiung wu 1976 samuel goudsmit herbert s
+gutowsky frederick rossini verner suomi henry taube george uhlenbeck 1979 richard p
+feynman herman mark edward m
+purcell john sinfelt lyman spitzer victor f
+weisskopf 1980 s 1982 philip w
+anderson yoichiro nambu edward teller charles h
+townes 1983 e
+margaret burbidge maurice goldhaber helmut landsberg walter munk frederick reines bruno
+rossi j
+robert schrieffer 1986 solomon j
+buchsbaum h
+richard crane herman feshbach robert hofstadter chen-ning yang 1987 philip abelson walter elsasser paul c
+lauterbur george pake james
+van allen 1988
+allan bromley paul ching-wu chu walter kohn norman f
+ramsey jack steinberger 1989 arnold o
+beckman eugene parker robert sharp henry stommel 1990 s 1990 allan m
+cormack edwin m
+mc millan robert pound roger revelle arthur l
+schawlow ed stone steven weinberg 1992 eugene m
+shoemaker 1993 val fitch vera rubin 1994 albert overhauser frank press 1995 hans dehmelt peter goldreich 1996 wallace s
+broecker 1997 marshall rosenbluth martin schwarzschild george wetherill 1998 don l
+anderson john n
+bahcall 1999 james cronin leo kadanoff 2000 s 2000 willis e
+lamb jeremiah p
+ostriker gilbert f
+white 2001 marvin l
+cohen raymond davis jr
+charles keeling 2002 richard garwin w
+jason morgan edward witten 2003 g
+brent dalrymple riccardo giacconi 2004 robert n
+clayton 2005 ralph
+alpher lonnie thompson 2006 daniel kleppner 2007 fay ajzenberg-selove charles p
+slichter 2008 berni alder james e
+gunn 2009 yakir aharonov esther m
+conwell warren m
+washington 2010 s 2011 sidney drell 2014 burton richter sean c
+solomon authority control world cat identities viaf 29595505 lccn n50033671 isni 0000 0001 1023 4300 gnd 119063247 sudoc 165874074 bnf cb12282417 r data ndl 00450060

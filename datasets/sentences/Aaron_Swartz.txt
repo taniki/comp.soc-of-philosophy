@@ -1,0 +1,1213 @@
+other people similar names see aaron swartz actor aaron schwartz disambiguation
+aaron swartz aaron swartz creative commons event december 13 2008 born aaron h
+swartz1986-11-08 november 1986 highland park illinois u
+died january 20132013-01-11 aged brooklyn new york u
+cause death suicide hanging alma mater stanford university occupation software developer writer internet activist title fellow harvard university edmond j
+safra center ethics awards american library association's james madison award posthumously eff pioneer award 2013 posthumously internet hall fame 2013 posthumously website aaronsw
+com aaron hillel swartz november 1986 january 2013 american computer programmer entrepreneur writer political organizer internet hacktivist
+involved development web feed format rss markdown publishing format organization creative commons website framework web
+py social news site reddit became partner after merger company infogami
+[i] swartz's work also focused civic awareness activism
+helped launch progressive change campaign committee 2009 learn effective online activism
+2010 became research fellow harvard university's safra research lab institutional corruption directed lawrence lessig
+founded online group demand progress known campaign against stop online piracy act
+january 6 2011 swartz arrested mit police state breaking-and-entering charges after connecting computer mit network unmarked unlocked closet setting download academic journal articles systematically jstor using guest user account issued mit
+federal prosecutors later charged two counts wire fraud eleven violations computer fraud abuse act carrying cumulative maximum penalty $1 million fines 35 years prison asset forfeiture restitution supervised release
+committed suicide while under federal indictment data-theft prosecution characterized family being product criminal-justice system rife intimidation prosecutorial overreach
+swartz declined plea bargain under served six months federal prison
+two days after prosecution rejected counter-offer swartz found dead brooklyn apartment hanged himself
+june 2013 swartz inducted posthumously internet hall fame
+contents life works
+w3 c
+2 markdown
+3 entrepreneurship
+4 activism
+stop online piracy act
+5 wikipedia
+6 tor2 web
+7 open library
+9 wikileaks
+10 dead drop 2 jstor 2
+arrest prosecution 3 death funeral memorial gatherings 3
+death 3
+2 funeral memorial gatherings 4 aftermath 4
+family response criticism 4
+2 press arts 4
+internet’s own boy story aaron swartz 4
+3 killswitch 4
+4 open access 4
+5 hacks 4
+6 mit abelson investigation 4
+7 petition white house 4
+congress 4
+congressional investigations 4
+2 amendment computer fraud abuse act 4
+3 fair access science technology research act 4
+9 commemorations 5 publications 6 notes 7 references further reading 9 documentary video 10 external links life works swartz 2002 lawrence lessig launch party creative commons play media swartz describes nature shift centralized one-to-many systems decentralized many-to-many topography network communication
+san francisco april 2007 929 swartz born highland park illinois suburb chicago eldest son jewish parents susan robert swartz
+father founded software firm mark williams company
+swartz immersed himself study computers programming internet internet culture
+attended north shore country day school small private school near chicago until 9 th grade
+swartz left high school 10 th grade enrolled courses chicago area college
+age 13 swartz won ars digita prize given young people create useful educational collaborative noncommercial websites
+age 14 became member working group authored rss
+0 web syndication specification
+w3 c 2001 swartz joined rdfcore working group world wide web consortium w3 c authored rfc 3870 application/rdf+xml media type registration
+document described new media type rdf/xml designed support semantic web
+markdown swartz major contributor markdown lightweight markup language generating html author html2 text translator
+syntax markdown influenced swartz's earlier atx language 2002 today primarily remembered syntax specifying headers known atx-style headers # h1-header ## h2-header
+###### h6-header markdown itself remains widespread use
+entrepreneurship swartz attended stanford university
+during freshman year swartz applied combinator's very first summer founders program proposing work startup named infogami designed flexible content management system allow creation rich visually interesting websites form wiki structured data
+after working infogami co-founder simon carstensen over summer 2005 aaron opted return stanford choosing instead continue develop seek funding infogami
+part work infogami swartz created web
+py web application framework because unhappy other available systems python programming language
+early fall 2005 swartz worked founders another nascent y-combinator firm reddit rewrite their lisp codebase using python web
+although infogami's platform abandoned after bug acquired infogami's software used support internet archive's open library project web
+py web framework used basis many other projects swartz many others
+infogami failed find further funding y-combinator organizers suggested infogami merge reddit november 2005 form new firm bug devoted promoting both products
+although both projects initially struggled gain traction reddit began make large gains popularity 2005 2006
+october 2006 based largely success reddit bug acquired condé nast publications owner wired magazine
+swartz moved company san francisco work wired
+swartz found office life uncongenial ultimately left company
+september 2007 swartz joined infogami co-founder simon carstensen launch new firm jottit another attempt create another markdown driven content management system python
+activism 2008 swartz founded watchdog
+net good government site teeth aggregate visualize data politicians
+same year widely circulated guerilla open access manifesto see #open access below details
+2009 wanting learn effective activism swartz helped launch progressive change campaign committee
+blog spend my days experimenting new ways get progressive policies enacted progressive politicians elected
+swartz led first activism event career progressive change campaign committee delivering thousands honor kennedy petition signatures massachusetts legislators asking them fulfill former senator ted kennedy's last wish appointing senator vote health care reform
+2010 swartz co-founded demand progress political advocacy group organizes people online take action contacting congress other leaders funding pressure tactics spreading word civil liberties government reform other issues
+during academic year 2010–11 swartz conducted research studies political corruption lab fellow harvard university's edmond j
+safra research lab institutional corruption
+author cory doctorow novel homeland dr[ew] advice swartz setting out how protagonist use information now available voters create grass-roots anti-establishment political campaign
+afterword novel swartz these [political hacktivist] tools used anyone motivated talented enough
+now it's up you change system
+let me know help
+stop online piracy act swartz protesting against stop online piracy act sopa swartz involved campaign prevent passage stop online piracy act sopa sought combat internet copyright violations criticized basis made easier u
+government shut down web sites accused violating copyright placed intolerable burdens internet providers
+following defeat bill swartz keynote speaker f2 cfreedom connect event washington
+may 21
+speech titled how stopped sopa informed audience bill
+shut down whole websites
+essentially stopped americans communicating entirely certain groups
+called my friends stayed up night setting up website new group demand progress online petition opposing noxious bill
+300000 signers
+met staff members congress pleaded them
+then passed unanimously
+then suddenly process stopped
+senator ron wyden
+put hold bill
+added won fight because everyone made themselves hero their own story
+everyone took their job save crucial freedom
+referring series protests against bill numerous websites described electronic frontier foundation biggest internet history over 115000 sites altering their webpages
+swartz also presented topic event organized thought works
+wikipedia swartz 2009 boston wikipedia meetup swartz volunteered editor wikipedia 2006 ran unsuccessfully wikimedia foundation's board trustees
+also 2006 swartz analysis how wikipedia articles written concluded bulk actual content comes tens thousands occasional contributors outsiders each whom may make many other contributions site while core group 500 1000 regular editors tend correct spelling other formatting errors
+according swartz formatters aid contributors other way around
+conclusions based analysis edit histories several randomly selected articles contradicted opinion wikipedia co-founder jimmy wales believed core group regular editors providing most content while thousands others contributed formatting issues
+swartz came conclusions counting total number characters added editor particular article—while wales counted total number edits
+tor2 web details topic see tor2 web
+2008 swartz worked virgil griffith design implement tor2 web http proxy tor-hidden services
+proxy designed provide easy access tor basic web browser
+open library main article open library reported after death around 2006 swartz acquired library congress's complete bibliographic dataset library charged fees access government document copyright-protected within usa
+posting data open library swartz made freely available
+library congress project met approval copyright office
+other sources show file donated internet archive plymouth state university's library system scriblio
+regardless source file became basis open library swartz chief designer
+pacer 2008 swartz downloaded 2
+7 million federal court documents stored pacer public access court electronic records database managed administrative office united states courts
+huffington post characterized actions way swartz downloaded public court documents pacer system effort make them available outside expensive service
+move drew attention fbi ultimately decided press charges documents fact public
+pacer charging cents per page information carl malamud founded nonprofit group public
+org contended should free because federal documents covered copyright
+fees plowed back courts finance technology system [ran] budget surplus $150 million according court reports reported new york times
+pacer used technology designed bygone days screechy telephone modems
+put[ting] nation's legal system behind wall cash kludge
+malamud appealed fellow activists urging them visit 17 libraries conducting free trial pacer system download court documents send them public distribution
+after reading malamud's call action swartz used perl computer script running amazon cloud servers download documents using credentials belonging sacramento library
+september 4 20 2008 accessed documents uploaded them cloud computing service
+released documents malamud's organization
+september 29 2008 gpo suspended free trial pending evaluation program
+swartz's actions subsequently investigated fbi
+case closed after two months no charges filed
+swartz learned details investigation result filing foia request fbi described their response usual mess confusions shows fbi's lack sense humor
+pacer still charges per page customers using firefox option saving documents free public access plug-in called recap
+2013 memorial swartz malamud recalled their work pacer
+brought millions u
+district court records out behind pacer's pay wall found them full privacy violations including medical records names minor children confidential informants
+sent our results chief judges 31 district courts
+redacted those documents yelled lawyers filed them
+judicial conference changed their privacy rules
+[to] bureaucrats ran administrative office united states courts
+thieves took $1
+6 million their property
+called fbi
+[the fbi] found nothing wrong
+malamud penned detailed account collaboration swartz pacer project essay appears website
+writing ars technica timothy lee later made use documents obtained swartz co-creator recap offered insight discrepancies reporting just how much data swartz downloaded back-of-the-envelope calculation few days before offsite crawl shut down swartz guessed got around 25 percent documents pacer
+new york times similarly reported swartz downloaded estimated 20 percent entire database
+based facts swartz downloaded 2
+7 million documents while pacer time contained 500 million lee concluded swartz downloaded less percent database
+wikileaks december 27 2010 swartz filed freedom information act foia request learn treatment chelsea manning alleged source wiki leaks
+dead drop details topic see secure drop
+2011–2012 swartz kevin poulsen designed implemented dead drop system allows anonymous informants send electronic documents without fear disclosure
+may 2013 first instance software launched new yorker under name strongbox
+freedom press foundation since taken over development software renamed secure drop
+jstor main article united states v
+aaron swartz see also § open access according state federal authorities swartz used jstor digital repository download large number[ii] academic journal articles through mit's computer network over course few weeks late 2010 early 2011
+time swartz research fellow harvard university provided jstor account
+visitors mit's open campus authorized access jstor through network
+authorities swartz downloaded documents through laptop connected networking switch controlled-access wiring closet mit
+door closet kept unlocked according press reports
+discovered jstor claims employees initially placed video camera room film swartz left swartz's computer untouched
+once video captured swartz download stopped swartz identified
+rather pursue civil lawsuit against june 2011 reached settlement wherein surrendered downloaded data
+arrest prosecution night january 6 2011 swartz arrested near harvard campus mit police u
+secret service agent
+arraigned cambridge district court two state charges breaking entering intent commit felony
+july 2011 swartz indicted federal grand jury charges wire fraud computer fraud unlawfully obtaining information protected computer recklessly damaging protected computer
+november 17 2011 swartz indicted middlesex county superior court grand jury state charges breaking entering intent grand larceny unauthorized access computer network
+december 16 2011 state prosecutors filed notice dropping two original charges charges listed november 17 2011 indictment dropped march
+according spokesperson middlesex county prosecutor state charges dropped permit federal prosecution headed stephen p
+heymann supported circumstantial character evidence provided secret service agent michael s
+pickett turn gathered double hearsay mit staff proceed unimpeded
+september 12 federal prosecutors filed superseding indictment adding nine felony counts increased swartz's maximum criminal exposure 50 years imprisonment $1 million fines
+during plea negotiations swartz's attorneys prosecutors offered recommend sentence six months low-security prison swartz plead guilty 13 federal crimes
+swartz lead attorney rejected deal opting instead trial prosecutors forced justify their pursuit swartz
+federal prosecution involved characterized numerous critics such former nixon white house counsel john dean overcharging 13-count indictment overzealous prosecution alleged computer crimes brought u
+attorney massachusetts carmen ortiz
+facing potential incarceration alleged criminal offenses victims mit jstor declined pursue civil litigation swartz died suicide january 2013
+after death federal prosecutors dropped charges
+december 4 2013 due freedom information act suit investigations editor wired magazine several documents related case released secret service including video swartz entering mit network closet
+death funeral memorial gatherings external video aaron swartz memorial great hall cooper union transcript aaron swartz memorial internet archive partial transcript dc memorial darrel issa taren stinebrickner-kauffman alan grayson death evening january 2013 swartz found dead brooklyn apartment partner taren stinebrickner-kauffman
+spokeswoman new york's medical examiner reported hanged himself
+no suicide note found
+swartz's family partner created memorial website issued statement saying used prodigious skills programmer technologist enrich himself make internet world fairer better place
+days before swartz's funeral lawrence lessig eulogized friend sometime client essay prosecutor bully
+decried disproportionality swartz's prosecution question government needs answer why necessary aaron swartz labeled 'felon'
+18 months negotiations willing accept
+cory doctorow aaron unbeatable combination political insight technical skill intelligence people issues
+think revolutionized american worldwide politics
+legacy may still yet
+funeral memorial gatherings swartz's funeral services held january 15 2013 central avenue synagogue highland park illinois
+tim berners-lee co-creator world wide web delivered eulogy
+same day wall street journal published story based part interview stinebrickner-kauffman
+she journal swartz lacked money pay trial too hard
+make part life go public asking help
+also distressed she because two friends just subpoenaed because no longer believed mit try stop prosecution
+several memorials followed soon afterward
+january 19 hundreds attended memorial cooper union speakers included stinebrickner-kauffman open source advocate doc searls creative commons' glenn otis brown journalist quinn norton roy singham thought works david segal demand progress
+january 24 there memorial internet archive speakers including stinebrickner-kauffman alex stamos brewster kahle carl malamud
+february 4 memorial held cannon house office building capitol hill speakers memorial included senator ron wyden representatives darrell issa alan grayson jared polis other lawmakers attendance included senator elizabeth warren representatives zoe lofgren jan schakowsky
+memorial also took place march 12 mit media lab
+swartz's family recommended give well donations memory organization swartz admired collaborated sole beneficiary will
+aftermath family response criticism aaron's death simply personal tragedy
+product criminal justice system rife intimidation prosecutorial overreach
+decisions made officials massachusetts u
+attorney's office mit contributed death
+statement family partner aaron swartz january 12 swartz's family partner issued statement criticizing prosecutors mit
+speaking son's funeral robert swartz aaron killed government mit betrayed basic principles
+mitch kapor posted statement twitter
+tom dolan husband u
+attorney massachusetts carmen ortiz whose office prosecuted swartz's case replied criticism swartz family truly incredible their own son's obit blame others death make no mention 6-month offer
+comment triggered widespread criticism esquire writer charlie pierce replied glibness her husband her defenders toss off ‘mere' six months federal prison low-security further indication something seriously out whack way our prosecutors think these days
+press arts aaron swartz mural brooklyn graffiti artist bamn huffington post reported ortiz faced significant backlash pursuing case against swartz including petition white house her fired
+other news outlets reported similarly
+reuters news agency called swartz online icon help[ed] make virtual mountain information freely available public including estimated 19 million pages federal court documents
+associated press ap reported swartz's case highlights society's uncertain evolving view how treat people break computer systems share data enrich themselves make available others jstor's lawyer former u
+attorney southern district new york mary jo white asked lead prosecutor drop charges
+discussed editor hrag vartanian hyperallergic brooklyn ny muralist bamn any means necessary created mural swartz
+swartz amazing human being fought tirelessly our right free open internet artist explained
+much just ‘reddit guy'
+2013 kenneth goldsmith dedicated printing out internet exhibition swartz
+aaron swartz legacy reported strengthening open access scholarship movement
+illinois home state swartz's influence led state university faculties adopt policies favor open access
+internet’s own boy story aaron swartz main article internet's own boy story aaron swartz january 2014 marking first anniversary death sneak preview released internet's own boy story aaron swartz documentary swartz nsa sopa
+film officially released january 2014 sundance film festival
+democracy now! covered release documentary well swartz's life legal case sprawling interview director brian knappenberger swartz's father brother attorney
+documentary released under creative commons license debuted theaters on-demand june 2014
+mashable called documentary powerful homage aaron swartz
+debut sundance received standing ovation
+mashable printed help experts internet's own boy makes clear argument swartz unjustly became victim rights freedoms stood
+hollywood reporter described heartbreaking story tech wunderkind persecuted us government must-see anyone knows enough care way laws govern information transfer digital age
+killswitch main article killswitch film october 2014 killswitch film featuring aaron swartz well lawrence lessig tim wu edward snowden received world premiere woodstock film festival won award best editing
+film focuses swartz' integral role battle control internet
+february 2015 killswitch invited screen capitol visitor's center washington dc congressman alan grayson
+event held eve federal communications commission's historic decision net neutrality
+congressman grayson lawrence lessig free press organization ceo craig aaron spoke swartz fight behalf free open internet event
+congressman grayson states killswitch most honest accounts battle control internet access information itself
+richard von busack metro silicon valley writes killswitch most lapidary use found footage side atomic café
+fred swegles orange county register remarks anyone values unfettered access online information apt captivated killswitch gripping fast-paced documentary
+kathy gill geek wire asserts killswitch much dry recitation technical history
+director ali akbarzadeh producer jeff horn writer chris dollar created human centered story
+large part connection comes lessig relationship swartz
+open access see also § jstor long-time supporter open access swartz guerilla open access manifesto world's entire scientific
+increasingly being digitized locked up handful private corporations
+open access movement fought valiantly ensure scientists sign their copyrights away instead ensure their work published internet under terms allow anyone access
+supporters swartz responded news death effort called #pdftribute promote open access
+january 12 eva vivalt development economist world bank began posting her academic articles online using hashtag #pdftribute tribute swartz
+scholars posted links their works
+swartz's death prompted calls open access scholarly data e
+open science data
+think computer foundation center information technology policy citp princeton university announced scholarships awarded memory aaron swartz
+2013 aaron swartz posthumously awarded american library association's james madison award being outspoken advocate public participation government unrestricted access peer-reviewed scholarly articles
+march editor editorial board journal library administration resigned en masse citing dispute journal's publisher routledge
+board member crisis conscience publishing journal open access after death aaron swartz
+2002 swartz stated died wanted contents hard drives made publicly available
+hacks january 13 2013 members anonymous hacked two websites mit domain replacing them tributes swartz called members internet community use death rallying point open access movement
+banner included list demands improvements u
+copyright system along swartz's guerilla open access manifesto
+night january 18 2013 mit's e-mail system taken out action ten hours
+january e-mail sent mit redirected hackers aush0 k tibit ximer korea advanced institute science & technology
+other traffic mit redirected computer harvard university publishing statement headed r
+p aaron swartz text 2009 posting swartz accompanied chiptunes version star-spangled banner
+mit regained full control after seven hours
+early hours january 2013 u
+sentencing commission website ussc
+gov hacked anonymous
+home page replaced embedded you tube video anonymous operation last resort
+video statement swartz faced impossible choice
+hacker downloaded hundreds thousands scientific-journal articles swiss publisher's website republished them open web swartz's honor week before first anniversary death
+mit abelson investigation mit maintains open-campus policy along open network
+two days after swartz's death mit president l
+rafael reif commissioned professor hal abelson lead analysis mit's options decisions relating swartz's legal struggles
+help guide fact-finding stage review mit created website community members suggest questions issues review address
+swartz's attorneys requested pretrial discovery documents made public move mit opposed
+swartz allies criticized mit opposition releasing evidence without redactions
+july 2013 abelson panel submitted 182-page report mit president l
+rafael reif authorized public release july 30
+panel reported mit supported charges against swartz cleared institution wrongdoing
+however report also noted despite mit's advocacy open access culture institutional level beyond university never extended support swartz
+report revealed example while mit considered possibility issuing public statement position case never materialized
+petition white house see also carmen ortiz stephen heymann after swartz's death 50000 people signed online petition white house calling removal ortiz overreach case aaron swartz
+similar petition submitted calling prosecutor stephen heymann's firing
+january 2015 two years after swartz’s death white house declined both petitions
+congress several members u
+house representatives — republican darrell issa democrats jared polis zoe lofgren — house judiciary committee raised questions regarding government's handling case
+calling charges against ridiculous trumped up polis swartz martyr whose death illustrated need congress limit discretion federal prosecutors
+speaking memorial swartz capitol hill issa ultimately knowledge belongs people world
+aaron understood
+our copyright laws created purpose promoting useful works hiding them
+massachusetts democratic senator elizabeth warren issued statement saying [aaron's] advocacy internet freedom social justice wall street reform demonstrated
+power ideas
+letter attorney general eric holder texas republican senator john cornyn asked basis u
+attorney district massachusetts conclude her office's conduct ‘appropriate'? prosecution mr
+swartz any way retaliation exercise rights citizen under freedom information act? congressional investigations issa chairs house committee oversight government reform announced investigate justice department's actions prosecuting swartz
+statement huffington post praised swartz's work toward open government free access people
+issa's investigation garnered bipartisan support
+january 28 2013 issa ranking committee member elijah cummings published letter u
+attorney general holder questioning why federal prosecutors filed superseding indictment
+february 20 wbur reported ortiz expected testify upcoming oversight committee hearing her office's handling swartz case
+february associate deputy attorney general steven reich conducted briefing congressional staffers involved investigation
+swartz's guerilla open access manifesto played role prosecutorial decision-making
+reported left impression prosecutors believed swartz convicted felony carrying least short prison sentence order justify having filed case against first place
+excoriating department justice department vengeance stinebrickner-kauffman guardian doj erred relying swartz's guerilla open access manifesto accurate indication beliefs 2010
+no longer single issue activist she
+lots things healthcare climate change money politics
+march 6 holder testified before senate judiciary committee case good use prosecutorial discretion
+stinebrickner-kauffman issued statement reply repeating amplifying her claims prosecutorial misconduct
+public documents she reveal prosecutor stephen heymann instructed secret service seize hold evidence without warrant
+lied judge fact written briefs
+[and] withheld exculpatory evidence
+over year violating legal ethical obligations turn over
+march senator al franken holder letter expressing concerns
+franken charging young man like mr
+swartz federal offenses punishable over 35 years federal imprisonment seems remarkably aggressive — particularly appears principal aggrieved parties
+support criminal prosecution
+amendment computer fraud abuse act main article aaron's law wikisource original text related article rep zoe lofgren introduces bipartisan aaron's law 2013 rep
+zoe lofgren d-calif
+introduced bill aaron's law h
+2454 s
+1196 exclude terms service violations 1986 computer fraud abuse act wire fraud statute
+lawrence lessig bill critically important change
+cfaa hook government's bullying
+law remove hook
+single line no longer felony breach contract
+professor orin kerr specialist nexus computer law criminal law arguing precisely sort reform act years
+aclu too called reform cfaa remove dangerously broad criminalization online activity
+eff mounted campaign these reforms
+lessig's inaugural chair lecture furman professor law leadership entitled aaron's laws law justice digital age dedicated lecture swartz
+aaron's law bill died committee may 2014 reportedly due oracle corporation's financial interests
+fair access science technology research act fair access science technology research act fastr bill mandate earlier public release taxpayer-funded research
+fastr described other aaron's law
+senator ron wyden d-ore
+senator john cornyn r-tex
+introduced senate version 2013 again 2015 while bill introduced house reps
+zoe lofgren d-calif
+mike doyle d-pa
+kevin yoder r-kans
+senator wyden bill fastr act provides access taxpayer funded research should never hidden behind paywall
+while legislation passed october 2015[update] helped prompt motion toward open access part us administration
+shortly after bill's original introduction office science technology policy directed each federal agency over $100 million annual conduct research development expenditures develop plan support increased public access results research funded federal government
+external video induction ceremony aaron swartz video you tube commemorations august 3 2013 swartz posthumously inducted internet hall fame
+there hackathon held swartz' memory around date birthday 2013
+over weekend november 8–10 2013 inspired swartz's work life second annual hackathon held least 16 cities around world
+preliminary topics worked 2013 aaron swartz hackathon privacy software tools transparency activism access legal fixes low-cost book scanner
+january 2014 lawrence lessig led walk across new hampshire honor swartz rallying campaign finance reform
+publications swartz aaron lucchese adriano november 2014 raw thought raw nerve inside mind aaron swartz pdf/e pub new york ny discovery publisher
+swartz aaron hendler james october 2001 semantic web network content digital city proceedings second annual digital cities workshop kyoto jp blogspace
+swartz aaron january–february 2002
+music brainz semantic web service pdf
+ieee intelligent systems umbc 17 76–77
+issn 1541-1672
+gruber john swartz aaron december 2004 markdown definition daring fireball
+swartz aaron july 2008
+guerilla open access manifesto
+swartz aaron james hendler 2009
+building programmable web sites
+morgan & claypool
+swartz aaron interviewee
+change world video
+you tube
+swartz aaron speaker may 21
+keynote address freedom connect how stopped sopa video
+you tube
+swartz aaron february 2013
+aaron swartz's programmable web unfinished work pdf
+san francisco morgan & claypool
+lay summary
+dan connolly created web found time teach me
+swartz aaron january 2016
+boy change world writings aaron swartz
+new press
+notes swartz identified cofounder reddit title source controversy
+merger infogami reddit swartz became co-owner director parent company bug inc
+along reddit cofounders steve huffman alexis ohanian
+swartz referred cofounder press investor paul graham recommended merger ohanian describes co-owner
+mit network administration office mit police approximately 70 gigabytes data downloaded 98% jstor
+first federal indictment alleged approximately 4
+million articles
+7 million made available independent publishers purchase through jstor's publisher sales service
+subsequent doj press release alleged over four million articles
+superseding indictment removed estimates instead characterized amount major portion total archive jstor invested
+references c yearwood pauline february 2013
+brilliant life tragic death
+chicago jewish news
+archived original 2013-10-17
+aaron hillel swartz depressed suicidal
+rabbi’s wife known since child says
+age 13 won ars digita prize competition young people create noncommercial websites
+skaggs paula january 16 2013
+aaron swartz remembered internet activist changed world
+rss creator aaron swartz dead
+harvard magazine
+january 14 2013
+swartz helped create rss—a family web feed formats used publish frequently updated works blog entries news headlines
+standardized format—at age 14
+aaron swartz weblog
+march 19 2004
+lessig lawrence january 12 2013
+remembering aaron swartz
+creative commons
+aaron early architects creative commons
+teenager helped design code layer our licenses
+grehan rick august 10 2011
+pillars python web
+py web framework
+info world
+py brainchild aaron swartz developed while working reddit
+com describes itself ‘minimalist’s framework
+test center scorecard capability 7 ease development 9 documentation 7
+overall score 7
+6 good
+swartz aaron
+sociology anthropology
+raw thought
+retrieved january 16 2013
+swartz aaron may 13 2008
+simplistic sociological functionalism
+raw thought
+retrieved january 16 2013
+seidman bianca july 2011
+internet activist charged hacking mit network
+arlington va
+public broadcasting service
+[swartz] middle fellowship harvard's edmond j
+safra center ethics lab institutional corruption lab fellows 2010–2011 aaron swartz
+edmond j
+safra center ethics
+harvard university
+archived original 2013-05-29
+during fellowship year will conduct experimental ethnographic studies political system prepare monograph mechanisms political corruption
+gerstein josh july 2011
+mit also pressing charges against hacking suspect
+[swartz's] alleged use mit facilities web connections access jstor database
+resulted two state felony charges breaking ‘depository' breaking & entering daytime according local prosecutors
+c e commonwealth v
+swartz 11-52 cr73 & 11-52 cr75 mit police incident report 11-351 mass
+nolle prosequi december 16 2011 “captain albert p[
+special agent pickett able apprehend suspect 24 lee street
+arrested two counts breaking entering daytime intent commit felony
+c e f g indictment usa v
+swartz 111-cr-10260 no
+july 14 2011
+july 14 2011
+retrieved january 23 2013
+superseded superseding indictment usa v
+swartz 111-cr-10260 no
+september 12
+september 12
+retrieved january 23 2013
+us attorney's office district massachusetts july 19 2011
+alleged hacker charged stealing over four million documents mit network
+press release
+archived original 2012-05-26
+retrieved january 17 2013
+aaron swartz tech prodigy internet activist dead
+january 13 2013
+retrieved january 13 2013
+aaron swartz internet freedom activist dies aged
+bbc news
+january 13 2013
+retrieved january 13 2013
+press release internet hall fame
+internet hall fame announces 2013 inductees
+internet hall fame
+june 2013
+retrieved august 3 2013
+com/culture/news/the-brilliant-life-and-tragic-death-of-aaron-swartz-20130215?page=2 nelson valerie j
+january 12 2013
+aaron swartz dies internet folk hero founded reddit
+los angeles times
+c swartz aaron september 27 2007
+how get job like mine
+aaron swartz
+negotiated months
+started going crazy having think much money
+company almost fell apart before deal went through
+reddit co-creator aaron swartz dies suicide
+chicago tribune
+january 13 2013
+skaggs paula january 15 2013
+internet activist aaron swartz's teachers remember ‘brilliant' student
+patch northbrook ill
+attended north shore country day school through 9 th grade
+swartz aaron january 14 2002
+it's cool run
+aaron swartz
+10 th grade year
+now i'm taking couple classes local college
+second ars digita prize 2000 finalists winners
+archived original december 2001
+retrieved 2016-03-06
+schofield jack january 13 2013
+aaron swartz obituary
+guardian london
+13 [he] won ars digita prize creating info network
+rdfcore working group membership
+december 2002
+retrieved january 15 2013
+september 2004
+request comments no
+3870 ‘application/rdf+xml' media type registration
+network working group
+internet society
+media type use extensible markup language serialization resource description framework
+[it] allows rdf consumers identify rdf/xml documents
+gruber john
+daring fireball markdown
+daring fireball
+archived original 2004-04-02
+retrieved april 25 2014
+atx true structured text format
+daring fireball markdown syntax
+ryan singel 2005-09-13
+stars rise startup summer camp
+retrieved 2014-12-19
+com/in/simoncarstensen swartz aaron 2007
+introducing infogami
+conde net
+archived original december 24 2007
+passion your users brings good karma interview alexis ohanian co-founder reddit
+startup stories
+november 2006
+archived original august 23 2007
+singel ryan july 19 2011
+feds charge activist hacker downloading millions academic articles
+retrieved january 12 2013
+breaking news condé nast/wired acquires reddit
+october 31 2006
+lenssen philipp 2007
+chat aaron swartz
+google blogoscoped
+archived original april 27 2010
+retrieved may 2010
+aaron swartz's jottit officially released
+retrieved 2015-10-20
+klein sam july 24 2011
+aaron swartz vs
+united states
+longest now
+weblogs harvard law school
+founded watchdog
+net aggregate
+data politicians including their money comes
+archived original 2011-08-28
+founder aaron swartz
+we’re funded grant sunlight network sunlight foundation
+norton quinn march 3 2013
+life inside aaron swartz investigation
+retrieved march 2013
+c mc veigh karen aaron swartz's partner accuses us delaying investigation prosecution guardian march 2013
+retrieved 20 may 2015
+swartz aaron july 2008
+guerilla open access manifesto pdf
+internet archive
+need buy secret databases put them web
+need download scientific journals upload them file sharing networks
+murphy samantha july 2011
+‘guerilla activist' releases 18000 scientific papers
+mit technology review
+2008 ‘guerilla open access manifesto' swartz called activists ‘fight back' against services held academic papers hostage behind paywalls
+progressive change campaign committee statement passing aaron swartz
+retrieved november 19 2014
+how get job like mine aaron swartz's raw thought victory! honor kennedy
+com you tube eckersley peter
+farewell aaron swartz extraordinary hacker activist
+deeplinks blog
+electronic frontier foundation
+matthews laura july 19 2011
+aaron swartz jstor mit hacker?
+international business times
+retrieved january 13 2013
+our mission blog
+demand progress
+retrieved may 30 2015
+sleight graham february 2013
+‘homeland' cory doctorow
+washington post
+doctorow made clear eloquent obituary drew advice swartz setting out how protagonist use information now available voters create grass-roots anti-establishment political campaign
+book's two afterwords swartz
+c wagner daniel verena dobnik january 13 2013
+swartz' death fuels debate over computer crime
+associated press
+jstor's attorney mary jo white — formerly top federal prosecutor manhattan — called lead boston prosecutor case asked drop peters
+swartz aaron may 21
+how stopped sopa video
+keynote address freedom connect conference
+new york democracy now!
+[t]he ‘combating online infringement counterfeiting act'
+introduced september 20 th 2010
+[then] began being called pipa eventually sopa
+aaron swartz interviewee & amy goodman may 21
+freedom connect aaron swartz 1986–2013 victory save open internet fight online censors video
+democracy now
+bill killed sopa death celebrated congress recalls anti-piracy acts russian times january 19 swartz aaron august 16
+how stopped sopa video
+speech thought works new york
+c swartz aaron september 4 2006
+writes wikipedia?
+raw thought
+retrieved january 12 2013
+blodget henry january 3 2009
+hell writes wikipedia anyway?
+business insider
+retrieved january 12 2013
+aaron swartz
+defense anonymity
+retrieved 4 february 2014
+zetter kim december 12 2008
+new service makes tor anonymized content available
+retrieved february 2014
+tor2 web brings anonymous tor sites regular web
+retrieved february 2014
+f g january 13 2013 commons man remembering aaron swartz economist video lawrence lessig's lecture aaron's laws law justice digital age
+february 20 2013
+retrieved march 24 2013
+marc records scriblio 2007
+internet archive
+c lee timothy
+inside story aaron swartz's campaign liberate court filings ars technica february 2013
+retrieved march 2013
+will wrigley february 7 2013
+darrell issa praises aaron swartz internet freedom memorial
+retrieved february 21 2013
+c e f g h schwartz john february 12 2009
+effort upgrade court archive system free easy
+new york times
+retrieved january 12 2013
+registration required help
+c e f g singel ryan october 5 2009
+fbi investigated coder liberating paywalled court records
+wired condé nast
+retrieved january 12 2013
+johnson bobbie november 2009
+recap cracking open us courtrooms
+guardian london
+malamud carl january 24 2013
+aaron’s army speech
+memorial aaron swartz internet archive
+san francisco
+malamud carl march 30 2013
+crime access knowledge unpublished essay
+leopold jason january 18 2013
+aaron swartz's foia requests shed light struggle
+public record
+retrieved january 23 2013
+foi request records related bradley manning
+retrieved january 23 2013
+poulsen kevin
+strongbox aaron swartz
+new yorker
+retrieved 16 may 2013
+davidson amy 15 may 2013
+introducing strongbox
+new yorker
+retrieved 20 june 2013
+kassner michael 20 may 2013
+aaron swartz legacy lives new yorker's strongbox how works
+tech republic
+retrieved 20 june 2013
+charlton alistair october 16 2013
+aaron swartz-designed whistleblower tool secure drop launched press freedom foundation
+international business times
+ibt media
+terms conditions use
+new york ithaka
+january 15 2013
+jstor's integrated digital platform trusted digital repository providing long-term preservation access
+scholarly materials journal issues
+manuscripts monographs
+spatial/geographic information systems data plant specimens
+c mac farquhar larissa march 2013
+requiem dream tragedy aaron swartz
+new yorker
+[swartz] script instructed computer download articles continuously something forbidden jstor's terms service
+spoofed computer's address
+happened several times
+mit traced requests laptop hidden unlocked closet
+lindsay jay july 19 2011
+feds harvard fellow hacked millions papers
+associated press
+retrieved january 15 2013
+jstor statement misuse incident criminal case
+retrieved january 12 2013
+cohen noam january 20 2013
+how m
+ensnared hacker bucking freewheeling culture
+new york times
+registration required help
+‘suspect seen camera entering network closet' [in unlocked building]
+within mile mit
+stopped mit police captain [u
+secret service agent] pickett
+peters justin february 7 2013
+idealist aaron swartz wanted save world
+why couldn't save himself?
+slate n
+superseding indictment
+claimed swartz ‘contrived break restricted-access wiring closet mit
+closet door unlocked—and remained unlocked even after university authorities aware someone there trying access school's network
+merritt jeralyn january 14 2013
+mit conduct internal probe role aaron swartz case
+talk left blog
+att'y jeralyn merritt
+wiring closet locked accessible public
+you look pictures supplied government you see graffiti wall
+jstor statement misuse incident criminal case
+aaron swartz internet pioneer found dead amid prosecutor 'bullying' unconventional case
+huffington post
+hak susana paz gabriella january 2011
+compilation december 15 2010 january 20 2011 pdf
+hak–de paz police log compilations mit crime club
+january 6 220 p
+aaron swartz arrested 24 lee street suspect breaking entering
+singel ryan february 27 2011
+rogue academic downloader busted mit webcam stakeout arrest report says
+wired n
+swartz accused
+stealing articles attaching laptop directly network switch
+‘restricted' room though neither police report nor indictment [mentions] door lock signage indicating room off-limits
+bilton nick july 19 2011
+internet activist charged data theft
+boston bits blog new york times company
+retrieved july 19 2011
+registration required help
+hawkinson john november 18 2011
+swartz indicted breaking entering
+tech mit
+middlesex superior court
+breaking entering larceny over $250 unauthorized access computer network
+cambridge man indicted breaking & entering charges larceny charges connection data theft press release
+middlesex district attorney
+november 17 2011
+indicted today charges breaking entering intent commit felony larceny over $250 unauthorized access computer network middlesex superior grand jury
+hawkinson john state drops charges against swartz federal charges remain tech 16 march
+retrieved 14 may 2013
+bombardieri marcella 30 march 2014
+inside story mit aaron swartz
+boston globe
+retrieved 19 november 2015
+us government ups felony count jstor/aaron swartz case four thirteen
+tech dirt
+september 17
+retrieved january 12 2013
+zetter kim january 29 2013
+congress demands justice department explain aaron swartz prosecution | threat level
+retrieved february 2013
+smith-spark laura
+prosecutor defends case against aaron swartz
+cnn tech cable news network
+retrieved 13 june 2014
+cullen kevin ellement john
+mit hacking case lawyer says aaron swartz offered plea deal six months behind bars
+com boston globe media partners llc
+retrieved 13 june 2014
+boeri david 2013-02-20
+ortiz under fire critics say swartz tragedy evidence troublesome pattern
+retrieved 2014-05-16
+dealing aaron swartz nixonian tradition overzealous overcharging leads tragic result justia john dean 25 january 2013
+retrieved may 2014
+landergan katherine january 14 2013
+us district court drops charges against aaron swartz — mit your campus
+retrieved january 23 2013
+united states v
+swartz 111-cr-10260 106
+filed january 14 2013
+poulsen kevin december 4 2013
+mit surveillance video undid aaron swartz
+retrieved december 7 2013
+kemp joe trapasso clare mcshane larry january 12 2013
+aaron swartz co-founder reddit online activist hangs himself brooklyn apartment authorities say
+ny daily news new york
+left no note before friday morning death seventh-floor apartment luxury sullivan place building police sources
+co-founder reddit aaron swartz found dead
+news cbs
+january 13 2013
+retrieved january 12 2013
+lessig lawrence january 12 2013
+prosecutor bully
+retrieved january 12 2013
+schwartz john january 12 2013
+internet activist creator rss dead apparently suicide
+new york times
+retrieved january 13 2013
+registration required help
+gustin sam january 14 2013
+mit orders review aaron swartz suicide soul searching begins
+retrieved january 16 2013
+lessig lawrence january 12 2013
+prosecutor bully
+lessig blog v2
+aaron consulted me friend lawyer
+[m]y obligations harvard created conflict made impossible me continue lawyer
+get wrong
+also get proportionality
+doctorow cory january 12 2013 rip aaron swartz boing boing thomas owen january 12 2013
+family aaron swartz blames mit prosecutors death
+business insider
+retrieved january 12 2013
+gallardo michelle january 15 2013
+aaron swartz reddit co-founder remembered funeral
+abc news
+retrieved january 15 2013
+aaron swartz memorial ice cream social hour free software foundation working together free software
+retrieved january 18 2013
+aaron swartz tribute hundreds honor information activist
+january 19 2013
+retrieved january 20 2013
+ante spencer anjali athavaley joe palazzolo january 14 2013
+legal case strained troubled activist
+wall street journal
+government's position hardening mr
+swartz realized face costly public trial
+need ask help financing defense
+hsieh steven why justice system target aaron swartz? rolling stone 23 january 2013
+retrieved january 2013
+peltz jennifer 19 january 2013
+aaron swartz tribute hundreds honor information activist
+associated press
+retrieved february 2013
+fishman rob 19 january 2013
+grief anger aaron swartz's memorial
+retrieved january 2013
+memorial aaron swartz | internet archive blogs
+retrieved january 18 2013
+aaron swartz dc memorial
+retrieved february 2013
+aaron swartz memorial washington dc
+retrieved february 2013
+c gross grant lawmakers pledge change hacking law during swartz memorial info world 5 february 2013
+retrieved 5 february 2013
+c carter zach 5 february 2013
+aaron swartz memorial capitol hill draws darrell issa elizabeth warren
+huffington post
+retrieved 5 february 2013
+taren stinebrickner-kauffman 13 march 2013
+taren sk mit memorial service
+retrieved 15 march 2013
+including links video ceremony/speeches
+rob fishman 19 january 2013
+grief anger aaron swartz’s memorial
+retrieved 16 july 2014
+holden karnofsky 16 january 2013
+memory aaron swartz
+retrieved 16 july 2014
+remember aaron swartz
+archived original january 13 2013
+retrieved january 12 2013
+guy sandra january 15 2013
+aaron swartz ‘killed government' father says funeral
+chicago sun-times
+archived original 2014-08-24
+swartz's father
+school event 3-year-old aaron read parents while other parents read their children
+murphey shelly us attorney's husband stirs twitter storm swartz case boston globe january 16 2013
+retrieved january 17 2013
+pierce charles p
+january 17 2013
+still death aaron swartz esquire
+retrieved january 18 2013
+grandoni dino january 15 2013 tom dolan husband aaron swartz's prosecutor huffington post retrieved january 16 2013 mc cullagh declan prosecutor aaron swartz 'hacking' case comes under fire cnet january 15 2013
+retrieved january 17 2013
+stout matt ortiz never intended full penalty swartz boston herald january 17 2013
+retrieved january 17 2013
+barnes james hacker's suicide linked 'overzealous' prosecutors global legal post 15 january 2013
+retrieved january 17 2013
+dobuzinskis alex p
+huffstutter january 13 2013
+internet activist programmer aaron swartz dead
+belief — information should shared available good society — prompted swartz found nonprofit group demand progress
+vartanian hrag february 7 2013
+roller tribute two digital anarchist heroes
+brooklyn ny hyperallergic
+retrieved june 2013
+zak dan july 2013
+‘printing out internet' exhibit crowdsourced work art
+washington post
+retrieved 20 august 2013
+crowdsourced art project aims print out entire internet
+cbc news
+july 30 2013
+keilman john january 18 2016
+legacy open access activist still growing
+chicago tribune section page 3
+aaron swartz documentary
+take part
+retrieved november 19 2014
+zelman joanna
+watch aaron swartz found nsa scope 'scary'
+huffington post
+sneak preview “the internet’s own boy story aaron swartz” | pando daily internet's own boy story aaron swartz festival program
+sundance institute
+archived original 2014-01-12
+internet’s own boy film aaron swartz captures late activist’s struggle online freedom
+democracy now!
+january 21 2014
+retrieved january 21 2014
+knappenberger brian
+internet's own boy story aaron swartz
+internet archive
+retrieved 3 august 2014
+'the internet's own boy' fights reform after aaron swartz's death
+matheson whitney 28 june 2014
+internet's own boy tech activist's legacy
+usa today
+'the internet's own boy' powerful homage aaron swartz
+january 23 2014
+retrieved january 23 2014
+de fore john january 21 2014
+internet's own boy story aaron swartz sundance review
+hollywood reporter
+retrieved january 23 2014
+von busack richard
+breaking internet killswitch screens cinequest
+metro silicon valley
+retrieved february 25 2015
+swegles fred
+battle internet control fuels o
+-produced movie
+orange county register
+retrieved april 16 2015
+grayson alan
+grayson screen award winning killswitch documentary
+congressman grayson's house rep official web page
+retrieved february 23 2015
+price you pay rocking boat
+huffington post
+march 27 2015
+retrieved march 27 2015
+gill kathy
+lawrence lessig 'killswitch' seattle premiere money politics battle internet
+geek wire
+retrieved june 5 2015
+pdf tribute
+retrieved january 15 2013
+cutler kim-mai january 13 2013
+pdf tribute aaron swartz attracts roughly 1500 links copyright-protected research
+tech crunch
+musil steven january 13 2013
+researchers honor swartz's memory pdf protest
+cnet news
+vivalt eva january 12 2013
+aid economics
+eva vivalt
+archived original 2013-03-13
+retrieved april 7 2013
+ohlheiser abby january 14 2013
+aaron swartz death #pdftribute hashtag aggregates copyrighted articles released online tribute internet activist
+retrieved january 16 2013
+manjoo farhad how mit honor aaron swartz slate 31 january 2013
+retrieved 9 may 2013
+chan jennifer honor aaron swartz let knowledge go free u
+news & world report february 2013
+retrieved 2 february 2013
+two recap grants awarded memory aaron swartz | recap law kopstein joshua march 13 2013
+aaron swartz receive posthumous ‘freedom information' award open access advocacy
+retrieved march 24 2013
+james madison award
+january 17 2013
+retrieved march 24 2013
+entire library journal editorial board resigns citing 'crisis conscience' after death aaron swartz | verge new jake 2013-03-26
+journal’s editorial board resigns protest publisher’s policy toward authors
+chronicle higher education
+retrieved 2015-05-30
+just days after aaron swartz' death having crisis conscience publishing journal open access
+feral librarian
+retrieved november 19 2014
+aaron swartz
+january 19 2013
+retrieved january 20 2013
+anonymous hacks mit web sites post aaron swartz tribute call arms
+washington post
+retrieved january 13 2013
+kao joanna january 19 2013
+mit email down 10 hours last night mystery hunt temporarily affected
+tech blogs mit
+mail loop caused series malformed email messages led exhaustion system resources
+aush0 k tibit ximer january 2013
+p aaron swartz
+archived original january 23 2013
+hacked aush0 k tibitximer swartz aaron august 2 2009
+life world pervasive immorality ethics being alive
+raw thought aaron swartz's weblog
+there sense following [the] rules just another example world's pervasive immorality? kao joanna january 23 2013
+mit dns hacked traffic redirected
+tech mit
+105 p
+mit's dns redirected
+cloud flare hackers configured servers return harvard ip address
+715 p
+cloud flare removed ‘mail
+edu' record referred machine
+reported sabari selvan
+united states sentencing commissionussc
+gov hacked defaced anonymous | hacking news | security updates
+retrieved january 29 2013
+hackers take over sentencing commission website
+associated press
+january 2013
+‘two weeks ago today line crossed' statement
+aarons ark angel january 2013
+anonymous operation last resort anonymous hacked ussc
+gov flash video
+you tube
+anonymous hackers target us agency site
+bbc news
+january 2013
+site chosen symbolic reasons
+‘the federal sentencing guidelines
+enable prosecutors cheat citizens their constitutionally guaranteed right fair trial
+video statement
+stanza arrow january 6 2014
+springer link hacked honor aaron swartz press release
+material published honor aaron swartz springer-lta
+[author’s pseudonym anagram “aaron swartz”
+swartz' death fuels debate over computer crime
+january 14 2013
+retrieved january 29 2013
+smith gerry january 15 2013
+aaron swartz case ‘snowballed out mit's hands' source says
+huffington post
+retrieved january 16 2013
+president reif writes mit community regarding aaron swartz press release
+january 13 2013
+abelson lead thorough analysis mit's involvement time first perceived unusual activity our network fall 2010
+swartz review
+january 23 2013
+archived original 2013-02-06
+is&t created web site [community members] suggest questions issues guide review
+questions should mit asking stage aaron swartz review? nanos janelle january 24 2013
+mit prof announces plans swartz review website launched allowing discussion how case handled
+boston magazine
+mit aaron swartz's lawyers argue over releasing evidence
+march 20 2013
+retrieved march 24 2013
+rebecca greenfield march 19 2013
+mit's peace offering aaron swartz documents still won't enough
+atlantic wire
+retrieved march 24 2013
+cas central authentication service
+retrieved 2014-07-21
+schwartz john july 30 2013
+releases report role case aaron swartz
+new york times
+retrieved 30 july 2013
+registration required help
+mit releases report actions aaron swartz case
+mit news
+mit news office
+july 30 2013
+retrieved 30 july 2013
+report president mit prosecution aaron swartz pdf
+massachusetts institute technology
+retrieved 30 july 2013
+petition remove united states district attorney carmen ortiz office overreach case aaron swartz
+january 12 2013
+retrieved january 20 2013
+smith gerry january 13 2013
+charges against internet activist aaron swartz too severe?
+huffington post
+fire assistant u
+attorney steve heymann
+gov petition
+january 12 2013
+retrieved january 29 2013
+glenn greenwald january 16 2013
+carmen ortiz stephen heymann accountability prosecutorial abuse | glenn greenwald | comment free | guardian
+london guardian
+retrieved january 29 2013
+convicted hacker stephen watt aaron swartz ‘it's just justice'
+venture beat
+january 25 2013
+retrieved january 29 2013
+fung brian peterson andrea january 2015
+after long delay obama declines rule petition calling firing doj officials over aaron swartz’s suicide
+washington post
+retrieved march 13 2015
+sasso brendan jennifer martinez january 15 2013
+lawmakers slam doj prosecution swartz ‘ridiculous absurd'
+hillicon valley
+reilly ryan j
+january 15 2013
+darrell issa probing prosecution aaron swartz internet pioneer killed himself
+retrieved january 20 2013
+serve&file_id=74 c0 afb3-1 bc2-49 f5-9150-0 a8 f004 ef438 pdf pearce matt january 18 2013
+aaron swartz suicide u
+lawmakers scrutinizing prosecutors
+retrieved january 20 2013
+carter zach january 18 2013
+john cornyn criticizes eric holder over aaron swartz's death
+retrieved january 20 2013
+top senator scolds holder over reddit founder's suicide
+washington times
+january 18 2013
+retrieved january 20 2013
+issa letter holder aaron swartz case pdf
+retrieved february 2013
+boeri david david frank ortiz under fire critics say swartz tragedy evidence troublesome pattern wbur 20 february 2013
+retrieved 24 february 2013
+c reilly ryan j
+aaron swartz prosecutors weighed 'guerilla' manifesto justice official tells congressional committee huffington post february 2013
+retrieved 2 march 2013
+c masnick mike doj admits put aaron swartz jail save face over arrest techdirt 25 february 2013
+retrieved 2 march 2013
+masnick mike march 7 2013
+holder doj used discretion bullying swartz press lacked discretion quoting facts
+masnick mike march 2013
+aaron swartz's partner accuses doj lying seizing evidence without warrant & withholding exculpatory evidence
+carter zach march 2013
+al franken sends eric holder letter over 'remarkably aggressive' aaron swartz prosecution
+retrieved march 24 2013
+2454 congress
+gov h
+2454 gov track h
+2454 open congress
+1196 congress
+gov s
+1196 gov track s
+1196 open congress
+musil steven november 30 2011
+new 'aaron's law' aims alter controversial computer fraud law
+internet & media news
+retrieved january 16 2013
+greenberg andrew ‘andy' january 16 2013
+'aaron's law' suggests reforms computer fraud act enough protected aaron swartz
+retrieved january 16 2013
+kerr oren aaron's law drafting best limits cfaa reader poll few examples volokh conspiracy 27 january 2013
+retrieved 23 april 2013
+help protect next aaron swartz
+january 2013
+retrieved february 7 2013
+reform draconian computer crime law
+retrieved february 7 2013
+lawrence lessig
+next words lecture aaron's law
+retrieved february 21 2013
+transcript lawrence lessig 'aaron's laws law justice digital age'
+harvard civil rights-civil liberties law review summary lawrence lessig's chair lecture harvard law school
+january 14 2013
+retrieved may 30 2015
+dekel jonathan may 2014
+swartz doc director oracle larry ellison killed aaron’s law
+peterson andrea february 16 2013
+how fastr will help americans
+retrieved march 24 2013
+wyden bill makes taxpayer funded research available public | press releases | u
+senator ron wyden
+february 14 2013
+retrieved march 24 2013
+white house issues public access directive
+publishers weekly
+retrieved 2013-05-28
+rosenblatt seth november 9 2013
+call action kicks off second aaron swartz hackathon
+cnet news
+retrieved 10 november 2013
+guthrie weissman cale november 2013
+tonight begins second annual aaron swartz hackathon
+pando daily
+retrieved 10 november 2013
+aaron swartz hackathon
+archived original 29 march 2014
+retrieved 9 november 2013
+higgins parker november 6 2001
+aaron swartz hackathons weekend continue work
+electronic frontier foundation eff
+retrieved 10 november 2013
+rocheleau matt october 21 2013
+aaron swartz' memory hackathons held across globe including mit next month
+retrieved 10 november 2013
+worldwide aaron swartz memorial hackathon series
+retrieved 9 november 2013
+aaron projects
+retrieved 9 november 2013
+lessig lawrence 10 january 2014
+aaron's walk new hampshire rebellion
+huffington post
+retrieved 5 september 2014
+boyko brian january 2014
+thank you
+retrieved 5 september 2014
+bug inc
+private company information
+bloomberg business
+retrieved may 30 2015
+company owns operates portals allow users post contents create websites
+october 31 2006 [it] subsidiary condénet inc
+key executives bug inc
+huffman president director
+swartz treasurer director
+ohanian secretary director
+there third ‘co-founder’ reddit today learned reddit 2010-10-18 aaron isn’t founder reddit
+further reading nanos janelle january 2014
+losing aaron
+peters justin 2016
+idealist aaron swartz rise free culture internet
+biography swartz
+poulsen kevin
+mit moves intervene release aaron swartz's secret service file
+july 18 2013
+documentary video brian knappenberger producer director internet's own boy story aaron swartz
+participant media 2014
+via internet archive www
+org/ run time 105 minutes
+ali akbarzadeh director killswitch battle control internet akorn entertainment 2014 external links find aaron swartzat wikipedia's sister projects media commons news stories wikinews quotations wikiquote source texts wikisource official website wikipedia user page 2004–2013 aaron swartz twitter remembrances 2013– obituary official statement family partner internet's own boy story aaron swartz documentary network june 29 2014 film brian knappenberger - luminant media aaron swartz collection internet archive 2013– podcasts e-mail correspondence other materials guerilla open access manifesto aaron swartz internet movie database posting swartz wikipedia contributor 2013 wikipedian case docket us v
+swartz report president mit prosecution aaron swartz jstor evidence united states vs
+aaron swartz collection documents events jstor's perspective
+hundreds emails other documents provided government concerning case
+federal law enforcement documents aaron swartz released under freedom information act vte free culture open movements concepts citizen science commons-based peer production knowledge commons open access open collaboration open content open communication open data open design open education open government open innovation open knowledge open patent open research open science open-source architecture open-source software open-source governance open-source journalism open source hardware open standards open university admissions open web p2 p economic system tools free open-source software open educational resources open music model open notebook science organizations creative commons diybio free software foundation open architecture network open knowledge foundation open rights group open source initiative p2 p foundation pirate party plos sparc activists alexandra elbakyan aaron swartz douglas rushkoff john wilbanks lawrence lessig peter murray-rust peter suber peter sunde richard stallman tim berners-lee projects creative commons license definition free cultural works free culture movement free software movement open source ecology open cores open wet ware sci-hub vte internet hall fame pioneers2012 paul baran† vint cerf danny cohen steve crocker donald davies† elizabeth j
+feinler charles herzfeld robert kahn peter t
+kirstein leonard kleinrock john klensin jon postel† louis pouzin lawrence roberts 2013 david clark david farber howard frank kanchana kanchanasut j
+licklider† bob metcalfe jun murai kees neggers nii quaynor glenn ricart robert taylor stephen wolff werner zorn 2014 douglas engelbart† susan estrada frank heart dennis jennings rolf nordhagen† radia perlman global connectors2012 randy bush kilnam chon al gore nancy hafkin geoff huston brewster kahle daniel karrenberg toru takahashi tan tin wee 2013 karen banks gihan dias anriette esterhuysen steve goldstein teus hagen ida holz qiheng hu haruhisa ishida† barry leiner† george sadowsky 2014 dai davies demi getschko masaki hirabaru† erik huizer steven huter abhaya induruwa dorcas muthoni mahabir pun srinivasan ramani michael roberts ben segal douglas van houweling innovators2012 mitchell baker tim berners-lee robert cailliau van jacobson lawrence landweber paul mockapetris craig newmark raymond tomlinson linus torvalds philip zimmermann 2013 marc andreessen john perry barlow françois flückiger stephen kent anne-marie eklund löwinder henning schulzrinne richard stallman aaron swartz† jimmy wales 2014 eric allman eric bina karlheinz brandenburg john cioffi hualin qian paul vixie vte intellectual property activism issues debates copyright infringement copyright infringement software digital rights management gripe site intellectual property legal aspects file sharing mashup videos music music piracy orphan works patents public domain software patent debate patent trolling concepts rights reversed alternative compensation system anti-copyright notice business models open source software copyleft commercial use copyleft works commons-based peer production free content free software license infoanarchism libertarian positions open content open design open music model open patent open-source hardware open source software share-alike video demand movements access knowledge movement anti-copyright cultural environmentalism free culture movement free software movement organizations copyright alliance creative commons electronic frontier foundation free software foundation open rights group organization transformative works pirate bay piratbyrån pirate party students free culture people rickard falkvinge lawrence lessig richard stallman peter sunde aaron swartz documentaries steal film 2006 2007 good copy bad copy 2007 ri p! remix manifesto 2008 tpb afk pirate bay away keyboard 2013 authority control world cat identities viaf 296671122 lccn no2013012100 isni 0000 0004 0183 9430 gnd 104371300 x sudoc 181263181 music brainz 26467 fed-1 c0 b-4039-926 a-b5879 da6 ea90

@@ -1,0 +1,106 @@
+jaegwon kim born 1934-09-12 september 12 1934 age 81 daegu korea now s
+korea era 21 st-century philosophy region western philosophy school analytic main interests philosophy mind metaphysics · epistemology action theory philosophy science notable ideas reductive physicalism weak supervenience influences carl hempel · roderick chisholm jaegwon kim hangul 김재권 hanja 金在權 revised romanization gim jaegwon mc cune–reischauer kim chaegwǒn jaegwon kim born september 12 1934 korean-american philosopher now emeritus professor brown university also taught several other leading american universities
+best known work mental causation mind-body problem metaphysics supervenience events
+key themes work include rejection cartesian metaphysics limitations strict psychophysical identity supervenience individuation events
+kim's work these other contemporary metaphysical epistemological issues well represented papers collected supervenience mind selected philosophical essays 1993
+contents biography 2 work 2
+philosophy mind 2
+2 argument against non-reductive physicalism 2
+3 metaphysics 2
+4 epistemology 3 selected publications 4 see also 5 references 6 external links biography kim took two years college seoul south korea french literature major before transferring dartmouth college 1955
+soon after dartmouth changed combined major french mathematics philosophy received
+after dartmouth went princeton university earned ph
+kim emeritus william herbert perry faunce professor philosophy brown university since 1987
+also taught swarthmore college cornell university university notre dame johns hopkins university many years university michigan ann arbor
+1988–1989 president american philosophical association central division
+since fellow american academy arts sciences
+along ernest sosa joint editor quarterly philosophical journal noûs
+according kim two major philosophical influences carl hempel roderick chisholm
+hempel sent letter encouraging go princeton formative influence
+specifically kim claims hopes learned certain style philosophy emphasizes clarity responsible argument aversion studied obscurities feigned profundities
+chisholm learned fear metaphysics
+allowed go beyond logical positivist approaches learned hempel investigations metaphysics philosophy mind
+although logical positivist kim's work respected limitations philosophical speculation imposed sciences
+work kim's philosophical work focuses areas philosophy mind metaphysics action theory epistemology philosophy science
+philosophy mind kim defended various mind-body theories during career
+began defending version identity theory early 1970 s then moved non-reductive version physicalism relied heavily supervenience relation
+recently rejected strict physicalism grounds insufficient basis resolving mind-body problem
+particular concluded hard problem consciousness—according detailed comprehensive neurophysical description brain still account fact consciousness—is insurmountable context thoroughgoing physicalism
+arguments against physicalism found two latest monographs mind physical world 1998 physicalism something near enough 2005
+kim claims physicalism will able survive intact entirety
+according kim because qualia phenomenal qualitative aspect mental states cannot reduced physical states processes
+kim claims phenomenal mental properties functionally definable hence functionally irreducible functional reduction doesn't work qualia nothing will thus there aspect mind physicalism cannot capture
+kim currently defends thesis intentional mental states e
+beliefs desires functionally reduced their neurological realizers qualitative phenomenal mental states e
+sensations irreducibly non-physical epiphenomenal
+thus defends version dualism although kim argues physicalism near enough
+march 2008 kim still sees physicalism most comprehensive world view irreplaceable any other world view
+2008 interview korean daily newspaper joongang ilbo kim stated must seek naturalistic explanation mind because mind natural phenomenon supernatural explanation provides riddle over another
+believes any correct explanation nature mind come natural science rather philosophy psychology
+argument against non-reductive physicalism figure demonstration how m1 m2 reduced p1 p2
+kim raised objection based causal closure overdetermination non-reductive physicalism
+non-reductive physicalist committed following three principles irreducibility mental physical version mental-physical supervenience causal efficaciousness mental states
+problem according kim these three commitments combined few other well-accepted principles inconsistency generated entails causal impotence mental properties
+first principle most ontological physicalists accept causal closure physical domain according every physical effect sufficient physical cause
+second principle kim notes causal exclusion holds no normal event sufficient cause
+problem behavior cannot cause both physical event supervening mental event without resulting case overdetermination thus violating principle causal exclusion
+result physical causes exclude mental states causally contributing behavior
+detail proposes using chart right m1 causes m2 these mental events p1 causes p2 these physical events
+m1 p1 supervenience base m2 p2 supervenience base
+way m1 cause m2 causing supervenience base p2 case mental-to-physical causation
+p1 causes p2 m1 causes p2 then case causal overdetermination
+applying principle causal-exclusion either p1 m1 must eliminated cause p2
+given principle causal closure physical domain m1 excluded
+non-reductive physicalist forced choose two unappealing options reject causal-exclusion principle claim scenario dealing genuine case overdetermination embrace epiphenomenalism
+kim argues mental causation preserved rejecting premise irreducibility favor reduction order mental properties considered causally efficacious must reducible physical properties
+metaphysics kim's work metaphysics focuses primarily events properties
+kim developed event identity theory defended recently
+theory holds events identical occur same time place instantiate same property
+thus waves ten fingers several events occur including waving even number fingers event waving fingers evenly divisible five evenly divisible ten
+criticized theory producing too many events
+kim also theorized events structured
+known property-exemplification account events
+composed three things objects property time temporal interval
+events defined using operation [x p t]
+[citation needed] unique event defined two principles existence condition identity condition
+existence condition states [x p t] exists object x exemplifies n-adic p time t
+means unique event exists above met
+identity condition states [x p t] [y q t`] x=y p=q t=t`
+[citation needed] epistemology kim critic naturalized epistemology popularized willard van orman quine latter half twentieth century
+kim's influential article 'naturalized epistemology'? 1988 argues naturalized epistemologies like quine's proper epistemologies merely descriptive scope while generally expects epistemology make normative claims knowledge
+kim argues mere description belief-forming practices cannot account justified belief
+also argues even individuate beliefs naturalized epistemologist must presuppose normative criteria justification
+naturalized epistemology cannot address issue justification therefore does share same aspiration traditional approach epistemology
+selected publications following partial list publications jaegwon kim
+1984 epiphenomenal supervenient causation midwest studies philosophy vol
+ix peter
+french theodore e
+uehling jr
+howard k
+wettstein eds
+minneapolis university minnesota press 1984 pp
+1988 'naturalized epistemology'? philosophical perspectives vol
+2 1988 381-405
+1993 supervenience mind cambridge university press
+1998 mind physical world mit press
+1999 making sense emergence philosophical studies 95 pp
+2005 physicalism something near enough princeton university press
+chapter pdf 2006 philosophy mind 2 nd ed
+westview press
+see also american philosophy list american philosophers list korean philosophers references c archived october 17 2007 wayback machine
+kim jaegwon
+retrieved 2015-05-08
+brown university
+home | philosophy
+retrieved 2015-05-08
+kim 1984
+kim 2005 p
+kim 2005 p
+c kim kihyeon 세계적 철학자 7명 릴레이 인터뷰 ⑧·끝 김재권 미 브라운대 석좌교수 relay interview 7 world renown philosophers ⑧ end jaegwon kim william herbert perry faunce professor philosophy brown university joongang ilbo newspaper article march 2008
+2003 blocking causal drainage other maintenance chores mental causation philosophy phenomenological research 67
+external links jaegwon kim's homepage - brown university
+interview jaegwon kim fall 2000 originally ephilosopher
+com now available blog
+jaegwon kim's cv vte philosophy mind philosophers anscombe austin aquinas bain bergson bhattacharya block brentano broad burge chalmers churchland dennett dharmakirti davidson descartes goldman heidegger husserl fodor james kierkegaard leibniz lewis mc dowell merleau-ponty minsky moore nagel parfit putnam popper rorty ryle searle spinoza turing vasubandhu wittgenstein zhuangzi
+theories behaviorism biological naturalism dualism eliminative materialism emergent materialism epiphenomenalism functionalism idealism interactionism materialism monism naïve realism neutral monism phenomenalism phenomenology existential neurophenomenology physicalism identity theory pragmatism property dualism representational solipsism subjectivism substance dualism concepts abstract object artificial intelligence chinese room cognition cognitive closure concept concept object consciousness hard problem consciousness hypostatic abstraction idea identity ingenuity intelligence intentionality introspection intuition language thought materialism mental event mental image mental process mental property mental representation mind mind–body problem new mysterianism pain problem other minds propositional attitude qualia tabula rasa understanding zombie
+related topics metaphysics philosophy artificial intelligence / information / perception / self portal category task force discussion authority control world cat identities viaf 34538036 lccn n78038667 isni 0000 0001 2127 4041 gnd 143167537 sudoc 032802498 bnf cb123761302 data ndl 01052043

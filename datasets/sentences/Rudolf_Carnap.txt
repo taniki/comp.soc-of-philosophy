@@ -1,0 +1,285 @@
+rudolf carnap born 1891-05-18 may 18 1891 ronsdorf lennep düsseldorf rhine prussia german empire died september 14 19701970-09-14 aged 79 santa monica california u
+alma mater university jena ph 1921 era 20 th-century philosophy region western philosophy school analytic main interests logic · epistemology philosophy science semantics notable ideas physicalism phenomenalism linguistic terms analytic–synthetic distinction revised semantics modal logic constructed systems carnap's categoricity problem conceptual schemes beobachtungssatz logical positivism influences frege · kant · einstein · mach · brentano russell · husserl · wittgenstein · tarski · bauch influenced quine · ayer · bar-hillel · popper · tarski gödel · hempel · reichenbach · waismann kuhn · lakatos · davidson · dummett · lewis goodman · kaplan · sellars · jeffrey · simon rudolf carnap /ˈkɑːrnæp/ german [ˈkaɐ̯naːp] may 18 1891 september 14 1970 german-born philosopher active europe before 1935 united states thereafter
+major member vienna circle advocate logical positivism
+considered giants among twentieth-century philosophers
+contents life work 2 logical syntax 2
+purpose logical syntax 3 rejection metaphysics 3
+function logical analysis 4 primary source materials 5 selected publications 6 see also 7 references sources 9 external links life work carnap's birthplace wuppertal carnap's father risen status poor ribbon-weaver become owner ribbon-making factory
+mother came academic stock her father educational reformer her oldest brother archaeologist wilhelm dörpfeld
+ten-year-old carnap accompanied uncle expedition greece
+began formal education barmen gymnasium
+1910 1914 attended university jena intending write thesis physics
+also studied carefully kant's critique pure reason during course taught bruno bauch very few students attend gottlob frege's courses mathematical logic
+while carnap held moral political opposition world war felt obligated serve german army
+after three years service given permission study physics university berlin 1917–18 albert einstein newly appointed professor
+carnap then attended university jena thesis defining axiomatic theory space time
+physics department too philosophical bruno bauch philosophy department pure physics
+carnap then another thesis 1921 bauch's supervision theory space orthodox kantian style published raum space supplemental issue kant-studien 1922
+makes clear distinction formal physical perceptual e
+visual spaces
+frege's course exposed bertrand russell's work logic philosophy put sense aims studies
+accepted effort surpass traditional philosophy logical innovations inform sciences
+letter russell responded copying hand long passages principia mathematica carnap's benefit neither carnap nor university afford copy epochal work
+1924 1925 attended seminars led edmund husserl founder phenomenology continued write physics logical positivist perspective
+carnap discovered kindred spirit met hans reichenbach 1923 conference
+reichenbach introduced carnap moritz schlick professor university vienna offered carnap position department carnap accepted 1926
+carnap thereupon joined informal group viennese intellectuals came known vienna circle directed largely moritz schlick including hans hahn friedrich waismann otto neurath herbert feigl occasional visits hahn's student kurt gödel
+wittgenstein visited vienna carnap meet
+hahn neurath 1929 manifesto circle hans reichenbach initiated philosophy journal erkenntnis
+1928 carnap published two important books logical structure world german logische aufbau welt developed rigorous formal version empiricism defining scientific terms phenomenalistic terms
+formal system aufbau work commonly termed grounded single primitive dyadic predicate satisfied two individuals resemble each other
+aufbau greatly influenced principia mathematica warrants comparison mereotopological metaphysics
+whitehead developed over 1916–29
+appears however carnap soon became somewhat disenchanted book
+particular authorize english translation until 1967
+pseudoproblems philosophy asserted many philosophical questions meaningless
+way posed amounted abuse language
+operational implication opinion taken elimination metaphysics responsible human discourse
+statement carnap best known many years
+see also carnap–ramsey sentence february 1930 tarski lectured vienna during november 1930 carnap visited warsaw
+these occasions learned much tarski's model theoretic method semantics
+rose rand another philosopher vienna circle noted carnap's conception semantics starts basis given tarski's work distinction made logical non-logical constants logical factual truth
+same time worked concepts intension extension took these two concepts basis new method semantics
+1931 carnap appointed professor german language university prague
+there book make most famous logical positivist member vienna circle logical syntax language carnap 1934
+work carnap advanced principle tolerance according there any such thing true correct logic language
+free adopt whatever form language useful one's purposes
+1933 w
+quine met carnap prague discussed latter's work length
+thus began lifelong mutual respect these two men shared survived quine's eventual forceful disagreements number carnap's philosophical conclusions
+carnap whose socialist pacifist beliefs put risk nazi germany emigrated united states 1935 became naturalized citizen 1941
+meanwhile back vienna moritz schlick murdered 1936
+1936 1952 carnap professor philosophy university chicago
+during late 1930 s carnap offered assistant position philosophy carl gustav hempel accepted
+two conducted research including logical syntax
+thanks partly quine's help carnap spent years 1939–41 harvard reunited tarski
+carnap 1963 later expressed irritation time chicago charles w
+morris members department committed primacy science logic
+their chicago colleagues included richard mc keon mortimer adler charles hartshorne manley thompson
+carnap's years chicago nonetheless very productive ones
+books semantics carnap 1942 1943 1956 modal logic being very similar carnap 1956 now-standard possible worlds semantics logic saul kripke proposed starting 1959 philosophical foundations probability induction carnap 1950 1952
+after stint institute advanced study princeton joined philosophy department ucla 1954 hans reichenbach having died previous year
+earlier refused offer similar job university california because accepting position required sign loyalty oath practice opposed principle
+while ucla scientific knowledge analytic synthetic dichotomy verification principle
+writings thermodynamics foundations probability induction published posthumously carnap 1971 1977 1980
+carnap taught himself esperanto 14 years age remained sympathetic carnap 1963
+later attended world congress esperanto 1908 1922 employed language while traveling
+carnap four children first marriage elizabeth schöndube ended divorce 1929
+married second wife elizabeth ina stöger 1933
+ina committed suicide 1964
+logical syntax carnap's logical syntax language regarded response wittgenstein 's tractatus
+carnap elaborated extended concept logical syntax proposed wittgenstein tractatus section 3
+order avoid such errors must make use sign-language excludes them using same sign different symbols using superficially similar way signs different modes signification say sign-language governed logical grammar—by logical syntax
+— wittgenstein section 3
+325 tractatus however wittgenstein stated propositions cannot represent logical form
+propositions cannot represent logical form mirrored them
+finds reflection language language cannot represent
+expresses itself language cannot express means language
+propositions show logical form reality
+— wittgenstein section 4
+121 tractatus carnap disagreed
+wittgenstein proposed idea logical syntax
+carnap designed formulated implemented details logical syntax philosophical analysis
+carnap defined logical syntax logical syntax language mean formal theory linguistic forms language systematic statement formal rules govern together development consequences follow these rules
+theory rule definition like called formal no reference made either meaning symbols examples words sense expressions e
+sentences simply solely kinds order symbols expressions constructed
+— carnap page logical syntax language u
+s concept logical syntax helped development natural language processing compiler design
+[citation needed] purpose logical syntax purpose logical syntax provide system concepts language help results logical analysis will exactly formulable
+carnap stated philosophy replaced logic science say logical analysis concepts sentences sciences logic science nothing other logical syntax language science
+— carnap foreword logical syntax language according view sentences metaphysics pseudo-sentences logical analysis proved either empty phrases phrases violate rules syntax
+so-called philosophical problems questions any meaning those logic science
+share view substitute logical syntax philosophy
+— carnap page logical syntax language carnap wanted end metaphysics philosophy
+rejection metaphysics carnap book philosophy logical syntax used concept verifiability reject metaphysics
+function logical analysis carnap used method logical analysis reject metaphysics
+function logical analysis analyse knowledge assertions science everyday life order make clear sense each such assertion connections them
+principal tasks logical analysis given proposition find out method verification proposition
+— carnap page
+9-10 philosophy logical syntax “ question reasons there assert proposition how become certain truth falsehood? primary source materials carnap papers consist approximately 10000 personal letters correspondence
+papers donated daughter hanna carnap-thost 1974
+documents contain financial medical personal information restricted
+these written over entire life career
+carnap used mail regularly discuss philosophical problems hundreds others
+most notable herbert feigl carl gustav hempel felix kaufmann otto neurath moritz schlick
+photographs also part collection taken throughout life
+family pictures photographs peers colleagues also stored collection
+correspondence considered notable consist student notes seminars frege describing begriffsschrift logic mathematics
+carnap's notes russell's seminar chicago notes took discussions tarski heisenberg quine hempel gödel jeffrey part university pittsburgh's archives colllections
+digitized contents include notes old 1958-1966 1000 pages lecture outlines preserved cover courses carnap taught united states prague vienna prague
+drafts published works unpublished works part collection
+includes manuscript drafts typescripts both published works many unpublished papers books
+partial listing include first formulations aufbau
+quasizerlegung1932 vom chaos zur wirklichkeit1922 topologie raum-zeit-welt topology space-time world 1924 later 104-page piece logical reconstruction space-time framework without use mathematics
+holdings include large number unpublished papers
+much material written older german shorthand stolze-schrey system
+employed writing system extensively beginning student days
+much content digitized
+university california also maintains collection rudolf carnap papers
+microfilm copies papers maintaind philosophical archives university konstanz germany
+selected publications links carnap's publications discussions work see carnap fields study
+microsoft academic search
+retrieved 2013-05-26
+raum ein beitrag zur wissenschaftslehre kant-studien ergänzungshefte no
+physikalische begriffsbildung
+karlsruhe braun
+scheinprobleme philosophie pseudoproblems philosophy
+berlin weltkreis-verlag
+logische aufbau welt
+leipzig felix meiner verlag
+english translation rolf
+george 1967
+logical structure world
+pseudoproblems philosophy
+university california press
+abriss logistik mit besonderer berücksichtigung relationstheorie und ihrer anwendungen
+logische syntax sprache
+english translation 1937 logical syntax language
+kegan paul
+1996 1935
+philosophy logical syntax
+bristol uk thoemmes
+1939 foundations logic mathematics international encyclopedia unified science vol
+university chicago press
+introduction semantics
+harvard uni
+formalization logic
+harvard uni
+inductive logic philosophy science vol
+12 p
+two concepts probability philosophy phenomenological research vol
+5 no
+4 jun p
+application inductive logic philosophy phenomenological research vol
+1956 1947
+meaning necessity study semantics modal logic
+university chicago press
+logical foundations probability
+university chicago press
+3–15 online
+empiricism semantics ontology revue internationale de philosophie 4 20–40
+continuum inductive methods
+university chicago press
+introduction symbolic logic applications
+dover publications new york
+1963 intellectual autobiography schilpp 1963 1–84
+philosophical foundations physics
+martin gardner ed
+basic books
+online excerpt
+studies inductive logic probability vol
+university california press
+two essays entropy
+shimony abner ed
+university california press
+studies inductive logic probability vol
+jeffrey r
+university california press
+untersuchungen zur allgemeinen axiomatik
+edited unpublished manuscript t
+bonk j
+darmstadt wissenschaftliche buchgesellschaft
+167 pp
+online bibliography
+under construction no entries dated later 1937
+see also analytic–synthetic distinction carnap–ramsey sentence internal–external distinction meta-ontology philosophy science skepticism visual space references carnap
+random house webster's unabridged dictionary
+org/view?doc id=hb6 h4 nb3 q7&doc
+id= quine w
+rudolf carnap 1990
+dear carnap dear van quine-carnap correspondence related work
+berkeley ca university california press
+rand rose
+reading notes summaries works rudolph carnap 1932 undated pdf
+rose rand papers
+special collections department university pittsburgh
+retrieved may 16 2013
+carnap rudolf
+rudolf carnap papers
+special collections department university pittsburgh
+retrieved september 17 2013
+guides archives manuscript collections university pittsburgh library system
+missing empty |url= help |access-date= requires |url= help notes old 1958-1966 box 19 folder 7 rudolf carnap papers 1905-1970 asp
+01 special collections department university pittsburgh pdf
+retrieved 2015-12-02
+finding aid rudolf carnap papers 1920-1968
+retrieved 2015-12-02
+weiss paul 1929
+review abriss logistik rudolf carnap pdf
+35 6 880–881
+mac lane saunders 1938
+review logical syntax language rudolf carnap translated german amethe smeaton pdf
+3 171–176
+church alonzo 1939
+review foundations logic mathematics rudolf carnap pdf
+sources richard creath michael friedman ed
+cambridge companion carnap
+cambridge university press
+roger f gibson ed
+cambridge companion quine
+cambridge university press
+ivor grattan-guinness 2000
+search mathematical roots
+princeton uni
+thomas mormann 2000
+rudolf carnap book
+münchen beck
+willard quine 1951 two dogmas empiricism
+philosophical review 60 20–43
+reprinted 1953 logical point view
+harvard university press
+1985 time my life autobiography
+mit press
+richardson alan w
+carnap's construction world aufbau emergence logical empiricism
+cambridge uni
+schilpp p
+philosophy rudolf carnap
+salle il open court
+spohn wolfgang ed
+erkenntnis orientated centennial volume rudolf carnap hans reichenbach
+kluwer academic publishers
+logic language structure scientific theories proceedings carnap-reichenbach centennial university konstanz may 21–24
+university pittsburgh press
+wagner pierre ed
+carnap's logical syntax language
+palgrave macmillan
+wagner pierre ed
+carnap's ideal explication naturalism
+palgrave macmillan
+external links wikiquote quotations related rudolf carnap rudolf carnap entry mauro murzi internet encyclopedia philosophy carnap's modal logic entry m
+cresswell internet encyclopedia philosophy rudolf carnap webpage directory internet resources homepage collected works rudolf carnap
+department philosophy carnegie mellon university precis carnap's philosophy
+life rudolf carnap philosophy rbjones
+com r
+carnap von erkenntnistheorie zur wissenschaftslogik paris congress 1935 paris 1936
+carnap über die einheitssprache wissenschaft paris congress 1935 paris 1936
+carnap wahrheit und bewährung paris congress 1935 paris 1936
+rudolf carnap papers rudolf carnap papers 1905-1970 asp
+01 special collections department university pittsburgh
+das fremdpsychische bei rudolf carnap german robert bauer
+fbi file rudolph carnap luchte james 2007
+martin heidegger rudolf carnap radical phenomenology logical positivism roots continental/analytic divide
+philosophy today 51 3 241–260
+vte analytic philosophy philosophers robert merrihew adams william p
+alston j
+ayer g
+anscombe david malet armstrong robert audi robert brandom c
+broad tyler burge john p
+burgess rudolf carnap roderick chisholm patricia churchland paul churchland david chalmers noam chomsky donald davidson daniel dennett michael dummett bas van fraassen gottlob frege jerry fodor philippa foot peter geach
+grayling paul grice alvin goldman peter hacker r
+hare gilbert harman john hawthorne ian hacking carl hempel jaakko hintikka peter van inwagen frank cameron jackson christine korsgaard saul kripke david lewis j
+mackie norman malcolm john mc dowell g
+moore thomas nagel robert nozick derek parfit
+phillips alvin plantinga
+prior hilary putnam w
+quine john rawls hans reichenbach bertrand russell gilbert ryle john searle moritz schlick wilfrid sellars peter singer peter strawson richard swinburne peter unger bernard williams timothy williamson john wisdom ludwig wittgenstein stephen yablo
+theories deflationism direct reference theory empiricism holism logical atomism logical positivism naturalism naturalized epistemology neopragmatism neutral monism particularism reductionism scientism skepticism verificationism
+concepts analysis analytic–synthetic distinction causal / deductive / epistemic closure concept counterfactual denotation / reference definite description factive family resemblance intuition meaning proposition modality natural kind / projectability necessary–sufficient conditions paradox analysis possible world reduction reflective equilibrium rigid–flaccid designators sense data supervenience thought experiment truth function truthmaker truth-bearer type–token distinction related articles australian realism ordinary language philosophy philosophical logic philosophy language philosophy science postanalytic philosophy
+category task force discussion philosophy stubs vte philosophy language philosophers plato cratylus gorgias confucius xunzi aristotle stoics pyrrhonists scholasticism ibn rushd ibn khaldun thomas hobbes gottfried wilhelm leibniz johann herder ludwig noire wilhelm von humboldt fritz mauthner paul ricœur ferdinand de saussure gottlob frege franz boas paul tillich edward sapir leonard bloomfield zhuangzi henri bergson lev vygotsky ludwig wittgenstein philosophical investigations tractatus logico-philosophicus bertrand russell rudolf carnap jacques derrida grammatology limited inc benjamin lee whorf gustav bergmann j
+austin noam chomsky hans-georg gadamer saul kripke
+ayer g
+anscombe jaakko hintikka michael dummett donald davidson paul grice gilbert ryle p
+strawson willard van orman quine hilary putnam david lewis john searle joxe azurmendi scott soames stephen yablo john hawthorne stephen neale theories causal theory reference contrast theory meaning contrastivism conventionalism cratylism deconstruction descriptivist theory names direct reference theory dramatism expressivism linguistic determinism logical atomism logical positivism mediated reference theory nominalism non-cognitivism phallogocentrism quietism relevance theory semantic externalism semantic holism structuralism supposition theory symbiosism theological noncognitivism theory descriptions verification theory concepts ambiguity linguistic relativity meaning language truth-bearer proposition use–mention distinction concept categories set class intension logical form metalanguage mental representation principle compositionality property sign sense reference speech act symbol entity sentence statement
+related articles analytic philosophy philosophy information philosophical logic linguistics pragmatics rhetoric semantics formal semantics semiotics category task force discussion vte philosophy science concepts analysis analytic–synthetic distinction priori posteriori causality commensurability consilience construct creative synthesis demarcation problem empirical evidence explanatory power fact falsifiability feminist method ignoramus et ignorabimus inductive reasoning intertheoretic reduction inquiry nature objectivity observation paradigm problem induction scientific law scientific method scientific revolution scientific theory testability theory choice theory-ladenness underdetermination unity science metatheoryof science coherentism confirmation holism constructive empiricism constructive realism constructivist epistemology contextualism conventionalism {deductive-nomological model hypothetico-deductive model inductionism} epistemological anarchism fallibilism foundationalism instrumentalism pragmatism model-dependent realism naturalism physicalism positivism-reductionism-determinism rationalism / empiricism received view / semantic view theories scientific realism / anti-realism scientific essentialism scientific formalism scientific skepticism scientism structuralism uniformitarianism vitalism philosophy physics thermal statistical motion chemistry biology environment geography social science technology engineering artificial intelligence computer science information mind psychology perception space time related topics alchemy criticism science epistemology faith rationality history philosophy science history science history evolutionary thought logic metaphysics pseudoscience relationship religion science rhetoric science sociology scientific knowledge sociology scientific ignorance philosophers science era ancient plato aristotle stoicism epicurians medieval averroes avicenna roger bacon william ockham hugh saint victor dominicus gundissalinus robert kilwardby early modern francis bacon thomas hobbes rené descartes galileo galilei pierre gassendi isaac newton david hume classical modern immanuel kant friedrich schelling auguste comte william whewell wilhelm windelband john stuart mill herbert spencer pierre duhem henri poincaré wilhelm wundt late modern albert einstein bertrand russell alfred north whitehead rudolf carnap w
+quine bas van fraassen carl gustav hempel charles sanders peirce daniel dennett hans reichenbach ian hacking imre lakatos jürgen habermas karl pearson karl popper larry laudan michael polanyi otto neurath paul feyerabend thomas kuhn portal category authority control world cat identities viaf 73895990 lccn n78081239 isni 0000 0001 2102 3509 gnd 118519158 selibr 181191 sudoc 030294193 bnf cb12174058 data ulan 500270505 nla 35025971 ndl 00435317 nkc jn20000601132 bne xx1060782

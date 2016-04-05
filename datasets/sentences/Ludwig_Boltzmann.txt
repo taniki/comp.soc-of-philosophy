@@ -1,0 +1,279 @@
+boltzmann redirects here
+other uses see boltzmann disambiguation
+ludwig boltzmann ludwig boltzmann born ludwig eduard boltzmann1844-02-20 february 20 1844 vienna austrian empire present-day austria died september 5 19061906-09-05 aged 62 tybein near trieste austria-hungary present-day duino italy suicide residence austria germany nationality austrian fields physics institutions university graz university vienna university munich university leipzig alma mater university vienna doctoral advisor josef stefan doctoral students paul ehrenfest philipp frank gustav herglotz franc hočevar ignacij klemenčič other notable students lise meitner stefan meyer known boltzmann constant boltzmann equation boltzmann distribution h-theorem maxwell–boltzmann distribution stefan–boltzmann constant stefan–boltzmann law maxwell-boltzmann statistics boltzmann factor notable awards mem rs 1899 signature ludwig eduard boltzmann february 20 1844 september 5 1906 austrian physicist philosopher whose greatest achievement development statistical mechanics explains predicts how properties atoms such mass charge structure determine physical properties matter such viscosity thermal conductivity diffusion
+contents biography
+childhood education
+2 academic career
+3 final years 2 philosophy 3 physics 4 boltzmann equation 5 second law law disorder 6 energetics evolution 7 awards honours references 9 further reading 10 external links biography childhood education boltzmann born vienna capital austrian empire
+father ludwig georg boltzmann revenue official
+grandfather moved vienna berlin clock manufacturer boltzmann's mother katharina pauernfeind originally salzburg
+received primary education private tutor home parents
+boltzmann attended high school linz upper austria
+boltzmann 15 father died
+boltzmann studied physics university vienna starting 1863
+among teachers josef loschmidt joseph stefan andreas von ettingshausen jozef petzval
+boltzmann received ph degree 1866 working under supervision stefan dissertation kinetic theory gases
+1867 became privatdozent lecturer
+after obtaining doctorate degree boltzmann worked two years stefan's assistant
+stefan introduced boltzmann maxwell's work
+academic career 1869 age 25 thanks letter recommendation written stefan appointed full professor mathematical physics university graz province styria
+1869 spent several months heidelberg working robert bunsen leo königsberger then 1871 gustav kirchhoff hermann von helmholtz berlin
+1873 boltzmann joined university vienna professor mathematics there stayed until 1876
+ludwig boltzmann co-workers graz 1887
+standing left nernst streintz arrhenius hiecke sitting left aulinger ettingshausen boltzmann klemenčič hausmanninger 1872 long before women admitted austrian universities met henriette von aigentler aspiring teacher mathematics physics graz
+she refused permission audit lectures unofficially
+boltzmann advised her appeal she successfully
+july 17 1876 ludwig boltzmann married henriette three daughters two sons
+boltzmann went back graz take up chair experimental physics
+among students graz svante arrhenius walther nernst
+spent 14 happy years graz there developed statistical concept nature
+boltzmann appointed chair theoretical physics university munich bavaria germany 1890
+1893 boltzmann succeeded teacher joseph stefan professor theoretical physics university vienna
+final years boltzmann spent great deal effort final years defending theories
+get along colleagues vienna particularly ernst mach became professor philosophy history sciences 1895
+same year georg helm wilhelm ostwald presented their position energetics meeting lübeck
+saw energy matter chief component universe
+boltzmann's position carried day among other physicists supported atomic theories debate
+1900 boltzmann went university leipzig invitation wilhelm ostwald
+after retirement mach due bad health boltzmann returned vienna 1902
+1903 founded austrian mathematical society together gustav von escherich emil müller
+students included karl przibram paul ehrenfest lise meitner
+vienna boltzmann taught physics also lectured philosophy
+boltzmann's lectures natural philosophy very popular received considerable attention
+first lecture enormous success
+even though largest lecture hall chosen people stood way down staircase
+because great successes boltzmann's philosophical lectures emperor invited reception palace
+boltzmann subject rapid alternation depressed moods elevated expansive irritable moods likely symptoms undiagnosed bipolar disorder
+himself jestingly attributed rapid swings temperament fact born during night shrove tuesday ash wednesday
+meitner relates those close boltzmann aware bouts severe depression suicide attempts
+september 5 1906 while summer vacation duino near trieste boltzmann hanged himself during attack depression
+buried viennese zentralfriedhof tombstone bears inscription entropy formula philosophy boltzmann's kinetic theory gases seemed presuppose reality atoms molecules almost german philosophers many scientists like ernst mach physical chemist wilhelm ostwald disbelieved their existence
+during 1890 s boltzmann attempted formulate compromise position allow both atomists anti-atomists physics without arguing over atoms
+solution use hertz's theory atoms bilder models pictures
+atomists think pictures real atoms while anti-atomists think pictures representing useful unreal model fully satisfy either group
+furthermore ostwald many defenders pure thermodynamics trying hard refute kinetic theory gases statistical mechanics because boltzmann's assumptions atoms molecules especially statistical interpretation second law thermodynamics
+around turn century boltzmann's science being threatened another philosophical objection
+physicists including mach's student gustav jaumann interpreted hertz mean electromagnetic behavior continuous there no atoms molecules likewise physical behavior ultimately electromagnetic
+movement around 1900 deeply depressed boltzmann since mean end kinetic theory statistical interpretation second law thermodynamics
+after mach's resignation vienna 1901 boltzmann returned there decided become philosopher himself refute philosophical objections physics soon became discouraged again
+1904 physics conference st
+louis most physicists seemed reject atoms even invited physics section
+rather stuck section called applied mathematics violently attacked philosophy especially allegedly darwinian grounds actually terms lamarck's theory inheritance acquired characteristics people inherited bad philosophy past hard scientists overcome such inheritance
+1905 boltzmann corresponded extensively austro-german philosopher franz brentano hope gaining better mastery philosophy apparently better refute relevancy science became discouraged approach well
+following year 1906 mental condition became bad resign position
+committed suicide september same year hanging himself while vacation wife daughter near trieste italy
+physics boltzmann's most important scientific contributions kinetic theory including maxwell–boltzmann distribution molecular speeds gas
+addition maxwell–boltzmann statistics boltzmann distribution over energies remain foundations classical statistical mechanics
+applicable many phenomena require quantum statistics provide remarkable insight meaning temperature
+boltzmann's 1898 i2 molecule diagram showing atomic sensitive region α β overlap
+much physics establishment share belief reality atoms molecules — belief shared however maxwell scotland gibbs united states most chemists since discoveries john dalton 1808
+long-running dispute editor preeminent german physics journal day refused let boltzmann refer atoms molecules anything other convenient theoretical constructs
+couple years after boltzmann's death perrin's studies colloidal suspensions 1908–1909 based einstein's theoretical studies 1905 confirmed values avogadro's number boltzmann's constant convinced world tiny particles really exist
+quote planck logarithmic connection entropy probability first stated l
+boltzmann kinetic theory gases
+famous formula entropy s k boltzmann's constant ln natural logarithm
+w wahrscheinlichkeit german word meaning probability occurrence macrostate precisely number possible microstates corresponding macroscopic state system — number unobservable ways observable thermodynamic state system realized assigning different positions momenta various molecules
+boltzmann's paradigm ideal gas n identical particles ni ith microscopic condition range position momentum
+w counted using formula permutations ranges over possible molecular conditions
+denotes factorial
+correction denominator because identical particles same condition indistinguishable
+boltzmann also founders quantum mechanics due suggestion 1877 energy levels physical system discrete
+equation s engraved boltzmann's tombstone vienna zentralfriedhof — second grave
+boltzmann equation boltzmann's bust courtyard arcade main building university vienna
+main article boltzmann equation boltzmann equation developed describe dynamics ideal gas
+ƒ represents distribution function single-particle position momentum given time see maxwell–boltzmann distribution f force m mass particle t time v average velocity particles
+equation describes temporal spatial variation probability distribution position momentum density distribution cloud points single-particle phase space
+see hamiltonian mechanics
+first term left-hand side represents explicit time variation distribution function while second term gives spatial variation third term describes effect any force acting particles
+right-hand side equation represents effect collisions
+boltzmann's grave zentralfriedhof vienna bust entropy formula
+principle above equation completely describes dynamics ensemble gas particles given appropriate boundary conditions
+first-order differential equation deceptively simple appearance since ƒ represent arbitrary single-particle distribution function
+also force acting particles depends directly velocity distribution function ƒ
+boltzmann equation notoriously difficult integrate
+david hilbert spent years trying solve without any real success
+form collision term assumed boltzmann approximate
+however ideal gas standard chapman–enskog solution boltzmann equation highly accurate
+expected lead incorrect results ideal gas under shock wave conditions
+boltzmann tried many years prove second law thermodynamics using gas-dynamical equation — famous h-theorem
+however key assumption made formulating collision term molecular chaos assumption breaks time-reversal symmetry necessary anything imply second law
+probabilistic assumption alone boltzmann's apparent success emanated long dispute loschmidt others over loschmidt's paradox ultimately ended failure
+finally 1970 s e
+cohen j
+dorfman proved systematic power series extension boltzmann equation high densities mathematically impossible
+consequently nonequilibrium statistical mechanics dense gases liquids focuses green–kubo relations fluctuation theorem other approaches instead
+second law law disorder idea second law thermodynamics entropy law law disorder dynamically ordered states infinitely improbable due boltzmann's view second law
+particular attempt reduce stochastic collision function law probability following random collisions mechanical particles
+following maxwell boltzmann modeled gas molecules colliding billiard balls box noting each collision nonequilibrium velocity distributions groups molecules moving same speed same direction become increasingly disordered leading final state macroscopic uniformity maximum microscopic disorder state maximum entropy macroscopic uniformity corresponds obliteration field potentials gradients
+second law argued thus simply result fact world mechanically colliding particles disordered states most probable
+because there many possible disordered states ordered ones system will almost found either state maximum disorder macrostate greatest number accessible microstates such gas box equilibrium moving towards
+dynamically ordered state molecules moving same speed same direction boltzmann concluded thus most improbable case conceivable
+infinitely improbable configuration energy
+boltzmann accomplished feat showing second law thermodynamics statistical fact
+gradual disordering energy analogous disordering initially ordered pack cards under repeated shuffling just cards will finally return their original order shuffled gigantic number times entire universe must day regain pure chance state first set out
+optimistic coda idea dying universe becomes somewhat muted attempts estimate timeline will probably elapse before spontaneously occurs
+tendency entropy increase seems cause difficulty beginners thermodynamics easy understand standpoint theory probability
+consider two ordinary dice both sixes face up
+after dice shaken chance finding these two sixes face up small 36 thus say random motion agitation dice like chaotic collisions molecules because thermal energy causes less probable state change probable
+millions dice like millions atoms involved thermodynamic calculations probability their being sixes becomes vanishingly small system must move probable states
+however mathematically odds dice results being pair sixes also hard ones them being sixes since statistically data tend balance every 36 pairs dice will tend pair sixes
+cards shuffled will sometimes present certain temporary sequence order even whole disordered
+energetics evolution section needs additional citations verification
+please help improve article adding citations reliable sources
+unsourced material may challenged removed
+november 2015 boltzmann's views played essential role development energetics scientific study energy flows under transformation
+1922 example alfred j
+lotka referred boltzmann first proponents proposition available energy understood fundamental object under contention biological competition life-struggle species therefore also evolution organic world
+lotka interpreted boltzmann's view imply available energy central concept unified physics biology quantitative physical principle evolution
+foreword boltzmann's theoretical physics philosophical problems s
+de groot noted “ boltzmann tremendous admiration darwin wished extend darwinism biological cultural evolution
+fact considered biological cultural evolution same things
+short cultural evolution physical process taking place brain
+boltzmann included ethics ideas developed fashion
+awards honours 1885 became member imperial austrian academy sciences 1887 became president university graz
+elected member royal swedish academy sciences 1888 foreign member royal society mem rs 1899
+following named honour list things named after ludwig boltzmann - 12 streets austria germany named after boltzmann's energy equipartition theorem boltzmann brain boltzmann machine boltzmann equation lattice boltzmann methods used computational fluid dynamics ludwig boltzmann gesellschaft boltzmann medal boltzmann crater references fellows royal society
+london royal society
+archived original 2015-03-16
+južnič stanislav december 2001
+ludwig boltzmann prva študentka fizike matematike slovenskega rodu [ludwig boltzmann first student physics mathematics slovene descent]
+net slovenian 12
+retrieved 17 february
+paul ehrenfest 1880–1933 along nernst[] arrhenius meitner must considered among boltzmann's most outstanding students
+—jäger gustav nabl josef meyer stephan april 1999
+three assistants boltzmann
+synthese 119 1–2 69–84
+walther hermann nernst visited lectures ludwig boltzmann max planck 1896
+gegen die neure energetik
+annalen physik 57 72–78
+bibcode1896 p
+72 p
+ostwald offered boltzmann professorial chair physics vacated upon death gustav heinrich wiedemann
+upon boltzmann's resignation theodor des coudres became successor professorial chair leipzig
+ruth lewin sime may 13 1997
+lise meitner life physics
+washington post
+retrieved 2009-02-06
+boltzmann ludwig 1995
+blackmore john t
+ludwig boltzmann later life philosophy 1900-1906 2
+upon boltzmann's death friedrich fritz hasenöhrl became successor professorial chair physics vienna
+eureka! science's greatest thinkers their key breakthroughs hazel muir p
+152 max planck p
+concept entropy introduced rudolf clausius 1865
+first enunciate second law thermodynamics saying entropy increases
+alternative information entropy definition introduced 1948 claude shannon
+intended use communication theory applicable areas
+reduces boltzmann's expression probabilities equal course used
+virtue yields immediate results without resorting factorials stirling's approximation
+similar formulas found however far back work boltzmann explicitly gibbs see reference
+pauli wolfgang 1973
+statistical mechanics
+cambridge mit press
+21 maxwell j
+theory heat
+london longmans green & co
+boltzmann l
+second law thermodynamics
+populare schriften essay 3 address formal meeting imperial academy science 29 may 1886 reprinted ludwig boltzmann theoretical physics philosophical problem s
+brush trans
+boston reidel
+original work published 1886 boltzmann l
+second law thermodynamics
+20 collier's encyclopedia volume 19 phyfe reni physics david park p
+15 collier's encyclopedia volume sylt uruguay thermodynamics leo peters p
+275 further reading roman sexl & john blackmore eds
+ludwig boltzmann ausgewahlte abhandlungen ludwig boltzmann gesamtausgabe band vieweg braunschweig 1982
+john blackmore ed
+ludwig boltzmann later life philosophy 1900–1906 book documentary history kluwer 1995
+john blackmore ludwig boltzmann later life philosophy 1900–1906 book two philosopher kluwer dordrecht netherlands 1995
+john blackmore ed
+ludwig boltzmann troubled genius philosopher synthese volume 119 nos
+& 2 1999 pp
+blundell stephen blundell katherine m
+concepts thermal physics
+oxford university press
+brush stephen g
+& tr
+boltzmann lectures gas theory berkeley california u
+california press 1964 brush stephen g
+kinetic theory new york pergamon press 1965 cercignani carlo 1998
+ludwig boltzmann man trusted atoms
+oxford university press
+boltzmann ludwig boltzmann leben und briefe ed
+walter hoeflechner akademische druck- u
+graz oesterreich 1994 brush stephen g
+charles coulston gillispie ed
+dictionary scientific biography
+new york scribner
+brush stephen g
+kind motion call heat history kinetic theory gases
+amsterdam north-holland
+everdell william r 1988
+problem continuity origins modernism 1870–1913
+history european ideas 9 5 531–552
+everdell william r 1997
+first moderns
+chicago university chicago press
+ehrenfest & t
+ehrenfest 1911 begriffliche grundlagen statistischen auffassung mechanik encyklopädie mathematischen wissenschaften mit einschluß ihrer anwendungen band iv 2
+teil f
+klein c
+müller eds
+leipzig teubner pp
+translated conceptual foundations statistical approach mechanics
+new york cornell university press 1959
+klein martin j
+development boltzmann's statistical ideas
+cohen w
+thirring eds
+boltzmann equation theory applications
+acta physica austriaca suppl
+wien springer
+tolman richard c
+principles statistical mechanics
+oxford university press
+reprinted dover 1979
+gibbs josiah willard 1902
+elementary principles statistical mechanics developed especial reference rational foundation thermodynamics
+new york charles scribner's sons
+lindley david 2001
+boltzmann's atom great debate launched revolution physics
+new york free press
+contribution energetics evolution
+6 147–51
+bibcode1922 pnas
+147 l
+pmc 1085052
+pmid 16576642
+bronowski jacob 1974
+world within world
+ascent man
+little brown & co
+meyer stefan 1904
+festschrift ludwig boltzmann gewidmet zum sechzigsten geburtstage 20
+februar 1904 german
+planck max 1914
+theory heat radiation
+blakiston son & co
+english translation morton masius 2 nd ed
+reprinted dover 1959 &
+external links find ludwig boltzmannat wikipedia's sister projects media commons quotations wikiquote source texts wikisource uffink jos 2004
+boltzmann's work statistical physics
+stanford encyclopedia philosophy
+retrieved 2007-06-11
+o'connor john j
+robertson edmund f
+ludwig boltzmann mac tutor history mathematics archive university st andrews
+ludwig boltzmann universität wien german
+ruth lewin sime lise meitner life physics chapter girlhood vienna gives lise meitner's account boltzmann's teaching career
+cohen 1996 boltzmann statistical mechanics
+eftekhari ali ludwig boltzmann 1844–1906
+discusses boltzmann's philosophical opinions numerous quotes
+rajasekar s
+athavan n
+ludwig edward boltzmann
+ar xivphysics/0609047 [physics
+ludwig boltzmann mathematics genealogy project weisstein eric w
+boltzmann ludwig 1844–1906 science world
+ludwig boltzmann find grave jacob bronowski ascent man you tube author profile database zb math vte scientists whose names used physical constants physical constants isaac newton gravitational constant charles-augustin de coulomb coulomb's constant amedeo avogadro avogadro constant michael faraday faraday constant johann josef loschmidt johann jakob balmer joseph stefan stefan–boltzmann constant ludwig boltzmann boltzmann constant stefan–boltzmann constant johannes rydberg rydberg constant joseph john thomson max planck planck constant reduced planck constant planck length planck time wilhelm wien otto sackur niels bohr bohr radius edwin hubble hubble constant hugo tetrode douglas hartree brian david josephson klaus von klitzing list scientists whose names used si units non si units authority control world cat identities viaf 68956918 lccn n82127332 isni 0000 0001 0911 9823 gnd 118513109 sudoc 030017777 bnf cb12095244 p data mgp 13105 nla 35020055 ndl 00433781 nkc ola2002153855

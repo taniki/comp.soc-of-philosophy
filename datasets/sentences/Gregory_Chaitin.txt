@@ -1,0 +1,44 @@
+gregory chaitin born 1947 1947 chicago residence united states nationality american fields biology mathematics computer science institutions federal university rio de janeiro ibm thomas j
+watson research center known chaitin-kolmogorov complexity chaitin's constant chaitin's algorithm influences gottfried wilhelm leibniz gregory john chaitin /ˈtʃaɪtᵻn/ chy-tən born 15 november 1947 argentine-american mathematician computer scientist
+beginning late 1960 s chaitin made contributions algorithmic information theory metamathematics particular computer-theoretic result equivalent gödel's incompleteness theorem
+considered founders today known kolmogorov kolmogorov-chaitin complexity together andrei kolmogorov ray solomonoff
+today algorithmic information theory common subject any computer science curriculum
+contents mathematics computer science 2 other scholarly contributions 3 honors 4 criticism 5 see also 6 bibliography 7 notes references 9 external links mathematics computer science attended bronx high school science city college new york still teens developed theory led independent discovery kolmogorov complexity
+chaitin defined chaitin's constant ω real number whose digits equidistributed sometimes informally described expression probability random program will halt
+ω mathematical property definable computable
+chaitin's early work algorithmic information theory followed after work solomonoff kolmogorov martin-löf
+chaitin also originator using graph coloring register allocation compiling process known chaitin's algorithm
+formerly researcher ibm's thomas j
+watson research center new york remains emeritus researcher
+written 10 book titles translated 15 languages
+today interested questions metabiology information-theoretic formalizations theory evolution
+other scholarly contributions chaitin also writes philosophy especially metaphysics philosophy mathematics particularly epistemological matters mathematics
+metaphysics chaitin claims algorithmic information theory key solving problems field biology obtaining formal definition 'life' origin evolution neuroscience problem consciousness study mind
+recent writings defends position known digital philosophy
+epistemology mathematics claims findings mathematical logic algorithmic information theory show there mathematical facts true no reason they're true accident
+random mathematical facts
+chaitin proposes mathematicians must abandon any hope proving those mathematical facts adopt quasi-empirical methodology
+honors 1995 given degree doctor science honoris causa university maine
+2002 given title honorary professor university buenos aires argentina parents born chaitin spent part youth
+2007 given leibniz medal wolfram research
+2009 given degree doctor philosophy honoris causa national university córdoba
+formerly researcher ibm's thomas j
+watson research center now professor federal university rio de janeiro
+criticism philosophers logicians strongly disagree philosophical conclusions chaitin drawn theorems
+logician torkel franzén criticized chaitin’s interpretation gödel's incompleteness theorem alleged explanation chaitin’s work represents
+see also digital philosophy halting problem algorithmic information theory bibliography information randomness & incompleteness world scientific 1987 online algorithmic information theory cambridge university press 1987 online information-theoretic incompleteness world scientific 1992 online limits mathematics springer-verlag 1998 unknowable springer-verlag 1999 exploring randomness springer-verlag 2001 conversations mathematician springer-verlag 2002 philosophy program size tallinn cybernetics institute 2003 meta math! quest omega pantheon books 2005 reprinted uk meta maths quest omega atlantic books 2006 ar preprint teoria algoritmica della complessità g
+giappichelli editore 2006 thinking gödel & turing world scientific 2007 mathematics complexity philosophy editorial midas 2011 gödel's way crc press proving darwin making biology mathematical pantheon books notes gregory chaitin 2007 algorithmic information theory chaitin research timeline[dead link] archived march 23 wayback machine
+[dead link] li vitanyi 1997 introduction kolmogorov complexity applications springer p
+92 g
+chaitin finished bronx high school science 18-year-old undergraduate student city college city university new york submitted two papers
+[second] paper chaitin puts forward notion kolmogorov complexity
+chaitin g
+october 1966 length programs computing finite binary sequences journal acm 13 4 547–569 doi10
+321363 zenil hector leibniz medallion comes life after 300 years anima ex machina blog hector zenil november 3 rd 2007
+panu raatikainen exploring randomness unknowable notices american mathematical society book review october 2001
+franzén torkel 2005 gödel's theorem incomplete guide use abuse wellesley massachusetts k peters ltd
+1-56881-238-8 references pagallo ugo 2005 introduzione alla filosofia digitale
+da leibniz chaitin [introduction digital philosophy leibniz chaitin] italian g
+giappichelli editore 88-348-5635-x calude cristian s
+2007 randomness complexity
+leibniz chaitin world scientific 978-981-277-082-0 external links g j chaitin home page list publications g j chaitin video lecture metabiology life evolving software you tube video lecture leibniz complexity incompleteness works gregory chaitin libraries world cat catalog new scientist article march 2001 chaitin omegas super-omegas short version chaitin's proof authority control world cat identities viaf 22226140 lccn n87875505 isni 0000 0001 0878 2113 gnd 121658600 sudoc 03309263 x bnf cb12399405 t data mgp 193825 ndl 00846981

@@ -1,0 +1,888 @@
+article scientist
+agriculturalist see isaac newton agriculturalist
+sir isaac newton portrait newton 1689 godfrey kneller born 25 december 1642[ns 1643-01-044 january 1643]woolsthorpe lincolnshire england died 20 march 1726/7 aged 84[os 20 march 17261726-03-20 ns 31 march 17271727-03-31]kensington middlesex england resting place westminster abbey nationality english fields physics natural philosophy mathematics astronomy alchemy economics institutions university cambridge royal society royal mint alma mater trinity college cambridge academic advisors isaac barrow benjamin pulleyn notable students roger cotes william whiston known newtonian mechanics universal gravitation calculus newton's laws motion optics binomial series principia newton's method notable awards frs 1672 signature life isaac newton early life middle years later life writing principia religious views occult studies vte part series physical cosmology big bang · universe age universe chronology universe early universe inflation · nucleosynthesis backgrounds gravitational wave gwb microwave cmb · neutrino cnb expansion · future hubble's law · redshift metric expansion space flrw metric · friedmann equations future expanding universe ultimate fate universe components · structure components lambda-cdm model dark energy · dark fluid · dark matter structure shape universe galaxy filament · galaxy formation large quasar group large-scale structure reionization · structure formation experiments boomeran g cosmic background explorer cobe illustris project planck space observatory sloan digital sky survey sdss 2 f galaxy redshift survey 2 f wilkinson microwave anisotropy probe wmap scientists aaronson alfvén alpher bharadwaj copernicus de sitter dicke ehlers einstein ellis friedman galileo gamow guth hawking hubble lemaître mather newton penrose penzias rubin schmidt smoot suntzeff sunyaev tolman wilson zel'dovich list cosmologists subject history discovery cosmic microwavebackground radiation history big bang theory religious interpretations ofthe big bang theory timeline cosmological theories category cosmology portal astronomy portalvte sir isaac newton prs /ˈnjuːtən/ 25 december 1642 20 march 1726/27 english physicist mathematician described own day natural philosopher widely recognised most influential scientists time key figure scientific revolution
+book philosophiæ naturalis principia mathematica mathematical principles natural philosophy first published 1687 laid foundations classical mechanics
+newton made seminal contributions optics shares credit gottfried wilhelm leibniz development calculus
+newton's principia formulated laws motion universal gravitation dominated scientists' view physical universe next three centuries
+deriving kepler's laws planetary motion mathematical description gravity then using same principles account trajectories comets tides precession equinoxes other phenomena newton removed last doubts validity heliocentric model solar system
+work also demonstrated motion objects earth celestial bodies described same principles
+prediction earth should shaped oblate spheroid later vindicated measurements maupertuis condamine others helped convince most continental european scientists superiority newtonian mechanics over earlier system descartes
+newton built first practical reflecting telescope developed theory colour based observation prism decomposes white light many colours visible spectrum
+formulated empirical law cooling studied speed sound introduced notion newtonian fluid
+addition work calculus mathematician newton contributed study power series generalised binomial theorem non-integer exponents developed method approximating roots function classified most cubic plane curves
+newton fellow trinity college second lucasian professor mathematics university cambridge
+devout unorthodox christian unusually member cambridge faculty day refused take holy orders church england perhaps because privately rejected doctrine trinity
+beyond work mathematical sciences newton dedicated much time study biblical chronology alchemy most work those areas remained unpublished until long after death
+later life newton became president royal society
+newton served british government warden master royal mint
+contents life
+early life
+2 middle years
+2 optics
+3 mechanics gravitation
+3 classification cubics beyond
+4 later life
+5 personal relations 2 after death 2
+fame 2
+2 commemorations 2
+3 popular culture 3 religious views 3
+effect religious thought 3
+2 occult 3
+3 alchemy 4 enlightenment philosophers 5 apple incident 6 works 6
+published lifetime 6
+2 published posthumously 6
+3 primary sources 7 see also references 9 bibliography 10 further reading external links life early life main article early life isaac newton isaac newton born according julian calendar use england time christmas day 25 december 1642 ns 4 january 1643 woolsthorpe manor woolsthorpe-by-colsterworth hamlet county lincolnshire
+father also named isaac newton died three months before
+born prematurely small child mother hannah ayscough reportedly fit inside quart mug
+newton three mother remarried went live her new husband reverend barnabas smith leaving her son care maternal grandmother margery ayscough
+young isaac disliked stepfather maintained enmity towards mother marrying revealed entry list sins committed up age 19 threatening my father mother smith burn them house over them
+newton's mother three children her second marriage
+newton 1702 portrait godfrey kneller isaac newton bolton sarah k
+famous men science
+ny thomas
+crowell & co
+1889 age twelve until seventeen newton educated king's school grantham taught latin greek no mathematics
+removed school october 1659 found woolsthorpe-by-colsterworth mother widowed second time attempted make farmer
+newton hated farming
+henry stokes master king's school persuaded mother send back school might complete education
+motivated partly desire revenge against schoolyard bully became top-ranked student distinguishing himself mainly building sundials models windmills
+june 1661 admitted trinity college cambridge recommendation uncle rev william ayscough
+started subsizar—paying way performing valet's duties—until awarded scholarship 1664 guaranteed four years until get m
+time college's teachings based those aristotle whom newton supplemented modern philosophers such descartes astronomers such galileo thomas street through whom learned kepler's work
+set down notebook series 'quaestiones' mechanical philosophy found
+1665 discovered generalised binomial theorem began develop mathematical theory later became calculus
+soon after newton obtained
+degree august 1665 university temporarily closed precaution against great plague
+although undistinguished cambridge student newton's private studies home woolsthorpe over subsequent two years saw development theories calculus optics law gravitation
+april 1667 returned cambridge october elected fellow trinity
+fellows required become ordained priests although enforced restoration years assertion conformity church england sufficient
+however 1675 issue avoided then unconventional views stood way
+nevertheless newton managed avoid means special permission charles ii see middle years section below
+studies impressed lucasian professor isaac barrow anxious develop own religious administrative potential became master trinity two years later 1669 newton succeeded year after received m
+elected fellow royal society frs 1672
+middle years mathematics newton's work distinctly advance every branch mathematics then studied
+work subject usually referred fluxions calculus seen manuscript october 1666 now published among newton's mathematical papers
+author manuscript de analysi per aequationes numero terminorum infinitas sent isaac barrow john collins june 1669 identified barrow letter sent collins august year mr newton fellow our college very young
+extraordinary genius proficiency these things
+newton later became involved dispute leibniz over priority development calculus leibniz–newton calculus controversy
+most modern historians believe newton leibniz developed calculus independently although very different notations
+occasionally suggested newton published almost nothing until 1693 give full account until 1704 while leibniz began publishing full account methods 1684
+leibniz's notation differential method nowadays recognised much convenient notations adopted continental european mathematicians after 1820 also british mathematicians
+such suggestion however fails notice content calculus critics newton's time modern times pointed out book newton's principia itself published 1687 forerunner manuscripts such de motu corporum gyrum motion bodies orbit 1684
+principia written language calculus either know newton's later 'dot' notation write
+work extensively uses calculus geometric form based limiting values ratios vanishing small quantities principia itself newton gave demonstration under name 'the method first last ratios' explained why put expositions form remarking also 'hereby same thing performed method indivisibles'
+because principia called book dense theory application infinitesimal calculus modern times lequel est presque tout de ce calcul 'nearly calculus' newton's time
+use methods involving orders infinitesimally small present de motu corporum gyrum 1684 papers motion during two decades preceding 1684
+newton reluctant publish calculus because feared controversy criticism
+close swiss mathematician nicolas fatio de duillier
+1691 duillier started write new version newton's principia corresponded leibniz
+1693 relationship duillier newton deteriorated book never completed
+starting 1699 other members royal society newton member accused leibniz plagiarism
+dispute then broke out full force 1711 royal society proclaimed study newton true discoverer labelled leibniz fraud
+study cast doubt later found newton himself study's concluding remarks leibniz
+thus began bitter controversy marred lives both newton leibniz until latter's death 1716
+newton generally credited generalised binomial theorem valid any exponent
+discovered newton's identities newton's method classified cubic plane curves polynomials degree three two variables made substantial contributions theory finite differences first use fractional indices employ coordinate geometry derive solutions diophantine equations
+approximated partial sums harmonic series logarithms precursor euler's summation formula first use power series confidence revert power series
+newton's work infinite series inspired simon stevin's decimals
+very useful modern account newton's mathematics written foremost scholar newton's mathematics
+whiteside tom whiteside
+tom whiteside translated edited newton's mathematical writings end life summing up newton's work impact
+published 2013 chapter book edited bechler
+newton received ma became fellow college holy undivided trinity 1667 made commitment will either set theology object my studies will take holy orders time prescribed these statutes [7 years] arrives will resign college
+up till point thought much religion twice signed agreement thirty-nine articles basis church england doctrine
+appointed lucasian professor mathematics 1669 barrow's recommendation
+during time any fellow college cambridge oxford required take holy orders become ordained anglican priest
+however terms lucasian professorship required holder active church presumably time science
+newton argued should exempt ordination requirement charles ii whose permission needed accepted argument
+thus conflict newton's religious views anglican orthodoxy averted
+optics 1666 newton observed spectrum colours exiting prism position minimum deviation oblong even light ray entering prism circular say prism refracts different colours different angles
+led conclude colour property intrinsic light—a point debated prior years
+replica newton's second reflecting telescope presented royal society 1672 1670 1672 newton lectured optics
+during period investigated refraction light demonstrating multicoloured spectrum produced prism recomposed white light lens second prism
+modern scholarship revealed newton's analysis resynthesis white light owes debt corpuscular alchemy
+also showed coloured light does change properties separating out coloured beam shining various objects
+newton noted regardless whether reflected scattered transmitted remained same colour
+thus observed colour result objects interacting already-coloured light rather objects generating colour themselves
+known newton's theory colour
+illustration dispersive prism decomposing white light colours spectrum discovered newton work concluded lens any refracting telescope suffer dispersion light colours chromatic aberration
+proof concept constructed telescope using reflective mirrors instead lenses objective bypass problem
+building design first known functional reflecting telescope today known newtonian telescope involved solving problem suitable mirror material shaping technique
+newton ground own mirrors out custom composition highly reflective speculum metal using newton's rings judge quality optics telescopes
+late 1668 able produce first reflecting telescope
+eight inches long gave clearer larger image
+1671 royal society asked demonstration reflecting telescope
+their interest encouraged publish notes colours later expanded work opticks
+robert hooke criticised newton's ideas newton offended withdrew public debate
+newton hooke brief exchanges 1679–80 hooke appointed manage royal society's correspondence opened up correspondence intended elicit contributions newton royal society transactions effect stimulating newton work out proof elliptical form planetary orbits result centripetal force inversely proportional square radius vector see newton's law universal gravitation history de motu corporum gyrum
+two men remained generally poor terms until hooke's death
+facsimile 1682 letter isaac newton dr william briggs commenting briggs' new theory vision newton argued light composed particles corpuscles refracted accelerating denser medium
+verged soundlike waves explain repeated pattern reflection transmission thin films opticks bk
+ii props
+12 still retained theory 'fits' disposed corpuscles reflected transmitted props
+however later physicists favoured purely wavelike explanation light account interference patterns general phenomenon diffraction
+today's quantum mechanics photons idea wave–particle duality bear minor resemblance newton's understanding light
+hypothesis light 1675 newton posited existence ether transmit forces particles
+contact theosophist henry revived interest alchemy
+replaced ether occult forces based hermetic ideas attraction repulsion particles
+john maynard keynes acquired many newton's writings alchemy stated newton first age reason last magicians
+newton's interest alchemy cannot isolated contributions science
+time there no clear distinction alchemy science
+relied occult idea action distance across vacuum might developed theory gravity
+see also isaac newton's occult studies
+1704 newton published opticks expounded corpuscular theory light
+considered light made up extremely subtle corpuscles ordinary matter made grosser corpuscles speculated through kind alchemical transmutation gross bodies light convertible another
+may bodies receive much their activity particles light enter their composition? newton also constructed primitive form frictional electrostatic generator using glass globe
+article entitled newton prisms 'opticks' tunable lasers indicated newton book opticks first show diagram using prism beam expander
+same book describes via diagrams use multiple-prism arrays
+278 years after newton's discussion multiple-prism beam expanders became central development narrow-linewidth tunable lasers
+also use these prismatic beam expanders led multiple-prism dispersion theory
+subsequent newton much amended
+young fresnel combined newton's particle theory huygens' wave theory show colour visible manifestation light's wavelength
+science also slowly came realise difference perception colour mathematisable optics
+german poet scientist goethe shake newtonian foundation hole goethe find newton's armour
+newton committed himself doctrine refraction without colour impossible
+therefore thought object-glasses telescopes must ever remain imperfect achromatism refraction being incompatible
+inference proved dollond wrong
+mechanics gravitation newton's own copy principia hand-written corrections second edition further information writing principia mathematica 1679 newton returned work celestial mechanics considering gravitation effect orbits planets reference kepler's laws planetary motion
+followed stimulation brief exchange letters 1679–80 hooke appointed manage royal society's correspondence opened correspondence intended elicit contributions newton royal society transactions
+newton's reawakening interest astronomical matters received further stimulus appearance comet winter 1680–1681 corresponded john flamsteed
+after exchanges hooke newton worked out proof elliptical form planetary orbits result centripetal force inversely proportional square radius vector see newton's law universal gravitation history de motu corporum gyrum
+newton communicated results edmond halley royal society de motu corporum gyrum tract written nine sheets copied royal society's register book december 1684
+tract contained nucleus newton developed expanded form principia
+principia published 5 july 1687 encouragement financial help edmond halley
+work newton stated three universal laws motion
+together these laws describe relationship any object forces acting upon resulting motion laying foundation classical mechanics
+contributed many advances during industrial revolution soon followed improved upon 200 years
+many these advancements continue underpinnings non-relativistic technologies modern world
+used latin word gravitas weight effect become known gravity defined law universal gravitation
+same work newton presented calculus-like method geometrical analysis using 'first last ratios' gave first analytical determination based boyle's law speed sound air inferred oblateness earth's spheroidal figure accounted precession equinoxes result moon's gravitational attraction earth's oblateness initiated gravitational study irregularities motion moon provided theory determination orbits comets much
+newton made clear heliocentric view solar system—developed somewhat modern way because already mid-1680 s recognised deviation sun centre gravity solar system
+newton precisely centre sun any other body considered rest rather common centre gravity earth sun planets esteem'd centre world centre gravity either rest moves uniformly forward right line newton adopted rest alternative view common consent centre wherever rest
+newton's postulate invisible force able act over vast distances led being criticised introducing occult agencies science
+later second edition principia 1713 newton firmly rejected such criticisms concluding general scholium writing enough phenomena implied gravitational attraction far indicate cause both unnecessary improper frame hypotheses things implied phenomena
+here newton used became famous expression hypotheses non-fingo
+principia newton became internationally recognised
+acquired circle admirers including swiss-born mathematician nicolas fatio de duillier whom formed intense relationship
+abruptly ended 1693 same time newton suffered nervous breakdown
+classification cubics beyond descartes most important early influence newton mathematician
+descartes freed plane curves greek macedonian limitation conic sections newton followed lead classifying cubic curves plane
+found 72 78 species cubics
+also divided them four types satisfying different equations 1717 stirling probably newton's help proved every cubic these four types
+newton also claimed four types obtained plane projection them proved 1731
+according tom whiteside 1932–2008 published volumes newton's mathematical papers no exaggeration say newton mapped out development mathematics next 200 years euler others largely carried out plan
+later life isaac newton old age 1712 portrait sir james thornhill main article later life isaac newton 1690 s newton number religious tracts dealing literal symbolic interpretation bible
+manuscript newton sent john locke disputed fidelity john 57 fidelity original manuscripts new testament remained unpublished until 1785
+even though number authors claimed work might indication newton disputed belief trinity others assure newton question passage never denied trinity such
+biographer scientist sir david brewster compiled manuscripts over 20 years controversy well-known book memoirs life writings discoveries sir isaac newton explains newton questioned veracity those passages never denied doctrine trinity such
+brewster states newton never known arian during lifetime first william whiston arian argued sir isaac newton hearty baptists well eusebians arians sometimes suspected these two two witnesses revelations while other like hopton haynes mint employee humanitarian mentioned richard baron newton held same doctrine himself
+later works—the chronology ancient kingdoms amended 1728 observations upon prophecies daniel apocalypse st
+john 1733—were published after death
+also devoted great deal time alchemy see above
+newton also member parliament england cambridge university 1689–90 1701–2 according accounts comments complain cold draught chamber request window closed
+newton moved london take up post warden royal mint 1696 position obtained through patronage charles montagu st earl halifax then chancellor exchequer
+took charge england's great recoining somewhat treading toes lord lucas governor tower securing job deputy comptroller temporary chester branch edmond halley
+newton became perhaps best-known master mint upon death thomas neale 1699 position newton held last 30 years life
+these appointments intended sinecures newton took them seriously retiring cambridge duties 1701 exercising power reform currency punish clippers counterfeiters
+warden afterwards master royal mint newton estimated 20 percent coins taken during great recoinage 1696 counterfeit
+counterfeiting high treason punishable felon's being hanged drawn quartered
+despite convicting even most flagrant criminals extremely difficult
+however newton proved equal task
+disguised habitué bars taverns gathered much evidence himself
+barriers placed prosecution separating branches government english law still ancient formidable customs authority
+newton himself made justice peace home counties—there draft letter regarding matter stuck newton's personal first edition philosophiæ naturalis principia mathematica must amending time
+then conducted 100 cross-examinations witnesses informers suspects june 1698 christmas 1699
+newton successfully prosecuted 28 coiners
+result report written newton 21 september 1717 lords commissioners majesty's treasury bimetallic relationship gold coins silver coins changed royal proclamation december 1717 forbidding exchange gold guineas 21 silver shillings
+inadvertently resulted silver shortage silver coins used pay imports while exports paid gold effectively moving britain silver standard first gold standard
+matter debate whether intended
+argued newton conceived work mint continuation alchemical work
+newton made president royal society 1703 associate french académie des sciences
+position royal society newton made enemy john flamsteed astronomer royal prematurely publishing flamsteed's historia coelestis britannica newton used studies
+personal coat arms sir isaac newton april 1705 queen anne knighted newton during royal visit trinity college cambridge
+knighthood likely motivated political considerations connected parliamentary election may 1705 rather any recognition newton's scientific work services master mint
+newton second scientist knighted after sir francis bacon
+newton many people lost heavily south sea company collapsed
+their most significant trade slaves according niece lost around £20000
+[citation needed] towards end life newton took up residence cranbury park near winchester niece her husband until death 1727
+half-niece catherine barton conduitt served hostess social affairs house jermyn street london her very loving uncle according letter her she recovering smallpox
+newton died sleep london 20 march 1727 os 20 march 1726 ns 31 march 1727 buried westminster abbey
+voltaire may present funeral
+bachelor divested much estate relatives during last years died intestate
+after death newton's hair examined found contain mercury probably resulting alchemical pursuits
+mercury poisoning explain newton's eccentricity late life
+personal relations although claimed once engaged newton never married
+french writer philosopher voltaire london time newton's funeral never sensible any passion subject common frailties mankind nor any commerce women—a circumstance assured me physician surgeon attended last moments
+widespread belief died virgin commented writers such mathematician charles hutton economist john maynard keynes physicist carl sagan
+newton close friendship swiss mathematician nicolas fatio de duillier whom met london around 1690
+their friendship came unexplained end 1693
+their correspondence survived
+september year newton breakdown included sending wild accusatory letters friends samuel pepys john locke
+note latter included charge locke endeavoured embroil me woemen
+after death fame mathematician joseph-louis lagrange often newton greatest genius ever lived once added newton also most fortunate cannot find once system world establish
+english poet alexander pope moved newton's accomplishments write famous epitaph nature nature's laws lay hid night god let newton light
+newton himself rather modest own achievements famously writing letter robert hooke february 1676 seen further standing shoulders giants
+two writers think above quotation written time newton hooke dispute over optical discoveries oblique attack hooke short hunchbacked rather than—or addition to—a statement modesty
+other hand widely known proverb standing shoulders giants published among others seventeenth-century poet george herbert former orator university cambridge fellow trinity college jacula prudentum 1651 main point dwarf giant's shoulders sees farther two effect analogy place newton himself rather hooke 'dwarf'
+later memoir newton know may appear world myself seem like boy playing sea-shore diverting myself now then finding smoother pebble prettier shell ordinary whilst great ocean truth lay undiscovered before me
+1816 tooth belonged newton sold £730 us$3633 london aristocrat set ring
+guinness world records 2002 classified most valuable tooth value approximately £25000 us$35700 late 2001
+bought currently disclosed
+albert einstein kept picture newton study wall alongside ones michael faraday james clerk maxwell
+newton remains influential today's scientists demonstrated 2005 survey members britain's royal society formerly headed newton asking greater effect history science newton einstein
+royal society scientists deemed newton made greater overall contribution
+1999 opinion poll 100 today's leading physicists voted einstein greatest physicist ever newton runner-up while parallel survey rank-and-file physicists site physics web gave top spot newton
+commemorations newton statue display oxford university museum natural history newton's monument 1731 seen westminster abbey north entrance choir against choir screen near tomb
+executed sculptor michael rysbrack 1694–1770 white grey marble design architect william kent
+monument features figure newton reclining top sarcophagus right elbow resting several great books left hand pointing scroll mathematical design
+above pyramid celestial globe showing signs zodiac path comet 1680
+relief panel depicts putti using instruments such telescope prism
+latin inscription base translates here buried isaac newton knight strength mind almost divine mathematical principles peculiarly own explored course figures planets paths comets tides sea dissimilarities rays light no other scholar previously imagined properties colours thus produced
+diligent sagacious faithful expositions nature antiquity holy scriptures vindicated philosophy majesty god mighty good expressed simplicity gospel manners
+mortals rejoice there existed such great ornament human race! born 25 december 1642 died 20 march 1726/7
+—translation g
+smyth monuments genii st
+paul's cathedral westminster abbey 1826 ii 703–4
+1978 until 1988 image newton designed harry ecclestone appeared series £1 banknotes issued bank england last £1 notes issued bank england
+newton shown reverse notes holding book accompanied telescope prism map solar system
+eduardo paolozzi's newton after william blake 1995 outside british library statue isaac newton looking apple feet seen oxford university museum natural history
+large bronze statue newton after william blake eduardo paolozzi dated 1995 inspired blake's etching dominates piazza british library london
+popular culture main article isaac newton popular culture religious views main article religious views isaac newton newton's tomb westminster abbey although born anglican family thirties newton held christian faith made public considered orthodox mainstream christianity recent times described heretic
+1672 started record theological researches notebooks showed no recently examined
+demonstrate extensive knowledge early church writings show conflict athanasius arius defined creed took side arius loser rejected conventional view trinity
+newton recognized christ divine mediator god man subordinate father created
+especially interested prophecy great apostasy trinitarianism
+newton tried unsuccessfully obtain two fellowships exempted holder ordination requirement
+last moment 1675 received dispensation government excused future holders lucasian chair
+newton's eyes worshipping christ god idolatry fundamental sin
+historian stephen
+snobelen says newton isaac newton heretic
+never made public declaration private faith—which orthodox deemed extremely radical
+hid faith well scholars still unravelling personal beliefs
+snobelen concludes newton least socinian sympathiser owned thoroughly read least eight socinian books possibly arian almost certainly anti-trinitarian
+minority view t
+pfizenmaier argues newton held eastern orthodox view trinity
+however type view 'has lost support late availability newton's theological papers' now most scholars identify newton antitrinitarian monotheist
+although laws motion universal gravitation became newton's best-known discoveries warned against using them view universe mere machine akin great clock
+gravity explains motions planets cannot explain set planets motion
+god governs things knows done
+along scientific fame newton's studies bible early church fathers also noteworthy
+newton works textual criticism most notably historical account two notable corruptions scripture
+placed crucifixion jesus christ 3 april ad 33 agrees traditionally accepted date
+believed rationally immanent world rejected hylozoism implicit leibniz baruch spinoza
+ordered dynamically informed universe understood must understood active reason
+correspondence newton claimed writing principia eye upon such principles might work considering men belief deity
+saw evidence design system world such wonderful uniformity planetary system must allowed effect choice
+newton insisted divine intervention eventually required reform system due slow growth instabilities
+leibniz lampooned god almighty wants wind up watch time time otherwise cease move
+seems sufficient foresight make perpetual motion
+newton's position vigorously defended follower samuel clarke famous correspondence
+century later pierre-simon laplace's work celestial mechanics natural explanation why planet orbits don't require periodic divine intervention
+effect religious thought newton robert boyle's approach mechanical philosophy promoted rationalist pamphleteers viable alternative pantheists enthusiasts accepted hesitantly orthodox preachers well dissident preachers like latitudinarians
+clarity simplicity science seen way combat emotional metaphysical superlatives both superstitious enthusiasm threat atheism same time second wave english deists used newton's discoveries demonstrate possibility natural religion
+newton william blake here newton depicted critically divine geometer
+copy work currently held tate collection
+attacks made against pre-enlightenment magical thinking mystical elements christianity given their foundation boyle's mechanical conception universe
+newton gave boyle's ideas their completion through mathematical proofs perhaps importantly very successful popularising them
+newton saw god master creator whose existence denied face grandeur creation
+occult see also isaac newton's occult studies eschatology manuscript 1704 describes attempts extract scientific information bible estimated world end no earlier 2060
+predicting mention assert time end shall put stop rash conjectures fanciful men frequently predicting time end doing bring sacred prophesies discredit often their predictions fail
+alchemy newton alchemy
+newton's known writings alchemy currently being put online project undertaken indiana university chymistry isaac newton
+here quote project web site
+newton's fundamental contributions science include quantification gravitational attraction discovery white light actually mixture immutable spectral colors formulation calculus
+yet there another mysterious side newton imperfectly known realm activity spanned thirty years life although kept largely hidden contemporaries colleagues
+refer newton's involvement discipline alchemy often called seventeenth-century england chymistry
+newton transcribed million words subject alchemy
+project headed william r
+speculative fiction author fritz leiber newton everyone knows newton great scientist
+few remember spent half life muddling alchemy looking philosopher's stone
+pebble seashore really wanted find
+enlightenment philosophers enlightenment philosophers chose short history scientific predecessors galileo boyle newton principally guides guarantors their applications singular concept nature natural law every physical social field day
+respect lessons history social structures built upon discarded
+newton's conception universe based upon natural rationally understandable laws became seeds enlightenment ideology
+locke voltaire applied concepts natural law political systems advocating intrinsic rights physiocrats adam smith applied natural conceptions psychology self-interest economic systems sociologists criticised current social order trying fit history natural models progress
+monboddo samuel clarke resisted elements newton's work eventually rationalised conform their strong religious views nature
+apple incident reputed descendants newton's apple tree top bottom trinity college cambridge cambridge university botanic garden instituto balseiro library garden newton himself often story inspired formulate theory gravitation watching fall apple tree
+although apple story myth arrive theory gravity any single moment acquaintances newton such william stukeley whose manuscript account 1752 made available royal society fact confirm incident though cartoon version apple actually hit newton's head
+stukeley recorded memoirs sir isaac newton's life conversation newton kensington 15 april 1726 went garden & drank thea under shade appletrees & my self
+amidst other discourse me just same situation formerly notion gravitation came mind
+why should apple descend perpendicularly ground thought himself occasion'd fall apple sat contemplative mood
+why should go sideways upwards? constantly earths center? assuredly reason earth draws
+there must drawing power matter
+& sum drawing power matter earth must earths center any side earth
+therefore dos apple fall perpendicularly toward center
+matter thus draws matter must proportion quantity
+therefore apple draws earth well earth draws apple
+john conduitt newton's assistant royal mint husband newton's niece also described event newton's life year 1666 retired again cambridge mother lincolnshire
+whilst pensively meandering garden came thought power gravity brought apple tree ground limited certain distance earth power must extend much further usually thought
+why high moon himself & must influence her motion & perhaps retain her her orbit whereupon fell calculating effect supposition
+similar terms voltaire essay epic poetry 1727 sir isaac newton walking gardens first thought system gravitation upon seeing apple falling tree
+known notebooks newton grappling late 1660 s idea terrestrial gravity extends inverse-square proportion moon however took two decades develop full-fledged theory
+question whether gravity existed whether extended far earth also force holding moon orbit
+newton showed force decreased inverse square distance indeed calculate moon's orbital period get good agreement
+guessed same force responsible other orbital motions hence named universal gravitation
+various trees claimed apple tree newton describes
+king's school grantham claims tree purchased school uprooted transported headmaster's garden years later
+staff [now] national trust-owned woolsthorpe manor dispute claim tree present their gardens described newton
+descendant original tree seen growing outside main gate trinity college cambridge below room newton lived studied there
+national fruit collection brogdale supply grafts their tree appears identical flower kent coarse-fleshed cooking variety
+works see also writing principia mathematica published lifetime de analysi per aequationes numero terminorum infinitas 1669 published 1711 method fluxions 1671 natures obvious laws & processes vegetation unpublished c
+1671–75 de motu corporum gyrum 1684 philosophiæ naturalis principia mathematica 1687 opticks 1704 reports master mint 1701–25 arithmetica universalis 1707 published posthumously system world 1728 optical lectures 1728 chronology ancient kingdoms amended 1728 de mundi systemate 1728 observations daniel apocalypse st
+john 1733 newton isaac
+robinson arthur
+observations upon prophecies daniel apocalypse st
+cave junction oregon oregon institute science medicine
+facsimile edition 1733 work
+historical account two notable corruptions scripture 1754 primary sources newton isaac
+principia mathematical principles natural philosophy
+university california press 1999 brackenridge j
+key newton's dynamics kepler problem principia containing english translation sections 2 3 book first 1687 edition newton's mathematical principles natural philosophy university california press 1996 newton isaac
+optical papers isaac newton
+optical lectures 1670–1672 cambridge university press 1984 newton isaac
+opticks 4 th ed
+1730 online edition newton
+opticks treatise reflections refractions inflections & colours light
+new york dover publications
+sir isaac newton's mathematical principles natural philosophy system world tr
+motte rev
+florian cajori
+berkeley university california press 1934 whiteside
+mathematical papers isaac newton
+cambridge cambridge university press
+newton isaac
+correspondence isaac newton ed
+turnbull others 7 vols 1959–77 newton's philosophy nature selections writings edited h
+thayer 1953 online edition isaac newton sir j edleston roger cotes correspondence sir isaac newton professor cotes including letters other eminent men london john w
+parker west strand cambridge john deighton 1850 google books maclaurin c
+account sir isaac newton's philosophical discoveries four books
+millar j
+nourse newton
+isaac newton's papers letters natural philosophy related documents eds
+cohen r
+cambridge harvard university press newton
+unpublished scientific papers isaac newton selection portsmouth collection university library cambridge ed
+hall m
+cambridge cambridge university press newton
+isaac newton's 'theory moon's motion' 1702
+london dawson see also book isaac newton ismaël bullialdus de motu berkeley's essay elements philosophy newton finite difference newton series gauss–newton algorithm history calculus history telescope leibniz–newton calculus controversy list multiple discoveries seventeenth century list things named after isaac newton references c e during newton's lifetime two calendars use europe julian old style calendar protestant orthodox regions including britain gregorian new style calendar roman catholic europe
+newton's birth gregorian dates ten days ahead julian dates thus birth recorded taking place 25 december 1642 old style converted new style modern date 4 january 1643
+time death difference calendars increased eleven days moreover died period after start new style year january before old style new year 25 march
+death occurred 20 march 1726 according old style calendar year usually adjusted 1727
+full conversion new style gives date 31 march 1727
+see thony christie 2015 calendrical confusion just newton die? renaissance mathematicus retrieved 20 march 2015 https//thonyc
+com/2015/03/20/calendrical-confusion-or-just-when-did-newton-die/ feingold mordechai
+barrow isaac 1630–1677 oxford dictionary national biography oxford university press september 2004 online edn may 2007 retrieved 24 february 2009 explained further mordechai feingold's newton leibniz barrow too attempt reinterpretation isis vol
+84 no
+2 june 1993 pp
+newton profile dictionary scientific biography n
+gjertsen 1986 p
+[page needed] fellows royal society
+london royal society
+archived original 16 march 2015
+newton entry collins english dictionary harper collins publishers 1998
+c e snobelen stephen
+isaac newton heretic strategies nicodemite pdf
+british journal history science 4 381–419
+storr anthony december 1985
+isaac newton
+british medical journal clinical research edition bmj 291 6511 1779
+retrieved 6 july 2014
+keynes milo 20 september 2008
+balancing newton's mind singular behaviour madness 1692–93
+notes records royal society london 62 3 293
+retrieved july 2014
+westfall 1980 p
+westfall 1994 pp
+white 1997 p
+westfall 1980 pp
+westfall 1980 pp
+hoskins michael ed
+cambridge illustrated history astronomy
+cambridge university press
+newton isaac
+waste book
+cambridge university digital library
+retrieved 10 january
+newton isaac ry644 j
+cambridge alumni database
+university cambridge
+westfall 1980 p
+westfall 1980 pp
+ball 1908 p
+t whiteside ed
+mathematical papers isaac newton volume cambridge university press 1967 part 7 october 1666 tract fluxions page 400 2008 reprint
+gjertsen 1986 p
+newton 'principia' 1729 english translation page 41
+newton 'principia' 1729 english translation page 54
+clifford truesdell essays history mechanics berlin 1968 p
+preface marquis de l'hospital's analyse des infiniment petits paris 1696
+starting de motu corporum gyrum see also latin theorem
+t whiteside 1970 mathematical principles underlying newton's principia mathematica journal history astronomy vol
+pages 116–138 especially pages 119–120
+stewart 2009 p
+westfall 1980 pp
+ball 1908 pp
+356 ff
+błaszczyk piotr katz mikhail sherry david ten misconceptions history analysis their debunking foundations science ar xiv1202
+4153 doi10
+1007/s10699-012-9285-8 bechler zev 2013
+contemporary newtonian research studies history modern science volume 9
+westfall 1980 p
+white 1997 p
+whittaker e
+history theories aether electricity dublin university press 1910
+olivier darrigol january
+history optics greek antiquity nineteenth century
+oxford university press
+king henry c 2003
+history telescope
+newton isaac
+hydrostatics optics sound heat
+cambridge university digital library
+retrieved 10 january
+ball 1908 p
+william r
+newman newton's early optical theory debt chymistry danielle jacquart michel hochmann eds
+lumière et vision dans les sciences et dans les arts geneva droz 2010 pp
+free access online version article found chymistry isaac newton project ball 1908 p
+early period 1608–1672
+james r
+graham's home page
+retrieved 3 february 2009
+white 1997 p
+170 hall alfred rupert 1996
+isaac newton adventurer thought
+white 1997 p
+newton issac
+newton project
+retrieved 6 october 2014
+see 'correspondence isaac newton vol
+2 1676–1687' ed
+h w turnbull cambridge university press 1960 page 297 document no
+235 letter hooke newton dated 24 november 1679
+iliffe robert 2007 newton
+very short introduction oxford university press 2007 westfall richard s
+never rest biography isaac newton
+cambridge cambridge university press
+keynes john maynard 1972
+newton man
+collected writings john maynard keynes volume x
+mac millan st
+martin's press
+dobbs j
+december 1982
+newton's alchemy theory matter
+isis 73 4 523
+quoting opticks opticks 2 nd ed 1706
+duarte f
+newton prisms 'opticks' tunable lasers pdf
+optics photonics news 5 24–25
+bibcode2000 opt pn
+tyndall john
+popular science monthly volume 17 july
+s popular science monthly/volume 17/july 1880/goethe's farbenlehre theory colors ii westfall 1980 pp
+t whiteside ed
+'mathematical papers isaac newton' vol
+6 1684–1691 cambridge university press 1974 page 30
+see curtis wilson newtonian achievement astronomy pages 233–274 r taton & c wilson eds 1989 general history astronomy volume 2 a' page 233
+text quotations 1729 translation newton's principia book 3 1729 vol
+2 pages 232–233
+edelglass et al
+matter mind
+54 meaning origins expression see kirsten walsh does newton feign hypothesis? early modern experimental philosophy 18 october 2010
+westfall 1980 chapter
+westfall 1980 pp
+493–497 friendship fatio pp 531–540 newton's breakdown
+conics cubics robert bix springer undergraduate texts mathematics 2 nd edition 2006 springer verlag
+contemporary newtonian research studies history modern science volume 9 paperback 4 october 2013 z
+bechler editor chapter tom whiteside newton's mathematics pp
+109–127 springer verlag 1982 john locke manuscripts chronological listing 1690
+john c
+attig john locke bibliography — chapter 5 religion 1751–1900 david brewster
+memoirs life writings discoveries sir isaac newton p
+white 1997 p
+edwards e
+jaggar geoffrey 1983
+newton isaac 1642–1727
+history parliament house commons 1660–1690
+newton isaac 1642–1727
+cruickshanks e
+handley s
+history parliament house commons 1690–1715
+isaac newton physicist
+crime fighter?
+science friday
+5 june 2009
+retrieved august 2014
+levenson thomas 2009
+newton counterfeiter unknown detective career world's greatest scientist
+houghton mifflin harcourt
+oclc 276340857
+white 1997 p
+white 1997 p
+newton isaac
+philosophiæ naturalis principia mathematica
+cambridge university digital library
+retrieved 10 january
+westfall 2007 p
+value gold silver european currencies consequences world-wide gold- silver-trade sir isaac newton 21 september 1717
+king proclamation declaring rates gold shall current payments reproduced numismatic chronicle journal royal numismatic society vol v
+april 1842 january 1843 http//www
+2307/3020836?uid=3738032&uid=2129&uid=2&uid=70&uid=4&sid=21101668938967 sir isaac newton's unpublished manuscripts explain connections made alchemy economics
+12 september 2006
+retrieved 30 july 2014
+white 1997 p
+michon gerard
+coat arms isaac newton
+retrieved 16 january 2010
+queen's 'great assistance' newton's election knighting honor bestowed contributions science nor service mint greater glory party politics election 1705
+westfall 1994 p
+245 day history isaace newton knighted
+history channel
+a&e television networks
+retrieved 18 august 2014
+barnham kay 2014
+isaac newton
+2014 raintree
+retrieved 18 august 2014
+yonge charlotte m
+cranbury brambridge
+john keble's parishes chapter 6
+retrieved 23 september 2009
+westfall 1980 p
+westfall 1980 p
+dobre nyden suggest there no clear evidence voltaire present see page 89 mihnea dobre tammy nyden 2013
+cartesian empiricism
+newton isaac 1642–1727
+eric weisstein's world biography
+retrieved 30 august 2006
+claim made william stukeley 1727 letter newton written richard mead
+charles hutton late eighteenth century collected oral traditions earlier scientists declared there appear any sufficient reason never marrying inclination
+much likely constitutional indifference state even sex general
+charles hutton mathematical philosophical dictionary 1795/6 vol
+2 p
+voltaire 1894
+letters england
+hutton charles 1815
+philosophical mathematical dictionary containing
+memoirs lives writings most eminent authors volume 2
+keynes john maynard
+newton man
+university st andrews school mathematics statistics
+retrieved september
+sagan carl 1980
+new york random house
+[page needed]
+delete character |page= position 295 help professor robert
+hatch university florida
+newton timeline
+retrieved 13 august
+duillier nicholas fatio de 1664–1753 mathematician natural philosopher
+janus database
+retrieved march 2013
+collection guide fatio de duillier nicolas [letters isaac newton]
+online archive california
+retrieved march 2013
+manuel 1968 p
+fred l
+wilson history science newton citing delambre m
+notice sur vie et les ouvrages de m
+le comte j
+lagrange oeuvres de lagrange
+paris 1867 p
+letter isaac newton robert hooke 5 february 1676 transcribed jean-pierre maury 1992 newton understanding cosmos new horizons john gribbin 2002 science history 1543–2001 p 164
+white 1997 p
+memoirs life writings discoveries sir isaac newton 1855 sir david brewster volume ii
+27 silly relic-worship
+new york times
+16 january 1881
+retrieved 12 july 2009
+guinness world records 2002
+retrieved 12 july 2009
+einstein's heroes imagining world through language mathematics robyn arianrhod uqp reviewed jane gleeson-white 10 november 2003 sydney morning herald newton beats einstein polls royal society scientists public
+royal society
+opinion poll
+einstein voted greatest physicist ever leading physicists newton runner-up
+bbc news
+29 november 1999
+retrieved 17 january
+famous people & abbey sir isaac newton
+westminster abbey
+retrieved 13 november 2009
+withdrawn banknotes reference guide
+bank england
+retrieved 27 august 2009
+richard s
+westfall indiana university galileo project
+rice university
+retrieved 5 july 2008
+westfall 1980 p
+westfall 1980 p
+westfall 1980 pp
+[page needed]westfall richard s
+life isaac newton
+cambridge cambridge university press
+pfizenmaier t
+isaac newton arian?
+journal history ideas 58 57–80
+snobelen stephen
+isaac newton heretic strategies nicodemite pdf
+british journal history science 4 381–419
+avery cardinal dulles
+deist minimum january 2005
+tiner j
+isaac newton inventor scientist teacher
+milford michigan u
+mott media
+john p
+meier marginal jew v
+382–402 after narrowing years 30 33 provisionally judges 30 most likely
+newton richard bentley 10 december 1692 turnbull et al
+1959–77 vol 3 p
+opticks 2 nd ed 1706
+query 31
+alexander ed leibniz-clarke correspondence manchester university press 1998 p
+tyson neil degrasse november 2005
+perimeter ignorance
+natural history magazine
+retrieved 7 january 2016
+jacob margaret c
+newtonians english revolution 1689–1720
+cornell university press
+westfall richard s
+science religion seventeenth-century england
+new haven yale university press
+newton object butlin 306 newton
+william blake archive
+25 september 2013
+haakonssen knud
+enlightenment politics providence scottish english comparisons
+martin fitzpatrick ed
+enlightenment religion rational dissent eighteenth-century britain
+cambridge cambridge university press
+principia book iii cited newton's philosophy nature selections writings p
+42 ed
+thayer hafner library classics ny 1953
+short scheme true religion manuscript quoted memoirs life writings discoveries sir isaac newton sir david brewster edinburgh 1850 cited ibid p
+webb r
+knud haakonssen
+emergence rational dissent
+enlightenment religion rational dissent eighteenth-century britain
+cambridge university press cambridge 1996
+papers show isaac newton's religious side predict date apocalypse
+associated press
+19 june 2007
+archived original 13 august 2007
+retrieved august 2007
+heinlein ed
+[full citation needed] cassels alan
+ideology international relations modern world
+although just many factors enlightment success newtonian physics providing mathematical description ordered world clearly played big part flowering movement eighteenth century john gribbin science history 1543–2001 2002 p
+241 white 1997 p
+fara patricia 2015 apple fell newton invented law gravity thus removing god cosmos numbers ronald l
+kampourakis kostas newton's apple other myths science harvard university press pp
+48–56 berkun scott 27 august 2010
+myths innovation
+o'reilly media inc
+newton's apple real story
+new scientist
+18 january 2010
+retrieved 10 may 2010
+hamblyn richard 2011
+newtonian apples william stukeley
+art science
+pan macmillan
+conduitt john
+keynes ms
+4 conduitt's account newton's life cambridge
+imperial college london
+retrieved 30 august 2006
+bernard cohen george e
+smith eds
+cambridge companion newton 2002 p
+6 alberto
+martinez science secrets truth darwin's finches einstein's wife other myths page 69 university pittsburgh press 2011 brogdale home national fruit collection
+retrieved 20 december 2008
+national fruit collection isaac newton's tree
+retrieved 10 january 2009
+newton's alchemical works transcribed online indiana university
+retrieved january 2007
+bibliography ball w
+rouse 1908
+short account history mathematics
+new york dover
+christianson gale 1984
+presence creator isaac newton & times
+new york free press
+well documented work provides particular valuable information regarding newton's knowledge patristics craig john 1958
+isaac newton crime investigator
+nature 182 4629 149–52
+bibcode1958 natur
+149 c
+1038/182149 a0
+craig john 1963
+isaac newton counterfeiters
+notes records royal society london 18 2 136–45
+levenson thomas 2010
+newton counterfeiter unknown detective career world's greatest scientist
+mariner books
+manuel frank e 1968
+portrait isaac newton
+belknap press harvard university cambridge ma
+stewart james 2009
+calculus concepts contexts
+cengage learning
+westfall richard s
+never rest
+cambridge university press
+westfall richard s
+isaac newton
+cambridge university press
+westfall richard s
+life isaac newton
+cambridge university press
+white michael 1997
+isaac newton last sorcerer
+fourth estate limited
+further reading andrade e
+de c
+isaac newton
+new york chanticleer press
+bardi jason socrates
+calculus wars newton leibniz greatest mathematical clash time 2006 excerpt text search bechler zev
+newton's physics conceptual structure scientific revolution
+bechler zev 2013
+contemporary newtonian research studies history modern science volume 9
+berlinski david
+newton's gift how sir isaac newton unlocked system world
+2000 buchwald jed z
+bernard eds
+isaac newton's natural philosophy mit press 2001 excerpt text search casini p 1988
+newton's principia philosophers enlightenment
+notes records royal society london 42 35–52
+issn 0035-9149
+jstor 531368
+christianson gale e
+isaac newton scientific revolution
+oxford university press
+see site excerpt text search
+christianson gale 1984
+presence creator isaac newton & times
+new york free press
+bernard smith george e
+cambridge companion newton
+500 pp
+focuses philosophical issues excerpt text search complete edition online cohen
+newtonian revolution
+cambridge cambridge university press
+craig john 1946
+newton mint
+cambridge england cambridge university press
+dampier william c
+dampier m
+readings literature science
+new york harper & row
+de villamil richard 1931
+newton man
+london uk g
+preface albert einstein
+reprinted johnson reprint corporation new york 1972 dobbs
+foundations newton's alchemy hunting greene lyon
+cambridge cambridge university press
+gjertsen derek 1986
+newton handbook
+london uk routledge
+gleick james 2003
+isaac newton
+halley e
+review newton's principia
+philosophical transactions 186 291–97
+hawking stephen ed
+shoulders giants
+places selections newton's principia context selected writings copernicus kepler galileo einstein herivel j
+background newton's principia
+study newton's dynamical researches years 1664–84
+oxford clarendon press
+keynes john maynard 1963
+essays biography
+norton & co
+keynes took close interest newton owned many newton's private papers
+koyré 1965
+newtonian studies
+chicago university chicago press
+newton isaac
+papers letters natural philosophy edited
+bernard cohen
+harvard university press 1958 1978
+newton isaac 1642–1727
+principia new translation guide
+bernard cohen university california 1999 pemberton h
+view sir isaac newton's philosophy
+london uk s
+shamos morris h
+great experiments physics
+new york henry holt company inc
+shapley harlow s
+rapport h
+treasury science newtonia pp
+147–9 discoveries pp
+harper & bros
+new york 1946
+simmons j 1996
+giant book scientists 100 greatest minds time
+sydney book company
+stukeley w
+memoirs sir isaac newton's life
+london uk taylor francis
+white originally published 1752 westfall r
+force newton's physics science dynamics seventeenth century
+london uk macdonald
+religion dobbs betty jo tetter
+janus faces genius role alchemy newton's thought
+links alchemy arianism force james e
+richard h
+popkin eds
+newton religion context nature influence
+1999 pp
+xvii 325 13 papers scholars using newly opened manuscripts pfizenmaier thomas c
+january 1997
+isaac newton arian?
+journal history ideas 58 57–80
+jstor 3653988
+ramati ayval
+hidden truth creation newton's method fluxions british journal history science 34 417–38
+jstor argues calculus theological basis snobelen stephen 'god gods lord lords' theology isaac newton's general scholium principia osiris 2 nd series vol
+16 2001 pp
+169–208 jstor snobelen stephen
+isaac newton heretic strategies nicodemite
+british journal history science 4 381–419
+jstor 4027945
+wiles maurice
+archetypal heresy
+arianism through centuries
+1996 214 pages chapter 4 eighteenth century england pp
+77–93 newton excerpt text search
+external links listen article info/dl sorry your browser either java script disabled does any supported player
+you download clip download player play clip your browser
+audio file created revision isaac newton article dated 2008-07-30 does reflect subsequent edits article
+audio help spoken articles find isaac newtonat wikipedia's sister projects media commons quotations wikiquote source texts wikisource textbooks wikibooks learning resources wikiversity works isaac newton libri vox public domain audiobooks isaac newton's publications indexed google scholar service provided google science world biography eric weisstein dictionary scientific biography newton project newton project canada newton's dark secrets nova tv programme stanford encyclopedia philosophy isaac newton george smith newton's philosophiae naturalis principia mathematica george smith newton's philosophy andrew janiak newton's views space time motion robert rynasiewicz newton's castle educational material chymistry isaac newton research alchemical writings general scholium newton's principia kandaswamy anand m
+newton/leibniz conflict context newton's first ode study how newton approximated solutions first-order ode using infinite series isaac newton mathematics genealogy project mind isaac newton images audio animations interactive segments enlightening science videos newton's biography optics physics reception views science religion newton biography university st andrews chisholm hugh ed
+newton sir isaac
+encyclopædia britannica th ed
+cambridge university press
+--> chisholm hugh ed
+newton sir isaac
+encyclopædia britannica th ed
+cambridge university press
+archival material relating isaac newton listed uk national archives portraits sir isaac newton national portrait gallery london linda hall library digitized two copies john marsham's 1676 canon chronicus aegyptiacus owned isaac newton marked salient passages dog-earing pages corners acted arrows
+books compared side-by-side show interested newton
+writings newton newton's works full texts newton project newton manuscripts national library israel collection religious writings works isaac newton project gutenberg works isaac newton internet archive works isaac newton libri vox public domain audiobooks newton's principia read search descartes space body new theory light colour modernised readable versions jonathan bennett opticks treatise reflections refractions inflexions colours light full text archive
+org newton papers cambridge digital library 1686 letter mr
+isaac newton
+containing new theory light colors philosophical transactions royal society vol
+xvi no
+179 p
+digital facsimile linda hall library 1704 opticks digital facsimile linda hall library 1719 optice digital facsimile linda hall library 1729 lectiones opticae digital facsimile linda hall library 1749 optices libri tres digital facsimile linda hall library academic offices preceded isaac barrow lucasian professor mathematics university cambridge1669–1702 succeeded william whiston preceded lord somers president royal society1703–1727 succeeded sir hans sloane bt
+parliament england preceded robert brady member parliament cambridge university1689–1690 robert sawyer succeeded edward finch preceded anthony hammond member parliament cambridge university1701–1702 henry boyle succeeded arthur annesley government offices preceded benjamin overton warden mint1696–1700 succeeded sir john stanley bt
+preceded thomas neale master mint1700–1727 succeeded john conduitt related navigational templates lucasian professors mathematics over 20 topics royal society presidents 1700 s over 15 topics age enlightenment over 60 topics metaphysics over 130 topics philosophy science over 130 topics scientists whose names used si units over 20 topics vte isaac newton publications de analysi per aequationes numero terminorum infinitas 1669 published 1711 method fluxions 1671 de motu corporum gyrum 1684 philosophiæ naturalis principia mathematica 1687 general scholium 1713 opticks 1704 queries 1704 arithmetica universalis 1707 other writings notes jewish temple quaestiones quaedam philosophicae chronology ancient kingdoms amended 1728 historical account two notable corruptions scripture 1754 newtonianism bucket argument newton's inequalities newton's law cooling newton's law universal gravitation post-newtonian expansion parameterized post-newtonian formalism newton–cartan theory schrödinger–newton equation gravitational constant newton's laws motion newtonian dynamics newton's method optimization gauss–newton algorithm truncated newton method newton's rings newton's theorem ovals newton–pepys problem newtonian potential newtonian fluid classical mechanics newtonian fluid corpuscular theory light leibniz–newton calculus controversy rotating spheres newton's cannonball newton–cotes formulas newton's method newton fractal generalized gauss–newton method newton's identities newton polynomial newton's theorem revolving orbits newton–euler equations newton number kissing number problem power number solar mass dynamics absolute time space finite difference table newtonian series impact depth structural coloration inertia life cranbury park woolsthorpe manor early life isaac newton later life isaac newton religious views isaac newton isaac newton's occult studies mysteryes nature art scientific revolution copernican revolution friends family catherine barton john conduitt william clarke benjamin pulleyn william stukeley william jones isaac barrow abraham de moivre john keill discoveries inventions calculus newton disc newton polygon newton–okounkov body newton's reflector newtonian telescope newton scale newton's metal newton's cradle sextant phrases hypotheses non fingo standing shoulders giants theory expansions kepler's laws planetary motion problem apollonius related writing principia mathematica newton blake list things named after isaac newton isaac newton popular culture elements philosophy newton isaac newton s/o philipose newton unit vte scientists whose names used si units base units andré-marie ampère william thomson st baron kelvin derived units henri becquerel anders celsius charles-augustin de coulomb michael faraday louis harold gray joseph henry heinrich hertz james prescott joule isaac newton georg ohm blaise pascal werner von siemens rolf maximilian sievert nikola tesla alessandro volta james watt wilhelm eduard weber see also scientists whose names used non si units scientists whose names used physical constants vte presidents royal society isaac newton 1703 hans sloane 1727 martin folkes 1741 george parker 1752 james douglas 1764 james burrow 1768 james west 1768 james burrow 1772 john pringle 1772 joseph banks 1778 complete roster 1600 s 1700 s 1800 s 1900 s 2000 s authority control world cat identities viaf 22146457 lccn n79007443 isni 0000 0001 2099 7897 gnd 118587544 selibr 207390 sudoc 02704694 x bnf cb119176085 data ulan 500330573 mgp 74313 nla 35385821 ndl 00451249 ncl 187455 nkc jn20000604178 iccu it\iccu\cfiv\002501 bne xx1041810 ci nii da00086072

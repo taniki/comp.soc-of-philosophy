@@ -1,0 +1,381 @@
+blaise pascal painting blaise pascal made françois ii quesnel gérard edelinck 1691
+born 1623-06-1919 june 1623 clermont-ferrand auvergne france died 19 august 16621662-08-19 aged 39 paris france residence france nationality french religion roman catholic era 17 th-century philosophy region western philosophy school jansenism proto-existentialism main interests theology mathematics philosophy physics notable ideas pascal's wager pascal's triangle pascal's law pascal's theorem influences st
+augustine hippo michel de montaigne rené descartes cornelius jansen epictetus influenced antoine arnauld pierre duhem william james g
+leibniz léon brunschvicg alexis de tocqueville henri bergson blaise pascal /pæˈskæl pɑːˈskɑːl/ french [blɛz paskal] 19 june 1623 19 august 1662 french mathematician physicist inventor writer christian philosopher
+child prodigy educated father tax collector rouen
+pascal's earliest work natural applied sciences made important contributions study fluids clarified concepts pressure vacuum generalizing work evangelista torricelli
+pascal also defense scientific method
+1642 while still teenager started pioneering work calculating machines
+after three years effort fifty prototypes built 20 finished machines called pascal's calculators later pascalines over following ten years establishing first two inventors mechanical calculator
+pascal important mathematician helping create two major new areas research significant treatise subject projective geometry age 16 later corresponded pierre de fermat probability theory strongly influencing development modern economics social science
+following galileo galilei torricelli 1646 refuted aristotle's followers insisted nature abhors vacuum
+pascal's results caused many disputes before being accepted
+1646 sister jacqueline identified religious movement within catholicism known detractors jansenism
+father died 1651
+following religious experience late 1654 began writing influential works philosophy theology
+two most famous works date period lettres provinciales pensées former set conflict jansenists jesuits
+year also important treatise arithmetical triangle
+1658 1659 cycloid use calculating volume solids
+pascal poor health especially after 18 th year death came just two months after 39 th birthday
+contents early life education 2 contributions mathematics 2
+philosophy mathematics 3 contributions physical sciences 4 adult life religion philosophy literature 4
+religious conversion 4
+2 brush death 4
+3 provincial letters 4
+4 pensées 4
+5 last works death 5 legacy 6 works 7 see also references 9 further reading 10 external links early life education pascal born clermont-ferrand france's auvergne region
+lost mother antoinette begon age three
+father étienne pascal 1588–1651 also interest science mathematics local judge member noblesse de robe
+pascal two sisters younger jacqueline elder gilberte
+1631 five years after death wife étienne pascal moved children paris
+newly arrived family soon hired louise delfault maid eventually became instrumental member family
+étienne never remarried decided alone educate children showed extraordinary intellectual ability particularly son blaise
+young pascal showed amazing aptitude mathematics science
+particularly interest pascal work desargues conic sections
+following desargues' thinking 16-year-old pascal produced means proof short treatise called mystic hexagram essai pour les coniques essay conics sent it—his first serious work mathematics—to père mersenne paris known still today pascal's theorem
+states hexagon inscribed circle conic then three intersection points opposite sides lie line called pascal line
+pascal's work precocious descartes convinced pascal's father written
+assured mersenne indeed product son father descartes dismissed sniff find strange offered demonstrations conics appropriate those ancients adding other matters related subject proposed scarcely occur 16-year-old child
+france time offices positions be—and were—bought sold
+1631 étienne sold position second president cour des aides 65665 livres
+money invested government bond provided lavish then certainly comfortable income allowed pascal family move enjoy paris
+1638 richelieu desperate money carry thirty years' war defaulted government's bonds
+suddenly étienne pascal's worth dropped nearly 66000 livres less 7300
+early pascaline display musée des arts et métiers paris like many others étienne eventually forced flee paris because opposition fiscal policies cardinal richelieu leaving three children care neighbor madame sainctot great beauty infamous past kept most glittering intellectual salons france
+jacqueline performed well children's play richelieu attendance étienne pardoned
+time étienne back good graces cardinal 1639 appointed king's commissioner taxes city rouen—a city whose tax records thanks uprisings utter chaos
+1642 effort ease father's endless exhausting calculations recalculations taxes owed paid work young pascal recruited pascal yet 19 constructed mechanical calculator capable addition subtraction called pascal's calculator pascaline
+eight pascalines known survived four held musée des arts et métiers paris zwinger museum dresden germany exhibit two original mechanical calculators
+though these machines pioneering forerunners further 400 years development mechanical methods calculation sense later field computer engineering calculator failed great commercial success
+partly because still quite cumbersome use practice probably primarily because extraordinarily expensive pascaline became little toy status symbol very rich both france elsewhere europe
+pascal continued make improvements design through next decade refers 50 machines built design
+contributions mathematics pascal's triangle
+each number sum two directly above
+triangle demonstrates many mathematical properties addition showing binomial coefficients
+pascal continued influence mathematics throughout life
+traité du triangle arithmétique treatise arithmetical triangle 1653 described convenient tabular presentation binomial coefficients now called pascal's triangle
+triangle also represented 0 2 3 4 5 6 0 2 3 4 5 6 2 3 6 10 15 3 4 10 20 4 5 15 5 6 6 defines numbers triangle recursion call number m + th row n + th column tmn
+then tmn = tm–1 n + tmn–1 m = 0 2
+n = 0 2
+boundary conditions tm−1 = 0 t−1 n = 0 m = 2 3
+n = 2 3
+generator t00 =
+pascal concludes proof 1654 proved pascal's identity relating sums p-th powers first n positive integers p = 0 2 … k
+1654 prompted friend chevalier de méré corresponded pierre de fermat subject gambling problems collaboration born mathematical theory probabilities
+specific problem two players want finish game early given current circumstances game want divide stakes fairly based chance each winning game point
+discussion notion expected value introduced
+pascal later pensées used probabilistic argument pascal's wager justify belief god virtuous life
+work done fermat pascal calculus probabilities laid important groundwork leibniz' formulation calculus
+after religious experience 1654 pascal mostly gave up work mathematics
+philosophy mathematics pascal's major contribution philosophy mathematics came de l'esprit géométrique geometrical spirit originally written preface geometry textbook famous petites-ecoles de port-royal little schools port-royal
+work unpublished until over century after death
+here pascal looked issue discovering truths arguing ideal such method found propositions already established truths
+same time however claimed impossible because such established truths require other truths back them up—first principles therefore cannot reached
+based pascal argued procedure used geometry perfect possible certain principles assumed other propositions developed them
+nevertheless there no way know assumed principles true
+pascal also used de l'esprit géométrique develop theory definition
+distinguished definitions conventional labels defined writer definitions within language understood everyone because naturally designate their referent
+second type characteristic philosophy essentialism
+pascal claimed definitions first type important science mathematics arguing those fields should adopt philosophy formalism formulated descartes
+de l'art de persuader art persuasion pascal looked deeper geometry's axiomatic method specifically question how people come convinced axioms upon later conclusions based
+pascal agreed montaigne achieving certainty these axioms conclusions through human methods impossible
+asserted these principles grasped through intuition fact underscored necessity submission god searching out truths
+contributions physical sciences portrait pascal illustration apocryphal pascal's barrel experiment pascal's work fields study hydrodynamics hydrostatics centered principles hydraulic fluids
+inventions include hydraulic press using hydraulic pressure multiply force syringe
+proved hydrostatic pressure depends weight fluid elevation difference
+demonstrated principle attaching thin tube barrel full water filling tube water up level third floor building
+caused barrel leak became known pascal's barrel experiment
+1646 pascal learned evangelista torricelli's experimentation barometers
+having replicated experiment involved placing tube filled mercury upside down bowl mercury pascal questioned force kept mercury tube filled space above mercury tube
+time most scientists contended rather vacuum invisible matter present
+based aristotelian notion creation thing substance whether visible invisible substance forever motion
+furthermore everything motion must moved something aristotle declared
+therefore aristotelian trained scientists pascal's time vacuum impossibility
+how so? proof pointed out light passed through so-called vacuum glass tube
+aristotle how everything moved must moved something
+therefore since there invisible something move light through glass tube there no vacuum tube
+glass tube anywhere else
+vacuums absence any everything simply impossibility
+following experimentation vein 1647 pascal produced experiences nouvelles touchant le vide new experiments vacuum detailed basic rules describing degree various liquids supported air pressure
+also provided reasons why indeed vacuum above column liquid barometer tube
+19 september 1648 after many months pascal's friendly insistent prodding florin périer husband pascal's elder sister gilberte finally able carry out fact-finding mission vital pascal's theory
+account written périer reads weather chancy last saturday
+[but] around five o'clock morning
+puy-de-dôme visible
+decided give try
+several important people city clermont asked me let them know make ascent
+delighted them me great work
+eight o'clock met gardens minim fathers lowest elevation town
+first poured 16 pounds quicksilver
+then took several glass tubes
+each four feet long hermetically sealed end opened other
+then placed them vessel [of quicksilver]
+found quick silver stood 3½ lines above quicksilver vessel
+repeated experiment two times while standing same spot
+[they] produced same result each time
+attached tubes vessel marked height quicksilver
+asked father chastin minim brothers
+watch any changes should occur through day
+taking other tube portion quick silver
+walked top puy-de-dôme 500 fathoms higher monastery upon experiment
+found quicksilver reached height 23 2 lines
+repeated experiment five times care
+each different points summit
+found same height quicksilver
+each case
+pascal replicated experiment paris carrying barometer up top bell tower church saint-jacques-de-la-boucherie height fifty meters
+mercury dropped two lines
+face criticism invisible matter must exist pascal's empty space pascal reply estienne noel gave 17 th century's major statements scientific method striking anticipation idea popularised karl popper scientific theories characterised their falsifiability order show hypothesis evident does suffice phenomena follow instead leads something contrary single phenomena suffices establish falsity
+insistence existence vacuum also led conflict other prominent scientists including descartes
+pascal introduced primitive form roulette roulette wheel search perpetual motion machine
+adult life religion philosophy literature after man nature? nothing relation infinity relation nothing central point nothing infinitely far understanding either
+ends things their beginnings impregnably concealed impenetrable secret
+equally incapable seeing nothingness out drawn infinite engulfed
+blaise pascal pensées no
+72 religious conversion pascal studying cycloid augustin pajou 1785 louvre winter 1646 pascal's 58-year-old father broke hip slipped fell icy street rouen given man's age state medicine 17 th century broken hip very serious condition perhaps even fatal
+rouen home two finest doctors france monsieur doctor deslandes monsieur doctor de bouteillerie
+elder pascal let anyone other these men attend
+good choice old man survived able walk again
+treatment rehabilitation took three months during time bouteillerie deslandes become household guests
+both men followers jean guillebert proponent splinter group catholic teaching known jansenism
+still fairly small sect making surprising inroads french catholic community time
+espoused rigorous augustinism
+blaise spoke doctors frequently upon successful treatment étienne borrowed them works jansenist authors
+period pascal experienced sort first conversion began write theological subjects course following year
+pascal fell away initial religious engagement experienced few years biographers called worldly period 1648–54
+father died 1651 left inheritance pascal jacqueline whom pascal acted her conservator
+jacqueline announced she soon become postulant jansenist convent port-royal
+pascal deeply affected very sad because her choice because chronic poor health too needed her
+suddenly there war pascal household
+blaise pleaded jacqueline leave she adamant
+commanded her stay didn't work either
+blaise's fear abandonment
+jacqueline entered port-royal she leave her inheritance behind
+[but] nothing change her mind
+end october 1651 truce reached brother sister
+return healthy annual stipend jacqueline signed over her part inheritance her brother
+gilberte already given her inheritance form dowry
+early january jacqueline left port-royal
+day according gilberte concerning her brother retired very sadly rooms without seeing jacqueline waiting little parlor
+early june 1653 after must seemed like endless badgering jacqueline pascal formally signed over whole sister's inheritance port-royal begun smell like cult
+two thirds father's estate now gone 29-year-old pascal now consigned genteel poverty
+while pascal pursued life bachelor
+during visits sister port-royal 1654 displayed contempt affairs world drawn god
+brush death[dubious discuss] 23 november 1654 1030 1230 night pascal intense religious vision immediately recorded experience brief note himself began fire
+god abraham god isaac god jacob philosophers scholars
+concluded quoting psalm 11916 will forget thy word
+seems carefully sewn document coat transferred changed clothes servant discovered chance after death
+piece now known memorial
+story carriage accident[clarification needed] having led experience described memorial disputed scholars
+belief religious commitment revitalized pascal visited older two convents port-royal two-week retreat january 1655
+next four years regularly travelled port-royal paris
+point immediately after conversion began writing first major literary work religion provincial letters
+provincial letters main article lettres provinciales french literature category french literary history medieval renaissance 17 th 18 th 19 th 20 th century contemporary french writers chronological list writers category essayists novelists playwrights poets short story writers children's writers portals france french language literature french/francophone literature vte beginning 1656 pascal published memorable attack casuistry popular ethical method used catholic thinkers early modern period especially jesuits particular antonio escobar
+pascal denounced casuistry mere use complex reasoning justify moral laxity sorts sins
+18-letter series published 1656 1657 under pseudonym louis de montalte incensed louis
+king ordered book shredded burnt 1660
+1661 midsts formulary controversy jansenist school port-royal condemned closed down those involved school sign 1656 papal bull condemning teachings jansen heretical
+final letter pascal 1657 defied alexander vii himself
+even pope alexander while publicly opposing them nonetheless persuaded pascal's arguments
+aside their religious influence provincial letters popular literary work
+pascal's use humor mockery vicious satire arguments made letters ripe public consumption influenced prose later french writers like voltaire jean-jacques rousseau
+charles perrault letters everything there—purity language nobility thought solidity reasoning finesse raillery throughout agrément found anywhere else
+pensées wikisource original text related article pensées main article pensées pascal's most influential theological work referred posthumously pensées thoughts completed before death
+sustained coherent examination defense christian faith original title apologie de religion chrétienne defense christian religion
+first version numerous scraps paper found after death appeared print book 1669 titled pensées de m
+pascal sur religion et sur quelques autres sujets thoughts m
+pascal religion other subjects soon thereafter became classic
+apologie's main strategies use contradictory philosophies skepticism stoicism personalized montaigne hand epictetus other order bring unbeliever such despair confusion embrace god
+pascal's pensées widely considered masterpiece landmark french prose
+commenting particular section thought #72 sainte-beuve praised finest pages french language
+will durant hailed most eloquent book french prose
+pensées pascal surveys several philosophical paradoxes infinity nothing faith reason soul matter death life meaning vanity—seemingly arriving no definitive conclusions besides humility ignorance grace
+rolling these develops pascal's wager
+last works death pascal's epitaph saint-étienne-du-mont buried t
+eliot described during phase life man world among ascetics ascetic among men world
+pascal's ascetic lifestyle derived belief natural necessary person suffer
+1659 pascal fell seriously ill
+during last years frequently tried reject ministrations doctors saying sickness natural state christians
+louis suppressed jansenist movement port-royal 1661
+response pascal final works écrit sur signature du formulaire writ signing form exhorting jansenists give
+later year sister jacqueline died convinced pascal cease polemics jansenism
+pascal's last major achievement returning mechanical genius inaugurating perhaps first bus line moving passengers within paris carriage many seats
+1662 pascal's illness became violent emotional condition severely worsened since sister's death
+aware health fading quickly sought move hospital incurable diseases doctors declared too unstable carried
+paris 18 august 1662 pascal went convulsions received extreme unction
+died next morning last words being may god never abandon me buried cemetery saint-étienne-du-mont
+autopsy performed after death revealed grave problems stomach other organs abdomen along damage brain
+despite autopsy cause poor health never precisely determined though speculation focuses tuberculosis stomach cancer combination two
+headaches afflicted pascal generally attributed brain lesion
+legacy death mask blaise pascal
+honor scientific contributions name pascal given si unit pressure programming language pascal's law important principle hydrostatics mentioned above pascal's triangle pascal's wager still bear name
+pascal's development probability theory most influential contribution mathematics
+originally applied gambling today extremely important economics especially actuarial science
+john ross writes probability theory discoveries following changed way regard uncertainty risk decision-making individual's society's ability influence course future events
+however should noted pascal fermat though doing important early work probability theory develop field very far
+christiaan huygens learning subject correspondence pascal fermat first book subject
+later figures continued development theory include abraham de moivre pierre-simon laplace
+literature pascal regarded most important authors french classical period read today greatest masters french prose
+use satire wit influenced later polemicists
+content literary work best remembered strong opposition rationalism rené descartes simultaneous assertion main countervailing philosophy empiricism also insufficient determining major truths
+france prestigious annual awards blaise pascal chairs given outstanding international scientists conduct their research ile de france region
+universities clermont-ferrand france université blaise pascal named after
+university waterloo ontario canada holds annual math contest named honour
+pascalian theology grown out perspective according wood born duplicitous world shapes us duplicitous subjects find easy reject god continually deceive ourselves our own sinfulness
+roberto rossellini directed filmed biopic entitled blaise pascal originally aired italian television 1971
+pascal subject first edition 1984 bbc two documentary sea faith presented don cupitt
+works essai pour les coniques [essay conics] 1639 experiences nouvelles touchant le vide 1647 traité du triangle arithmétique [treatise arithmetic triangle] 1653 lettres provinciales [the provincial letters] 1656–57 de l'esprit géométrique [on geometrical spirit] 1657 1658 écrit sur signature du formulaire 1661 pensées [thoughts] incomplete death see also kingdom france portal scientific revolution list works eugène guillaume references pascal
+random house webster's unabridged dictionary
+fr machine d’arithmétique blaise pascal wikisource mourlevat guy 1988
+les machines arithmétiques de blaise pascal french
+clermont-ferrand française d'edition et d'imprimerie
+see schickard versus pascal empty debate? marguin jean 1994
+histoire des instruments et machines à calculer trois siècles de mécanique pensante 1642–1942 french
+d'ocagne maurice 1893
+le calcul simplifié french
+gauthier-villars et fils
+blaise pascal
+catholic encyclopedia
+retrieved 23 february 2009
+hald anders history probability statistics applications before 1750 wiley publications 1990 pp
+devlin keith unfinished game pascal fermat seventeenth-century letter made world modern basic books edition 2008 p
+o'connor j
+robertson e
+august 2006
+étienne pascal
+university st
+andrews scotland
+retrieved 5 february 2010
+story civilization volume age louis will & ariel durant chapter ii subsection 4
+56 connor james
+pascal's wager man played dice god harper collins ny 2006 p
+42 complete list known pascalines also review contemporary replicas found surviving pascalines replica pascalines http//things-that-count
+net kieren mac millan jonathan sondow 2011
+proofs power sum binomial coefficient congruences via pascal's identity
+american mathematical monthly 118 549–551
+devlin keith unfinished game pascal fermat seventeenth-century letter made world modern basic books edition 2008 p
+mathematical leibniz
+retrieved 16 august 2009
+aristotle physics vii
+périer pascal september 1648 pascal blaise
+oeuvres complètes
+paris seuil 1960 2682
+pour faire qu'une hypothèse soit évidente il ne suffit pas que tous les phénomènes s'en ensuivent au lieu que s'il s'ensuit quelque chose de contraire à un seul des phénomènes cela suffit pour assurer de sa fausseté les lettres de blaise pascal accompagnées de lettres de ses correspondants publiées ed
+maurice beaufreton 6 th edition paris g
+crès 1922 25–26 available http//gallica
+fr translated saul fisher pierre gassendi's philosophy science atomism empiricists brill's studies intellectual history 131 leiden e
+brill 2005 126 n
+7 mit inventor week archive pascal mechanical calculator may 2003
+pascal worked many versions devices leading attempt create perpetual motion machine
+credited introducing roulette machine by-product these experiments
+connor james
+pascal's wager man played dice god harper collins ny 2006 p
+70 miel jan
+pascal theology
+baltimore johns hopkins university press 1969 p
+122 jacqueline pascal memoir p
+87 miel jan
+pascal theology
+baltimore johns hopkins university press 1969 p
+124 richard h
+popkin paul edwards ed
+encyclopedia philosophy 1967 edition s
+pascal blaise
+6 p
+52–55 new york macmillan pascal blaise
+oeuvres complètes
+paris seuil 1960 p
+618 math pages hold your horses
+sources hypothesis link carriage accident pascal's second conversion based sage weighing evidence against see henri gouhier blaise pascal commentaires vrin 1984 pp
+379 ff
+charles perrault parallèle des anciens et des modernes paris 1693 vol
+sainte-beuve seventeenth century p
+174 2009 reprint
+story civilization volume age louis will & ariel durant chapter ii subsection 4
+4 p
+66 muir jane
+men numbers
+new york dover publications inc 1996
+muir jane
+men numbers
+new york dover publications inc 1996
+ross john f
+pascal's legacy
+embo reports 5 suppl s7–s10
+pmc 1299210
+pmid 15459727
+chaires blaise pascal
+chaires blaise pascal
+retrieved 16 august 2009
+cemc pascal cayley fermat mathematics contests university waterloo
+23 june 2008
+retrieved 16 august 2009
+blaise pascal duplicity sin fall
+retrieved 2016-03-24
+blaise pascal tcm movie database further reading adamson donald
+blaise pascal mathematician physicist thinker god 1995 adamson donald
+pascal's views mathematics divine mathematics divine historical study eds
+koetsier l
+amsterdam elsevier 2005 pp
+broome j
+london e
+arnold 1965
+davidson hugh m
+blaise pascal
+boston twayne publishers 1983
+farrell john
+pascal power
+chapter seven paranoia modernity cervantes rousseau cornell up 2006
+goldmann lucien hidden god study tragic vision pensees pascal tragedies racine original ed
+1955 trans
+philip thody
+london routledge 1964
+groothuis douglas
+belmont wadsworth 2002
+jordan jeff
+pascal's wager pragmatic arguments belief god
+oxford clarendon press 2006
+landkildehus søren
+kierkegaard pascal kindred spirits fight against christendom kierkegaard renaissance modern traditions ed
+jon stewart
+farnham ashgate publishing 2009
+mackie john leslie
+miracle theism arguments against existence god
+oxford oxford university press 1982
+pugh anthony r
+composition pascal's apologia university toronto press 1984
+saka paul 2001
+pascal's wager many gods objection
+religious studies 37 3 321–41
+stephen leslie
+studies biographer 2
+london duckworth co
+tobin paul
+rejection pascal's wager skeptic's guide bible historical jesus
+uk 2009
+yves morvan pascal à mirefleurs ? les dessins de maison de domat impr
+blandin 1985
+frbnf40378895 external links find blaise pascalat wikipedia's sister projects definitions wiktionary media commons news stories wikinews quotations wikiquote source texts wikisource textbooks wikibooks learning resources wikiversity oeuvres complètes volume 2 1858 paris libraire de l hachette et cie link hathi trust
+works blaise pascal project gutenberg works blaise pascal internet archive works blaise pascal libri vox public domain audiobooks blaise pascal entry david simpson internet encyclopedia philosophy blaise pascal entry desmond clarke stanford encyclopedia philosophy discussion pascaline history mechanism surviving examples modern replicas http//things-that-count
+net avis nécessaire à ceux qui auront curiosité de voir ladite machine et s'en servir pascaline 1635 text online analysed bib num [click 'à télécharger' english version]
+pascal's memorial orig
+french/latin modern english trans
+elizabeth t
+biography bibliography
+french works blaise pascal open library bbc radio 4
+our time pascal
+blaise pascal featured 500 french franc banknote 1977
+blaise pascal's works text concordances frequency lists herbermann charles ed
+blaise pascal
+catholic encyclopedia
+new york robert appleton company
+etext pascal's pensées english various formats etext pascal's lettres provinciales english etext number pascal's minor works english translation including de l'esprit géométrique de l'art de persuader
+o'connor john j
+robertson edmund f
+blaise pascal mac tutor history mathematics archive university st andrews
+vte blaise pascal innovations career pascal's calculator pascal's law pascal's theorem pascal's triangle pascal's wager works lettres provinciales 1656–1657 pensées 1669 family étienne pascal father jacqueline pascal sister articles related blaise pascalvte catholic church organizations papacy teachings liturgical traditions history jesus twelve apostles early christianity history papacy ecumenical councils missions great schism east crusades great schism west protestant reformation counter-reformation catholic church country vatican city index hierarchy pope cardinals patriarchs major archbishops primates metropolitans archbishops diocesan bishops coadjutor bishops auxiliary bishops titular bishops bishops emeriti priesthood theology body soul divine grace dogma holy catholic apostolic church original sin saints list salvation sermon mount ten commandments trinity worship sacraments baptism confirmation eucharist penance anointing sick last rites holy orders matrimony mariology roman catholic mariology assumption history mariology immaculate conception mariology popes mariology saints mother god perpetual virginity veneration doctorsof church gregory great ambrose augustine hippo jerome john chrysostom basil caesarea gregory nazianzus athanasius alexandria cyril alexandria cyril jerusalem john damascus bede venerable ephrem syrian thomas aquinas bonaventure anselm canterbury isidore seville peter chrysologus leo great peter damian bernard clairvaux hilary poitiers alphonsus liguori francis de sales peter canisius john cross robert bellarmine albertus magnus anthony padua lawrence brindisi teresa ávila catherine siena thérèse lisieux john ávila hildegard bingen gregory narek pope francis conclave inauguration theology canonizations visits precedingpopes pope benedict xvi pope john paul ii pope john paul pope paul vi pope john xxiii pope pius xii pope pius xi pope benedict xv pope pius x pope leo xiii institutes societies assumptionists augustinians benedictines capuchin order carmelites carthusians congregations holy cross dominican order franciscan orders jesuits oratory saint philip neri associationsof faithful international federation catholic parochial youth movements international federation catholic universities international kolping society schoenstatt movement international union catholic esperantists sant'egidio community charity aid church need caritas international catholic relief services vatican ii definition church dei verbum gaudium et spes lumen gentium nostra aetate sacrosanctum concilium particularchurches latin church eastern churches albanian armenian belarusian bulgarian chaldean coptic croatian eritrean ethiopian georgian greek hungarian italo-albanian macedonian maronite melkite romanian russian ruthenian slovak syriac syro-malabar syro-malankara ukrainian liturgical rites alexandrian ambrosian anglican use antiochian armenian byzantine east syrian mozarabic ordinariate use roman sarum catholicism portal pope portal index vte history catholic church general history catholic church history christianity history papacy history roman curia timeline catholic church art roman catholicism catholic ecumenical councils catholic religious institutes christian monasticism papal states role christian church civilization church beginnings jesus twelve apostles saint peter paul apostle saint stephen john apostle great commission council jerusalem apostolic age apostolic fathers ignatius antioch irenaeus pope victor tertullian constantine pope gregory constantine great christianity arianism archbasilica st
+john lateran first council nicaea pope sylvester first council constantinople biblical canon jerome vulgate first council ephesus council chalcedon benedict nursia second council constantinople pope gregory gregorian chant early middle ages third council constantinople saint boniface byzantine iconoclasm second council nicaea charlemagne pope leo iii fourth council constantinople east–west schism high middle ages pope urban ii investiture controversy crusades first council lateran second council lateran third council lateran pope innocent iii latin empire francis assisi fourth council lateran inquisition first council lyon second council lyon bernard clairvaux thomas aquinas late middle ages pope boniface viii avignon papacy pope clement v council vienne knights templar catherine siena pope alexander vi protestant reformation counter-reformation protestant reformation counter-reformation thomas pope leo x society jesus ignatius loyola francis xavier dissolution monasteries council trent pope pius v tridentine mass teresa ávila john cross philip neri robert bellarmine baroque period french revolution pope innocent xi pope benedict suppression society jesus anti-clericalism pope pius vi shimabara rebellion edict nantes dechristianisation france during french revolution 19 th century pope pius vii pope pius ix dogma immaculate conception virgin mary our lady salette our lady lourdes first vatican council papal infallibility pope leo xiii mary divine heart prayer consecration sacred heart rerum novarum 20 th century pope pius x our lady fátima persecutions catholic church pius xii pope pius xii pope pius xii consecration immaculate heart mary dogma assumption virgin mary lateran treaty pope john xxiii second vatican council pope paul vi pope john paul pope john paul ii world youth day 1995 2000 21 st century catholic church sexual abuse cases pope benedict xvi world youth day 2002 2005 2008 2011 2013 pope francis country region belize brazil canada cuba france germany great britain haiti hispano-america ireland italy japan mexico norway poland portugal spain united states vatican city venezuela vietnam pope portal vatican city portal catholicism portal vte history catholic theology theologians teachings heresies general history history catholic church early christianity history papacy ecumenical councils timeline catholic church history christianity history christian theology church beginnings paul clement rome first epistle clement didache ignatius antioch polycarp epistle barnabas shepherd hermas aristides athens justin martyr epistle diognetus irenaeus montanism tertullian origen antipope novatian cyprian constantine pope gregory eusebius athanasius alexandria arianism pelagianism nestorianism monophysitism ephrem syrian hilary poitiers cyril jerusalem basil caesarea gregory nazianzus gregory nyssa ambrose john chrysostom jerome augustine hippo john cassian cyril alexandria peter chrysologus pope leo boethius pseudo-dionysius areopagite pope gregory early middle ages isidore seville john climacus maximus confessor monothelitism ecthesis bede john damascus iconoclasm transubstantiation dispute predestination disputes paulinus ii aquileia alcuin rabanus maurus paschasius radbertus john scotus eriugena high middle ages roscellinus gregory narek berengar tours peter damian anselm canterbury joachim fiore peter abelard decretum gratiani bernard clairvaux peter lombard anselm laon hildegard bingen hugh saint victor dominic de guzmán robert grosseteste francis assisi anthony padua beatrice nazareth bonaventure albertus magnus thomas aquinas thomism roger bacon mysticism reforms ramon llull duns scotus dante alighieri william ockham richard rolle john ruusbroec catherine siena brigit sweden meister eckhart johannes tauler walter hilton cloud unknowing heinrich seuse geert groote devotio moderna julian norwich thomas à kempis nicholas kues marsilio ficino girolamo savonarola giovanni pico della mirandola protestant reformation counter-reformation desiderius erasmus thomas cajetan thomas john fisher johann eck francisco de vitoria ignatius loyola francisco de osuna john avila francis xavier teresa ávila luis de león john cross petrus canisius luis de molina molinism robert bellarmine francisco suárez lawrence brindisi francis de sales baroque period french revolution tommaso campanella pierre de bérulle rené descartes mary jesus ágreda jean-jacques olier louis thomassin jacques-bénigne bossuet françois fénelon cornelius jansen jansenism blaise pascal nicolas malebranche giambattista vico alphonsus liguori louis de montfort maria gaetana agnesi alfonso muzzarelli johann michael sailer clemens maria hofbauer 19 th century joseph görres felicité de lamennais luigi taparelli ignaz von döllinger john henry newman henri lacordaire jaime balmes gaetano sanseverino giovanni maria cornoldi wilhelm emmanuel freiherr von ketteler giuseppe pecci joseph hergenröther tommaso maria zigliara matthias joseph scheeben modernism léon bloy désiré-joseph mercier friedrich von hügel vladimir solovyov marie-joseph lagrange george tyrrell maurice blondel thérèse lisieux 20 th–21 st century g
+chesterton reginald garrigou-lagrange joseph maréchal pierre teilhard de chardin jacques maritain étienne gilson ronald knox dietrich von hildebrand gabriel marcel marie-dominique chenu romano guardini edith stein fulton sheen henri de lubac gabriel roschini jean guitton josemaría escrivá adrienne von speyr karl rahner yves congar bernard lonergan emmanuel mounier jean daniélou hans urs von balthasar edward schillebeeckx thomas merton raimondo spiazzi elizabeth anscombe rené girard pope benedict xvi johann baptist metz jean vanier henri nouwen walter kasper michał heller jean-luc marion tomáš halík catholicism portal pope portal vte philosophy religion concepts religion afterlife euthyphro dilemma faith intelligent design miracle problem evil religious belief soul spirit theodicy theological veto conceptions god aristotelian view brahman demiurge divine simplicity egoism holy spirit maltheism pandeism personal god process theology supreme being unmoved mover god abrahamic religions buddhism christianity hinduism islam jainism judaism mormonism sikhism bahá'í faith wicca existence god beauty christological consciousness cosmological kalam contingency degree desire experience fine-tuning universe love miracles morality ontological pascal's wager proper basis reason teleological natural law watchmaker analogy transcendental against 747 gambit atheist's wager evil free will hell inconsistent revelations nonbelief noncognitivism occam's razor omnipotence poor design russell's teapot theology acosmism agnosticism animism antireligion atheism creationism dharmism deism divine command theory dualism esotericism exclusivism existentialism christian agnostic atheistic feminist theology thealogy womanist theology fideism fundamentalism gnosticism henotheism humanism religious secular christian inclusivism theories religions monism monotheism mysticism naturalism metaphysical religious humanistic new age nondualism nontheism pandeism panentheism pantheism perennialism polytheism process theology religious skepticism spiritualism shamanism taoic theism transcendentalism
+religious language eschatological verification language-game logical positivism apophatic theology verificationism problem evil augustinian theodicy best possible worlds euthyphro dilemma inconsistent triad irenaean theodicy natural evil theodicy philosophersof religionby date active ancientand medieval heraclitus augustine hippo boethius anselm canterbury gaunilo marmoutiers averroes thomas aquinas maimonides pico della mirandola desiderius erasmus enlightenment rené descartes blaise pascal baruch spinoza nicolas malebranche gottfried w leibniz william wollaston thomas chubb david hume baron d'holbach immanuel kant johann g herder 18001850 friedrich schleiermacher karl c f krause georg w f hegel william whewell ludwig feuerbach søren kierkegaard karl marx albrecht ritschl 18801900 ernst haeckel w
+clifford friedrich nietzsche harald høffding william james vladimir solovyov ernst troeltsch rudolf otto lev shestov sergei bulgakov pavel florensky ernst cassirer joseph maréchal 1920 postwar george santayana bertrand russell martin buber rené guénon paul tillich karl barth emil brunner rudolf bultmann reinhold niebuhr charles hartshorne mircea eliade j l mackie walter kaufmann martin lings peter geach george mavrodes william alston antony flew 197019902010 william l rowe dewi z phillips alvin plantinga anthony kenny nicholas wolterstorff richard swinburne robert merrihew adams peter van inwagen daniel dennett loyal rue jean-luc marion william lane craig ali akbar rashad alexander pruss related topics criticism religion ethics religion exegesis history religions religion religious language religious philosophy relationship religion science political science religion faith rationality
+portal category vte scientists whose names used si units base units andré-marie ampère william thomson st baron kelvin derived units henri becquerel anders celsius charles-augustin de coulomb michael faraday louis harold gray joseph henry heinrich hertz james prescott joule isaac newton georg ohm blaise pascal werner von siemens rolf maximilian sievert nikola tesla alessandro volta james watt wilhelm eduard weber see also scientists whose names used non si units scientists whose names used physical constants authority control world cat identities viaf 29538862 lccn n79084279 isni 0000 0001 2125 8260 gnd 118591843 selibr 220083 sudoc 027059073 bnf cb11918679 x data mgp 126406 nla 35410983 ndl 00452212 nkc jn19990006387 iccu it\iccu\cfiv\010441 bne xx1147855

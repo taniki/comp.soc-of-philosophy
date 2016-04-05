@@ -1,0 +1,485 @@
+donald knuth donald knuth reception open content alliance october 25 2005 born donald ervin knuth 1938-01-10 january 10 1938 age 78 milwaukee wisconsin usnationality american fields mathematics computer science institutions stanford university alma mater case institute technology
+1960 california institute technology ph 1963 thesis finite semifields projective planes 1963 doctoral advisor marshall hall jr
+doctoral students leonidas j
+guibas michael fredman scott kim vaughan pratt robert sedgewick jeffrey vitter andrei broder known art computer programming te x metafontknuth–morris–pratt algorithm knuth–bendix completion algorithm mmixrobinson–schensted–knuth correspondence notable awards grace murray hopper award 1971 turing award 1974 national medal science 1979 john von neumann medal 1995 harvey prize 1995 kyoto prize 1996 computer history museum fellow 1998 mem rs 2003 faraday medal 2011 bbva foundation frontiers knowledge award 2010 turing lecture 2011 websitecs
+edu/~uno donald ervin knuth /kəˈnuːθ/ kə-nooth born january 10 1938 american computer scientist mathematician professor emeritus stanford university
+author multi-volume work art computer programming
+knuth called father analysis algorithms
+contributed development rigorous analysis computational complexity algorithms systematized formal mathematical techniques
+process also popularized asymptotic notation
+addition fundamental contributions several branches theoretical computer science knuth creator te x computer typesetting system related metafont font definition language rendering system computer modern family typefaces
+writer scholar knuth created web cweb computer programming systems designed encourage facilitate literate programming designed mix/mmix instruction set architectures
+member academic scientific community knuth strongly opposed policy granting software patents
+expressed disagreement directly both united states patent trademark office european patent organization
+contents early life 2 education 3 early work 4 writings 4
+art computer programming taocp 4
+2 other works 4
+3 religious beliefs work 5 health concerns 6 computer musings 7 humor awards honors 9 publications 9
+art computer programming 9
+2 computers typesetting 9
+3 selected papers 10 gallery see also 12 references 13 bibliography 14 external links early life knuth born milwaukee wisconsin father owned small printing business taught bookkeeping milwaukee lutheran high school donald enrolled earning achievement awards
+applied intelligence unconventional ways winning contest eighth grade finding over 4500 words formed letters ziegler's giant bar judges 2500 words their master list
+won television set school enough candy bars entire school
+education knuth difficult time choosing physics over music major case institute technology now part case western reserve university
+also joined beta nu chapter theta chi fraternity
+while studying physics case institute technology knuth introduced ibm 650 early mainframes
+after reading computer's manual knuth decided rewrite assembly compiler code machine used school because believed better
+1958 knuth constructed program based value each player help school basketball team win league
+novel proposition time got picked up published newsweek also covered walter cronkite cbs evening news
+knuth founding editors engineering science review won national award best technical magazine 1959
+then switched physics mathematics 1960 received bachelor science degree simultaneously being given master science degree special award faculty considered work exceptionally outstanding
+1963 earned ph mathematics advisor marshall hall california institute technology
+early work after receiving ph knuth joined caltech's faculty associate professor
+accepted commission write book computer programming language compilers
+while working project knuth decided adequately treat topic without first developing fundamental theory computer programming became art computer programming
+originally planned publish single book
+knuth developed outline book concluded required six volumes then seven thoroughly cover subject
+published first volume 1968
+just before publishing first volume art computer programming knuth left caltech accept employment institute defense analyses' communications research division then situated princeton university campus performing mathematical research cryptography support national security agency
+knuth then left position join stanford university faculty
+writings art computer programming taocp main article art computer programming computer science then taking first hesitant steps
+totally new field knuth recalls no real identity
+standard available publications high
+lot papers coming out quite simply wrong
+my motivations put straight story very badly
+after producing third volume series 1976 expressed such frustration nascent state then newly developed electronic publishing tools especially those provided input phototypesetters took time out work typesetting created te x metafont tools
+2013[update] first three volumes part volume four series published
+concrete mathematics foundation computer science 2 nd ed
+originated expansion mathematical preliminaries section volume tao cp also published
+other works also author surreal numbers mathematical novelette john conway's set theory construction alternate system numbers
+instead simply explaining subject book seeks show development mathematics
+knuth wanted book prepare students doing original creative research
+1995 knuth foreword book a=b marko petkovsek herbert wilf doron zeilberger
+knuth also occasional contributor language puzzles word ways journal recreational linguistics
+knuth also delved recreational mathematics
+contributed articles journal recreational mathematics beginning 1960's acknowledged major contributor joseph madachy's mathematics vacation
+religious beliefs work addition writings computer science knuth lutheran also author 316 bible texts illuminated examines bible process systematic sampling namely analysis chapter 3 verse 16 each book
+each verse accompanied rendering calligraphic art contributed group calligraphers under leadership hermann zapf
+subsequently invited give set lectures 316 project resulting another book things computer scientist rarely talks published lectures god computer science
+health concerns 2006 knuth diagnosed prostate cancer
+underwent surgery december year started little bit radiation therapy
+precaution prognosis looks pretty good reported video autobiography
+computer musings knuth gives informal lectures few times year stanford university called computer musings
+visiting professor oxford university department computer science united kingdom honorary fellow magdalen college
+humor knuth's reward checks nested parens—donald knuth jacob appelbaum donald knuth knuth used pay finder's fee $2
+56 any typographical errors mistakes discovered books because 256 pennies hexadecimal dollar $0
+valuable suggestions
+according article massachusetts institute technology's technology review these knuth reward checks among computerdom's most prized trophies
+knuth stop sending real checks 2008 due bank fraud instead now gives each error finder certificate deposit publicly listed balance fictitious bank san serriffe
+once warned correspondent beware bugs above code proved correct tried
+knuth published first scientific article school magazine 1957 under title potrzebie system weights measures
+defined fundamental unit length thickness mad no
+named fundamental unit force whatmeworry
+mad published article issue no
+33 june 1957
+demonstrate concept knuth intentionally referred circular definition definition circular each other index art computer programming volume
+tug 2010 conference knuth announced xml-based successor te x titled te x pronounced [iː˨˩˦tɛks˧˥] bell ringing support features such arbitrarily scaled irrational units 3 printing animation stereophonic sound
+awards honors 1971 knuth recipient first acm grace murray hopper award
+received various other awards including turing award national medal science john von neumann medal kyoto prize
+recognition knuth's contributions field computer science 1990 awarded one-of-a-kind academic title professor art computer programming since revised professor emeritus art computer programming
+knuth elected national academy sciences 1975
+1992 became associate french academy sciences
+also year retired regular research teaching stanford university order finish art computer programming
+elected foreign member royal society mem rs 2003
+knuth elected fellow first class fellows society industrial applied mathematics 2009 outstanding contributions mathematics
+member norwegian academy science letters
+became fellow american mathematical society
+other awards honors include first acm grace murray hopper award 1971 turing award 1974 lester r
+ford award 1975 1993 josiah willard gibbs lecturer 1978 national medal science 1979 franklin medal 1988 john von neumann medal 1995 harvey prize technion 1995 kyoto prize 1996 fellow computer history museum fundamental early work history computing algorithms development te x typesetting language major contributions mathematics computer science
+1998 katayanagi prize 2010 bbva foundation frontiers knowledge award category information communication technologies 2010 turing lecture 2011 stanford university school engineering hero award 2011 publications short list publications art computer programming ——— 1997 art computer programming fundamental algorithms 3 rd ed
+addison-wesley professional 0-201-89683-4
+——— 1997 art computer programming 2 seminumerical algorithms 3 rd ed
+addison-wesley professional 0-201-89684-2
+——— 1998 art computer programming 3 sorting searching 2 nd ed
+addison-wesley professional 0-201-89685-0
+——— 2011 art computer programming 4 combinatorial algorithms addison-wesley professional 0-201-03804-8
+——— 2005 mmix—a risc computer new millennium fascicle 0-201-85392-2
+——— 2008 art computer programming 4 fascicle 0 introduction combinatorial algorithms boolean functions 0-321-53496-4
+——— 2009 art computer programming 4 fascicle bitwise tricks & techniques binary decision diagrams 0-321-58050-8
+——— 2005 art computer programming 4 fascicle 2 generating tuples permutations 0-201-85393-0
+——— 2005 art computer programming 4 fascicle 3 generating combinations partitions 0-201-85394-9
+——— 2006 art computer programming 4 fascicle 4 generating trees—history combinatorial generation 0-321-33570-8
+——— 2015 art computer programming 4 fascicle 6 satisfiability 0-134-39760-6
+computers typesetting books hardcover unless otherwise noted
+——— 1984 computers & typesetting te xbook reading ma addison-wesley 0-201-13447-0 x+483 pp
+——— 1984 computers & typesetting te xbook reading ma addison-wesley 0-201-13448-9 softcover
+——— 1986 computers & typesetting te x program reading ma addison-wesley 0-201-13437-3 xviii+600 pp
+——— 1986 computers & typesetting c metafontbook reading ma addison-wesley 0-201-13445-4 xii+361 pp
+——— 1986 computers & typesetting c metafontbook reading ma addison-wesley 0-201-13444-6 softcover
+——— 1986 computers & typesetting metafont program reading ma addison-wesley 0-201-13438-1 xviii+566 pp
+——— 1986 computers & typesetting e computer modern typefaces reading ma addison-wesley 0-201-13446-2 xvi+588 pp
+——— 2000 computers & typesetting a-e boxed set reading ma addison-wesley 0-201-73416-8
+selected papers ——— 1992 literate programming lecture notes 27 stanford ca center study language information—csli 0-937073-80-6 ——— 1996 selected papers computer science lecture notes 59 stanford ca center study language information—csli 1-881526-91-7 ——— 1999 digital typography lecture notes 78 stanford ca center study language information—csli 1-57586-010-4 ——— 2000 selected papers analysis algorithms lecture notes 102 stanford ca center study language information—csli 1-57586-212-3 ——— 2003 selected papers computer languages cloth|format= requires |url= help lecture notes 139 stanford ca center study language information—csli 1-57586-381-2 paperback ——— 2003 selected papers discrete mathematics cloth|format= requires |url= help lecture notes 106 stanford ca center study language information—csli 1-57586-249-2 paperback donald e
+knuth selected papers design algorithms stanford california center study language information—csli lecture notes no
+191 2010
+cloth paperback donald e
+knuth selected papers fun games stanford california center study language information—csli lecture notes no
+192 2011
+cloth paperback donald e
+knuth companion papers donald knuth stanford california center study language information—csli lecture notes no
+202 2011
+cloth paperback graham ronald l knuth donald e
+patashnik oren 1994 concrete mathematics foundation computer science second ed
+reading ma addison-wesley 0-201-55802-5 mr 1397498 xiv+657 pp
+knuth donald ervin 1974 surreal numbers how two ex-students turned pure mathematics found total happiness mathematical novelette addison-wesley 978-0-201-03812-5 donald e
+knuth stanford graph base platform combinatorial computing new york acm press 1993
+second paperback printing 2009
+donald e
+knuth 316 bible texts illuminated madison wisconsin a-r editions 1990
+donald e
+knuth things computer scientist rarely talks center study language information—csli lecture notes no 136 2001
+x gallery knuth march 4 2005 knuth front statue st
+mesrop mashtots matenadaran yerevan armenia june 9 2006 shustek russell alcorn knuth wozniak mathews allen chm 2011 knuth steve wozniak chm 2011 see also asymptotic notation attribute grammar dancing links knuth–bendix completion algorithm knuth–morris–pratt algorithm knuth -yllion knuth prize knuth shuffle knuth's up-arrow notation man boy test robinson–schensted–knuth correspondence complexity songs trabb pardo–knuth algorithm list science religion scholars references c donald knuth mathematics genealogy project donald knuth 1998 fellow
+computer history museum
+retrieved march 30 2015
+professor donald knuth mem rs
+london royal society
+archived original 2015-11-17
+knuth donald ervin
+frequently asked questions
+home page
+stanford university
+retrieved 2010-11-02
+knuth donald ervin home page stanford university retrieved 2005-03-16 art computer programming stanford university
+karp richard m
+february 1986 combinatorics complexity randomness communications acm new york ny usa acm 29 2 98–109 doi10
+5658 knuth donald ervin curriculum vitae stanford university
+professor donald knuth's thinking against software patents pdf notices article american mathematical society march 2002
+knuth donald ervin against software patents pdf letters patent offices usa europe
+shasha dennis elliott lazere cathy 1998 out their minds lives discoveries 15 great computer scientists springer p
+90 978-0-387-98269-4 c koshy thomas 2004 discrete mathematics applications academic press p
+244 978-0-12-421180-3 retrieved july 30 2011 history beta nu chapter tachi cwru
+turing award donald don erwin knuth acm 1974
+knuth donald ervin 1963 finite semifields projective planes pdf ph dissertation caltech
+knuth donald ervin
+art computer programming taocp
+retrieved may 20
+knuth 1974
+zeilberg dek rutgers
+madachy joseph s
+mathematics vacation thomas nelson & sons ltd
+1966 platoni 2006
+knuth donald ervin 316 bible texts illuminated madison wi a-r eds 978-0-89579-252-5 donald knuth 85 coping cancer
+web stories
+april 2006
+retrieved may 2
+professor donald knuth
+magdalen college
+retrieved december 6 2010
+oxford university gazette
+october 30 2014
+retrieved may 21 2015
+rewriting bible 0 s s technology review massachusetts institute technology
+knuth donald ervin
+frequently asked questions
+home page
+stanford university
+retrieved november 2 2010
+knuth donald ervin june 1957 potrzebie system weights & measures mad magazine 33
+don knuth tug conference zeeba tv 2010
+knuth donald ervin earth‐shaking announcement video recording zeeba tv
+knuth donald ervin 2010 earthshaking announcement pdf tugboat 31 2 121–24 issn 0896-3207 fellows siam 2009
+gruppe matematiske fag norwegian
+norwegian academy science letters
+retrieved october 7 2010
+list fellows american mathematical society retrieved 2013-01-27
+computer science relation mathematics
+monthly 81 323–343
+two notes notation
+monthly 99 403–422
+josiah willard gibbs lectures knuth donald e
+mathematical typography
+2 337–372
+mr 520078
+harvey il technion 1995
+katayanagi cmu
+galardonados fronteras spanish es fbbva 2010
+myers andrew june 2001
+stanford's don knuth pioneering hero computer programming
+stanford report
+retrieved june 27 2011
+knuth donald ervin books home page list
+knuth donald ervin literate programming home page
+knuth donald ervin selected papers computer science home page
+knuth donald ervin digital typography home page
+knuth donald ervin selected papers analysis algorithms home page
+knuth donald ervin selected papers computer languages home page knuth donald ervin selected papers discrete mathematics home page knuth donald ervin selected papers design algorithms home page knuth donald ervin selected papers fun games home page knuth donald ervin companion papers donald knuth] home page knuth donald ervin surreal numbers home page
+bibliography knuth donald ervin home page stanford university
+knuth donald ervin
+art computer programming taocp
+retrieved may 20
+platoni kara may–june 2006 archibald timothy photogr love first byte stanford magazine stanford alumni
+retrospective knuth's life work rare recent photos
+external links find donald knuthat wikipedia's sister projects media commons quotations wikiquote data wikidata donald knuth's home page stanford university
+donald knuth dmoz donald e
+knuth interview oral history charles babbage institute university minnesota
+knuth discusses software patenting structured programming collaboration development te x
+donald knuth mathematics genealogy project o'connor john j
+robertson edmund f
+donald knuth mac tutor history mathematics archive university st andrews
+works donald knuth libraries world cat catalog knuth donald ervin lectures archive stanford
+list publications microsoft academic search donald knuth's publications indexed dblp bibliography server university trier interview stanford university donald knuth questions answered you tube vte donald knuth publications art computer programming complexity songs computers typesetting concrete mathematics surreal numbers things computer scientist rarely talks selected papers series software te x metafont mixal mix mmix gnu mdk fonts ams euler computer modern concrete roman literate programming web cweb algorithms knuth's algorithm x knuth–bendix completion algorithm knuth–morris–pratt algorithm knuth shuffle robinson–schensted–knuth correspondence trabb pardo–knuth algorithm generalization dijkstra's algorithm knuth's simpath algorithm other dancing links knuth reward check knuth prize man boy test quater-imaginary base -yllion potrzebie system weights measures vte
+turing award laureates alan perlis 1966 maurice vincent wilkes 1967 richard hamming 1968 marvin minsky 1969 james h
+wilkinson 1970 john mc carthy 1971 edsger w
+dijkstra 1972 charles bachman 1973 donald knuth 1974 allen newell / herbert
+simon 1975 michael o
+rabin / dana scott 1976 john backus 1977 robert w
+floyd 1978 kenneth e
+iverson 1979 tony hoare 1980 edgar f
+codd 1981 stephen cook 1982 ken thompson / dennis ritchie 1983 niklaus wirth 1984 richard karp 1985 john hopcroft / robert tarjan 1986 john cocke 1987 ivan sutherland 1988 william kahan 1989 fernando j
+corbató 1990 robin milner butler lampson 1992 juris hartmanis / richard e
+stearns 1993 edward feigenbaum / raj reddy 1994 manuel blum 1995 amir pnueli 1996 douglas engelbart 1997 jim gray 1998 fred brooks 1999 andrew yao 2000 ole-johan dahl / kristen nygaard 2001 ron rivest / adi shamir / leonard adleman 2002 alan kay 2003 vint cerf / bob kahn 2004 peter naur 2005 frances e
+allen 2006 edmund m
+clarke / e
+allen emerson / joseph sifakis 2007 barbara liskov 2008 charles p
+thacker 2009 leslie g
+valiant 2010 judea pearl 2011 shafi goldwasser / silvio micali leslie lamport 2013 michael stonebraker 2014 martin hellman / whitfield diffie 2015 vte united states national medal science laureates behavioral social science1960 s 1964 roger adams othmar h
+ammann theodosius dobzhansky neal elgar miller 1980 s 1986 herbert
+simon 1987 anne anastasi george j
+stigler 1988 milton friedman 1990 s 1990 leonid hurwicz patrick suppes robert w
+kates george
+miller 1992 eleanor j
+gibson 1994 robert k
+merton 1995 roger n
+shepard 1996 paul samuelson 1997 william k
+estes 1998 william julius wilson 1999 robert m
+solow 2000 s 2000 gary becker 2001 george bass 2003 r
+duncan luce 2004 kenneth arrow 2005 gordon h
+bower 2008 michael
+posner 2009 mortimer mishkin 2010 s 2011 anne treisman 2014 robert axelrod biological sciences1960 s 1963 c
+van niel 1964 marshall w
+nirenberg 1965 francis p
+rous george g
+simpson donald
+van slyke 1966 edward f
+knipling fritz albert lipmann william c
+rose sewall wright 1967 kenneth s
+cole harry f
+harlow michael heidelberger alfred h
+sturtevant 1968 horace barker bernard
+brodie detlev w
+bronk jay lush burrhus frederic skinner 1969 robert huebner ernst mayr 1970 s 1970 barbara mc clintock albert
+sabin 1973 daniel
+arnon earl w
+sutherland jr
+1974 britton chance erwin chargaff james v
+neel james augustine shannon 1975 hallowell davis paul gyorgy sterling
+hendricks orville lvin vogel 1976 roger guillemin keith roberts porter efraim racker e
+wilson 1979 robert h
+burris elizabeth c
+crosby arthur kornberg severo ochoa earl reece stadtman george ledyard stebbins paul alfred weiss 1980 s 1981 philip handler 1982 seymour benzer glenn w
+burton mildred cohn 1983 howard l
+bachrach paul berg wendell l
+roelofs berta scharrer 1986 stanley cohen donald
+henderson vernon
+mountcastle george emil palade joan
+steitz 1987 michael e
+de bakey theodor o
+diener harry eagle har gobind khorana rita levi-montalcini 1988 michael s
+brown stanley norman cohen joseph l
+goldstein maurice r
+hilleman eric r
+kandel rosalyn sussman yalow 1989 katherine esau viktor hamburger philip leder joshua lederberg roger w
+sperry harland g
+wood 1990 s 1990 baruj benacerraf herbert w
+boyer daniel e
+koshland jr
+lewis david g
+nathan e
+donnall thomas mary ellen avery g
+evelyn hutchinson elvin
+kabat salvador luria paul
+marks folke k
+skoog paul c
+zamecnik 1992 maxine singer howard martin temin 1993 daniel nathans salome g
+waelsch 1994 thomas eisner elizabeth f
+neufeld 1995 alexander rich 1996 ruth patrick 1997 james watson robert
+weinberg 1998 bruce ames janet rowley 1999 david baltimore jared diamond lynn margulis 2000 s 2000 nancy c
+andreasen peter h
+raven carl woese 2001 francisco j
+ayala mario r
+capecchi ann graybiel gene e
+likens victor
+mc kusick harold varmus 2002 james e
+darnell evelyn m
+witkin 2003 j
+michael bishop solomon h
+snyder charles yanofsky 2004 norman e
+borlaug phillip
+sharp thomas e
+starzl 2005 anthony s
+fauci torsten n
+wiesel 2006 rita r
+colwell nina fedoroff lubert stryer 2007 robert j
+lefkowitz bert w
+o'malley 2008 francis s
+collins elaine fuchs j
+craig venter 2009 susan l
+lindquist stanley
+prusiner 2010 s 2010 ralph l
+brinster shu chien rudolf jaenisch 2011 lucy shapiro leroy hood sallie chisholm 2014 may berenbaum bruce alberts chemistry1980 s 1982 f
+albert cotton gilbert stork 1983 roald hoffmann george c
+pimentel richard n
+zare 1986 harry
+gray yuan tseh lee carl s
+marvel frank h
+westheimer 1987 william s
+johnson walter h
+stockmayer max tishler 1988 william o
+baker konrad e
+bloch elias j
+corey 1989 richard
+bernstein melvin calvin rudolph
+marcus harden m
+mc connell 1990 s 1990 elkan blout karl folkers john
+roberts ronald breslow gertrude
+elion dudley r
+herschbach glenn t
+seaborg 1992 howard e
+simmons jr
+1993 donald j
+cram norman hackerman 1994 george s
+hammond 1995 thomas cech isabella l
+karle 1996 norman davidson 1997 darleane c
+hoffman harold s
+johnston 1998 john w
+cahn george m
+whitesides 1999 stuart
+rice john ross susan solomon 2000 s 2000 john
+baldeschwieler ralph f
+hirschmann 2001 ernest r
+davidson gábor
+somorjai 2002 john
+brauman 2004 stephen j
+lippard 2006 marvin h
+caruthers peter
+dervan 2007 mostafa
+el-sayed 2008 joanna fowler jo anne stubbe 2009 stephen j
+benkovic marye anne fox 2010 s 2010 jacqueline k
+barton peter j
+stang 2011 allen j
+bard m
+frederick hawthorne 2014 judith p
+klinman jerrold meinwald 2015 geraldine l
+richmond engineering sciences1960 s 1962 theodore von kármán 1963 vannevar bush john robinson pierce 1964 charles s
+draper 1965 hugh l
+dryden clarence l
+johnson warren k
+lewis 1966 claude e
+shannon 1967 edwin h
+land igor
+sikorsky 1968 j
+presper eckert nathan m
+newmark 1969 jack st
+clair kilby 1970 s 1970 george e
+mueller 1973 harold e
+edgerton richard t
+whitcomb 1974 rudolf kompfner ralph brazelton peck abel wolman 1975 manson benedict william hayward pickering frederick e
+terman wernher von braun 1976 morris cohen peter c
+goldmark erwin wilhelm müller 1979 emmett n
+leith raymond
+mindlin robert n
+noyce earl r
+parker simon ramo 1980 s 1982 edward h
+heinemann donald l
+katz 1983 william redington hewlett george m
+low john g
+trump 1986 hans wolfgang liepmann t
+lin bernard m
+oliver 1987 r
+byron bird h
+bolton seed ernst weber 1988 daniel c
+drucker willis m
+hawkins george w
+housner 1989 harry george drickamer herbert e
+grier 1990 s 1990 mildred dresselhaus nick holonyak jr
+george h
+heilmeier luna
+leopold h
+guyford stever 1992 calvin f
+quate john roy whinnery 1993 alfred
+cho 1994 ray w
+clough 1995 hermann
+haus 1996 james l
+flanagan c
+kumar n
+patel 1998 eli ruckenstein 1999 kenneth n
+stevens 2000 s 2000 yuan-cheng
+fung 2001 andreas acrivos 2002 leo beranek 2003 john m
+prausnitz 2004 edwin n
+lightfoot 2005 jan
+achenbach tobin j
+marks 2006 robert s
+langer 2007 david j
+wineland 2008 rudolf e
+kálmán 2009 amnon yariv 2010 s 2011 sidney drell sandra faber sylvester james gates john goodenough mathematical statistical computer sciences1960 s 1963 norbert wiener 1964 solomon lefschetz h
+marston morse 1965 oscar zariski 1966 john milnor 1967 paul cohen 1968 jerzy neyman 1969 william feller 1970 s 1970 richard brauer 1973 john tukey 1974 kurt gödel 1975 john w
+backus shiing-shen chern george dantzig 1976 kurt otto friedrichs hassler whitney 1979 joseph l
+doob donald e
+knuth 1980 s 1982 marshall harvey stone 1983 herman goldstine isadore singer 1986 peter lax antoni zygmund 1987 raoul bott michael freedman 1988 ralph e
+gomory joseph
+keller 1989 samuel karlin saunders mac lane donald c
+spencer 1990 s 1990 george f
+carrier stephen cole kleene john mc carthy alberto calderón 1992 allen newell 1993 martin david kruskal 1994 john cocke 1995 louis nirenberg 1996 richard karp stephen smale 1997 shing-tung yau 1998 cathleen synge morawetz 1999 felix browder ronald r
+coifman 2000 s 2000 john griggs thompson karen k
+uhlenbeck 2001 calyampudi r
+rao elias m
+stein 2002 james g
+glimm 2003 carl r
+de boor 2004 dennis p
+sullivan 2005 bradley efron 2006 hyman bass 2007 leonard kleinrock andrew j
+viterbi 2009 david
+mumford 2010 s 2010 richard
+tapia s
+srinivasa varadhan 2011 solomon golomb barry mazur 2014 alexandre chorin thomas kailath david blackwell physical sciences1960 s 1963 luis w
+alvarez 1964 julian schwinger harold clayton urey robert burns woodward 1965 john bardeen peter debye leon m
+lederman william rubey 1966 jacob bjerknes subrahmanyan chandrasekhar henry eyring john h
+van vleck vladimir k
+zworykin 1967 jesse beams francis birch gregory breit louis hammett george kistiakowsky 1968 paul bartlett herbert friedman lars onsager eugene wigner 1969 herbert c
+brown wolfgang panofsky 1970 s 1970 robert h
+dicke allan r
+sandage john c
+slater john
+wheeler saul winstein 1973 carl djerassi maurice ewing arie jan haagen-smit vladimir haensel frederick seitz robert rathbun wilson 1974 nicolaas bloembergen paul flory william alfred fowler linus carl pauling kenneth sanborn pitzer 1975 hans
+bethe joseph o
+hirschfelder lewis sarett edgar bright wilson chien-shiung wu 1976 samuel goudsmit herbert s
+gutowsky frederick rossini verner suomi henry taube george uhlenbeck 1979 richard p
+feynman herman mark edward m
+purcell john sinfelt lyman spitzer victor f
+weisskopf 1980 s 1982 philip w
+anderson yoichiro nambu edward teller charles h
+townes 1983 e
+margaret burbidge maurice goldhaber helmut landsberg walter munk frederick reines bruno
+rossi j
+robert schrieffer 1986 solomon j
+buchsbaum h
+richard crane herman feshbach robert hofstadter chen-ning yang 1987 philip abelson walter elsasser paul c
+lauterbur george pake james
+van allen 1988
+allan bromley paul ching-wu chu walter kohn norman f
+ramsey jack steinberger 1989 arnold o
+beckman eugene parker robert sharp henry stommel 1990 s 1990 allan m
+cormack edwin m
+mc millan robert pound roger revelle arthur l
+schawlow ed stone steven weinberg 1992 eugene m
+shoemaker 1993 val fitch vera rubin 1994 albert overhauser frank press 1995 hans dehmelt peter goldreich 1996 wallace s
+broecker 1997 marshall rosenbluth martin schwarzschild george wetherill 1998 don l
+anderson john n
+bahcall 1999 james cronin leo kadanoff 2000 s 2000 willis e
+lamb jeremiah p
+ostriker gilbert f
+white 2001 marvin l
+cohen raymond davis jr
+charles keeling 2002 richard garwin w
+jason morgan edward witten 2003 g
+brent dalrymple riccardo giacconi 2004 robert n
+clayton 2005 ralph
+alpher lonnie thompson 2006 daniel kleppner 2007 fay ajzenberg-selove charles p
+slichter 2008 berni alder james e
+gunn 2009 yakir aharonov esther m
+conwell warren m
+washington 2010 s 2011 sidney drell 2014 burton richter sean c
+solomon vte grace murray hopper award recipients knuth 1971 dirksen 1972 cress 1972 breed/lathwell/moore 1973 baird 1974 scherr 1975 shortliffe 1976 kurzweil 1978 wozniak 1979 metcalfe 1980 bricklin 1981 reid 1982 ingalls 1984 green 1985 joy 1986 ousterhout 1987 steele 1988 hillis 1989 stallman 1990 hsu stroustrup 1993 goldwasser 1996 hwu 1999 kavraki 2000 necula 2001 srikant 2002 keckler 2003 rexford 2004 reingold 2005 klein 2006 paxson 2007 engler 2008 roughgarden 2009 gentry 2010 ahn 2011 casado katabi felzenszwalb 2013 ratnasamy 2014 vte free open-source typography operating systemcorporate &professional bitstream charter bitstream vera cantarell computer modern concrete roman deja vu droid noto open sans fira sans ghostscript fonts garamond no
+gnu free font gnu unifont liberation croscore lohit nimbus mono sans roman ocr-a ocr-b overpass pt fonts roboto source code source han sans source sans source serif stix fonts tiresias ubuntu ubuntu titling utopia othertypefaces allerta asana-math cardo caslon roman chandas charis sil coelacanth comic neue cormorant courier prime doulos sil eb garamond et book gentium inconsolata im fell jomolhari junicode kochi lato linux libertine m+ news cycle open baskerville open dyslexic railway sans squarish sans ct theano didot wen quan yi xits software font forge fontmatrix free type ghostscript metafont meta post metatype1 pango te x licenses aladdin free public license apache license bsd license creative commons licenses gnu general public license + gpl font exception gnu lesser general public license te x project public license mit license sil open font license ubuntu font licence groups andpeople donald knuth font awesome hershey fonts greek font society league movable type open font library google fonts sil international open-source unicode typefaces list open source typefaces list free software unicode typefaces vte contributors mad editors jerry de fuccio al feldstein john ficarra harvey kurtzman nick meglin john putnam joe raiola writers tony barbieri dick de bartolo desmond devlin michael gallagher stan hart frank jacobs tom koch arnie kogen paul laikin barry liebmann larry siegel lou silverstone mike snider writer-artists sergio aragonés dave berg john caldwell duck edwing al jaffee peter kuper don martin paul peter porges antonio prohías artists tom bunk bob clarke paul coker jack davis mort drucker will elder frank kelly freas drew friedman hermann mejia norman mingo joe orlando tom richmond jack rickard john severin angelo torres rick tulka sam viviano james warhola basil wolverton monte wolverton wally wood george woodbridge bill wray photographers irving schild infrequent contributors stan freberg russ heath donald knuth ernie kovacs jay lynch henry morgan roger price bernard shir-cliff related alfred e
+neuman william m
+gaines maria reidelbach authority control world cat identities viaf 7466303 lccn n79135509 isni 0000 0001 2119 421 x gnd 121578437 sudoc 032581270 bnf cb12358391 w data mgp 10416 ndl 00445973 nkc skuk0003460

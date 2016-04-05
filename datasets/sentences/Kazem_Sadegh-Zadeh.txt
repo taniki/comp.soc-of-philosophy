@@ -1,0 +1,246 @@
+kazem sadegh-zadeh born 1942-04-23 23 april 1942 age 73 tabriz iran residence germany nationality german alma mater university münster free university berlin university göttingen era philosophy medicine region western science philosophy school analytic philosophy medicine main interests logic methodology philosophy medicine epistemology applied fuzzy logic notable ideas computability clinical decision-making fuzzification set-theoretical predicates biopolymers represented fuzzy sequences numbers medicine deontic field scientific knowledge industrial product influences karl eduard rothschuh · patrick suppes · newton da costa · lotfi
+zadeh kazem sadegh-zadeh persian کاظم صادق‌زاده‎‎ born 23 april 1942 analytic philosopher medicine
+first professor philosophy medicine german university made significant contributions philosophy methodology logic medicine since 1970
+contents life career 2 work 2
+analytic philosophy medicine 2
+philosophy medical language 2
+2 medical praxiology 2
+3 medical epistemology 2
+4 medical deontics 2
+5 medical logic 2
+6 medical metaphysics 2
+2 applied fuzzy logic 2
+3 philosophy technology 3 selected publications 3
+articles 3
+2 books 4 references 5 external links life career sadegh-zadeh born 23 april 1942 tabriz iran
+fourth eight children grew up tabriz attended school 1947 1959
+father craftsman manufacturer ran minor terrycloth weaving mill
+wake severe political economic crisis country caused u
+british coup d’état against democratically elected government iran's prime minister dr
+mohammad mosaddegh 1953 went bankrupt never recovered
+eleven years age entering high school shortly after father's bankruptcy sadegh-zadeh parents become professor medicine future provoked laughter them
+enjoyed school
+upon finishing school education prestigious ferdowsi high school tabriz sadegh-zadeh came germany march 1960 pursue goal working student studied medicine philosophy universities münster berlin göttingen 1960 1971 internship residency 1967-1971
+earned doctorate medicine dr
+university göttingen november 1971
+immediately left practical medicine conduct theoretical research clinical reasoning during training hospital got impression foundations clinical decision-making something going wrong produce 38% errors diagnosis treatment
+autodidactic way specialized philosophy medicine assistant professor lecturer 1972-1982 full professor philosophy medicine 1982-2004 university münster located state north rhine-westphalia northwest germany
+married since 1970 two sons
+1970 s sadegh-zadeh inaugurated new direction philosophy medicine based like analytic philosophy application formal logic dubbed analytic philosophy medicine distinguish traditional philosophy medicine still does consider traditional style philosophizing medicine scientific endeavor belles lettres
+international recognition came especially through work logic methodology clinical reasoning including artificial intelligence fuzzy logic application theory medical decision-making
+founding editor two international journals first metamed founded 1977 renamed metamedicine later
+current title theoretical medicine bioethics published springer verlag second artificial intelligence medicine founded 1989 published elsevier
+extensive work includes following innovative theories comprehensive theory medicine presented monumental handbook theory fuzzy biopolymers prototype resemblance theory disease palimpsest theory mind theory technoevolution machina sapiens
+work analytic philosophy medicine sadegh-zadeh conceives analytic philosophy medicine philosophy medicine analytic tradition philosophizing
+philosophy medicine means logical conceptual analysis primary fields inquiry being philosophy medical language medical praxiology
+philosophy methodology logic medical practice medical epistemology medical deontics
+analysis medical morality obligations law medical logic medical metaphysics philosophy medical language sadegh-zadeh considers medical language ill-structured ill-kept extension everyday language adding technical terms such angina pectoris appendicitis etc
+most terms imprecise ambiguous because either undefined ill-defined
+since significant impact both medical knowledge medical decision-making devotes himself extensively analysis nature syntax semantics pragmatics
+demonstrates analyzes inherent vagueness medical terms constructs techniques dealing principally ineliminable feature means fuzzy logic
+end introduces comprehensive methodology medical including fuzzy concept formation
+inspired patrick suppes's carl gustav hempel's pioneering works bases methodology lucid unique explication formalization methods definition known today
+medical praxiology medical clinical praxiology old term introduced sadegh-zadeh 1977-1981 already denote wide-ranging inquiry foundations clinical practice particularly clinical judgment decision-making aim reducing diagnostic-therapeutic errors improving physician performance
+latter article referred defined term explicitly analysis clinical practice inquiry clinical practice theory clinical practice
+philosophy methodology logic medical doing acting
+central topics include everything related concepts theories basic clinical practice
+concepts theories patient suffering health illness disease diagnosis etiology prognosis therapy prevention
+perspective creates fertile scientific field host tasks ranging conceptual analyses like disease? diagnosis? differential diagnosis? etc
+logical analyses such clinical decision-making computable does require human intelligence intuition? epistemology ethics metaphysics clinical decision-making forth
+over past decades sadegh-zadeh's clinical praxiology reached remarkably high level sophistication encompassing innovative investigations frameworks
+include novel approaches topics mentioned above
+prominent among them prototype resemblance theory disease presenting laborious fuzzy-logical explication vague concept disease demonstrates means say concept disease non-classical therefore amenable traditional methods inquiry
+theory undertakes reconstruction disease category contradistinction traditional views based set common features members individual diseases few best examples category called prototypes similarity relationship such human condition considered disease resembles prototype
+enables new approaches resolving many stubborn problems associated concept disease
+medical epistemology medical epistemology philosophy medical knowledge simply theory medical knowledge
+sadegh-zadeh conceived task branch philosophy medicine already 1982 deploring contemporary philosophy medicine movement mainly concerned medical-ethical problems while unduly neglecting medical-epistemological ones
+category medical knowledge consists statements spatio-temporally localized facts general hypotheses theories
+sadegh-zadeh proposed elaborate systematics types medical hypotheses knowledge latter ones including classificatory knowledge causal knowledge experimental knowledge theoretical knowledge practical knowledge clinical knowledge medical metaknowledge
+most important among them called practical knowledge know-how medicine
+formally precise explication knowledge type shows medical-practical knowledge actually consists conditional norms
+deontic conditionals mainly conditional obligations
+reasons why sadegh-zadeh considers medicine deontic discipline
+specifically views clinical practice practiced morality because clinical decision-making nothing application conditional obligations diagnostic-therapeutic rules action primarily consist
+since clinical research pursues such rules action tries improve available ones constitutes explorative normative ethics based empirical research experience
+central role sadegh-zadeh's medical epistemology play medical theories
+analyzes concept medical theory line so-called structuralist view theories represent their structure content according patrick suppes joseph
+sneed's approach set-theoretic predicates
+enables show theory medicine cannot confirmed supported disconfirmed verified falisfied simply because merely conceptual structure no epistemic entity true probable false
+does make any empirical claims world
+such claims made using theory tool
+claims themselves empirical hypotheses something different theory
+medical theories non-epistemic entities deserve ascription truth falsehood
+regarding any other piece general medical knowledge sadegh-zadeh shows apart gettier problem does fulfill classical definition knowledge justified true belief
+according detailed analysis there no justified true beliefs medicine
+statements hypotheses theories medicine other fileds usually viewed knowledge because ascription knowledge example aids caused hiv knowledge performative conducted affirmed scientific professional community social group
+communitarian social epistemology goes back polish physician epistemologist ludwik fleck 1896–1961 profitably utilzed extended sadegh-zadeh
+medical deontics apart deontic nature medical-practical knowledge referred above second reason why sadegh-zadeh classifies medicine deontic field view according prototype resemblance theory disease concept disease inherently value-laden
+because prototype diseases upon nosology based phenomena disvalued human beings therefore considered something ought
+means consequently other diseases their resemblants deontic entities
+deonticity medicine disease basic concept necessitates according sadegh-zadeh specific inquiry means suitable tools methods
+deontic logic
+research field terms medical deontics
+also includes medical ethics medical metaethics medical law
+medical logic publications entitled logic medicine give rise question whether medicine own logic like quantum logic argued logic quantum mechanics
+answer question sadegh-zadeh distinguishes logic medicine logic medicine
+logic medicine means class logics may applied medicine solve theoretical practical problems
+examples classical two-valued logic many-valued logic paraconsistent logic deontic logic temporal logic probability logic fuzzy logic
+their number unlimited
+none them specifically made medical use
+logical pluralism medicine parallels mathematical pluralism innumerable mathematical theories used medicine well without any them being mathematics medicine
+there no logic medicine sadegh-zadeh concludes logic viewed used specifically medical logic
+medical metaphysics medical metaphysics primarily concerned medical ontology ii medical truth iii nature medicine
+medical ontology
+sadegh-zadeh devotes himself extensively pure formal applied ontology use them logical analysis medical-ontological issues medical knowledge clinical practice nosology psychiatry psychosomatics biomedicine such example whether diseases exist fictitious entities invented nosologists physicians whether particular other things such genes psyche schizophrenia exist mere myths
+settle these enduring controversies similar ones medicine first distinguishes ontology de re ontology de dicto
+distinction based syntactic criterion similar barcan formula enables differentiation fictional entities such sherlock holmes real ones
+second inaugurates intriguing fuzzy ontology introducing many-place existence operator fuzzyfying operator obtain quantitative concept existence calls heraclitean operator
+heraclitean operator ranges over domain imaginable entities including existent non-existent fictitious ones over possible frames reference frame reference being particular language particular logic
+result entity exists does exist fictitious particular extent unit interval [0 1] respect particular language particular logic
+way ontological stances such realism anti-realism fictionalism regarding whether something exists become obsolete
+example schizophrenia may exist respect eugen bleuler 1857-1939 followers' language logic while thomas szasz followers may view myth respect their language logic
+remedy irreconcilable ontological controversies similar type care one's unkempt language logic reach agreement language conceptual system logic should used particular scientific discourse
+anyhow medical language sublanguages ill-structured ill-kempt workaday languages absolutely unsuitable serious discourses
+allow their users too much latitude interpretation
+change your language logic you will see another world
+fuzzy ontology also includes fuzzy mereology mereotopology means vague part-whole relationships example anatomy surgery other medical fields become logically tractable
+addition developed technique bring light ontological commitments any piece medical knowledge ascertain ontological prerequisites satisfiability
+hopes paved way thereby precise medical model theory analogy mathematical might enable sophisticated knowledge ontology medicine elsewhere thus advanced medical epistemology
+such medical model theory relationships models different items medical knowledge including theories precisely analyzed
+however very skeptical recently come known biomedical ontology engineering biomedical computer information sciences
+does regard endeavor ontology because actually concerned vocabularies terminologies confirming slogan ontology recapitulates philology
+ii medical truth
+after thorough discussion truth theories sadegh-zadeh shows there sufficient evidence support assertion medical truths system-relative produced within respective health care systems themselves
+mirror report scientifically discovered facts world out there independent conceptual system viewed judged
+problem concerns truth medical sciences also truth clinical practice
+specifically precisely explicates concepts diagnosis differential diagnosis misdiagnosis demonstrate truth falsehood these outcomes clinical decision-making relative respective medical language knowledge used methods inquiry applied conceptual systems vocabularies terminologies constructed proposed scientific professional communities regulations issued health authorities other factors health care system impact actions interactions diagnostic personnel
+according sadegh-zadeh medical truth made medicine
+iii nature medicine
+analytic philosophy medicine sadegh-zadeh places particular emphasis analysis medicine scientific field
+abandoning widespread shallow mono-categorizations such medicine science versus medicine art demonstrates declarations type medicine such such global term medicine should differentiated acknowledge medicine comprising many heterogeneous disciplines belongs large number categories
+example without doubt biomedicine natural science clinical research however practical science also normative ethics clinical practice practiced morality
+worth noting medicine also poietic science greek term ποίησις making creating invents designs produces medical devices widest sense term making drugs prosthetics brain chips artificial organs artificial babies
+medicine thus way become engineering science conducted health engineering anthropotechnology
+applied fuzzy logic application fuzzy set theory fuzzy logic biomedical subjects clinical problems philosophical issues sadegh-zadeh's main interests
+prominent among achievements area reconstruction biopolymers such nucleic acid chains dna rna polypeptide chains ordered fuzzy sets
+theory fuzzy biopolymers made biopolymers amenable fuzzy set theory logic proved very fruitful thereby stimulate research interest different teams
+other examples extensive application fuzzy logic clinical praxiology problems clinical decision-making ii fuzzification deontics ontology
+philosophy technology methodology fuzzy concept formation sadegh-zadeh introduced fuzzy concept self-reproduction termed quasiself-reproduction enabled interpret self-reproducing machines completely new way suggest intriguing theory technoevolution
+there something nature technology says human beings cannot afford ignore
+tendency machines join up work together effect larger machine emerges being efficient powerful parts
+peculiarity led last centuries growth distributed unique global machine gm consists network machines around earth
+how globalization machine occur gm looks like reconstructed explained theory
+comparable bioevolution animal plant species technoevolution proceeds darwinian quasiself-reproduction selection
+gm constitutes subsystem hybrid hypercycle two evolving partners biosphere technosphere due enormous dynamics hypercycle rapidly coevolve
+part technosphere salient yield coevolution advancing mentalization gm process human beings misconceive artificial intelligence constructed them
+according sadegh-zadeh's theory myopic interpretation gradual natural emergence intelligent self-conscious machina sapiens guise globally distributed machine
+selected publications articles k
+sadegh-zadeh fundamentals clinical methodology
+differential indication
+artificial intelligence medicine 1994 683-102
+sadegh-zadeh fundamentals clinical methodology 2
+artificial intelligence medicine 1998 12227-270
+sadegh-zadeh fundamentals clinical methodology 3
+artificial intelligence medicine 1999 1787-108
+sadegh-zadeh fundamentals clinical methodology 4
+artificial intelligence medicine 2000 20227-241
+sadegh-zadeh fuzzy genomes
+artificial intelligence medicine 2000 181-28
+sadegh-zadeh fuzzy health illness disease
+journal medicine philosophy 2000 25605-638
+sadegh-zadeh fuzzy revolution goodbye aristotelian weltanschauung
+artificial intelligence medicine 2001 211-25
+sadegh-zadeh fuzzy polynucleotide space revisited
+artificial intelligence medicine 2007 20227-241
+sadegh-zadeh prototype resemblance theory disease
+journal medicine philosophy 2008 33106-139
+books k
+sadegh-zadeh k
+zadeh man hose german mensch ist ein schlauch
+tecklenburg / germany burgverlag 1988
+sadegh-zadeh man forgot how think emergence machina sapiens german als mensch das denken verlernte
+die entstehung machina sapiens
+tecklenburg / germany burgverlag 2000
+sadegh-zadeh handbook analytic philosophy medicine 2 nd edition
+dordrecht / holland springer 2015
+st ed
+references see list sadegh-zadeh's works these subjects here kazem sadegh-zadeh's publications indexed dblp bibliography server university trier james risen 2000
+secrets history c
+iran coup first few days look disastrous
+stephen kinzer john wiley david s
+robarge 12 april 2007
+shah's men american coup roots middle east terror
+central intelligence agency
+cia confirms role 1953 iran coup cia admits role iran coup cf
+sadegh-zadeh's autobiography who's world 7 th edition 1984-85 entry kazem sadegh-zadeh
+gross r löffler m prinzipien medizin
+eine übersicht ihrer grundlagen und methoden
+berlin springer 1997 p
+c sadegh-zadeh k handbook analytic philosophy medicine
+second edition
+dordrecht / holland springer 2015
+see handbook here see pp
+886-887 footnote 35 p
+180 aforementioned handbook see journal's webpage here see journal's webpage here fuzzy genomes
+artificial intelligence medicine 2000 181-28
+addition advanced version theory may found section 17
+4 fuzzy logic biomedicine pages 665-683 above-mentioned handbook pdf theory may accessed here
+addition see also above-mentioned handbook pp
+see paragraph palimpsest theory consciousness self-consciousness above-mentioned handbook pp
+sadegh-zadeh k man forgot how think
+emergence machina sapiens
+tecklenburg germany burgverlag 2000
+chapter 2 page 822 above-mentioned handbook
+suppes p introduction logic
+new york van nostrand reinhold company 1957
+chapters 12
+hempel cg fundamentals concept formation empirical science
+chicago university chicago press 1952
+13-118 particularly 69-118 above-mentioned handbook basic problems theory clinical practice
+part explication concept medical diagnosis
+metamed 1977176-102
+foundations clinical praxiology
+part relativity medical diagnosis
+metamedicine 19812183-196
+see article here cf
+page 121 above-mentioned handbook
+121-398 above-mentioned handbook see page 106 journal article prototype resemblance theory disease
+see also section 7
+handbook cf
+sadegh-zadeh k perception illusion hallucination
+metamedicine 1982 3159-191
+see article here cf
+463-478 handbook sadegh-zadeh k medicine ethics constructive utopia
+tecklenburg / germany burgverlag 1983
+see also pp
+597-603 843-845 handbook see pp
+417-461 handbook see pp
+413-417 471-476 506-508 handbook see pp
+518-550 handbook notion deontic entity deontic thing see page 602 handbook cf
+14-16 pp
+575-603 handbook cf
+part v chs
+17-18 pp
+609-706 handbook cf
+7 part vii pp
+747-852 handbook cf
+765 f
+handbook cf
+171 sadegh-zadeh k perception illusion hallucination
+metamedicine 1982 3159-191
+see also pp
+756 766 handbook cf
+778 handbook cf
+797-800 handbook page viii book word object paperback edition 1964 willard van orman quine attributes sardonic slogan james grier miller cf
+819-827 handbook cf
+7-8 829-873 handbook sadegh-zadeh k fuzzy genomes
+artificial intelligence medicine 2000 181-28
+addition fuzzy biopolymers p
+683 ff
+ii fuzzy polynucleotide space revisited artificial intelligence medicine 2007 4169-80 accessible here
+example torres nieto jj fuzzy polynucleotide space basic properties
+bioinformatics 2003 19587-592 accessible here cf
+lists publications among external links below
+sadegh-zadeh k man forgot how think emergence machina sapiens
+tecklenburg / germany burgverlag 2000
+man forgot how think external links sadegh-zadeh's homepage list publications kazem sadegh-zadeh's publications indexed dblp bibliography server university trier handbook analytic philosophy medicine first journal founded 1977 second journal founded 1989 authority control world cat identities viaf 50121122 sudoc 158758501

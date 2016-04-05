@@ -1,0 +1,278 @@
+other uses see panini disambiguation
+pāṇini born 4 th century bcegandhara notable work aṣṭādhyāyī lit
+eight chapters earliest known treatise linguistic description defined classical sanskrit region indian philosophy main interests sanskrit grammar 17 th-century birch bark manuscript panini's grammar treatise kashmir
+pāṇini ipa [pɑːɳin̪i] patronymic meaning descendant paṇi fl
+4 th century bce panini vyākaraṇin early mahajanapada era ancient india
+born pushkalavati gandhara outskirts modern-day charsadda khyber pakhtunkhwa pakistan
+pāṇini known sanskrit grammar particularly formulation 3959 rules sanskrit morphology syntax semantics grammar known aṣṭādhyāyī meaning eight chapters foundational text grammatical branch vedanga auxiliary scholarly disciplines historical vedic religion
+ashtadhyayi earliest known grammars sanskrit although pāṇini refers previous texts like unadisutra dhatupatha ganapatha
+earliest known work linguistic description together work immediate predecessors niruktas nighantus pratishakyas stands beginning history linguistics itself
+theory morphological analysis advanced any equivalent western theory before mid 20 th century analysis noun compounds still forms basis modern linguistic theories compounding borrowed sanskrit terms such bahuvrihi dvandva
+pāṇini's comprehensive scientific theory grammar conventionally taken mark end period vedic sanskrit introducing period classical sanskrit
+contents date context
+later biographical traditions modern reception 2 aṣṭādhyāyī 2
+rules 2
+2 list markers 2
+3 auxiliary texts 2
+shiva sutras 2
+2 dhatupatha 2
+3 ganapatha 2
+4 commentary 2
+5 editions 3 bhaṭṭikāvya 4 modern linguistics 4
+de saussure 4
+2 leonard bloomfield 4
+3 comparison modern formal systems 5 other works 6 popular culture 7 see also references
+bibliography 9 external links date context nothing definite known pāṇini lived nor even century lived
+known city pushkalavati gandhara
+most scholarship suggests 4 th-century bce floruit corresponding pushkalavati archaeological site contemporary nanda empire ruling indo-gangetic plain 5 th even late 6 th century bce date cannot ruled out certainty
+[citation needed] pāṇini's grammar defines classical sanskrit pāṇini definition lived end vedic period
+notes few special rules marked chandasi hymns account forms vedas fallen out use spoken language time
+these indicate vedic sanskrit already archaic still comprehensible
+important hint dating pāṇini occurrence word yavanānī 4
+49 either greek woman greek alphabet
+greeks such persian admiral scylax caryanda present gandhara citizens persian empire well before conquests alexander great 330 s bc name also transmitted via old persian yauna administrative languages elamite aramaic occurrence yavanānī taken isolation allows terminus post quem early 519 bce
+time darius i's behistun inscription included province gandara sanskrit gandhāra
+certain whether pāṇini used writing composition work though generally agreed knew form writing based references words such script scribe ashtadhyayi
+these must referred aramaic early kharosthi
+[citation needed] believed work such complexity difficult compile without written notes though others argued might composed help group students whose memories served notepads typical vedic learning
+writing first reappears[citation needed] india form brahmi script c
+3 rd century bce ashokan inscriptions
+while pāṇini's work purely grammatical lexicographic cultural geographical inferences drawn vocabulary uses examples references fellow grammarians show northwestern person
+new deities referred work include vasudeva 4
+concept dharma attested example sentence 4
+41 dharmam carati observes law cf
+taittiriya upanishad
+later biographical traditions modern reception nothing certain known pāṇini's personal life
+according mahābhāṣya patanjali mother's name dākṣī
+patañjali calls pāṇini dākṣīputra meaning son dākṣī several places mahābhāṣya
+according later traditions maternal uncle's name vyāḍi
+scholars suggest brother's name piṅgala
+much known father whose name suggested paṇi[citation needed] most scholars reject suggestion
+[citation needed] rambhadracharya gives name father paṇina name pāṇini derives
+panini believed born gandhara
+based mahābhāṣya believed śalātura birthplace pāṇini
+ashtadhyayi also place śalātura mentioned
+according xuanzang statue existed śalātura place birth
+writers identify śalātura shalatur village near taxila now punjab province pakistan
+thousand years after lived panchatantra mentioned pāṇini killed lion
+pāṇini depicted five rupees indian postage stamp 2004
+aṣṭādhyāyī aṣṭādhyāyī central part pāṇini's grammar far most complex
+regarded extremely compact without sacrificing completeness become model later specialist technical texts sutras
+takes material lexical lists dhatupatha ganapatha input describes algorithms applied them generation well-formed words
+highly systematised technical
+inherent approach concepts phoneme morpheme root
+rules reputation perfection claimed describe sanskrit morphology fully without any redundancy
+consequence grammar's focus brevity highly unintuitive structure reminiscent modern notations such backus–naur form
+sophisticated logical rules technique widely influential ancient modern linguistics
+aṣṭādhyāyī first description sanskrit grammar surpassed predecessor such monumental scale earlier works now lost except extent mentioned panini
+aṣṭādhyāyī became foundation vyākaraṇa sanskrit grammatical tradition classical works sanskrit grammarians flourished during ca
+th 15 th centuries revival 17 th 18 th essentially commentaries panini
+aṣṭādhyāyī language observed manner no parallel among greek latin grammarians
+pāṇini's grammar marks entry non-sacred indian thought according renou filliozat then defines linguistic expression thought
+pāṇini made use technical metalanguage consisting syntax morphology lexicon
+metalanguage organised according series meta-rules explicitly stated while others deduced
+two fundamental principles metalanguage based non-redundancy principle economy necessity rules aṣṭādhyāyī
+aṣṭādhyāyī consists 3959 sutras rules distributed among eight chapters each subdivided four sections padas pādāḥ
+example words text few rules depending context discourse additional information geographical cultural historical context pāṇini discerned
+rules first two sutras follows
+vṛddhir ādai c वृद्धिरादैच् । १।१।१
+2 adeṅ guṇaḥ अदेङ्गुणः । १।१।२ these sutras capital letters special meta-linguistic symbols called इत् markers later writers such katyayana patanjali anubandhas see below
+c ṅ refer shiva sutras 4 ai au c 3 e o ṅ respectively forming known pratyāhāras comprehensive designations ai c eṅ
+denote list phonemes {ai au} {e o} respectively
+त् t appearing variant form /d/ both sutras also marker sutra
+70 defines indicating preceding phoneme does represent list single phoneme encompassing supra-segmental features such accent nasality
+further example आत् āt अत् t represent आ {ā} अ {a} respectively
+sutra defines technical term term defined comes end first sutra should properly ādai j vṛddhir instead vṛddhir ādai c
+however order reversed good-luck word very beginning work vṛddhir happens mean 'prosperity' non-technical use
+thus two sūtras consist list phonemes followed technical term final interpretation two sūtras above thus
+{ā ai au} called vṛ́ddhi
+2 {a e o} called guṇa
+point see definitions terminology guṇa vṛ́ddhi terms full lengthened indo-european ablaut grades respectively
+list markers anubandhas defined p
+2 through p
+these definitions refer items taught grammar ancillary texts such dhātupāţha fact made clear p
+2 word upadeśe then continued following six rules anuvṛtti ellipsis
+these anubandhas metalinguistic markers pronounced final derived form pada word elided p
+9 tasya lopaḥ 'there elision
+any preceding items defined
+accordingly pāṇini defines anubandhas follows nasalized vowels e
+bhañj o
+final consonant ha l
+except dental m s verbal nominal endings
+initial ñi ṭu ḍu
+5 initial ṣ suffix pratyaya
+initial palatals cerebrals suffix
+7 initial l ś k taddhita 'secondary' suffix
+few examples elements contain follows su p nominal desinence ś-it śi strong case endings ślu elision śa p active marker p-it lu p elision āp ā-stems cāp ṭāp ḍāp lya p 7
+37 l-it k-it ktvā lu k elision sa n desiderative c-it m-it ṅ-it ṅí causative ṅii ī-stems ṅīp ṅīn ṅī'ṣ tiṅ verbal desinence l uṅ aorist l iṅ precative s-it ghu class verbal stems
+20 ghi
+7 auxiliary texts pāṇini's ashtadhyayi three associated texts
+shiva sutras brief highly organised list phonemes
+dhatupatha lexical list verbal roots sorted present class
+ganapatha lexical list nominal stems grouped common properties
+shiva sutras main article shiva sutras shiva sutras describe phonemic notational system fourteen initial lines preceding ashtadhyayi
+notational system introduces different clusters phonemes serve special roles morphology sanskrit referred throughout text
+each cluster called pratyāhara ends dummy sound called anubandha so-called index acts symbolic referent list
+within main text these clusters referred through anubandhas related various grammatical functions
+dhatupatha dhatupatha lexicon sanskrit verbal roots subservient ashtadhyayi
+organised ten present classes sanskrit
+roots grouped form their stem present tense
+ten present classes sanskrit bhū-ādayaḥ root-full grade thematic presents ad-ādayaḥ root presents ju-ho-ti-ādayaḥ reduplicated presents div-ādayaḥ ya thematic presents su-ādayaḥ nu presents tud-ādayaḥ root-zero grade thematic presents rudh-ādayaḥ n-infix presents tan-ādayaḥ no presents krī-ādayaḥ ni presents cur-ādayaḥ aya presents causatives most these classes directly inherited proto-indo-european
+[citation needed] small number class verbs secondary group derived class 5 roots class 10 special case any verb form class 10 presents then assuming causative meaning
+roots specifically listed belonging class 10 those any other form fallen out use causative deponents speak
+ganapatha ganapatha gaṇapāṭha list groups primitive nominal stems used ashtadhyayi
+commentary after pāṇini mahābhāṣya great commentary patañjali ashtadhyayi three most famous works sanskrit grammar
+patañjali indian linguistic science reached definite form
+system thus established extremely detailed shiksha phonology including accent vyakarana morphology
+syntax scarcely touched nirukta etymology discussed these etymologies naturally lead semantic explanations
+people interpret work defence pāṇini whose sūtras elaborated meaningfully
+also attacks katyayana rather severely
+main contributions patañjali lies treatment principles grammar enunciated
+editions otto böhtlingk panini's grammatik 1887 reprint 1998 katre sumitra m
+astadhyayi panini austin university texas press 1987
+reprint delhi motilal banarsidass 1989
+misra vidya niwas descriptive technique panini mouton co
+pāṇini translated english srisa chandra vasu 1897 archive
+bhaṭṭikāvya main article bhaṭṭikāvya learning indian curriculum late classical times heart system grammatical study linguistic analysis
+core text study aṣṭādhyāyī pāṇini sine qua non learning
+grammar pāṇini object intense study ten centuries prior composition bhaṭṭikāvya
+plainly bhaṭṭi's purpose provide study aid pāṇini's text using examples already provided existing grammatical commentaries context gripping morally improving story rāmāyaṇa
+dry bones grammar bhaṭṭi given juicy flesh poem
+intention author teach advanced science through relatively easy pleasant medium
+own words composition like lamp those perceive meaning words like hand mirror blind man those without grammar
+poem understood means commentary joy those sufficiently learned through my fondness scholar here slighted dullard
+modern linguistics pāṇini's work became known 19 th-century europe influenced modern linguistics initially through franz bopp mainly looked pāṇini
+subsequently wider body work influenced sanskrit scholars such ferdinand de saussure leonard bloomfield roman jakobson
+frits staal 1930–2012 discussed impact indian ideas language europe
+after outlining various aspects contact staal notes idea formal rules language proposed ferdinand de saussure 1894 developed noam chomsky 1957 origins european exposure formal rules pāṇinian grammar
+[citation needed] particular de saussure lectured sanskrit three decades may influenced pāṇini bhartrihari idea unity signifier-signified sign somewhat resembles notion sphoṭa
+importantly very idea formal rules applied areas outside logic mathematics may itself catalysed europe's contact work sanskrit grammarians
+de saussure pāṇini later indian linguist bhartrihari significant influence many foundational ideas proposed ferdinand de saussure professor sanskrit widely considered father modern structural linguistics
+saussure himself cited indian grammar influence ideas
+mémoire sur le système primitif des voyelles dans les langues indo-européennes memoir original system vowels indo-european languages published 1879 mentions indian grammar influence idea reduplicated aorists represent imperfects verbal class
+de l'emploi du génitif absolu en sanscrit use genitive absolute sanskrit published 1881 specifically mentions pāṇini influence work
+prem singh foreword reprint edition german translation pāṇini's grammar 1998 concluded effect panini's work indo-european linguistics shows itself various studies number seminal works come mind including saussure's works analysis gave rise laryngeal theory further stating type structural analysis suggests influence panini's analytical teaching
+george cardona however warns against overestimating influence pāṇini modern linguistics although saussure also refers predecessors taken paninian rule account reasonable conclude direct acquaintance panini's work
+far am able discern upon rereading saussure's mémoire however shows no direct influence paninian grammar
+indeed occasion saussure follows path contrary paninian procedure
+leonard bloomfield founding father american structuralism leonard bloomfield 1927 paper titled rules pāṇini
+comparison modern formal systems pāṇini's grammar world's first formal system developed well before 19 th century innovations gottlob frege subsequent development mathematical logic
+designing grammar pāṇini used method auxiliary symbols new affixes designated mark syntactic categories control grammatical derivations
+technique rediscovered logician emil post became standard method design computer programming languages
+sanskritists now accept pāṇini's linguistic apparatus well-described applied post system
+considerable evidence shows ancient mastery context-sensitive grammars general ability solve many complex problems
+frits staal written panini indian euclid
+other works two literary works attributed pāṇini though now lost
+jāmbavati vijaya lost work cited rajashekhar jahlana's sukti muktāvalī
+fragment found ramayukta's commentary namalinganushasana
+title may inferred work dealt krishna's winning jambavati underworld bride
+rajashekhara jahlana's sukti muktāvalī नमः पाणिनये तस्मै यस्मादाविर भूदिह। आदौ व्याकरणं काव्यमनु जाम्बवतीजयम्॥ namaḥ pāṇinaye tasmai yasmādāvirabhūdiha। ādau vyākaraṇaṃ kāvyamanu jāmbavatījayam॥ ascribed pāṇini pātāla vijaya lost work cited namisadhu commentary kavyalankara rudrata
+popular culture india released stamp honour panini 2004
+there also panini temple panini smarak mandir kashi built soil brought panini's birthplace pakistan
+see also sanskrit grammarians bhaṭṭikāvya pingala seṭ aniṭ roots list indian mathematicians references frits staal euclid pāṇini philosophy east west 1965 carter 1979 p
+c sanskrit literature imperial gazetteer india v
+2 1909 p
+panini indian grammarian
+encyclopedia britannica
+retrieved 24 january 2014
+staal frits 1988
+universals studies indian logic linguistics
+university chicago press
+|access-date= requires |url= help cardona george 1998 pāṇini survey research motilal banarsidass p
+261 978-81-208-1494-3 aside abstract considerations long-distance artistic philosophical influence concrete evidence direct contact greeks indians largely limited period third century bce first century ce
+'hellenistic india' rachel r
+mairs university cambridge p
+2 hartmut scharfe 2002
+education ancient india
+c mishra giridhar 1981
+प्रस्तावना [introduction]
+अध्यात्मरामायणेऽपाणिनीयप्रयोगाणां विमर्शः [deliberation non-paninian usages adhyatma ramayana] ph sanskrit
+varanasi india sampurnanand sanskrit university
+retrieved 21 may 2013
+shripad krishna belvalkar 1915
+account different existing systems sanskrit grammar
+pingle 1898
+indian music
+singh nagendra kr
+1997 encyclopaedia hinduism new delhi centre international religious studies anmol publications pp
+1983–2007 978-81-7488-168-7 dwivedi bhanwar lal 1994
+evolution educational thought india
+northern book centre
+george cardona 1997
+pāṇini survey research
+verse reads siṃho vyākaraṇasya kartur aharat prāṇān priyān pāṇineḥ lion took dear life panini author grammatical treatise
+context list scholars killed animals siṃho vyākaraṇasya kartur aharat prāṇān priyān pāṇineḥ / mīmāṃsākṛtam unmamātha sahasā hastī muniṃ jaiminim // chandojnānanidhim jaghāna makaro velātaṭe piṅgalam / ajñānāvṛtacetasām atiruṣāṃ ko'rthas tiraścām guṇaiḥ // lion killed pāṇini elephant madly crushed sage jaimini mimamsa's author pingala treasury knowledge poetic meter killed crocodile water's edge
+senseless beasts overcome fury care intellectual virtues? pañcatantra ii
+28 sometimes ascribed vallabhadeva new international encyclopaedia stamps 2004
+indian department posts ministry communications & information technology
+23 april 2015
+retrieved 3 june 2015
+jonardon ganeri sanskrit philosophical commentary pdf udayana states technical treatise śāstra any discipline should aspire clarity vaiśadya compactness laghutā completeness kṛtsnatā
+compilation sūtras maximises compactness completeness expense clarity
+bhāṣya complete clear compact
+group sūtras 'section' prakaraṇa whole compilation clear compact complete
+sūtras achieve compactness making sequence significant ii letting item stand range over many iii using grammar lexicon artificially
+background model pāṇini's grammar sanskrit language aṣṭādhyāyī exploits range brevity-enabling devices compose often described tersest yet most complete grammar any language
+1909 imperial gazetteer india still possible describe once shortest fullest grammar world vol
+2 p
+monumental multi-volume grammars published 20 th century sanskrit altindische grammatik 1896–1957 course set new standards completeness ashtadhyayi remains unrivalled terms terseness
+bloomﬁeld l
+1929 review liebich konkordanz pāṇini-candra language 5 267–276
+louis renou & jean filliozat
+l'inde classique manuel des etudes indiennes vol
+ii pp
+86–90 école française d'extrême-orient 1953 reprinted 2000
+angot michel
+l'inde classique pp
+les belles lettres paris 2001
+2002 sanskrit language overview history structure linguistic philosophical representations uses users
+indica books
+fallon oliver
+bhatti's poem death rávana bhaṭṭikāvya
+new york clay sanskrit library
+| | science language chapter 16 gavin
+flood ed
+blackwell companion hinduism blackwell publishing 2003 599 pages
+357-358 george cardona 2000 book review pâṇinis grammatik journal american oriental society 120 3 464–5 jstor 606023 d'ottavi giuseppe 2013
+paṇini et le mémoire
+arena romanistica 12 164–193
+leonard bloomfield 1927
+rules pāṇini
+journal american oriental society american oriental society 47 61–70
+jstor 593241
+kadvany john 2007 positional value linguistic recursion journal indian philosophy 35 587–520
+html bibliography carter george f
+jairazbhoy r
+mundkur balaji june 1979
+mundkur diffusion
+current anthropology 20 2 425
+kadvany john february 2008
+positional value linguistic recursion
+journal indian philosophy 35 5-6 487–520
+book 4
+translated chandra vasu
+benares 1896
+sanskrit english pāṇini
+book 6–8
+translated chandra vasu
+benares 1897
+sanskrit english o'connor john j
+robertson edmund f
+pāṇini mac tutor history mathematics archive university st andrews
+prince alan smolensky paul 15 april 2008
+optimality theory constraint interaction generative grammar
+john wiley & sons
+pāṇini-backus form languages
+tiwary kapil muni 1968 pāṇini's description nominal compounds university pennsylvania doctoral dissertation unpublished
+ingerman peter zilahy march 1967
+pāṇini-backus form suggested
+communications acm association computing machinery 10 3 137
+retrieved 24 september 2014
+ingerman suggests then-called backus normal form renamed pāṇini-backus form give due credit pāṇini earliest independent inventor
+external links wikiquote quotations related pāṇini sanskrit wikisource original text related article aṣṭādhyāyī sanskrit text pa ssim paninian sanskrit simulator simulates pāṇinian process word formation system panini ganakastadhyayi software sanskrit grammar based pāṇini's sutras forizs l
+panini nagarjuna whitehead relevance whitehead contemporary buddhist philosophy astadhyayi panini mahabhashya kashika commentaries along nyasa padamanjara commentaries kashika
+pdf sanskrit
+vte indian mathematics mathematicians ancient apastamba baudhayana katyayana manava pāṇini pingala yajnavalkya classical āryabhaṭa āryabhaṭa ii bhāskara bhāskara ii melpathur narayana bhattathiri brahmadeva brahmagupta brihaddeshi govindasvāmi halayudha jyeṣṭhadeva kamalakara mādhava saṅgamagrāma mahāvīra mahendra sūri munishvara narayana pandit parameshvara achyuta pisharati jagannatha samrat nilakantha somayaji śrīpati sridhara gangesha upadhyaya varāhamihira sankara variar virasena modern shanti swarup bhatnagar prize recipients mathematical science treatises āryabhaṭīya bakhshali manuscript bijaganita brāhmasphuṭasiddhānta ganita kaumudi karanapaddhati lilāvati lokavibhaga paulisa siddhanta paitamaha siddhanta romaka siddhanta sadratnamala siddhānta shiromani śulba sūtras surya siddhanta tantrasamgraha vasishtha siddhanta veṇvāroha yuktibhāṣā yavanajataka centres kerala school astronomy mathematics ujjain jantar mantar jaipur delhi historians mathematics bibhutibhushan datta t
+sarasvati amma
+krishnaswami ayyangar sudhakar dwivedi radha charan gupta kim plofker k
+sarma bapudeva sastri prabodh chandra sengupta translators walter eugene clark david pingree modern institutions indian statistical institute chennai mathematical institute institute mathematical sciences chennai indian institute science harish-chandra research institute bhaskaracharya pratishthana tata institute fundamental research homi bhabha centre science education other regions babylonian mathematics chinese mathematics greek mathematics islamic mathematics european mathematics authority control world cat identities viaf 250882672 lccn n80062965 isni 0000 0000 6303 8090 gnd 118739123 sudoc 028283805 bnf cb12015126 t data

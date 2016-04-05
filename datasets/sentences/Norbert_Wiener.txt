@@ -1,0 +1,524 @@
+norbert wiener born 1894-11-26 november 1894 columbia missouri u
+died march 18 19641964-03-18 aged 69 stockholm sweden nationality american fields mathematics cybernetics institutions massachusetts institute technology alma mater tufts college
+1909 harvard university ph
+1913 doctoral advisors karl schmidt josiah royce doctoral students amar bose colin cherry shikao ikehara norman levinson known cybernetics brownian motionabstract wiener space wiener amalgam spaceclassical wiener space evolutionary informatics generalized wiener process information revolution philosophy information wiener algebra wiener chaos expansion wiener deconvolution wiener entropy wiener equation wiener filter wiener process wiener sausage wiener series wiener–hopf method wiener–ikehara theorem wiener–khinchin theorem paley–wiener integral paley–wiener theorem wiener–wintner theorem wiener's tauberian theorem notable awards bôcher memorial prize 1933 national medal science 1963 norbert wiener november 1894 march 18 1964 american mathematician philosopher
+professor mathematics mit
+famous child prodigy wiener later became early researcher stochastic noise processes contributing work relevant electronic engineering electronic communication control systems
+wiener considered originator cybernetics formalization notion feedback implications engineering systems control computer science biology neuroscience philosophy organization society
+contents biography
+2 harvard world war
+3 after war
+4 during after world war ii
+5 awards honors
+6 doctoral students 2 work 2
+wiener equation 2
+2 wiener filter 2
+3 mathematics 3 publications 4 references 5 external links biography youth wiener born columbia missouri first child leo wiener bertha kahn jews polish german origin respectively
+leo educated norbert home until 1903 employing teaching methods own invention except brief interlude norbert seven years age
+earning living teaching german slavic languages leo read widely accumulated personal library young norbert benefited greatly
+leo also ample ability mathematics tutored son subject until left home
+autobiography norbert described father calm patient unless norbert failed give correct answer father lose temper
+became agnostic
+after graduating ayer high school 1906 years age wiener entered tufts college
+awarded ba mathematics 1909 age 14 whereupon began graduate studies zoology harvard
+1910 transferred cornell study philosophy
+harvard world war next year returned harvard while still continuing philosophical studies
+back harvard wiener became influenced edward vermilye huntington whose mathematical interests ranged axiomatic foundations engineering problems
+harvard awarded wiener ph
+1912 merely 17 years old dissertation mathematical logic supervised karl schmidt essential results published wiener 1914
+dissertation first state publicly ordered pairs defined terms elementary set theory
+hence relations defined set theory thus theory relations does require any axioms primitive notions distinct those set theory
+1921 kazimierz kuratowski proposed simplification wiener's definition ordered pairs simplification common use ever since
+x = {{x} {x y}}
+1914 wiener traveled europe taught bertrand russell g
+hardy cambridge university david hilbert edmund landau university göttingen
+during 1915–16 taught philosophy harvard then engineer general electric encyclopedia americana
+wiener briefly journalist boston herald feature story poor labor conditions mill workers lawrence massachusetts fired soon afterwards reluctance write favorable articles politician newspaper's owners sought promote
+although wiener eventually became staunch pacifist eagerly contributed war effort world war
+1916 america's entry war drawing closer wiener attended training camp potential military officers failed earn commission
+year later wiener again tried join military government again rejected due poor eyesight
+summer 1918 oswald veblen invited wiener work ballistics aberdeen proving ground maryland
+living working other mathematicians strengthened interest mathematics
+however wiener still eager serve uniform decided make attempt enlist time common soldier
+wiener letter parents should consider myself pretty cheap kind swine willing officer unwilling soldier
+time army accepted wiener ranks assigned coincidence unit stationed aberdeen maryland
+world war ended just days after wiener's return aberdeen wiener discharged military february 1919
+after war norbert wiener regarded semi-legendary figure mit wiener unable secure permanent position harvard situation blamed largely anti-semitism university particular antipathy harvard mathematician g
+also rejected position university melbourne
+osgood's suggestion wiener became instructor mathematics mit spent remainder career becoming promoted eventually professor
+there photograph prominently displayed hallways often used giving directions
+1926 wiener returned europe guggenheim scholar
+spent most time göttingen hardy cambridge working brownian motion fourier integral dirichlet's problem harmonic analysis tauberian theorems
+1926 wiener's parents arranged marriage german immigrant margaret engemann two daughters
+sister constance married philip franklin
+their daughter janet wiener's niece married václav e
+many tales perhaps apocryphal mit especially concerning absent-mindedness
+returned home once find house empty
+inquired neighborhood girl reason she family moved elsewhere day
+thanked her information she replied that's why stayed behind daddy! run-up world war ii 1939–45 wiener became member china aid society emergency committee aid displaced german scholars
+interested placing scholars such yuk-wing lee antoni zygmund lost their positions
+during after world war ii during world war ii work automatic aiming firing anti-aircraft guns caused wiener investigate information theory independently claude shannon invent wiener filter
+due now standard practice modeling information source random process—in other words variety noise
+anti-aircraft work eventually led formulate cybernetics
+after war fame helped mit recruit research team cognitive science composed researchers neuropsychology mathematics biophysics nervous system including warren sturgis mc culloch walter pitts
+these men later made pioneering contributions computer science artificial intelligence
+soon after group formed wiener suddenly ended contact members mystifying colleagues
+emotionally traumatized walter pitts led career decline
+their biography wiener conway siegelman suggest wiener's wife margaret detested mc culloch's bohemian lifestyle engineered breach
+wiener later helped develop theories cybernetics robotics computer control automation
+discussed modeling neurons john von neumann letter november 1946 von neumann presented thoughts advance meeting wiener
+wiener shared theories findings other researchers credited contributions others
+these included soviet researchers their findings
+wiener's acquaintance them caused regarded suspicion during cold war
+strong advocate automation improve standard living end economic underdevelopment
+ideas became influential india whose government advised during 1950 s
+after war wiener became increasingly concerned believed political interference scientific research militarization science
+article scientist rebels january 1947 issue atlantic monthly urged scientists consider ethical implications their work
+after war refused accept any government funding work military projects
+way wiener's beliefs concerning nuclear weapons cold war contrasted those john von neumann major theme book john von neumann norbert wiener
+[citation needed] wiener participant macy conferences
+died aged 69 stockholm sweden
+awards honors wiener won bôcher memorial prize 1933 national medal science 1963 presented president johnson white house ceremony january 1964 shortly before wiener's death
+wiener won 1965 u
+national book award science philosophy religion god & golem inc
+comment certain points cybernetics impinges religion
+norbert wiener prize applied mathematics endowed 1967 honor norbert wiener mit's mathematics department provided jointly american mathematical society society industrial applied mathematics
+norbert wiener award social professional responsibility awarded annually cpsr established 1987 honor wiener recognize contributions computer professionals socially responsible use computers
+crater wiener far side moon named after
+norbert wiener center harmonic analysis applications university maryland college park named honor
+heinlein named spaceship after 1957 novel citizen galaxy free trader ship called norbert wiener mentioned chapter 14
+doctoral students shikao ikehara ph
+1930 sebastian littauer sc
+1930 dorothy walcott weeks ph
+1930 james g estes ph
+1933 norman levinson sc
+1935 henry malin ph
+1935 bernard friedman ph
+1936 brockway mc millan ph
+1939 abe gelbart ph
+1940 donald g
+brennan ph
+work information information matter energy
+— norbert wiener cybernetics control communication animal machine wiener early studier stochastic noise processes contributing work relevant electronic engineering electronic communication control systems
+wiener regarded originator cybernetics formalization notion feedback many implications engineering systems control computer science biology philosophy organization society
+wiener's work cybernetics influenced gregory bateson margaret mead through them anthropology sociology education
+mathematical field probability wiener sausage neighborhood trace brownian motion up time t given taking points within fixed distance brownian motion
+visualized cylinder fixed radius centerline brownian motion
+wiener equation simple mathematical representation brownian motion wiener equation named after wiener assumes current velocity fluid particle fluctuates randomly
+wiener filter signal processing wiener filter filter proposed wiener during 1940 s published 1949
+purpose reduce amount noise present signal comparison estimation desired noiseless signal
+mathematics wiener took great interest mathematical theory brownian motion named after robert brown proving many results now widely known such non-differentiability paths
+consequently one-dimensional version brownian motion named wiener process
+best known lévy processes càdlàg stochastic processes stationary statistically independent increments occurs frequently pure applied mathematics physics economics e
+wiener's tauberian theorem 1932 result wiener developed tauberian theorems summability theory face chapter real analysis showing most known results encapsulated principle taken harmonic analysis
+present formulation theorem wiener does any obvious association tauberian theorems deal infinite series translation results formulated integrals using language functional analysis banach algebras however relatively routine process
+paley–wiener theorem relates growth properties entire functions cn fourier transformation schwartz distributions compact support
+wiener–khinchin theorem wiener khintchine theorem khinchin kolmogorov theorem states power spectral density wide-sense-stationary random process fourier transform corresponding autocorrelation function
+abstract wiener space mathematical object measure theory used construct decent strictly positive locally finite measure infinite-dimensional vector space
+wiener's original construction applied space real-valued continuous paths unit interval known classical wiener space
+leonard gross provided generalization case general separable banach space
+notion banach space itself discovered independently both wiener stefan banach around same time
+norbert wiener center harmonic analysis applications nwc department mathematics university maryland college park devoted scientific mathematical legacy norbert wiener
+nwc website highlights research activities center
+further each year norbert wiener center hosts february fourier talks two-day national conference displaying advances pure applied harmonic analysis industry government academia
+publications wiener many books hundreds articles 1914 simplification logic relations
+13 387–390
+reprinted van heijenoort jean 1967
+frege gödel source book mathematical logic 1879–1931
+harvard university press
+1930 wiener norbert 1930
+generalized harmonic analysis
+acta math
+55 117–258
+1933 fourier integral certain applications cambridge univ
+press reprint dover cup archive 1988 1942 extrapolation interpolation smoothing stationary time series
+war-time classified report nicknamed yellow peril because color cover difficulty subject
+published postwar 1949 mit press
+htm] 1948 cybernetics control communication animal machine
+paris hermann & cie & camb
+mit press 2 nd revised ed
+1950 human use human beings
+riverside press houghton mifflin co
+1958 nonlinear problems random theory
+mit press & wiley
+1964 selected papers norbert wiener
+cambridge mass
+1964 mit press & siam 1964 god & golem inc
+comment certain points cybernetics impinges religion
+mit press
+1966 norbert wiener 1894–1964
+72 part 2
+published book form
+1966 generalized harmonic analysis tauberian theorems
+mit press
+1993 invention care feeding ideas
+mit press
+written 1954 wiener abandoned project editing stage returned advance
+mit press published posthumously 1993
+1976–84 mathematical work norbert wiener
+masani p ed 4 vols camb
+mit press
+contains complete collection wiener's mathematical papers commentaries
+fiction 1959 tempter
+random house
+autobiography 1953
+ex-prodigy my childhood youth
+mit press
+am mathematician
+london gollancz
+under name w
+norbert 1952 brain other short science fiction tech engineering news
+references notes norbert wiener
+retrieved march 25 2014
+june 2 1964 swami sarvagatananda presided over memorial service mit remembrance norbert wiener scion maimonides father cybernetics avowed agnostic reciting sanskrit holy books hinduism upanishads bhagavad gita
+conway & siegelman 2005 p
+329 conway & siegelman 2005 p
+conway & siegelman 2005 pp
+41–43 conway & siegelman 2005 p
+43 conway & siegelman 2005 pp
+43–44 conway & siegelman 2005 pp
+40 franklin biography
+retrieved 2013-11-02
+adams hass & thompson 2008 p
+masani pesi r
+2012-12-06 norbert wiener 1894–1964 birkhäuser p
+167 978-3-0348-9252-0 retrieved 2016-03-20 mc cavitt mary jane september 2 2009 guide papers norbert wiener pdf massachusetts institute technology libraries p
+15 retrieved 2016-03-20 conway & siegelman 2005 p
+12 conway & siegelman 2005 pp
+223–7 letters norbert wiener john von neumann selected letters edited miklós rédei history mathematics volume 27 jointly published american mathematical society london mathematical society 2005 wiener norbert january 1947
+scientist rebels
+atlantic monthly
+heims 1980 national book awards 1965
+national book foundation
+retrieved 2012-03-05
+norbert wiener center harmonic analysis applications
+university maryland college park
+mandrekar v
+masani p
+proceedings symposia applied mathematics vol 52 proceedings norbert wiener centenary congress 1994
+providence rhode island michigan state university
+heims steve p
+april 1977
+gregory bateson mathematicians interdisciplinary interaction societal functions
+journal history behavioral sciences 13 2 141–159
+1002/1520-6696197704132<141 aid-jhbs2300130205>3
+pmid 325068
+note paper m
+4 136–143
+see albiac f
+kalton n
+topics banach space theory
+graduate texts mathematics 233
+new york springer
+full bibliography given cybernetics society publications norbert wiener further reading systems science portal adams colin hass joel thompson abigail 1998
+how ace calculus streetwise guide
+new york w
+freeman company
+almira j
+norbert wiener
+un matemático entre ingenieros [nobert wiener
+mathematician engineers] spanish
+madrid nivola libros ediciones sl
+bluma lars 2005
+norbert wiener und die entstehung kybernetik im zweiten weltkrieg eine historische fallstudie zur verbindung von wissenschaft technik und gesellschaft ph
+oclc 60744372
+bynum terrell w
+norbert wiener's vision impact automatic age our moral lives pdf
+conway flo siegelman jim 2005
+dark hero information age search norbert wiener father cybernetics
+new york basic books
+faucheux michel wiener norbert 2008
+le golem et cybernetique
+editions du sandre
+gleick james 2011
+information history theory flood
+new york pantheon books
+grattan-guinness ivor 2000
+search mathematical roots 1870–1940
+princeton university press
+290 296 394 395 410419–422 427 442 528 531 536 538 567
+hardesty larry july–august 2011
+original absent-minded professor - mit institution norbert wiener seminal work control theory signal processing
+mit news
+heims steve j
+john von neumann norbert wiener mathematics technologies life death
+mit press
+heims steve j
+constructing social science postwar america
+cybernetics group 1946–1953
+mit press
+ilgauds hans joachim 1980
+norbert wiener
+biographien hervorragender naturwissenschaftler techniker und mediziner
+masani p
+rustom 1990
+norbert wiener 1894–1964
+montagnini leone 2005
+html le armonie del disordine]
+norbert wiener matematico-filosofo del novecento
+istituto veneto di scienze lettere ed arti venezia 2005
+xvi 314 pp
+brief profile dr
+wiener given observer newspaper sunday 28 january 1951
+corinne jacker man memory machines introduction cybernetics 1964 external links wikiquote quotations related norbert wiener wikisource original works written norbert wiener norbert wiener center harmonic analysis applications norbert wiener cybernetics living internet o'connor john j
+robertson edmund f
+norbert wiener mac tutor history mathematics archive university st andrews
+norbert wiener mathematics genealogy project dr norbert wiener find grave vte subfields scientists involved cybernetics subfields polycontexturality second-order cybernetics catastrophe theory connectionism control theory decision theory information theory semiotics synergetics biological cybernetics biosemiotics biomedical cybernetics biorobotics computational neuroscience homeostasis management cybernetics medical cybernetics neurocybernetics sociocybernetics emergence artificial intelligence cyberneticists igor aleksander william ross ashby anthony stafford beer claude bernard ludwig von bertalanffy valentin braitenberg gordon s
+brown walter bradford cannon heinz von foerster charles françois jay wright forrester jacque fresco buckminster fuller ernst von glasersfeld pyotr grigorenko francis heylighen erich von holst cliff joslyn stuart kauffman sergei p
+kurdyumov niklas luhmann warren mc culloch humberto maturana talcott parsons gordon pask walter pitts alfred radcliffe-brown robert trappl valentin turchin jakob von uexküll francisco varela frederic vester charles geoffrey vickers stuart umpleby john n
+warfield william grey walter kevin warwick norbert wiener anthony wilden vte systems · systems science systemstypes anatomical art biological complex complex adaptive conceptual coupled human–environment database dynamical ecological economic formal global positioning holarchic information legal measurement metric multi-agent nervous nonlinear operating physical planetary political sensory social star writing theoreticalfields chaos theory complex systems control theory cybernetics earth system science living systems sociotechnical system systemics urban metabolism world-systems theory systems
+analysis biology dynamics ecology engineering neuroscience psychology science theory thinking systemsscientists russell l
+ackoff william ross ashby béla h
+bánáthy gregory bateson anthony stafford beer richard e
+bellman ludwig von bertalanffy kenneth e
+boulding murray bowen c
+west churchman george dantzig heinz von foerster jay wright forrester charles s hall james j
+kay george klir edward norton lorenz niklas luhmann humberto maturana margaret mead donella meadows mihajlo
+mesarovic james grier miller howard t
+odum talcott parsons ilya prigogine qian xuesen anatol rapoport peter senge claude shannon francisco varela kevin warwick norbert wiener anthony wilden categories systems conceptual physical social systems science systems science portal vte united states national medal science laureates behavioral social science1960 s 1964 roger adams othmar h
+ammann theodosius dobzhansky neal elgar miller 1980 s 1986 herbert
+simon 1987 anne anastasi george j
+stigler 1988 milton friedman 1990 s 1990 leonid hurwicz patrick suppes robert w
+kates george
+miller 1992 eleanor j
+gibson 1994 robert k
+merton 1995 roger n
+shepard 1996 paul samuelson 1997 william k
+estes 1998 william julius wilson 1999 robert m
+solow 2000 s 2000 gary becker 2001 george bass 2003 r
+duncan luce 2004 kenneth arrow 2005 gordon h
+bower 2008 michael
+posner 2009 mortimer mishkin 2010 s 2011 anne treisman 2014 robert axelrod biological sciences1960 s 1963 c
+van niel 1964 marshall w
+nirenberg 1965 francis p
+rous george g
+simpson donald
+van slyke 1966 edward f
+knipling fritz albert lipmann william c
+rose sewall wright 1967 kenneth s
+cole harry f
+harlow michael heidelberger alfred h
+sturtevant 1968 horace barker bernard
+brodie detlev w
+bronk jay lush burrhus frederic skinner 1969 robert huebner ernst mayr 1970 s 1970 barbara mc clintock albert
+sabin 1973 daniel
+arnon earl w
+sutherland jr
+1974 britton chance erwin chargaff james v
+neel james augustine shannon 1975 hallowell davis paul gyorgy sterling
+hendricks orville lvin vogel 1976 roger guillemin keith roberts porter efraim racker e
+wilson 1979 robert h
+burris elizabeth c
+crosby arthur kornberg severo ochoa earl reece stadtman george ledyard stebbins paul alfred weiss 1980 s 1981 philip handler 1982 seymour benzer glenn w
+burton mildred cohn 1983 howard l
+bachrach paul berg wendell l
+roelofs berta scharrer 1986 stanley cohen donald
+henderson vernon
+mountcastle george emil palade joan
+steitz 1987 michael e
+de bakey theodor o
+diener harry eagle har gobind khorana rita levi-montalcini 1988 michael s
+brown stanley norman cohen joseph l
+goldstein maurice r
+hilleman eric r
+kandel rosalyn sussman yalow 1989 katherine esau viktor hamburger philip leder joshua lederberg roger w
+sperry harland g
+wood 1990 s 1990 baruj benacerraf herbert w
+boyer daniel e
+koshland jr
+lewis david g
+nathan e
+donnall thomas mary ellen avery g
+evelyn hutchinson elvin
+kabat salvador luria paul
+marks folke k
+skoog paul c
+zamecnik 1992 maxine singer howard martin temin 1993 daniel nathans salome g
+waelsch 1994 thomas eisner elizabeth f
+neufeld 1995 alexander rich 1996 ruth patrick 1997 james watson robert
+weinberg 1998 bruce ames janet rowley 1999 david baltimore jared diamond lynn margulis 2000 s 2000 nancy c
+andreasen peter h
+raven carl woese 2001 francisco j
+ayala mario r
+capecchi ann graybiel gene e
+likens victor
+mc kusick harold varmus 2002 james e
+darnell evelyn m
+witkin 2003 j
+michael bishop solomon h
+snyder charles yanofsky 2004 norman e
+borlaug phillip
+sharp thomas e
+starzl 2005 anthony s
+fauci torsten n
+wiesel 2006 rita r
+colwell nina fedoroff lubert stryer 2007 robert j
+lefkowitz bert w
+o'malley 2008 francis s
+collins elaine fuchs j
+craig venter 2009 susan l
+lindquist stanley
+prusiner 2010 s 2010 ralph l
+brinster shu chien rudolf jaenisch 2011 lucy shapiro leroy hood sallie chisholm 2014 may berenbaum bruce alberts chemistry1980 s 1982 f
+albert cotton gilbert stork 1983 roald hoffmann george c
+pimentel richard n
+zare 1986 harry
+gray yuan tseh lee carl s
+marvel frank h
+westheimer 1987 william s
+johnson walter h
+stockmayer max tishler 1988 william o
+baker konrad e
+bloch elias j
+corey 1989 richard
+bernstein melvin calvin rudolph
+marcus harden m
+mc connell 1990 s 1990 elkan blout karl folkers john
+roberts ronald breslow gertrude
+elion dudley r
+herschbach glenn t
+seaborg 1992 howard e
+simmons jr
+1993 donald j
+cram norman hackerman 1994 george s
+hammond 1995 thomas cech isabella l
+karle 1996 norman davidson 1997 darleane c
+hoffman harold s
+johnston 1998 john w
+cahn george m
+whitesides 1999 stuart
+rice john ross susan solomon 2000 s 2000 john
+baldeschwieler ralph f
+hirschmann 2001 ernest r
+davidson gábor
+somorjai 2002 john
+brauman 2004 stephen j
+lippard 2006 marvin h
+caruthers peter
+dervan 2007 mostafa
+el-sayed 2008 joanna fowler jo anne stubbe 2009 stephen j
+benkovic marye anne fox 2010 s 2010 jacqueline k
+barton peter j
+stang 2011 allen j
+bard m
+frederick hawthorne 2014 judith p
+klinman jerrold meinwald 2015 geraldine l
+richmond engineering sciences1960 s 1962 theodore von kármán 1963 vannevar bush john robinson pierce 1964 charles s
+draper 1965 hugh l
+dryden clarence l
+johnson warren k
+lewis 1966 claude e
+shannon 1967 edwin h
+land igor
+sikorsky 1968 j
+presper eckert nathan m
+newmark 1969 jack st
+clair kilby 1970 s 1970 george e
+mueller 1973 harold e
+edgerton richard t
+whitcomb 1974 rudolf kompfner ralph brazelton peck abel wolman 1975 manson benedict william hayward pickering frederick e
+terman wernher von braun 1976 morris cohen peter c
+goldmark erwin wilhelm müller 1979 emmett n
+leith raymond
+mindlin robert n
+noyce earl r
+parker simon ramo 1980 s 1982 edward h
+heinemann donald l
+katz 1983 william redington hewlett george m
+low john g
+trump 1986 hans wolfgang liepmann t
+lin bernard m
+oliver 1987 r
+byron bird h
+bolton seed ernst weber 1988 daniel c
+drucker willis m
+hawkins george w
+housner 1989 harry george drickamer herbert e
+grier 1990 s 1990 mildred dresselhaus nick holonyak jr
+george h
+heilmeier luna
+leopold h
+guyford stever 1992 calvin f
+quate john roy whinnery 1993 alfred
+cho 1994 ray w
+clough 1995 hermann
+haus 1996 james l
+flanagan c
+kumar n
+patel 1998 eli ruckenstein 1999 kenneth n
+stevens 2000 s 2000 yuan-cheng
+fung 2001 andreas acrivos 2002 leo beranek 2003 john m
+prausnitz 2004 edwin n
+lightfoot 2005 jan
+achenbach tobin j
+marks 2006 robert s
+langer 2007 david j
+wineland 2008 rudolf e
+kálmán 2009 amnon yariv 2010 s 2011 sidney drell sandra faber sylvester james gates john goodenough mathematical statistical computer sciences1960 s 1963 norbert wiener 1964 solomon lefschetz h
+marston morse 1965 oscar zariski 1966 john milnor 1967 paul cohen 1968 jerzy neyman 1969 william feller 1970 s 1970 richard brauer 1973 john tukey 1974 kurt gödel 1975 john w
+backus shiing-shen chern george dantzig 1976 kurt otto friedrichs hassler whitney 1979 joseph l
+doob donald e
+knuth 1980 s 1982 marshall harvey stone 1983 herman goldstine isadore singer 1986 peter lax antoni zygmund 1987 raoul bott michael freedman 1988 ralph e
+gomory joseph
+keller 1989 samuel karlin saunders mac lane donald c
+spencer 1990 s 1990 george f
+carrier stephen cole kleene john mc carthy alberto calderón 1992 allen newell 1993 martin david kruskal 1994 john cocke 1995 louis nirenberg 1996 richard karp stephen smale 1997 shing-tung yau 1998 cathleen synge morawetz 1999 felix browder ronald r
+coifman 2000 s 2000 john griggs thompson karen k
+uhlenbeck 2001 calyampudi r
+rao elias m
+stein 2002 james g
+glimm 2003 carl r
+de boor 2004 dennis p
+sullivan 2005 bradley efron 2006 hyman bass 2007 leonard kleinrock andrew j
+viterbi 2009 david
+mumford 2010 s 2010 richard
+tapia s
+srinivasa varadhan 2011 solomon golomb barry mazur 2014 alexandre chorin thomas kailath david blackwell physical sciences1960 s 1963 luis w
+alvarez 1964 julian schwinger harold clayton urey robert burns woodward 1965 john bardeen peter debye leon m
+lederman william rubey 1966 jacob bjerknes subrahmanyan chandrasekhar henry eyring john h
+van vleck vladimir k
+zworykin 1967 jesse beams francis birch gregory breit louis hammett george kistiakowsky 1968 paul bartlett herbert friedman lars onsager eugene wigner 1969 herbert c
+brown wolfgang panofsky 1970 s 1970 robert h
+dicke allan r
+sandage john c
+slater john
+wheeler saul winstein 1973 carl djerassi maurice ewing arie jan haagen-smit vladimir haensel frederick seitz robert rathbun wilson 1974 nicolaas bloembergen paul flory william alfred fowler linus carl pauling kenneth sanborn pitzer 1975 hans
+bethe joseph o
+hirschfelder lewis sarett edgar bright wilson chien-shiung wu 1976 samuel goudsmit herbert s
+gutowsky frederick rossini verner suomi henry taube george uhlenbeck 1979 richard p
+feynman herman mark edward m
+purcell john sinfelt lyman spitzer victor f
+weisskopf 1980 s 1982 philip w
+anderson yoichiro nambu edward teller charles h
+townes 1983 e
+margaret burbidge maurice goldhaber helmut landsberg walter munk frederick reines bruno
+rossi j
+robert schrieffer 1986 solomon j
+buchsbaum h
+richard crane herman feshbach robert hofstadter chen-ning yang 1987 philip abelson walter elsasser paul c
+lauterbur george pake james
+van allen 1988
+allan bromley paul ching-wu chu walter kohn norman f
+ramsey jack steinberger 1989 arnold o
+beckman eugene parker robert sharp henry stommel 1990 s 1990 allan m
+cormack edwin m
+mc millan robert pound roger revelle arthur l
+schawlow ed stone steven weinberg 1992 eugene m
+shoemaker 1993 val fitch vera rubin 1994 albert overhauser frank press 1995 hans dehmelt peter goldreich 1996 wallace s
+broecker 1997 marshall rosenbluth martin schwarzschild george wetherill 1998 don l
+anderson john n
+bahcall 1999 james cronin leo kadanoff 2000 s 2000 willis e
+lamb jeremiah p
+ostriker gilbert f
+white 2001 marvin l
+cohen raymond davis jr
+charles keeling 2002 richard garwin w
+jason morgan edward witten 2003 g
+brent dalrymple riccardo giacconi 2004 robert n
+clayton 2005 ralph
+alpher lonnie thompson 2006 daniel kleppner 2007 fay ajzenberg-selove charles p
+slichter 2008 berni alder james e
+gunn 2009 yakir aharonov esther m
+conwell warren m
+washington 2010 s 2011 sidney drell 2014 burton richter sean c
+solomon authority control world cat identities viaf 51764820 lccn n50016209 isni 0000 0001 2132 8337 gnd 118632558 selibr 226450 sudoc 030844290 bnf cb12353336 j data mgp 25222 nla 35606928 ndl 00460873 nkc jn19990009116

@@ -1,0 +1,725 @@
+hilary putnam born hilary whitehall putnam1926-07-31 july 31 1926 chicago illinois u
+died march 13 20162016-03-13 aged 89 arlington massachusetts u
+alma mater university pennsylvania harvard university uclaspouses ruth anna jacobs awards rolf schock prizes logic philosophy 2011 nicholas rescher prize systematic philosophy 2015 era 20 th-century philosophy region western philosophy school analytic pragmatism main interests philosophy mind philosophy language philosophy science philosophy mathematics metaphilosophy epistemology notable ideas multiple realizability functionalism causal theory reference semantic externalism brain vat · twin earth internal realism kreisel–putnam logic influences w
+quine john dewey hans reichenbach alan turing immanuel kant nelson goodman charles sanders peirce william james ludwig wittgenstein søren kierkegaard karl marx sigmund freud saul kripke influenced jerry fodor ned block tyler burge david marr daniel dennett david lewis saul kripke donald davidson george boolos richard boyd hartry field martha nussbaum george boolos hilary whitehall putnam july 31 1926 march 13 2016 american philosopher mathematician computer scientist central figure analytic philosophy 1960 s especially philosophy mind philosophy language philosophy mathematics philosophy science
+known willingness apply equal degree scrutiny own philosophical positions those others subjecting each position rigorous analysis until exposed flaws
+result acquired reputation frequently changing own position
+time death putnam cogan university professor emeritus harvard university
+philosophy mind putnam known argument against type-identity mental physical states based hypothesis multiple realizability mental concept functionalism influential theory regarding mind–body problem
+philosophy language along saul kripke others developed causal theory reference formulated original theory meaning introducing notion semantic externalism based famous thought experiment called twin earth
+philosophy mathematics mentor w
+quine developed quine–putnam indispensability thesis argument reality mathematical entities later espousing view mathematics purely logical quasi-empirical
+field epistemology known critique well known brain vat thought experiment
+thought experiment appears provide powerful argument epistemological skepticism putnam challenges coherence
+metaphysics originally espoused position called metaphysical realism eventually became most outspoken critics first adopting view called internal realism later abandoned
+despite these changes view throughout career remained committed scientific realism roughly view mature scientific theories approximately true descriptions ways things
+philosophy perception putnam came endorse direct realism according perceptual experiences directly present external world
+past further held there no mental representations sense data other intermediaries stand mind world
+however rejected further commitment favor transactionalism view accepts both perceptual experiences world-involving transactions these transactions functionally describable provided worldly items intentional states may referred specification function
+such transactions further involve qualia
+later work putnam became increasingly interested american pragmatism jewish philosophy ethics thus engaging wider array philosophical traditions
+also displayed interest metaphilosophy seeking renew philosophy identifies narrow inflated concerns
+outside philosophy putnam contributed mathematics computer science
+together martin davis developed davis–putnam algorithm boolean satisfiability problem helped demonstrate unsolvability hilbert's tenth problem
+times politically controversial figure especially involvement progressive labor party late 1960 s early 1970 s
+contents life 2 philosophy mind 2
+multiple realizability 2
+2 machine state functionalism 2
+3 rejection functionalism 3 philosophy language 3
+semantic externalism 3
+2 theory meaning 4 philosophy mathematics 5 mathematics computer science 6 epistemology 7 metaphilosophy ontology neopragmatism wittgenstein 9 death 10 criticism major works bibliography 12 works putnam 13 see also 14 notes 15 references 16 external links life putnam born chicago illinois 1926
+father samuel putnam scholar romance languages columnist translator daily worker publication american communist party 1936 1946 became disillusioned communism
+result father's commitment communism putnam secular upbringing although mother riva jewish
+family lived france until 1934 returned united states settling philadelphia
+putnam attended central high school there met noam chomsky year behind
+two friends—and often intellectual opponents—ever since
+putnam studied mathematics philosophy university pennsylvania receiving ba undergraduate degree becoming member philomathean society oldest collegiate literary societies u
+went graduate work philosophy harvard university later ucla's philosophy department received ph
+1951 dissertation entitled meaning concept probability application finite sequences
+putnam's teacher hans reichenbach dissertation supervisor leading figure logical positivism dominant school philosophy day putnam's most consistent positions rejection logical positivism self-defeating
+after teaching northwestern 1951–52 princeton 1953–61 mit 1961–65 moved harvard 1965
+wife ruth anna jacobs took teaching position philosophy wellesley college
+hilary ruth anna married 1962
+ruth anna jacobs descendant family long scholarly tradition gotha her ancestor german classical scholar christian friedrich wilhelm jacobs born berlin germany 1927 anti-nazi political-activist parents like putnam himself she raised atheist her mother jewish her father christian background
+putnams rebelling against antisemitism experienced during their youth decided establish traditional jewish home their children
+since no experience rituals judaism sought out invitations other jews' homes seder
+no idea how [themselves] words ruth anna
+therefore began study jewish ritual hebrew became jewishly interested identified active
+1994 hilary putnam celebrated belated bar mitzvah service
+wife bat mitzvah service four years later
+hilary popular teacher harvard
+keeping family tradition politically active
+1960 s early 1970 s active supporter american civil rights movement opponent american military intervention vietnam
+1963 organized first faculty student committees mit against war
+putnam disturbed learned reading reports david halberstam u
+defending south vietnamese peasants vietcong poisoning their rice crops
+after moving harvard 1965 organized campus protests began teaching courses marxism
+hilary became official faculty advisor students democratic society 1968 became member progressive labor party plp
+elected fellow american academy arts sciences 1965
+after 1968 political activities centered plp
+harvard administration considered these activities disruptive attempted censure putnam two other faculty members criticized procedures
+putnam permanently severed ties plp 1972
+1997 meeting former draft resistance activists arlington street church boston putnam described involvement plp mistake
+impressed first plp's commitment alliance-building willingness attempt organize within armed forces
+1976 elected president american philosophical association
+following year selected walter beverly pearson professor mathematical logic recognition contributions philosophy logic mathematics
+while breaking radical past putnam never abandoned belief academics particular social ethical responsibility toward society
+continued forthright progressive political views expressed articles how solve ethical problems 1983 education democracy 1993
+putnam corresponding fellow british academy
+retired teaching june 2000 2009 continued give seminar almost yearly tel aviv university
+also held spinoza chair philosophy university amsterdam 2001
+cogan university professor emeritus harvard university founding patron small liberal arts college ralston college
+corpus includes five volumes collected works seven books 200 articles
+putnam's renewed interest judaism inspired publish several books essays topic
+wife co-authored several books essays late-19 th-century american pragmatist movement
+began blog may 2014
+contributions philosophy logic awarded rolf schock prize 2011 nicholas rescher prize systematic philosophy 2015
+delivered last skype talk entitled thought language international conference philosophy hilary putnam held indian institute technology bombay october 3 2015 organized student sanjit chakraborty
+philosophy mind multiple realizability illustration multiple realizability
+m stands mental p stands physical
+seen p instantiate m vice versa
+causal relations states represented arrows m1 goes m2 etc
+putnam's best-known work concerns philosophy mind
+most noted original contributions field came several key papers published late 1960 s set out hypothesis multiple realizability
+these papers putnam argues contrary famous claim type-identity theory necessarily true pain identical c-fibre firing
+pain according putnam's papers may correspond utterly different physical states nervous system different organisms yet experience same mental state being pain
+putnam cited examples animal kingdom illustrate thesis
+asked whether likely brain structures diverse types animals realize pain other mental states same way
+share same brain structures cannot share same mental states properties
+answer puzzle mental states realized different physical states different species
+putnam then took argument step further asking such things nervous systems alien beings artificially intelligent robots other silicon-based life forms
+these hypothetical entities contended should considered incapable experiencing pain just because lack same neurochemistry humans
+putnam concluded type-identity theorists making ambitious highly implausible conjecture disproven example multiple realizability
+argument sometimes referred likelihood argument
+putnam formulated complementary argument based called functional isomorphism
+defined concept these terms two systems functionally isomorphic 'there correspondence states states other preserves functional relations'
+case computers two machines functionally isomorphic sequential relations among states first exactly mirrored sequential relations among states other
+therefore computer made out silicon chips computer made out cogs wheels functionally isomorphic constitutionally diverse
+functional isomorphism implies multiple realizability
+argument sometimes referred priori argument
+jerry fodor putnam others noted along being effective argument against type-identity theories multiple realizability implies any low-level explanation higher-level mental phenomena insufficiently abstract general
+functionalism identifies mental kinds functional kinds characterized exclusively terms causes effects abstracts level microphysics therefore seemed better explanation relation mind body
+fact there many functional kinds such mousetraps software bookshelves multiply realized physical level
+machine state functionalism turing machine visualized finite-length tape slots however made before run arbitrarily longer needed written erased time choice action determined state
+according putnam's machine-state functionalism notions state abstract computer mental state essentially same
+first formulation such functionalist theory put forth putnam himself
+formulation now called machine-state functionalism inspired analogies noted putnam others mind theoretical turing machines capable computing any given algorithm
+non-technical terms turing machine visualized infinitely long tape divided squares memory box-shaped scanning device sits over scans square memory time
+each square either blank written
+these inputs machine
+possible outputs halt nothing
+r move square right
+l move square left
+erase whatever square
+erase whatever square print
+simple example turing machine writes out sequence '111' after scanning three blank squares then stopping specified following machine table state state 2 state 3 write stay state write stay state 2 write stay state 3 go right go state 2 go right go state 3 [halt] table states machine state scans blank square will print remain state
+state reads will move square right also go state two
+state two reads will print stay state two
+it's state two reads will move square right go state three
+finally state three reads prints remains state three
+point functionalism nature states turing machine
+each state defined terms relations other states inputs outputs
+state example simply state machine reads writes stays state reads moves square right goes different state
+functional definition state causal role overall system
+details how accomplishes accomplishes material constitution completely irrelevant
+according machine-state functionalism nature mental state just like nature automaton states described above
+just state simply state given input such-and-such happens being pain state disposes cry ouch become distracted wonder cause forth
+rejection functionalism late 1980 s putnam abandoned adherence functionalism other computational theories mind
+change mind primarily due difficulties computational theories explaining certain intuitions respect externalism mental content
+illustrated putnam's own twin earth thought experiment see philosophy language
+also developed separate argument against functionalism 1988 based fodor's generalized version multiple realizability
+asserting functionalism really watered-down identity theory mental kinds identified functional kinds putnam argued mental kinds may multiply realizable over functional kinds
+argument functionalism same mental state implemented different states universal turing machine
+despite putnam's rejection functionalism continued flourish developed numerous versions thinkers diverse david marr daniel dennett jerry fodor david lewis
+functionalism helped lay foundations modern cognitive science dominant theory mind philosophy today
+putnam accepted modification functionalism called liberal functionalism
+view holds matters consciousness mental properties generally right sort functional capacities particular matter subserves those capacities
+specification these capacities may refer goes outside organism's brain 2 may include intentional idioms 3 need describe capacity compute something other
+philosophy language semantic externalism putnam's contributions philosophy language claim meaning just ain't head
+illustrated using twin earth thought experiment argue environmental factors play substantial role determining meaning
+twin earth shows according putnam since twin earth everything identical earth except lakes rivers oceans filled xyz whereas those earth filled h2 o
+consequently earthling fredrick uses earth-english word water different meaning twin earth-english word water used physically identical twin frodrick twin earth
+since fredrick frodrick physically indistinguishable utter their respective words since their words different meanings meaning cannot determined solely their heads
+led putnam adopt version semantic externalism regard meaning mental content
+late philosopher mind language donald davidson despite many differences opinion putnam semantic externalism constituted anti-subjectivist revolution philosophers' way seeing world
+since time descartes philosophers concerned proving knowledge basis subjective experience
+thanks putnam tyler burge others davidson philosophy now take objective realm granted start questioning alleged truths subjective experience
+theory meaning putnam along saul kripke keith donnellan others contributed known causal theory reference
+particular putnam maintained meaning meaning objects referred natural kind terms—such tiger water tree—are principal elements meaning such terms
+there linguistic division labor analogous adam smith's economic division labor according such terms their references fixed experts particular field science terms belong
+example reference term lion fixed community zoologists reference term elm tree fixed community botanists reference term table salt fixed na cl chemists
+these referents considered rigid designators kripkean sense disseminated outward linguistic community
+putnam specifies finite sequence elements vector description meaning every term language
+such vector consists four components object term refers e
+object individuated chemical formula h2 o set typical descriptions term referred stereotype e
+transparent colorless hydrating semantic indicators place object general category e
+natural kind liquid syntactic indicators e
+concrete noun mass noun
+such meaning-vector provides description reference use expression within particular linguistic community
+provides conditions correct usage makes possible judge whether single speaker attributes appropriate meaning expression whether use changed enough cause difference meaning
+according putnam legitimate speak change meaning expression reference term stereotype changed
+however since there no possible algorithm determine aspect—the stereotype reference—has changed particular case necessary consider usage other expressions language
+since there no limit number such expressions must considered putnam embraced form semantic holism
+philosophy mathematics putnam made significant contribution philosophy mathematics quine–putnam indispensability argument mathematical realism
+argument considered stephen yablo most challenging arguments favor acceptance existence abstract mathematical entities such numbers sets
+form argument follows
+must ontological commitments entities indispensable best scientific theories those entities commonly referred
+mathematical entities indispensable best scientific theories
+therefore must ontological commitments mathematical entities
+justification first premise most controversial
+both putnam quine invoke naturalism justify exclusion non-scientific entities hence defend part
+assertion entities postulated scientific theories including numbers should accepted real justified confirmation holism
+since theories confirmed piecemeal fashion whole there no justification excluding any entities referred well-confirmed theories
+puts nominalist wishes exclude existence sets non-euclidean geometry include existence quarks other undetectable entities physics example difficult position
+putnam holds view mathematics like physics other empirical sciences uses both strict logical proofs quasi-empirical methods
+example fermat's last theorem states no integer there positive integer values x z such
+before proven 1995 andrew wiles proven many values n
+these proofs inspired further research area formed quasi-empirical consensus theorem
+even though such knowledge conjectural strictly proven theorem still used developing other mathematical ideas
+mathematics computer science putnam contributed scientific fields directly related work philosophy
+mathematician putnam contributed resolution hilbert's tenth problem mathematics
+problem settled yuri matiyasevich 1970 proof relied heavily previous research putnam julia robinson martin davis
+computability theory putnam investigated structure ramified analytical hierarchy connection constructible hierarchy turing degrees
+showed there exist many levels constructible hierarchy add any subsets integers later student george boolos first such non-index ordinal ramified analysis smallest such model full second-order comprehension also together separate paper richard boyd another putnam's students gustav hensel how davis–mostowski–kleene hyperarithmetical hierarchy arithmetical degrees naturally extended up
+computer science putnam known davis–putnam algorithm boolean satisfiability problem sat developed martin davis 1960
+algorithm finds there set true false values satisfies given boolean expression entire expression becomes true
+1962 further refined algorithm help george logemann donald w
+became known dpll algorithm
+algorithm efficient still forms basis most complete sat solvers
+epistemology brain vat—putnam uses thought experiment argue skeptical scenarios impossible
+field epistemology putnam known brain vat thought experiment modernized version descartes' evil demon hypothesis
+argument cannot coherently state disembodied brain vat placed there mad scientist
+follows causal theory reference
+words refer kinds things coined refer thus kinds things their user user's ancestors experienced
+person mary brain vat whose every experience received through wiring other gadgetry created mad scientist then mary's idea brain refer real brain since she her linguistic community never seen such thing
+rather she saw something looked like brain actually image fed her through wiring
+similarly her idea vat refer real vat
+brain vat she say i'm brain vat she actually saying i'm brain-image vat-image incoherent
+other hand she brain vat then saying she brain vat still incoherent now because she actually means opposite
+form epistemological externalism knowledge justification depends factors outside mind solely determined internally
+putnam clarified real target argument never skepticism metaphysical realism
+since realism kind assumes existence gap how man conceives world way world really skeptical scenarios such descartes' evil demon present formidable challenge
+putnam arguing such scenario impossible attempts show notion gap man's concept world way itself absurd
+man cannot god's eye view reality
+limited conceptual schemes
+metaphysical realism therefore false according putnam
+metaphilosophy ontology late 1970 s 1980 s stimulated results mathematical logic ideas quine putnam abandoned long-standing defence metaphysical realism—the view categories structures external world both causally ontologically independent conceptualizations human mind
+adopted rather different view called internal realism
+internal realism view although world may causally independent human mind structure world—its division kinds individuals categories—is function human mind hence world ontologically independent
+general idea influenced kant's idea dependence our knowledge world categories thought
+problem metaphysical realism according putnam fails explain possibility reference truth
+according metaphysical realist our concepts categories refer because match up mysterious manner pre-structured categories kinds individuals inherent external world
+how possible world carves up certain structures categories mind carves up world own categories structures two carvings perfectly coincide? answer must world does come pre-structured structure must imposed human mind conceptual schemes
+reason truth history putnam identified truth termed idealized rational acceptability
+theory owes something c
+peirce belief true accepted anyone under ideal epistemic conditions
+nelson goodman formulated similar notion fact fiction forecast 1956
+work goodman went far suggest there no world many worlds each created human mind
+putnam rejected form social constructivism retained idea there many correct descriptions reality
+no these descriptions scientifically proven true description world
+does imply relativism putnam because descriptions equally correct ones correct determined subjectively
+putnam renounced internal realism reply simon blackburn volume reading putnam
+reasons gave up antirealism stated first three replies philosophy hilary putnam issue journal philosophical topics gives history uses term internal realism length threefold cord mind body world 1999
+although abandoned internal realism putnam still resists idea any given thing system things described exactly complete correct way
+thus accepts conceptual relativity view may matter choice convention e
+whether mereological sums exist whether space-time points individuals mere limits
+other words having abandoned internal realism putnam came accept metaphysical realism simply broad sense rejecting forms verificationism talk our 'making' world
+under influence c
+peirce william james putnam also became convinced there no fact–value dichotomy normative e
+ethical aesthetic judgments often factual basis while scientific judgments normative element
+neopragmatism wittgenstein end 1980 s putnam became increasingly disillusioned perceived scientism rejection history characterize modern analytic philosophy
+rejected internal realism because assumed cognitive interface model relation mind world
+putnam claimed very notion truth abandoned consistent eliminative materialist
+under increasing influence james pragmatists adopted direct realist view relation
+time under influence ludwig wittgenstein adopted pluralist view philosophy itself came view most philosophical problems nothing conceptual linguistic confusions created philosophers using ordinary language out original context
+many putnam's most recent works addressed concerns ordinary people particularly their concerns social problems
+example written nature democracy social justice religion
+discussed ideas continental philosopher jürgen habermas written articles influenced continental ideas
+death putnam died mesothelioma rare form lung cancer home arlington massachusetts during early hours march 13 2016
+criticism putnam himself may own most formidable philosophical adversary
+frequent changes mind led attack previous positions
+however many significant criticisms views come other philosophers scientists
+example multiple realizability criticized grounds true research experimentation neurosciences impossible
+according bechtel mundale able conduct such research neurosciences universal consistencies must either exist assumed exist brain structures
+similarity homology brain structures allows us generalize across species
+multiple realizability empirical fact results experiments conducted species animal organism meaningful generalized explain behavior another species organism same species
+other criticisms metaphysical realism proposed jaegwon kim david lewis robert richardson patricia churchland
+main arguments against functionalism formulated putnam himself twin earth thought experiment
+however there other criticisms
+chinese room argument john searle 1980 direct attack claim thought represented set functions
+thought experiment designed show possible mimic intelligent action without any interpretation understanding through use purely functional system
+short searle describes situation person speaks english locked room chinese symbols baskets rule book english moving symbols around
+person instructed people outside room follow rule book sending certain symbols out room given certain symbols
+further suppose people outside room chinese speakers communicating person inside via chinese symbols
+according searle absurd claim english speaker inside knows chinese based these syntactic processes alone
+thought experiment attempts show systems operate merely syntactic processes cannot realize any semantics meaning intentionality aboutness
+thus searle attacks idea thought equated following set syntactic rules
+thus functionalism inadequate theory mind
+several other arguments against functionalism advanced ned block
+putnam consistently adhered idea semantic holism spite many changes other positions
+problems position described michael dummett jerry fodor ernest lepore others
+first place suggest semantic holism true impossible understand how speaker language learn meaning expression any expression language
+given limits our cognitive abilities will never able master whole english any other language even based false assumption languages static immutable entities
+thus must understand natural language understand single word expression language learning simply impossible
+semantic holism also fails explain how two speakers mean same thing using same linguistic expression therefore how any communication possible them
+given sentence p since fred mary each mastered different parts english language p related different ways sentences each part result p means thing fred something else mary
+moreover sentence p derives meaning relations sentences language soon vocabulary individual changes addition elimination sentence totality relations changes therefore also meaning p
+common phenomenon result p two different meanings two different moments life same person
+consequently accept truth sentence then reject later meaning rejected accepted completely different therefore cannot change my opinions regard same sentences
+brain vat argument also subject criticism
+crispin wright argues putnam's formulation brain-in-a-vat scenario too narrow refute global skepticism
+possibility recently disembodied brain vat undermined semantic externalism
+person lived her entire life outside vat—speaking english language interacting normally outside world—prior her envatment mad scientist she wakes up inside vat her words thoughts e
+tree grass will still refer objects events external world referred before her envatment
+another scenario brain vat may hooked up supercomputer randomly generates perceptual experiences
+case one's words thoughts refer anything therefore devoid content
+semantics no longer exist argument meaningless
+philosophy mathematics stephen yablo argued quine–putnam indispensability thesis does demonstrate mathematical entities truly indispensable
+argumentation sophisticated upshot achieve same logical results simply adding any statement abstract object assumption so-and-so assumed hypothesized exist
+example take argument indispensability described above adjust follows 1*
+must ontological commitments [abstract] entities under assumption exist their existence indispensable best scientific theories
+under assumption exist existence mathematical entities indispensable best scientific theories
+therefore 3*
+under assumption mathematical entities exist must ontological commitments existence mathematical entities
+finally putnam's internal realism accused curtis brown being disguised form subjective idealism
+case subject traditional arguments against position
+particular falls trap solipsism
+existence depends experience subjective idealism maintains one's consciousness stop existing then rest universe stop existing well
+major works bibliography there detailed bibliography hilary putnam's writings 16 books 198 articles compiled vincent c
+müller published 1993
+online phil papers
+later version harvard's servers
+innateness hypothesis explanatory models linguistics synthese vol
+17 no
+march 1967 pp
+philosophy mathematics selected readings
+edited paul benacerraf
+englewood cliffs n
+prentice-hall 1964
+2 nd ed
+cambridge cambridge university press 1983
+x philosophy logic
+new york harper row 1971
+london george allen unwin 1972
+mathematics matter method
+philosophical papers vol
+cambridge cambridge university press 1975
+2 nd
+1985 paperback mind language reality
+philosophical papers vol
+cambridge cambridge university press 1975
+2003 paperback meaning moral sciences
+london routledge kegan paul 1978
+reason truth history
+cambridge cambridge university press 1981
+2004 paperback realism reason
+philosophical papers vol
+cambridge cambridge university press 1983
+2002 paperback methodology epistemology philosophy science essays honour wolfgang stegmüller
+edited wilhelm k
+essler carl g
+reidel 1983
+epistemology methodology philosophy science essays honour carl g
+edited wilhelm k
+essler wolfgang stegmüller
+reidel 1985
+many faces realism
+salle ill
+open court 1987
+representation reality
+cambridge mass
+mit press 1988
+realism human face
+edited james f
+cambridge mass
+harvard university press 1990
+9780674749450 description
+renewing philosophy
+cambridge mass
+harvard university press 1992
+9780674760943 description
+pursuits reason essays honor stanley cavell
+edited ted cohen paul guyer
+lubbock texas tech university press 1993
+x words life
+edited james f
+cambridge mass
+harvard university press 1994
+9780674956070 description
+pragmatism open question
+oxford blackwell 1995
+x threefold cord mind body world
+new york columbia university press 1999
+enlightenment pragmatism
+assen koninklijke van gorcum 2001
+48 pp
+collapse fact/value dichotomy other essays
+cambridge mass
+harvard university press 2002
+ethics without ontology
+cambridge mass
+harvard university press 2002
+9780674018518 description
+jewish philosophy guide life rosenzweig buber levinas wittgenstein
+bloomington indiana university press 2008
+philosophy age science
+edited mario de caro david macarthur
+cambridge mass
+harvard university press
+9780674050136 description
+works putnam
+ben-menahem ed
+hilary putnam contemporary philosophy focus cambridge university press cambridge 2005
+hale eds
+reading putnam blackwell cambridge massachusetts-oxford 1995
+hill ed
+philosophy hilary putnam fayetteville arkansas 1992
+rüdel erkenntnistheorie und pragmatik untersuchungen zu richard rorty und hilary putnam dissertation hamburg 1987
+maximilian de gaynesford hilary putnam mc gill-queens university press / acumen 2006
+randall e
+auxier anderson& hahn eds
+philosophy hilary putnam library living philosophers open court chicago illinois 2015
+see also biography portal logic portal american philosophy list american philosophers rietdijk–putnam argument notes borradori g
+et al
+american philosopher 1994 p
+58 c e casati r
+hillary putnam enciclopedia garzanti della filosofia ed
+gianni vattimo
+garzanti editori
+c e king p
+hundred philosophers life work world's greatest thinkers
+barron's 2004 p
+jack ritchie june 2002
+tpmphilosopher month
+archived original 2011-07-09
+le doux j
+synaptic self how our brains become
+new york viking penguin
+hale eds
+reading putnam blackwell cambridge massachusetts-oxford 1995
+colyvan mark indispensability arguments philosophy mathematics stanford encyclopedia philosophy fall 2004 edition edward n
+zalta ed
+putnam h
+philosophy mathematics selected readings
+edited paul benacerraf
+englewood cliffs n
+prentice-hall 1964
+2 nd ed
+cambridge cambridge university press 1983
+c putnam h
+1981 brains vat reason truth history cambridge university press reprinted de rose warfield editors 1999 skepticism contemporary reader oxford up
+c putnam h
+realism human face
+edited james conant
+cambridge mass
+harvard university press 1990
+putnam h
+quantum mechanics ethics back again
+de caro m
+philosophy age science
+cambridge mass
+harvard university press
+putnam h
+threefold cord mind body world
+new york columbia university press 1999
+c putnam hilary october 30 2015
+wiki doesn't know me
+sardonic comment
+retrieved march 15 2016
+putnam h
+how sophisticated naive realist
+de caro m
+philosophy age science
+cambridge mass
+harvard university press
+davis m
+putnam h
+computing procedure quantification theory journal acm 7201–215 1960
+matiyesavic yuri 1993
+hilbert's tenth problem
+cambridge mit
+c e f g h j k appear american philosophers edition literary biography ed
+bruccoli layman clarke c foley m
+confronting war machine
+north carolina north carolina press
+wolfe bertram david
+strange communists known stein day 1965 p
+robert f
+barsky noam chomsky life dissent ch
+2 undergraduate years
+very powerful personality mit press 1997 archived may 2008 wayback machine
+c linda wertheimer july 30 2006
+finding my religion
+boston globe
+hortsch michael
+hans nathan kohn ein berliner jüdischer arzt und forscher am vorabend des nationalsozialismus
+berlin medical vol
+426–28 august 2007 book members 1780–2010 chapter p pdf
+american academy arts sciences
+retrieved 19 april 2011
+crimson article putnam harvard admin
+may 7 1971
+retrieved 2006-08-02
+new york times correction march 6 2005
+new york times
+march 6 2005
+retrieved 2006-08-01
+spinoza chair philosophy university amsterdam hilary putnam chosen people
+boston review
+retrieved 2010-12-14
+com https//thephilosopherseye
+com/2011/04/12/hilary-putnam-awarded-the-rolf-schock-prize-in-logic-and-philosophy/ http//www
+edu/news-story/hilary-putnam-wins-rescher-prize-2015 http//putnamphil
+international conference philosophy hilary putnam
+c bickle john multiple realizability stanford encyclopedia philosophy fall 2006 edition edward n
+zalta ed
+c e f g putnam h
+1975 mind language reality
+philosophical papers vol
+cambridge cambridge university press 1975
+fodor j
+1974 special sciences synthese 28 pp
+97–115 fodor j
+1980 mind-body problem scientific american 244 pp
+124–132 c
+hill ed
+philosophy hilary putnam fayetteville arkansas 1992
+sipser m
+1997 introduction theory computation
+pws publishing company
+boston mass
+x block ned august 1983
+putnam hilary 1988
+representation reality
+cambridge ma mit press
+marhaba sadi
+2004 funzionalismoin enciclopedia garzantina della filosofia ed
+gianni vattimo
+milan garzanti editori
+levin janet functionalism stanford encyclopedia philosophy fall 2004 edition edward n
+zalta ed
+2001 subjective intersubjective objective
+oxford oxford university press
+dell'utri massimo
+2002 olismo
+yablo s
+november 1998
+paradox existence
+putnam h
+mathematics matter method
+philosophical papers vol
+cambridge cambridge university press 1975
+2 nd
+j j o'connor e f robertson april 1997
+andrew wiles summary
+barry cooper computability theory p
+98 putnam hilary 1963
+note constructible sets integers
+notre dame j
+formal logic 4 4 270–273
+boolos george putnam hilary 1968
+degrees unsolvability constructible sets integers
+symbolic logic journal symbolic logic vol
+33 no
+4 33 4 497–513
+jstor 2271357
+boyd richard hensel gustav putnam hilary 1969
+recursion-theoretic characterization ramified analytical hierarchy
+transactions american mathematical society vol
+141 141 37–62
+jstor 1995087
+wright c
+1992 putnam's proof brains-in-a-vat proceedings aristotelian society 92
+dell'utri m
+1990 choosing conceptions realism case brains vat mind 99
+putnam h
+many faces realism
+salle ill
+open court 1987
+curtis brown 1988
+internal realism transcendental idealism?
+midwest studies philosophy 12 145–55
+goodman n
+fact fiction forecast
+university london athlone press 1954
+cambridge ma harvard up 1955
+2 nd ed
+indianapolis bobbs-merrill 1965
+3 rd
+indianapolis bobbs-merrill 1973
+4 th ed
+cambridge ma harvard up 1983 c putnam h
+half century philosophy viewed within
+daedalus 126 175–208
+jstor 20027414
+peter clark bob hale eds
+reading putnam
+oxford blackwell 1994
+see also philosophical topics vol
+20 number spring 1992
+hilary putnam 'evidence transcendence' malign journal philosophy xcviii nov
+2001 594–600
+putnam hilary november 9 2015
+wiki catches up bit
+sardonic comment
+retrieved march 15 2016
+feser edward last superstition st
+augustine press 2008 p
+234 reed edward 1997
+defending experience philosophy post-modern world genetic epistemologist journal jean piaget society volume 25 number 3
+boston globe obituaries
+retrieved 13 march 2016
+hilary putnam obituary brookline ma | boston globe bechtel william mundale jennifer
+multiple realizability revisited philosophy science 66 175–207
+kim sungsu
+testing multiple realizability discussion bechtel mundale philosophy science
+69 606–610
+kim jaegwon
+multiple realizability metaphysics reduction philosophy phenomenological research
+52 1–26
+lewis david 1969
+review art mind religion
+journal philosophy 66 23–35
+richardson robert 1979
+functionalism reductionism
+philosophy science 46 533–558
+churchland patricia 1986
+cambridge ma mit press
+searle john
+minds brains programs behavioral brain sciences vol
+online block ned
+troubles functionalism block 1980
+fodor j
+lepore e
+holism shopper's guide
+dummett michael
+logical basis metaphysics
+harvard university press
+cambridge ma
+penco carlo
+olismo e molecularismo olismo ed
+massimo dell'utri
+1994 brains vat different perspectives philosophical quarterly
+1986 brains vat journal philosophy 83
+'innateness hypothesis' explanatory models linguistics pdf
+retrieved 2014-06-19
+references bechtel william mundale jennifer
+multiple realizability revisited philosophy science 66 175–207
+bickle john
+multiple realizability stanford encyclopedia philosophy fall 2006 edition edward n
+zalta ed
+brown c
+internal realism transcendental idealism? midwest studies philosophy 12 1988 145–155
+casati r
+hillary putnam enciclopedia garzanti della filosofia
+gianni vattimo ed
+milan garzanti editori 2004
+churchland patricia
+cambridge ma mit press 1986
+clark p
+& hale
+reading putnam
+oxford blackwell 1995
+dummett michael
+logical basis metaphysics
+harvard university press
+cambridge ma 1972
+fodor j
+lepore e
+holism shopper's guide
+oxford blackwell 1992
+foley m
+confronting war machine
+north carolina north carolina press
+gaynesford m
+de hilary putnam acumen 2006
+see robert maximilian de gaynesford hickey l
+hilary putnam appear american philosophers edition literary biography ed
+bruccoli layman clarke
+hill c
+philosophy hilary putnam fayetteville arkansas
+kim jaegwon
+multiple realizability metaphysics reduction
+philosophy phenomenological research 52 1–26
+king peter j
+hundred philosophers life work world's greatest thinkers
+barron's 2004 p
+lewis david
+review art mind religion
+journal philosophy 66 1969 23–35
+matiyesavic yuri
+hilbert's tenth problem
+cambridge mit press 1993
+penco carlo
+olismo e molecularismo olismo ed
+massimo dell'utri
+putnam hilary
+philosophy mathematics selected readings
+edited paul benacerraf
+englewood cliffs n
+prentice-hall 1964
+2 nd ed
+cambridge cambridge university press 1983
+mind language reality
+philosophical papers vol
+cambridge cambridge university press 1975
+brains vat reason truth history cambridge university press 1981 reprinted de rose warfield editors 1999 skepticism contemporary reader oxford university press
+realism human face
+cambridge mass
+harvard university press 1990
+threefold cord mind body world
+new york columbia university press 1999
+richardson robert
+functionalism reductionism
+philosophy science 46 1979 533–558
+searle john
+minds brains programs
+behavioral brain sciences 3 1980
+wertheimer linda
+finding my religion
+boston globe july 30 2006
+yablo s
+paradox existence june 1998
+external links quotations related hilary putnam wikiquote hilary putnam phil papers hilary putnam internet movie database hilary putnam indiana philosophy ontology project extensive bibliography extensive directory hilary putnam mathematics genealogy project london review books contributor page hilary putnam mind meaning reality interview josh harlan harvard review philosophy spring 1992
+think integrity hilary putnam's farewell lecture harvard review philosophy spring 2000
+putnam fact/value dichotomy critics roundtable externalism audio/video lecture audio discussion march 2007 university college dublin
+hilary putnam externalism motivation critics video lecture delivered harvard university october 4 2007 short film putnam-rorty debate influence pragmatist revival you tube moscow center consciousness studies video interview hilary putnam 2010-04-21 transcript new york times obituary hilary putnam giant modern philosophy dies 89 bruce weber march 17 2016 vte analytic philosophy philosophers robert merrihew adams william p
+alston j
+ayer g
+anscombe david malet armstrong robert audi robert brandom c
+broad tyler burge john p
+burgess rudolf carnap roderick chisholm patricia churchland paul churchland david chalmers noam chomsky donald davidson daniel dennett michael dummett bas van fraassen gottlob frege jerry fodor philippa foot peter geach
+grayling paul grice alvin goldman peter hacker r
+hare gilbert harman john hawthorne ian hacking carl hempel jaakko hintikka peter van inwagen frank cameron jackson christine korsgaard saul kripke david lewis j
+mackie norman malcolm john mc dowell g
+moore thomas nagel robert nozick derek parfit
+phillips alvin plantinga
+prior hilary putnam w
+quine john rawls hans reichenbach bertrand russell gilbert ryle john searle moritz schlick wilfrid sellars peter singer peter strawson richard swinburne peter unger bernard williams timothy williamson john wisdom ludwig wittgenstein stephen yablo
+theories deflationism direct reference theory empiricism holism logical atomism logical positivism naturalism naturalized epistemology neopragmatism neutral monism particularism reductionism scientism skepticism verificationism
+concepts analysis analytic–synthetic distinction causal / deductive / epistemic closure concept counterfactual denotation / reference definite description factive family resemblance intuition meaning proposition modality natural kind / projectability necessary–sufficient conditions paradox analysis possible world reduction reflective equilibrium rigid–flaccid designators sense data supervenience thought experiment truth function truthmaker truth-bearer type–token distinction related articles australian realism ordinary language philosophy philosophical logic philosophy language philosophy science postanalytic philosophy
+category task force discussion philosophy stubs vte metaphysics metaphysicians parmenides plato aristotle plotinus duns scotus thomas aquinas francisco suárez nicolas malebranche rené descartes john locke david hume thomas reid immanuel kant isaac newton arthur schopenhauer baruch spinoza georg w
+hegel george berkeley gottfried wilhelm leibniz henri bergson friedrich nietzsche charles sanders peirce joseph maréchal ludwig wittgenstein martin heidegger alfred n
+whitehead bertrand russell dorothy emmet g
+moore jean-paul sartre gilbert ryle hilary putnam p
+strawson r
+collingwood adolph stöhr rudolf carnap saul kripke willard v
+quine g
+anscombe donald davidson michael dummett david malet armstrong david lewis alvin plantinga peter van inwagen derek parfit
+theories abstract object theory action theory anti-realism determinism dualism enactivism essentialism existentialism free will idealism libertarianism liberty materialism meaning life monism naturalism nihilism phenomenalism realism physicalism pirsig's metaphysics quality platonic idealism relativism scientific realism solipsism subjectivism substance theory type theory concepts abstract object anima mundi being category being causality choice cogito ergo sum concept embodied cognition entity essence existence experience hypostatic abstraction idea identity identity change information insight intelligence intention linguistic modality matter meaning memetics mental representation mind motion necessity notion object pattern perception physical body principle property qualia quality reality soul subject substantial form thought time truth type–token distinction universal unobservable value
+related topics axiology cosmology epistemology feminist metaphysics interpretations quantum mechanics meta- ontology philosophy mind philosophy psychology philosophy self philosophy space time teleology theoretical physics category portal wiki project vte epistemology epistemologists thomas aquinas augustine hippo william alston robert audi
+ayer george berkeley laurence bon jour rené descartes edmund gettier alvin goldman nelson goodman paul grice david hume immanuel kant søren kierkegaard saul kripke david lewis john locke g
+moore robert nozick alvin plantinga plato hilary putnam thomas reid gilbert ryle p
+strawson willard van orman quine bertrand russell timothy williamson ludwig wittgenstein nicholas wolterstorff vienna circle theories coherentism constructivist epistemology contextualism determinism empiricism evolutionary epistemology fallibilism feminist epistemology fideism foundationalism genetic epistemology holism infinitism innatism internalism externalism naïve realism naturalized epistemology phenomenalism positivism reductionism reliabilism representative realism rationalism skepticism theory forms transcendental idealism uniformitarianism concepts priori knowledge analysis analytic–synthetic distinction belief causality common sense descriptive knowledge exploratory thought gettier problem justification knowledge induction objectivity problem induction problem other minds perception proposition regress argument simplicity speculative reason truth
+related articles outline epistemology alethiology faith rationality formal epistemology meta-epistemology philosophy perception philosophy science social epistemology portal category task force stubs discussion vte philosophy language philosophers plato cratylus gorgias confucius xunzi aristotle stoics pyrrhonists scholasticism ibn rushd ibn khaldun thomas hobbes gottfried wilhelm leibniz johann herder ludwig noire wilhelm von humboldt fritz mauthner paul ricœur ferdinand de saussure gottlob frege franz boas paul tillich edward sapir leonard bloomfield zhuangzi henri bergson lev vygotsky ludwig wittgenstein philosophical investigations tractatus logico-philosophicus bertrand russell rudolf carnap jacques derrida grammatology limited inc benjamin lee whorf gustav bergmann j
+austin noam chomsky hans-georg gadamer saul kripke
+ayer g
+anscombe jaakko hintikka michael dummett donald davidson paul grice gilbert ryle p
+strawson willard van orman quine hilary putnam david lewis john searle joxe azurmendi scott soames stephen yablo john hawthorne stephen neale theories causal theory reference contrast theory meaning contrastivism conventionalism cratylism deconstruction descriptivist theory names direct reference theory dramatism expressivism linguistic determinism logical atomism logical positivism mediated reference theory nominalism non-cognitivism phallogocentrism quietism relevance theory semantic externalism semantic holism structuralism supposition theory symbiosism theological noncognitivism theory descriptions verification theory concepts ambiguity linguistic relativity meaning language truth-bearer proposition use–mention distinction concept categories set class intension logical form metalanguage mental representation principle compositionality property sign sense reference speech act symbol entity sentence statement
+related articles analytic philosophy philosophy information philosophical logic linguistics pragmatics rhetoric semantics formal semantics semiotics category task force discussion vte philosophy mind philosophers anscombe austin aquinas bain bergson bhattacharya block brentano broad burge chalmers churchland dennett dharmakirti davidson descartes goldman heidegger husserl fodor james kierkegaard leibniz lewis mc dowell merleau-ponty minsky moore nagel parfit putnam popper rorty ryle searle spinoza turing vasubandhu wittgenstein zhuangzi
+theories behaviorism biological naturalism dualism eliminative materialism emergent materialism epiphenomenalism functionalism idealism interactionism materialism monism naïve realism neutral monism phenomenalism phenomenology existential neurophenomenology physicalism identity theory pragmatism property dualism representational solipsism subjectivism substance dualism concepts abstract object artificial intelligence chinese room cognition cognitive closure concept concept object consciousness hard problem consciousness hypostatic abstraction idea identity ingenuity intelligence intentionality introspection intuition language thought materialism mental event mental image mental process mental property mental representation mind mind–body problem new mysterianism pain problem other minds propositional attitude qualia tabula rasa understanding zombie
+related topics metaphysics philosophy artificial intelligence / information / perception / self portal category task force discussion vte rolf schock prize laureates logic philosophy willard van orman quine 1993 michael dummett 1995 dana scott 1997 john rawls 1999 saul kripke 2001 solomon feferman 2003 jaakko hintikka 2005 thomas nagel 2008 hilary putnam 2011 derek parfit 2014 mathematics elias m
+stein 1993 andrew wiles 1995 mikio sato 1997 yuri
+manin 1999 elliott h
+lieb 2001 richard p
+stanley 2003 luis caffarelli 2005 endre szemerédi 2008 michael aschbacher 2011 yitang zhang 2014 musical arts ingvar lidholm 1993 györgy ligeti 1995 jorma panula 1997 kronos quartet 1999 kaija saariaho 2001 anne sofie von otter 2003 mauricio kagel 2005 gidon kremer 2008 andrew manze 2011 herbert blomstedt 2014 visual arts rafael moneo 1993 claes oldenburg 1995 torsten andersson 1997 herzog & de meuron 1999 giuseppe penone 2001 susan rothenberg 2003 sanaa / kazuyo sejima + ryue nishizawa 2005 mona hatoum 2008 marlene dumas 2011 anne lacaton / jean-philippe vassal 2014 authority control world cat identities viaf 108290352 lccn n50049338 isni 0000 0001 0931 0564 gnd 118823779 sudoc 02829372 x bnf cb120158769 data mgp 13387 ndl 00453471 nkc js20021118004 bne xx904689

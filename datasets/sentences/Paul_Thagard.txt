@@ -1,0 +1,58 @@
+paul r
+thagard born 28 sept 1950 yorkton saskatchewan canada alma mater university michigan era 20 th-century philosophy region western philosophy school naturalism main interests philosophy mind cognitive science philosophy science notable ideas explanatory coherence influences charles peirce influenced chris eliasmith neuroscience portal paul thagard born september 28 1950 canadian philosopher specializes philosophy cognitive science philosophy science
+thagard currently professor philosophy university waterloo cross appointment psychology computer science
+director cognitive science program
+thagard prolific writer contributed research analogy creativity inference cognition history science role emotion cognition
+philosophy science thagard enormously well cited work use computational models explaining conceptual revolutions
+perhaps most distinctive contribution field concept explanatory coherence applied many historical cases
+heavily influenced pragmatists like c
+peirce contributed refinement idea inference best explanation
+philosophy mind known attempts apply connectionist models coherence theories human thought action
+also known hotco attempt create computer model cognition incorporated emotions fundamental level
+general approach philosophy thagard sharply critical analytic philosophy being overly dependent upon intuitions source evidence
+contents biography 2 coherence 3 philosophy science 4 major works 5 references biography thagard born yorkton saskatchewan september 28 1950
+graduate universities saskatchewan cambridge toronto ph
+philosophy 1977 michigan m
+computer science 1985
+chair governing board cognitive science society 1998–1999 president society machines mentality 1997-1998
+1997 won canada council killam prize 1999 elected fellow royal society canada
+2003 received university waterloo award excellence research 2005 named university research chair
+thagard married psychologist ziva kunda
+kunda died 2004
+coherence thagard proposed many cognitive functions including perception analogy explanation decision-making planning etc
+understood form maximum coherence computation
+thagard together karsten verbeurgt put forth particular formalization concept coherence constraint satisfaction problem
+model posits coherence operates over set representational elements e
+propositions images etc
+either fit together cohere resist fitting together incohere
+two elements p q cohere connected positive constraint two elements incohere connected negative constraint
+furthermore constraints weighted
+each constraint there positive weight
+according thagard coherence maximization involves partitioning elements accepted rejected elements such way maximum number maximum weight constraints satisfied
+here positive constraint satisfied either both accepted both rejected
+negative constraint satisfied element acceptedsay other rejected
+philosophy science there decrease interest demarcation problem recent years
+part problem many suspect intractable problem since many previous attempts come up short
+example many obvious examples pseudoscience shown falsifiable verifiable revisable
+therefore many previously proposed demarcation criteria judged particularly reliable
+thagard proposed another set principles try overcome these difficulties
+according thagard's method theory scientific less progressive alternative theories over long period time faces many unsolved problems community practitioners makes little attempt develop theory towards solutions problems shows no concern attempts evaluate theory relation others selective considering confirmations disconfirmations
+major works thagard author / co-author books over 100 peer-reviewed articles
+brain meaning life princeton university press 2010 hot thought mechanisms applications emotional cognition mit press august 2006 x coherence thought action bradford book 2000 how scientists explain disease princeton university press 1999 mind introduction cognitive science mit press 1996 second edition 2005 trad
+mente buenos aires/madrid katz editores s
+2008 conceptual revolutions princeton university press 1992 computational philosophy science mit press 1988 bradford books 1993 co-author mental leaps analogy creative thought mit press 1995 induction processes inference learning discovery mit press 1986 bradford books 1989 also editor philosophy psychology cognitive science north-holland 2006
+references google scholar
+ca/scholar?q=paul%20 thagard&um=1&ie=utf-8&sa=n&hl=en&tab=ws explanatory coherence
+pdf conceptual structure chemical revolution
+org/pss/187831 explanatory coherence belief revision naive physics
+qst?a=o&doc id=59552522 best explanation
+pdf coherence thought action bradford book 2000 hot thought mechanisms applications emotional cognition many thagard's coherence articles available online http//cogsci
+html thagard p
+verbeurgt k
+coherence constraint satisfaction
+cognitive science 1-24
+why astrology pseudoscience paul r
+thagard philosophy science association 1978 volume edited p
+hacking east lansing philosophy science association 1978
+demarcation there sharp line science pseudoscience? exploration sir karl popper's conception falsification ray hall web version slides amaz!ng meeting ii las vegas january 17 2004
+authority control world cat identities viaf 32112742 isni 0000 0001 0885 2425 sudoc 034838732 bnf cb12554899 data

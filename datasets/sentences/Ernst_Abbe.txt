@@ -1,0 +1,314 @@
+ernst karl abbe born 1840-01-2323 january 1840 eisenach saxe-weimar-eisenach died 14 january 19051905-01-14 aged 64 jena german empire residence germany nationality german fields physicist institutions university jena alma mater university göttingen university jena doctoral advisor wilhelm eduard weber karl snell doctoral students heinrich friedrich weber other notable students gottlob frege known abbe refractometer abbe number ernst karl abbe 23 january 1840 14 january 1905 german physicist optical scientist entrepreneur social reformer
+together otto schott carl zeiss laid foundation modern optics
+abbe developed numerous optical instruments
+co-owner carl zeiss ag german manufacturer research microscopes astronomical telescopes planetariums other optical systems
+contents personal life 2 life work 3 bibliography 4 see also 5 notes 6 footnotes 7 references further reading 9 external links personal life else snell abbe born 23 january 1840 eisenach saxe-weimar-eisenach georg adam abbe elisabeth christina barchfeldt
+came humble home — father foreman spinnery
+supported father's employer abbe able attend secondary school obtain general qualification university entrance fairly good grades eisenach gymnasium graduated 1857
+time left school scientific talent strong will already become obvious
+thus spite family's strained financial situation father decided support abbe's studies universities jena 1857–1859 göttingen 1859–1861
+during time student abbe gave private lessons improve income
+father's employer continued fund
+abbe awarded ph göttingen 23 march 1861
+while school influenced bernhard riemann wilhelm eduard weber also happened göttingen seven
+followed two short assignments göttingen observatory physikalischer verein frankfurt association citizens interested physics chemistry founded johann wolfgang von goethe 1824 still exists today
+august 1863 qualified university lecturer university jena
+1870 accepted contract associate professor experimental physics mechanics mathematics jena
+1871 married else snell daughter mathematician physicist karl snell abbe's teachers[nb 1] whom two daughters
+attained full professor status 1879
+became director jena astronomical meteorological observatory 1878
+[nb 2] 1889 became member bavarian academy sciences humanities
+also member saxon academy sciences
+relieved teaching duties university jena 1891
+abbe died 14 january 1905 jena
+life work microscope carl zeiss 1879 optics abbe resolution limit formula engraved ernst abbe memorial jena german stamp 1968 ernst abbe relief grave 1866 became research director zeiss optical works 1868 invented apochromatic lens microscope lens eliminates both primary secondary color distortion
+1870 abbe invented abbe condenser used microscope illumination
+1871 designed first refractometer described booklet published 1874
+developed laws image non-luminous objects 1872
+zeiss optical works began selling improved microscopes 1872 1877 selling microscopes homogenous immersion objective 1886 hi apochromatic objective microscopes being sold
+created abbe number measure any transparent material's variation refractive index wavelength abbe's criterion tests hypothesis systematic trend exists set observations terms resolving power criterion stipulates angular separation cannot less ratio wavelength aperture diameter see angular resolution
+already professor jena hired carl zeiss improve manufacturing process optical instruments back then largely based trial error
+abbe first define term numerical aperture sine half angle multiplied refractive index medium filling space cover glass front lens
+abbe credited many discovering resolution limit microscope formula published 1873 eq
+although publication 1874 helmholtz another early appearance formula helmholtz states formula first derived joseph louis lagrange died 61 years prior
+helmholz impressed offer professorship university berlin refused due ties zeiss
+abbe camp wide aperturists arguing microscopic resolution ultimately limited aperture optics also argued depending application there other parameters should weighted over aperture design objectives
+abbe's 1874 paper titled contribution theory microscope nature microscopic vision abbe states resolution microscope inversely dependent aperture without proposing formula resolution limit microscope
+1876 abbe offered partnership zeiss began share considerable profits
+although first theoretical derivations eq
+published others fair say abbe first reach conclusion experimentally
+1878 built first homogenous immersion system microscope
+objectives abbe zeiss collaboration producing ideal ray geometry allowing abbe find aperture sets upper limit microscopic resolution curvature placement lenses
+abbe's first publication eq
+occurred 1882
+publication abbe states both theoretical experimental investigations confirmed eq
+abbe's contemporary henry edward fripp english translator abbe's helmholtz's papers puts their contributions equal footing
+also perfected interference method fizeau 1884
+abbe zeiss zeiss' son roderich zeiss otto schott formed 1884 jenaer glaswerk schott & genossen
+company time essence merge zeiss optical works responsible research production initial types optical glass
+working telescopes built image reversal system 1895
+order produce high quality objectives abbe made significant contributions diagnosis correction optical aberrations both spherical aberration coma aberration required objective reach resolution limit eq
+addition spherical aberration abbe discovered rays optical systems must constant angular magnification over their angular distribution produce diffraction limited spot principle known abbe sine condition
+monumental advanced abbe's calculations achievements frits zernike based phase contrast work awarded nobel prize 1953 hans busch used them work development electron microscope
+during association carl zeiss' microscope works forefront field optics also labor reform also 1900 introduced eight-hour workday remembrance 14-hour workday own father
+addition created pension fund discharge compensation fund
+1889 ernst abbe set up endowed carl zeiss foundation research science
+aim foundation secure economic scientific technological future way improve job security their employees
+made point success employee based solely their ability performance their origin religion political views
+1896 reorganized zeiss optical works cooperative profit-sharing
+social views respected used prussian state model idealized alfred weber 1947 book schriften heidelberger aktionsgruppe zur demokratie und zum freien sozialismus
+crater abbe moon named honour
+[citation needed] bibliography abbe pioneer optics lens design microscopy authority time
+left us numerous publications findings inventions discoveries
+below list publications authored including many links scanned google books pages
+abbe ernst 1873
+über einen neuen beleuchtungsapparat am mikroskop [about new illumination apparatus microscope]
+archiv für mikroskopische anatomie german bonn germany verlag von max cohen & sohn 9 469–480
+—— 1873
+beiträge zur theorie des mikroskops und mikroskopischen wahrnehmung [contributions theory microscope microscopic perception]
+archiv für mikroskopische anatomie german bonn germany verlag von max cohen & sohn 9 413–468
+issn 0176-7364
+retrieved 27 august 2010
+—— 1874
+neue apparate zur bestimmung des brechungs und zerstreuungsvermögens fester und flüssiger körper [new equipment determining refraction dispersion property solids liquids]
+jenaische zeitschrift für naturwissenschaft german jena germany mauke's verlag 96–174
+—— 1875
+new illuminating apparatus microscope
+monthly microscopical journal london uk robert hardwicke 13 2 77–82
+—— 1876
+lawson henry ed
+translated fripp h
+contribution theory microscope nature microscopic vision
+proceedings bristol naturalists' society london uk williams & northgate 200–261
+—— 1875
+—— ed
+extracts dr
+fripp's translation professor abbe's paper microscope
+monthly microscopical journal london uk williams & northgate 14 191–201
+—— 1875
+—— ed
+extracts dr
+fripp's translation professor abbe's paper microscope cont
+monthly microscopical journal london uk williams & northgate 14 245–254
+—— 1878
+über mikrometrische messung mittelst optischer bilder [about micrometric measurement means optical images]
+jenaische zeitschrift für naturwissenschaft german jena germany verlag von gustav fischer 11–17
+—— 1878
+über blutkörper-zählung [about counting blood cells]
+jenaische zeitschrift für naturwissenschaft german jena germany verlag von gustav fischer 98–105
+—— 1878
+über die bedingungen des aplanatismus linsensysteme [the conditions under aplanatism lens systems]
+jenaische zeitschrift für naturwissenschaft german jena germany verlag von gustav fischer 129–142
+—— 1878
+über die grenzen geometrischen optik [beyond limits geometric optics]
+jenaische zeitschrift für naturwissenschaft german jena germany verlag von gustav fischer 71–109
+—— june 1879
+crisp frank ed
+stephenson's system homogeneous immersion microscope objectives
+journal royal microscopical society london uk williams & norgate 2 3 256–265
+—— 1879
+—— ed
+new methods improving spherical correction applied construction wide-angled object-glasses
+journal royal microscopical society london uk williams & norgate 2 7 812–824
+—— 2 may 1879
+über die bestimmung von zeit und polhöhe aus beobachtungen höhenparallen [the determination time latitude observations made höhenparallen]
+jenaische zeitschrift für naturwissenschaft german jena germany verlag von gustav fischer 57–66
+—— 21 february 1879
+über die bestimmung brechungs-verhältnisse fester körper mittelst des refractometers [the determination refractive ratios solids means refractometers]
+jenaische zeitschrift für naturwissenschaft german jena germany verlag von gustav fischer 35–44
+—— 1880
+crisp frank ed
+conditions aplanatism systems lenses
+journal royal microscopical society london uk williams & norgate 3 509–515
+[not citation given] —— 1880
+—— ed
+remarks apertometer
+journal royal microscopical society london uk williams & norgate 3 20–31
+—— 1880
+—— ed
+conditions aplanatism wide-angled pencils
+journal royal microscopical society
+2 london uk williams & norgate 831
+—— 1881
+—— ed
+essence homogeneous immersion
+journal royal microscopical society
+2 london uk williams & norgate 526
+—— 1881
+—— ed
+illumination binocular microscopes high powers
+journal royal microscopical society
+2 london uk williams & norgate 690–692
+—— 1881
+—— ed
+penetrating power objectives
+journal royal microscopical society
+2 london uk williams & norgate 831–832
+—— 1881
+beschreibung eines neuen stereoskopischen oculars [description new stereoscopic eye-piece]
+repertorium für experimental-physik für physikalische technik german munich germnay druck und verlag von r
+oldenbourg 17 197–224
+—— 1881
+—— ed
+origin homogeneous immersion
+journal royal microscopical society
+2 london uk williams & norgate 131–134
+—— 1881
+—— ed
+conditions microstereoscopic vision penetration
+london uk williams & norgate 680–689
+—— 1881
+—— ed
+estimation aperture microscope
+journal royal microscopical society london uk williams & norgate 3 388–423
+—— 1881
+—— ed
+conditions orthoscopic pseudoscopic effects binocular microscope
+journal royal microscopical society
+2 london uk williams & norgate 2 203–211
+—— 1881
+—— ed
+abbe's stereoscopic eye-piece
+journal royal microscopical society
+2 london uk williams & norgate 298–299
+—— 1882
+—— ed
+miniatured images
+journal royal microscopical society
+2 london uk williams & norgate 2 693–696
+—— 1882
+—— ed
+relation aperture power microscope
+journal royal microscopical society london uk williams & norgate 2 3 300–309
+—— 1882
+—— ed
+relation aperture power microscope continued
+journal royal microscopical society
+2 london uk williams & norgate 2 460–473
+—— 1883
+—— ed
+relation aperture power microscope continued
+journal royal microscopical society
+2 london uk williams & norgate 3 790–812
+—— 1884
+—— ed
+note proper definition amplifying power lens lens-system
+journal royal microscopical society london uk williams & norgate 4 348–351
+—— 1884
+—— ed
+mode vision objectives wide aperture
+journal royal microscopical society london uk williams & norgate 4 20–27
+—— 1886
+new microscope
+s ber jena ges med 2 107–108
+[full citation needed] —— 1886
+über verbesserungen des mikroscope mit hilfe neuer arten optischen glases [about enhancements microscope using new types optical glass] german
+—— 1890
+messapparate für physiker [measuring equipment physicists]
+zeitschrift für instrumentenkunde german 10 446–447
+—— 1895
+double prism totally-reflecting refractometers
+google patents
+—— 1895
+motive und erläuterungen zum entwurf eines statuts carl zeiss-stiftung [motives explanations draft statute carl zeiss foundation] german
+—— rudolph p
+anamorphotisches linsensystem [anamorphic lens system]
+german pat german
+—— 1904
+gesammelte abhandlungen [collected essay] german
+5 volumes released 1904 until 1940
+new york ny hildesheim
+lccn 94235187
+—— lummer otto reiche fritz 1910
+die lehre von bildentstehung im mikroskop [the theory image formation microscope] german
+braunschweig germany f
+vieweg und sohn
+lccn 10017693
+—— 1921
+sozialpolitische schriften [socio-political writings] german
+jena germany gustav fischer
+lccn 49036118
+see also abbe prism abbe refractometer abbe error abbe number abbe condenser abbe sine condition aberration optical systems calculation glass properties german inventors discoverers notes sources give wife's name elisabeth
+dates job appointments university jena including appointment director jena observatory uncertainty sources give different dates following
+1870 assistant lecturer mechanics experimental physics 1873 associate professor 1877 director jena observatory meteorological astronomy departments
+footnotes c blasius 1953 pp
+2–3 c e f g h j k l debus et al
+1968 p
+2 günther 1970 p
+6 c e günther 1970 p
+7 c e hoiberg 2010 p
+abbe 1874 c e pfeiffer p
+445 joint committee civil engineers american congress surveying mapping american society photogrammetry remote sensing 1994 abbe 1881 helmholtz & fripp 1876 abbe 1876 abbe 1883 günther 1970 p
+9 references abbe ernst 1874
+neue apparate zur bestimmung des brechungs und zerstreuungsvermögens fester und flüssiger körper [new equipment determining refraction dispersion property solids liquids]
+jenaische zeitschrift für naturwissenschaft german jena germany mauke's verlag 96–174
+abbe ernst 1876
+lawson henry ed
+translated fripp h
+contribution theory microscope nature microscopic vision
+proceedings bristol naturalists' society london uk williams & northgate 200–261
+abbe ernst 1881
+crisp frank ed
+estimation aperture microscope
+journal royal microscopical society london uk williams & norgate 3 388–423
+abbe ernst 1883
+crisp frank ed
+relation aperture power microscope continued
+journal royal microscopical society
+2 london uk williams & norgate 3 790–812
+blasius ewald 1953
+abbe ernst carl
+neue deutsche biographie german
+berlin germany duncker & humblot
+lccn 54001573
+debus allen g
+calinger ronald s
+collins edward j
+kennedy stephen j
+abbe ernst karl
+world who's science biographical dictionary notable scientists antiquity present
+chicago il
+marquis company
+lccn 68056149
+günther norbert 1970
+abbe ernst
+gillispie charles coulston
+dictionary scientific biography
+pierre abailard l
+new york ny charles scribner's sons
+lccn 69018090
+helmholtz hermann fripp henry edward july 1876
+limits optical capacity microscope
+monthly microscopical journal 16 15–39
+hoiberg dale h
+abbe ernst
+encyclopædia britannica
+a-ak bayes 15 th ed
+chicago il encyclopædia britannica inc
+lccn 2008934270
+joint committee civil engineers american congress surveying mapping american society photogrammetry remote sensing 1994
+glossary mapping sciences
+new york ny american society civil engineers
+lccn 94030078
+pfeiffer wolfgang
+hast adele pascal diane
+berney kate barbour philippe
+griffin jessica
+international directory company histories
+iii health & personal care products materaials
+chicago il st james press
+lccn 89190943
+further reading sella andrea november 2008
+abbé's refractometer
+royal society chemistry
+chemistry world
+archived original 6 may 2015
+retrieved 6 may 2015
+external links wikimedia commons media related ernst abbe
+paselk richard
+evolution abbe refractometer
+retrieved may 2008
+basic principles refractometers polarimeters o'connor john j
+robertson edmund f
+ernst abbe mac tutor history mathematics archive university st andrews
+ernst abbe mathematics genealogy project molecular expressions's biography works ernst abbe project gutenberg works ernst abbe internet archive abbe refractometer carl zeiss made 1904 authority control world cat identities viaf 19744386 lccn n83828785 isni 0000 0001 0876 5057 gnd 118646419 sudoc 032472781 bnf cb123054337 data mgp 52329 nla 35265812 ndl 001105355 nkc nlk20020105389

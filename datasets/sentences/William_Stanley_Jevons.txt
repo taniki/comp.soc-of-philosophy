@@ -1,0 +1,401 @@
+william stanley jevons born 1835-09-011 september 1835 liverpool lancashire england died 13 august 18821882-08-13 aged 46 bexhill-on-sea sussex england nationality british fields economics logic institutions university college london 1876–80 owens college now university manchester 1863–1875 alma mater university college london academic advisors augustus de morgan known marginal utility theory influences jeremy bentham influenced frank fetter irving fisher henry hazlitt alfred marshall karl popper lionel robbins philip wicksteed signature notes while formal advisor jevons never acquired ph de morgan most influential professor
+william stanley jevons ll
+ma frs /ˈdʒɛvənz/ september 1835 13 august 1882 english economist logician
+irving fisher described jevons' book general mathematical theory political economy 1862 start mathematical method economics
+made case economics science concerned quantities necessarily mathematical
+doing expounded upon final marginal utility theory value
+jevons' work along similar discoveries made carl menger vienna 1871 léon walras switzerland 1874 marked opening new period history economic thought
+jevons' contribution marginal revolution economics late 19 th century established reputation leading political economist logician time
+jevons broke off studies natural sciences london 1854 work assayer sydney acquired interest political economy
+returning uk 1859 published general mathematical theory political economy 1862 outlining marginal utility theory value serious fall value gold 1863
+jevons utility value consumer additional unit product inversely related number units product already owns least beyond critical quantity
+coal question 1865 called attention gradual exhaustion uk's coal supplies received public recognition put forth now known jevons paradox
+increases energy production efficiency leads less consumption
+most important works logic scientific methods principles science 1874 well theory political economy 1871 state relation labour 1882
+among inventions logic piano mechanical computer
+contents background 2 theory utility 3 practical economics 4 logic 5 jevons' number 6 geometry 7 legacy works
+2 miscellany 9 see also 10 notes references 12 further reading 13 external links background jevons born liverpool lancashire england
+father thomas jevons man strong scientific tastes writer legal economic subjects iron merchant
+mother mary anne jevons daughter william roscoe
+age fifteen sent london attend university college school
+appears time already formed belief important achievements thinker possible critical period career belief decisive factor determining conduct
+towards end 1853 after having spent two years university college favourite subjects chemistry botany unexpectedly received offer assayership new mint australia
+idea leaving uk distasteful pecuniary considerations consequence failure father's firm 1847 become vital importance accepted post
+left uk sydney june 1854 remained there five years
+[citation needed] end period resigned appointment autumn 1859 entered again student university college london proceeding due course
+degrees university london
+now gave principal attention moral sciences interest natural science no means exhausted throughout life continued write occasional papers scientific subjects intimate knowledge physical sciences greatly contributed success chief logical work principles science
+long after taking m
+degree jevons obtained post tutor owens college manchester
+1866 elected professor logic mental moral philosophy cobden professor political economy owens college
+next year married harriet ann taylor whose father john edward taylor founder proprietor manchester guardian
+jevons suffered good deal ill health sleeplessness found delivery lectures covering wide range subjects very burdensome
+1876 glad exchange owens professorship professorship political economy university college london
+travelling music principal recreations life health continued bad suffered depression
+found professorial duties increasingly irksome feeling pressure literary work left no spare energy decided 1880 resign post
+13 august 1882 drowned whilst bathing near hastings
+jevons prolific writer time death leader uk both logician economist
+alfred marshall work economics will probably found constructive force any save ricardo done during last hundred years
+stanley jevons brought up christian unitarian excerpts journals indicate remained committed christian beliefs until death
+buried hampstead cemetery
+theory utility portrait w
+stanley jevons 42 g
+stodart jevons arrived quite early career doctrines constituted most characteristic original contributions economics logic
+theory utility became keynote general theory political economy practically formulated letter written 1860 germ logical principles substitution similars may found view propounded another letter written 1861 philosophy found consist solely pointing out likeness things
+theory utility above referred namely degree utility commodity continuous mathematical function quantity commodity available together implied doctrine economics essentially mathematical science took definite form paper general mathematical theory political economy written british association 1862
+paper does appear attracted much attention either 1862 publication four years later journal statistical society till 1871 theory political economy appeared jevons set forth doctrines fully developed form
+untill after publication work jevons became acquainted applications mathematics political economy made earlier writers notably antoine augustin cournot h
+theory utility 1870 being independently developed somewhat similar lines carl menger austria léon walras switzerland
+regards discovery connection value exchange final marginal utility priority belongs gossen no way detracts great importance service jevons rendered british economics fresh discovery principle way ultimately forced notice
+reaction prevailing view sometimes expressed himself without due qualification declaration instance made commencement theory political economy value depends entirely upon utility lent itself misinterpretation
+certain exaggeration emphasis may pardoned writer seeking attract attention indifferent public
+neoclassical revolution reshape economics started
+jevons explicitly distinguish concepts ordinal cardinal utility
+cardinal utility allows relative magnitude utilities discussed while ordinal utility implies goods compared ranked according good provided most utility
+although jevons predated debate ordinality cardinality utility mathematics required use cardinal utility functions
+example theory political economy chapter ii subsection theory dimensions economic quantities jevons makes statement first place pleasure pain must regarded measured upon same scale having therefore same dimensions being quantities same kind added subtracted
+speaking measurement addition subtraction requires cardinality does jevons' heavy use integral calculus
+note cardinality does imply direct measurability jevons believe
+practical economics principles economics 1905 portrait jevons published popular science monthly 1877 however theorist dealing fundamental data economic science brilliant writer practical economic questions jevons first received general recognition
+serious fall value gold 1863 coal question 1865 placed front rank writer applied economics statistics remembered leading economists 19 th century even theory political economy never written
+amongst economic works may mentioned money mechanism exchange 1875 written popular style descriptive rather theoretical wonderfully fresh original treatment full suggestiveness primer political economy 1878 state relation labour 1882 two works published after death namely methods social reform investigations currency finance containing papers appeared separately during lifetime
+last-named volume contains jevons' speculations connection commercial crises sunspots
+engaged time death upon preparation large treatise economics drawn up table contents completed chapters parts chapters
+fragment published 1905 under title principles economics fragment treatise industrial mechanism society other papers
+coal question jevons covered breadth concepts energy depletion recently revisited writers covering subject peak oil
+example jevons explained improving energy efficiency typically reduced energy costs thereby increased rather decreased energy use effect now known jevons paradox
+coal question remains paradigmatic study resource depletion theory
+jevons's son h
+stanley jevons published 800-page follow-up study 1915 difficulties estimating recoverable reserves theoretically finite resource discussed detail
+relatively minor work commercial crises sun-spots jevons analyzed business cycles proposing crises economy might random events might based discernible prior causes
+clarify concept presented statistical study relating business cycles sunspots
+reasoning sunspots affected weather turn affected crops
+crop changes then expected cause economic changes
+subsequent studies found sunny weather small significant positive impact stock returns probably due impact traders' moods
+logic logic piano 1864 jevons published pure logic logic quality apart quantity based boole's system logic freed considered false mathematical dress system
+years immediately following devoted considerable attention construction logical machine exhibited before royal society 1870 means conclusion derivable any given set premises[clarification needed] mechanically obtained
+1866 regarded great universal principle reasoning dawned upon 1869 published sketch fundamental doctrine under title substitution similars
+expressed principle simplest form follows whatever true thing true like worked out detail various applications including logic piano mechanical computer designed built 1869
+logic piano keyboard following year appeared elementary lessons logic soon became most widely read elementary textbook logic english language
+meantime engaged upon much important logical treatise appeared 1874 under title principles science
+work jevons embodied substance earlier works pure logic substitution similars also enunciated developed view induction simply inverse employment deduction treated luminous manner general theory probability relation probability induction knowledge various natural sciences enabled throughout relieve abstract character logical doctrine concrete scientific illustrations often worked out great detail
+example discussion use one-way functions cryptography including remarks integer factorization problem foreshadowed use public key cryptography
+jevons' general theory induction revival theory laid down whewell criticised john stuart mill put new form free non-essential adjuncts rendered whewell's exposition open attack
+work whole most notable contributions logical doctrine appeared uk 19 th century
+though less attractively written mill's system logic principles science book keeps much closer facts scientific practice
+studies deductive logic consisting mainly exercises problems use students published 1880
+1877 following years jevons contributed contemporary review articles mill intended supplement further articles eventually publish volume criticism mill's philosophy
+these articles other republished after jevons' death together earlier logical treatises volume entitled pure logic other minor works
+criticisms mill contain much ingenious much forcible whole cannot regarded taking rank jevons's other work
+strength lay power original thinker rather critic will remembered constructive work logician economist statistician
+jevons logician see grattan-guinness 2000
+jevons' number jevons principles science reader say two numbers multiplied together will produce number 8616460799 ? think unlikely anyone myself will ever know
+became known jevons' number factored derrick norman lehmer 1903 later pocket calculator solomon w
+geometry jevons' contemporaries hermann von helmholtz interested non-euclidean geometry discussed two groups two-dimensional creatures group living plane while other living surface sphere
+asserted since these creatures embedded two dimensions develop planar version euclidean geometry since nature these surfaces different arrive very different versions geometry
+then extended argument three dimensions noting raises fundamental questions relationship spatial perception mathematical truth
+jevons made almost immediate response article
+while helmholtz focused how humans perceived space jevons focused question truth geometry
+jevons agreed while helmholtz's argument compelling constructing situation euclidean axioms geometry apply believed no effect truth these axioms
+jevons hence makes distinction truth applicability perception suggesting these concepts independent domain geometry
+jevons claim geometry developed without any consideration spatial reality
+instead suggested geometric systems representations reality fundamental way transcends perceive reality
+jevons claimed there flaw helmholtz's argument relating concept infinitesimally small
+concept involves how these creatures reason geometry space very small scale necessarily same reasoning helmholtz assumed global scale
+jevons claimed euclidean relations reduced locally different scenarios helmholtz created hence creatures should able experience euclidean properties just different representation
+example jevons claimed two-dimensional creatures living surface sphere should able construct plane even construct systems higher dimensions although may able perceive such situations reality reveal fundamental mathematical truths their theoretical existence
+1872 helmholtz gave response jevons claimed helmholtz failed show why geometric truth should separate reality spatial perception
+helmholtz criticized jevons' definition truth particular experiential truth
+helmholtz asserts there should difference experiential truth mathematical truth these versions truth necessarily consistent
+conversation helmholtz jevons microcosm ongoing debate truth perception wake introduction non-euclidean geometry late 19 th century
+legacy jevons' theory induction continued influential jevons' general view induction received powerful original formulation work present-day philosopher professor k
+works 1862
+general mathematical theory political economy 1863
+serious fall value gold edward stanford
+pure logic logic quality apart quantity edward stanford london 1865
+coal question macmillan co
+substitution similars true principle reasoning macmillan & co
+elementary lessons logic macmillan & co
+london 1871
+match tax problem finance edward stanford
+theory political economy macmillan & co
+theory political economy
+james r
+newman ed
+world mathematics vol
+2 part iv 1956
+principles science macmillan & co
+money mechanism exchange
+appleton co
+primer political economy 1880
+studies deductive logic — 1884 edition macmillan & co
+london 1882
+state relation labour 1883
+methods social reform other papers macmillan co
+methods social reform other papers kelley 1965
+letters journal w
+stanley jevons ed
+jevons macmillan & co
+papers correspondence edited r
+collison black macmillan & royal economic society 7 vol
+articles variation prices value currency since 1782 journal statistical society london vol
+28 no
+2 jun
+frequent autumnal pressure money market action bank england journal statistical society london vol
+29 no
+2 jun
+condition metallic currency united kingdom reference question international coinage journal statistical society london vol
+31 no
+4 dec
+discovered quantification predicate? contemporary review vol
+xxi december 1872/may 1873
+philosophy inductive inference fortnightly review vol
+new series 1873
+use hypothesis fortnightly review vol
+new series 1873
+railways state
+essays addresses macmillan & co
+future political economy fortnightly review vol
+xx new series 1876
+cruelty animals study sociology fortnightly review vol
+xix new series 1876
+silver question journal social science no
+ix january 1878
+john stuart mill's philosophy tested part ii contemporary review vol
+xxxi december 1877/january 1878 part iii vol
+xxxii april 1878
+methods social reform amusements people contemporary review vol
+xxxiii october 1878
+methods social reform ii state parcel post contemporary review vol
+xxxiv january 1879
+periodicity commercial crises physical explanation” journal statistical social inquiry society ireland vol
+vii part 54 1878/1879
+experimental legislation drink traffic contemporary review vol
+xxxvii january/june 1880
+recent mathematico-logical memoirs nature vol
+xxiii march 24 1881
+richard cantillon nationality political economy contemporary review vol
+xxxix january/june 1881
+rationale free public libraries contemporary review vol
+xxxix january/june 1881
+bimetallism contemporary review vol
+xxxix january/june 1881
+married women factories contemporary review vol
+xli january/june 1882
+miscellany luigi cossa guide study political economy preface w
+stanley jevons macmillan & co
+see also jevons paradox notes r
+collison black 1972
+jevons bentham de morgan economica new series vol
+39 no
+154 pp
+119–134 daniel jones everyman's english pronouncing dictionary dent dutton 13 th ed
+1967 p
+irving fisher 1892
+mathematical investigations theory value prices appendix iii utility history mathematical method economics p
+stanley jevons 1871
+principles political economy p
+jevons william stanley principles science treatise logic scientific method macmillan & co
+london 1874 2 nd ed
+1877 3 rd ed
+reprinted foreword ernst nagel dover publications new york 1958
+mosselmans bert william stanley jevons stanford encyclopedia philosophy uvic
+ca - university victoria jevons h
+stanley jevons 1915 british coal trade
+london kegan paul trench trübner complete text available google books see especially pp
+718 ff
+jevons william stanley 14 november 1878
+commercial crises sun-spots nature xix pp
+hirshleifer david tyler shumway 2003
+good day sunshine stock returns weather journal finance 58 3 pp
+substitution similars gives description logical abacus p
+55 f
+jevons william stanley concise encyclopedia western philosophy philosophers 1960 new york hawthorn
+william stanley jevons 1890
+robert adamson harriet
+jevons eds
+pure logic other minor works
+london mac millan
+principles science macmillan & co
+1874 p
+theorem theory numbers read before san francisco section american mathematical society 19 december 1903
+golomb solomon
+factoring jevons' number cryptologia vol
+xx no
+3 july 1996 pp
+weisstein eric w
+jevons' number math world
+richards joan
+mathematical visions pursuit geometry victorian england
+academic press
+helmholtz axioms geometry richards joan
+mathematical visions pursuit geometry victorian england
+academic press
+richards joan
+mathematical visions pursuit geometry victorian england
+academic press
+richards joan
+mathematical visions pursuit geometry victorian england
+academic press
+richards joan
+mathematical visions pursuit geometry victorian england
+academic press
+richards joan
+mathematical visions pursuit geometry victorian england
+academic press
+jevons william stanley concise encyclopedia western philosophy philosophers 1960 new york hawthorn
+missemer antoine
+william stanley jevons' coal question 1865 beyond rebound effect ecological economics volume 82 october
+mill's philosophy tested prof
+jevons mind vol
+3 no
+10 apr
+jackson reginald
+mill's treatment geometry reply jevons mind new series vol
+50 no
+197 jan
+references article incorporates text publication now public domain chisholm hugh ed
+article name needed
+encyclopædia britannica th ed
+cambridge university press
+collison black 1987
+jevons william stanley new palgrave dictionary economics v
+2 pp
+ivor grattan-guinness 2000
+search mathematical roots 1870–1940
+princeton university press
+terry peach 1987
+jevons economic theorist new palgrave dictionary economics v
+2 pp
+first part article based article encyclopedia marxism www
+further reading bam vincent et al
+hypothetical fallibilism peirce jevons transactions charles s
+peirce society vol
+15 no
+2 spring 1979
+barrett lindsay connell matthew
+jevons logic ‘piano’ rutherford journal vol
+issue 2006
+collison black r
+jevons cairnes economica new series vol
+27 no
+107 aug
+collison black r
+jevons bentham de morgan economica new series vol
+39 no
+154 may 1972
+de marchi n
+noxious influence authority correction jevons' charge journal law economics vol
+16 no
+'in parts rather rough' recently discovered manuscript version william stanley jevons's 'general mathematical theory political economy' 1862 history political economy vol
+34 number 4 winter 2002
+jevons h
+william stanley jevons life econometrica vol
+2 no
+3 jul
+keynes j
+william stanley jevons 1835–1882 centenary allocation life work economist statistician journal royal statistical society vol
+99 no
+3 1936
+könekamp rosamund
+william stanley jevons 1835–1882
+biographical notes manchester school economic social studies vol
+30 no
+3 sept
+konvitz milton r
+empirical theory labor movement w
+stanley jevons philosophical review vol
+57 no
+nauze j
+conception jevon's utility theory economica new series vol
+20 no
+80 nov
+maas harro
+william stanley jevons making modern economics cambridge university press 2005
+madureira nuno luis
+anxiety abundance william stanley jevons coal scarcity nineteenth century environment history volume 18 number 3 august
+mays w
+jevons logic mind new series vol
+62 no
+248 oct
+mosselmans bert
+william stanley jevons extent meaning logic economics history philosophy logic volume 19 issue 2 1998
+mosselmans bert
+william stanley jevons cutting edge economics routledge 2007
+noller carl w
+jevons cost southern economic journal vol
+39 no
+paul ellen frankel
+stanley jevons economic revolutionary political utilitarian journal history ideas vol
+40 no
+2 apr
+peart sandra
+'disturbing causes' 'noxious errors' theory-practice distinction economics j
+mill w
+jevons canadian journal economics vol
+28 no
+4 nov
+peart sandra
+economics w
+jevons routledge 1996
+peart sandra
+jevons menger re-homogenized? jaffé after 20 years american journal economics sociology vol
+57 no
+3 jul
+peart sandra
+facts carefully marshalled' empirical studies william stanley jevons history political economy vol
+33 annual supplement 2001
+robertson ross m
+jevons precursors econometrica vol
+19 no
+3 jul
+schabas margaret
+'worldly philosophy' william stanley jevons victorian studies vol
+28 no
+autumn 1984
+schabas margaret
+alfred marshall w
+stanley jevons mathematization economics isis vol
+80 no
+schabas margaret
+world ruled number william stanley jevons rise mathematical economics princeton university press 1990
+strong john v
+infinite ballot box nature de morgan boole jevons probability logic induction psa proceedings biennial meeting philosophy science association vol
+1976 volume contributed papers 1976
+wood john c
+william stanley jevons critical assessments 2 vol
+routledge 1988
+york richard
+ecological paradoxes william stanley jevons paperless office human ecology review vol
+13 no
+2 2006
+young allyn
+jevons' 'theory political economy' american economic review vol
+2 no
+3 sep
+external links wikimedia commons media related william stanley jevons
+wikiquote quotations related william stanley jevons wikisource original works written william stanley jevons o'connor john j
+robertson edmund f
+william stanley jevons mac tutor history mathematics archive university st andrews
+new school william stanley jevons royal society certificate election 1872 jevons logic 'piano' rutherford journal coal question encyclopedia earth letters journal w
+stanley jevons edited wife 1886
+work contains bibliography jevons' writings
+powerhouse museum sydney
+curious economist william stanley jevons sydney
+retrieved 2007-05-09
+william stanley jevons 1835–1833
+concise encyclopedia economics
+library economics liberty 2 nd ed
+liberty fund
+works available online works william stanley jevons project gutenberg works william stanley jevons internet archive works w
+stanley jevons hathi trust works w
+stanley jevons europeana coal question also available here theory political economy money mechanism exchange richard cantillon nationality political economy elementary lessons logic money mechanism exchange theory political economy william stanley jevons brief account general mathematical theory political economy principles political economy 1871 theory political economy 1879 2 nd ed
+theory political economy 1888 3 rd ed
+1879 ed
++ 3 rd preface harriet
+jevons & adds bibliographic st appendix
+vte schools economic thought pre-modern ancient schools medieval islamic scholasticism early modern cameralism mercantilism physiocrats school salamanca modern american national anarchist birmingham classical english historical georgism german historical lausanne malthusian marxian mutualism neoclassical neomercantilism ricardian 20 th 21 st century austrian behavioral economics capability approach carnegie chicago circuitism constitutional ecological evolutionary feminist freiburg institutional keynesian modern monetary theory monetarism neo-monetarism neo-keynesian neo-malthusian neo-marxian neo-ricardian new classical new institutional participatory economics post-keynesian public choice saltwater/freshwater stockholm supply-side virginia related economics economic systems heterodox economics history economic thought history macroeconomic thought vte neoclassical economists william stanley jevons francis ysidro edgeworth alfred marshall john bates clark irving fisher walrasian economics maurice allais gérard debreu edmond malinvaud jacques drèze jean-michel grandmont guy laroque fr jean-pascal benassy yves younes new classical macroeconomics robert barro axel leijonhufvud robert lucas jr
+bennett mc callum patrick minford thomas j
+sargent neil wallace real business cycle school robert king finn e
+kydland john long charles plosser edward c
+prescott sérgio rebelo alan stockman authority control world cat identities viaf 68944005 lccn n80024350 isni 0000 0000 8344 4184 gnd 118984357 selibr 191640 sudoc 028451759 bnf cb12028417 m data nla 35246526 ndl 00444703 nkc jo2003170287 bne xx980663

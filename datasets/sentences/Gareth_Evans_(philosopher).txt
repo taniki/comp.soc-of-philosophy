@@ -1,0 +1,90 @@
+gareth evans born 12 may 1946 london died 10 august 1980 oxford alma mater university college oxford christ church oxford harvard university university california berkeley era 20 th-century philosophy region western philosophy school analytic philosophy institutions university college oxford main interests logic metaphysics philosophy language philosophy mind notable ideas ontological vagueness influences michael dummett gareth evans /ˈɛvənz/ 12 may 1946 10 august 1980 british philosopher
+contents life 2 work 2
+varieties reference 2
+background 2
+2 evans's project 2
+3 kinds reference 2
+4 language issues 3 selected publications 4 references further reading 5 external links life gareth evans born london 12 may 1946
+educated dulwich college university college oxford 1964–67 read philosophy politics economics ppe
+philosophy tutor peter strawson most eminent oxford philosophers time
+evans became close friends philosopher derek parfit other prominent members academic field such christopher peacocke crispin wright
+senior scholar christ church oxford 1967–68 kennedy scholar harvard university university california berkeley 1968–69
+died oxford 1980 lung cancer age 34
+collected papers 1985 book varieties reference 1982 edited john mc dowell published posthumously
+oxford companion philosophy writes evans's untimely death great loss british philosophy
+acknowledgements reasons persons oxford university press 1984 derek parfit writes 'i owe much intensity love truth extraordinary vitality
+work brief career evans made substantial contributions logic metaphysics philosophy language philosophy mind
+aside strawson michael dummett john mc dowell important influences work
+evans many uk took up project developing formal semantics natural languages instigated donald davidson 1960 s 1970 s
+co-edited truth meaning 1976 john mc dowell subject
+also paper causal theory names 1973 heavily criticised certain lines theory reference derived saul kripke's naming necessity 1972/1980 work keith donnellan
+one-page paper analysis there vague objects? 1978 drew dozens papers response now considered key work metaphysics
+varieties reference evans's book varieties reference 1982 unfinished time death
+edited publication supplemented appendices drawn notes mc dowell subsequently influential both philosophy mind philosophy language
+background theory reference prior 1970 s dominated view meaning ordinary name description object example aristotle means author de caelo
+russell's view taken many equivalent frege's view description frege calls term's sense
+following kripke's naming necessity 1972/1980 lectures view came prevail names no descriptive content sense referent name fit meaning whichever object initial cause name's being used
+evans's project evans concedes names general descriptive meanings although contends cases argues proponents new theory much too simplistic view
+argues calls russell's principle person cannot thinking object unless knows non-trivial way object thinking
+particular evans argues person must discriminating conception object 1982 p
+russell's work evans also draws point thoughts thoughts objects perceiving example such their object exist possible think thought
+these calls russellian thoughts
+then claims certain version new theory calls photograph model mental representation 1982 p
+78 violates russell's principle
+according photograph model causal antecedents information involved mental state
+claimed sufficient determine object state concerns 1982 p
+view named because similar view many people take how photograph comes something
+thus photograph model contrary russell's principle may thought object without discriminating knowledge object just long mental state caused appropriate way example perhaps sort causal chain originates object
+evans argues any causal theory like photograph model must restricted certain ways necessary consider various kinds russellian thoughts people objects specify each case conditions must met them meet russell's principle—only under those conditions thought specific object objects singular thought
+particular evans discusses length calls generality constraint
+evans states thus
+subject credited thought f then must conceptual resources entertaining thought g every property being g conception 1982 p
+generality constraint according evans intended capture structure there thought
+evans puts thought john happy something common thought harry happy thought john happy something common thought john sad 1982 p
+generality constraint requires thought john happy example object john then must able conceive object john having different properties such being sad
+also defends reading frege derived part michael dummett's work according frege's notion sense equivalent description indeed remains essential theory reference abandoned descriptivism 1982 §1
+kinds reference bulk text considers three kinds reference objects argues number conditions must obtain reference occur
+considers first demonstrative reference speaks thinks object visible one's vicinity
+argues these presuppose among other things having correct conception kind object ability conceive oneself located objective space orient oneself within space must move smoothly through time space able track object's movements continuously perception
+next considers reference oneself then reference way capacity recognition one's ability re-identify object presented even available present
+evans famously considers phenomenon immunity error through misidentification--a phenomenon certain types judgment cannot wrong object judgment misidentifying see 1982 especially §6
+6 & §7
+phenomenon may exemplified incoherence following judgment upon feeling pain someone seems feeling pain feeling pain?
+while phenomenon noticed philosophers before evans argues tended think applies judgments concerning oneself one's conscious experiences failed recognise general phenomenon occur any sort demonstrative judgment
+furthermore charge philosophers such ludwig wittgenstein blue brown books elizabeth anscombe her first person having wrongly concluded such cases show first-person pronoun does refer anything
+language issues last third book evans turns problems reference objects actively depend use language
+here treats use proper names seem presuppose much knowledge part speaker demonstrative recognition-based identification
+refer object never encountered using name name received right sort linguistic social practice—even apparently no true beliefs object
+also considers problems reference objects fictions hallucinations meaning saying something exists doesn't
+here draws explicitly kripke's john locke lectures reference existence
+selected publications 1973 causal theory names aristotelian society supplementary volume xlvii pp
+1975 identity predication journal philosophy lxxii pp
+1976 truth meaning essays semantics co-edited john mc dowell oxford oxford university press
+1976 semantic structure logical form evans mc dowell eds
+1976 pp
+1977 pronouns quantifiers relative clauses canadian journal philosophy vii pp
+1978 there vague objects? analysis vol
+38 no
+4 p
+1979 reference contingency monist lxii pp
+1980 pronouns linguistic inquiry xi pp
+1980 things without mind zak van straaten ed
+philosophical subjects essays presented p
+strawson oxford clarendon press pp
+1981 understanding demonstratives herman parret jacques bouveresse eds
+meaning understanding berlin new york de gruyter pp
+1982 varieties reference published posthumously edited john mc dowell oxford oxford university press
+1985 collected papers oxford oxford university press
+references further reading davies martin gareth evans 12 may 1946 10 august 1980
+donald m
+borchert editor encyclopedia philosophy 2 nd edition
+macmillan reference usa
+evans gareth 1982 varieties reference edited john mc dowell oxford oxford university press
+kripke saul 1972 naming necessity semantics natural language edited
+davidson g
+dordrecht boston reidel
+published own book 1980
+bermúdez josé luis 2005 thought reference experience themes philosophy gareth evans oxford university press
+external links rick grush's guide gareth evans's varieties reference
+andrea sauchelli's blog evans
+authority control world cat identities viaf 32198 isni 0000 0001 0860 9353 gnd 119558394 sudoc 028847059 bnf cb120597744 data

@@ -1,0 +1,322 @@
+khayyam redirects here
+other uses see khayyam disambiguation
+omar khayyám عمر خیام omar khayyam bust nishapur iran born 18 may 1048 nishapur khorasan persia died 4 december 1131 aged 83 nishapur khorasan persia nationality persian school persian mathematics persian poetry persian philosophy main interests mathematics astronomy philosophy poetry influences muḥammad ibn mūsā al-khwārizmī abū rayhān al-bīrūnī avicenna hasan ibn haytham influenced attar nishapur ahmad khani omar khayyám born ghiyāth ad-dīn abu'l-fatḥ ʿumar ibn ibrāhīm al-khayyām nīshāpūrī /ˈoʊmɑːr kaɪˈjɑːm -ˈjæm ˈoʊmər/ persian غیاث‌الدین ابوالفتح عمر ابراهیم خیام نیشابورﻯ‎‎ pronounced [xæjˈjɒːm] 18 may 1048 4 december 1131 persian mathematician astronomer philosopher poet widely considered most influential scientists middle ages
+numerous treatises mechanics geography mineralogy astronomy
+born nishapur northeastern iran also known persia young age moved samarkand obtained education there
+afterwards moved bukhara became established major mathematicians astronomers islamic golden age
+author most important treatises algebra written before modern times treatise demonstration problems algebra 1070 includes geometric method solving cubic equations intersecting hyperbola circle
+contributed calendar reform
+significance philosopher teacher few remaining philosophical works received same attention scientific poetic writings
+al-zamakhshari referred “the philosopher world”
+taught philosophy avicenna decades nishapur khayyám born buried
+mausoleum there remains masterpiece iranian architecture visited many people every year
+outside iran persian-speaking countries khayyám impact literature societies through translation works popularization other scholars
+greatest such impact english-speaking countries english scholar thomas hyde 1636–1703 first non-persian study
+most influential edward fitz gerald 1809–83 made khayyám most famous poet east west through celebrated translation adaptations khayyám's rather small number quatrains persian رباعیات‎‎ rubāʿiyāt rubaiyat omar khayyam
+omar khayyám died 1131 buried khayyám garden nishapur
+reconstruction tombs persian icons like hafez saadi attar pour sina others built reza shah 1963 mausoleum omar khayyám reconstructed site hooshang seyhoun
+contents name 2 early life 3 mathematician 3
+theory parallels 3
+2 geometric algebra 3
+3 binomial theorem extraction roots 3
+4 khayyám-saccheri quadrilateral 4 astronomer 4
+heliocentric theory 4
+2 calendar reform 5 poetry 6 views religion 7 philosopher 7
+mathematical philosophy gallery 9 legacy 10 see also notes 12 references 13 external links name غیاث ‌الدین ghiyāth ad-din - means shoulder faith implies knowledge quran
+ابوالفتح عمر بن ابراهیم abu fat'h 'umar bin ibrahim - abu means father fat'h means conqueror 'umar means life bin means son ibrahim paternal name
+خیام khayyām - means tent maker byname derived father's craft
+نیشابورﻯ nīshāpūrī - link hometown nishapur
+early life ghiyāth ad-din abu'l-fat'h 'umar ibn ibrāhīm al-khayyām nīshāpūrī persian غیاث الدین ابو الفتح عمر ابراهیم خیام نیشاپوری‎‎ born nishapur iran then seljuq capital khorasan rivaled cairo baghdad cultural prominence era
+thought born family tent-makers khayyāmī tent-maker make play words later life khayyám stitched tents science fallen grief's furnace suddenly burned shears fate cut tent ropes life broker hope sold nothing!— omar khayyám spent part childhood town balkh present-day northern afghanistan studying under well-known scholar sheikh muhammad mansuri
+later studied under imam mowaffaq nishapuri considered greatest teachers khorasan region
+throughout life omar khayyám tireless efforts day teach algebra geometry evening attend seljuq court adviser malik-shah night study astronomy complete important aspects jalali calendar
+omar khayyám's years isfahan very productive ones after death seljuq sultan malik-shah presumably assassins sect sultan's widow turned against adviser result soon set out hajj pilgrimage mecca medina
+then allowed work court astrologer permitted return nishapur renowned works continued teach mathematics astronomy even medicine
+mathematician khayyám famous during times mathematician
+influential treatise demonstration problems algebra 1070 laid down principles algebra part body mathematics eventually transmitted europe
+particular derived general methods solving cubic equations even higher orders
+cubic equation intersection conic sections first page two-chaptered manuscript kept tehran university treatise triangular array binomial coefficients known pascal's triangle
+1077 khayyám sharh ma ashkala min musadarat kitab uqlidis explanations difficulties postulates euclid published english difficulties euclid's definitions
+important part book concerned euclid's famous parallel postulate attracted interest thabit ibn qurra
+al-haytham previously attempted demonstration postulate khayyám's attempt distinct advance criticisms made their way europe may contributed eventual development non-euclidean geometry
+omar khayyám created important works geometry specifically theory proportions
+notable contemporary mathematicians included al-khazini abu hatim al-muzaffar ibn ismail al-isfizari theory parallels see also history non-euclidean geometry parallel postulate tomb omar khayyam jay hambidge khayyám book entitled explanations difficulties postulates euclid's elements
+book consists several sections parallel postulate book euclidean definition ratios anthyphairetic ratio modern continued fractions book ii multiplication ratios book iii
+first section treatise containing propositions lemmas concerning parallel postulate
+reached western world reproduction manuscript written 1387-88 persian mathematician tusi
+tusi mentions explicitly re-writes treatise khayyám's own words quotes khayyám saying worth adding euclid's elements first book after proposition 28
+proposition states condition enough having two lines plane parallel another
+after proposition follows another numbered 29 converse previous
+proof euclid uses so-called parallel postulate numbered 5
+objection use parallel postulate alternative view proposition 29 major problem foundation now called non-euclidean geometry
+treatise khayyám considered first treatment parallels axiom based petitio principii intuitive postulate
+khayyám refutes previous attempts other greek persian mathematicians prove proposition
+aristotle refuses use motion geometry therefore dismisses different attempt ibn haytham too
+sense made first attempt formulating non-euclidean postulate alternative parallel postulate geometric algebra whoever thinks algebra trick obtaining unknowns thought vain
+no attention should paid fact algebra geometry different appearance
+algebras geometric facts proved propositions five six book two elements
+omar khayyam omar khayyám's geometric solution cubic equation x3 + 200 x = 20 x2 + 2000
+philosophical view mathematics see below significant impact khayyám's celebrated approach method geometric algebra particular solving cubic equations
+solution direct path numerical solution fact solutions numbers rather line segments
+regard khayyám's work considered first systematic study first exact method solving cubic equations
+untitled writing cubic equations khayyám discovered 20 th century above quote appears khayyám works problems geometric algebra
+first problem finding point quadrant circle such normal dropped point bounding radii ratio normal's length radius equals ratio segments determined foot normal
+again solving problem reduces another geometric problem find right triangle having property hypotenuse equals sum leg
+side plus altitude hypotenuse
+solve geometric problem specializes parameter reaches cubic equation x3 + 200 x = 20 x2 + 2000
+indeed finds positive root equation intersecting hyperbola circle
+particular geometric solution cubic equations further investigated extended degree four equations
+regarding general equations states solution cubic equations requires use conic sections cannot solved ruler compass methods
+proof impossibility plausible 750 years after khayyám died
+paper khayyám mentions will prepare paper giving full solution cubic equations opportunity arises succeed shall give these fourteen forms their branches cases how distinguish whatever possible impossible paper containing elements greatly useful art will prepared
+refers book treatise demonstrations problems algebra 1070 laid down principles algebra part body persian mathematics eventually transmitted europe
+particular derived general methods solving cubic equations even higher orders
+binomial theorem extraction roots see also history binomial theorem indians methods obtaining square cube roots methods based knowledge individual cases—namely knowledge squares nine digits 12 etc
+their respective products
+2 × 3 etc
+written treatise proof validity those methods satisfy conditions
+addition increased their types namely form determination fourth fifth sixth roots up any desired degree
+no preceded us those proofs purely arithmetic founded arithmetic elements
+omar khayyam treatise demonstration problems algebra particular remark khayyám certain propositions found algebra book made historians mathematics believe khayyám indeed binomial theorem up any power
+case power 2 explicitly stated euclid's elements case most power 3 established indian mathematicians
+khayyám mathematician noticed importance general binomial theorem
+argument supporting claim khayyám general binomial theorem based ability extract roots
+khayyám-saccheri quadrilateral main article saccheri quadrilateral saccheri quadrilateral first considered khayyám late th century book explanations difficulties postulates euclid
+unlike many commentators euclid before after including course saccheri khayyám trying prove parallel postulate such derive equivalent postulate formulated principles philosopher aristotle two convergent straight lines intersect impossible two convergent straight lines diverge direction converge
+khayyám then considered three cases right obtuse acute summit angles saccheri quadrilateral take after proving number theorems them correctly refuted obtuse acute cases based postulate hence derived classic postulate euclid
+wasn't until 600 years later giordano vitale made advance khayyám book euclide restituo 1680 1686 used quadrilateral prove three points equidistant base ab summit cd then ab cd everywhere equidistant
+saccheri himself based whole long heroic ultimately flawed proof parallel postulate around quadrilateral three cases proving many theorems properties along way
+astronomer jalali calendar introduced omar khayyám alongside other mathematicians astronomers nishapur today oldest calendars world well most accurate solar calendar use today
+since calendar uses astronomical calculation determining vernal equinox no intrinsic error makes observation based calendar
+like most persian mathematicians period khayyám also astronomer achieved fame role
+1073 seljuq sultan jalal al-din malik-shah saljuqi malik-shah 1072–92 invited khayyám build observatory along various other distinguished scientists
+according accounts version medieval iranian calendar 2820 solar years together contain 1029983 days 683 leap years average year length 365
+24219858156 days based measurements khayyám colleagues
+another proposal khayyám's calendar simply contained eight leap days every thirty-three years year length 365
+2424 days
+either case calendar accurate mean tropical year gregorian calendar 500 years later
+modern iranian calendar based calculations
+heliocentric theory sometimes claimed khayyám demonstrated earth rotates axis presenting model stars contemporary al-ghazali planetarium
+other source claim khayyám believed heliocentrism edward fitz gerald's popular anachronistic rendering khayyam's poetry first lines mistranslated heliocentric image sun flinging stone puts stars flight
+calendar reform khayyám member panel reformed iranian calendar
+panel convened seljuk sultan malik shah completed reforms 1079 resulting jalali calendar
+jalali calendar remained use across greater iran th 20 th centuries
+basis iranian calendar followed today iran afghanistan
+while jalali calendar accurate gregorian based actual solar transit similar hindu calendars requires ephemeris calculating dates
+lengths months vary 29 31 days depending moment sun crosses new zodiacal area attribute common most hindu calendars
+meant seasonal errors lower gregorian calendar
+modern-day iranian calendar standardizes month lengths based reform 1925 thus minimizing effect solar transits
+seasonal errors somewhat higher jalali version leap years calculated before
+poetry main article rubáiyát omar khayyám omar khayyám notable poet during reign seljuk ruler malik-shah contributions developments mathematics astronomy philosophy inspired later generations
+scholars believe thousand four-line verses rubaiyat
+introduced english-speaking world through rubáiyát omar khayyám poetic rather literal translations edward fitz gerald 1809–1883
+other english translations parts rubáiyát rubáiyát meaning quatrains exist fitz gerald's most well known
+well decorated plaque containing poems rubáiyát omar khayyám
+ironically fitz gerald's translations reintroduced khayyám iranians long ignored neishapouri poet
+1934 book iran's most prominent writers sadeq hedayat songs khayyám taranehha-ye khayyám shaped way generation iranians viewed poet
+omar khayyám's poems translated many languages
+many translations made directly persian literal translation edward fitzgerald
+following samples fitz gerald's translation
+moving finger writes having writ moves nor thy piety nor wit shall lure back cancel half line nor thy tears wash out word
+helpless pieces game plays upon chequer-board nights days hither thither moves checks… slays then back closet lays
+cock crew those stood before tavern shouted— “open then door! you know how little time stay once departed may return no
+book verses underneath bough jug wine loaf bread—and thou beside me singing wilderness oh wilderness paradise enow
+myself young eagerly frequent doctor saint heard great argument evermore came out same door went
+them seed wisdom sow my own hand labour’d grow harvest reap’d— “i came like water like wind go
+universe why knowing nor whence like water willy-nilly flowing out wind along waste know whither willy-nilly blowing
+inverted bowl call sky whereunder crawling coop’t live die lift thy hands help—for rolls impotently thou
+sent my soul through invisible letter after-life spell my soul return'd me answer'd myself am heav'n hell views religion there widely divergent views khayyám
+end spectrum there nightclubs named after khayyám seen agnostic hedonist
+other end spectrum seen mystical sufi muslim poet complex set ideals
+skeptic statue omar khayyám bucharest
+christopher hitchens instance identifies khayyám skeptic whose poetry satirizing claims practices religion
+sadegh hedayat states introductory essay second edition quatrains philosopher omar khayyám while khayyám believes transmutation transformation human body does believe separate soul lucky our bodily particles used making jug wine
+further maintains khayyam's meaning wine literal different sufi's usage wine
+fitz gerald preface rubáiyát also contested claims khayyám sufi mystic “ omar's epicurean audacity thought speech caused regarded askance own time country
+especially hated dreaded sufis whose practice ridiculed whose faith amounts little own stripped mysticism formal recognition islamism under omar hide
+ottoman era inscription poem written omar khayyám morića han sarajevo bosnia herzegovina
+sufi muslim omar khayyam revered prophet muhammad demonstrated writings
+book entitled elaboration problems concerning book euclid refers prophet muhammad master prophets
+same book khayyam end affirms stated praises god prophet muhammad
+piece entitled existence khayyam refers prophet muhammad master
+quatrains khayyam asks prophet muhammad admit heaven
+khayyam states prophet o thou! please whose love wrath well allah created heaven likewise hell thou hast thy court heaven naught why admit me thy courts dwell? islamic philosopher seyyed hossein nasr maintains reductive establish khayyam's personal views god religion based literal interpretation poems many also apocryphal because elsewhere treatise entitled al-khutbat al-gharrå˘ splendid sermon praise god holds orthodox views agreeing avicenna divine unity
+furthermore khayyam's most important single philosophical work al-risālah fil-wujūd الرسالة في الوجود treatise being written arabic begins quranic verses asserts things come god there order things
+bjerregaard similar take issue writings omar khayyam good specimens sufism valued west ought mass english-speaking people know through poems edward fitzgerald
+unfortunate because fitzgerald faithful master model times lays words upon tongue sufi blasphemous
+such outrageous language eighty-first quatrain instance
+fitzgerald doubly guilty because sufi willing admit
+french orientalist named franz toussaint dissatisfied fitzgerald's translation own directly persian text claiming express spirit verses rather versify
+translation published editions d'art henri piazza
+abdullah dougan modern naqshbandi sufi provides commentary role contribution omar khayyam sufi thought
+dougan says while omar minor sufi teacher compared giants rumi attar sana’i aspect makes omar’s work relevant accessible very human scale feel understand approach
+argument over quality fitzgerald’s translation rubaiyat according dougan diverted attention fuller understanding deeply esoteric message contained omar’s actual material every line rubaiyat meaning almost anything you read sufi literature
+philosopher tomb omar khayyám neishapuri nishapur iran khayyám himself rejected any association title falsafī philosopher sense aristotelianism stressed wishes know am
+context philosophers labeled contemporaries detached divine blessings
+now established khayyám taught decades philosophy avicena especially book healing home town nishapur till death
+incident requested comment disagreement avicena philosopher called abu'l-barakāt al-baghdādī criticized avicena strongly
+khayyám answered [he] does even understand sense words avicenna how oppose does know? khayyám philosopher understood two rather distinct sources
+through rubaiyat other through own works light intellectual social conditions time
+latter informed evaluations khayyám's works scholars philosophers such abul-fazl bayhaqi nizami aruzi al-zamakhshari sufi poets writers attar nishapur najm-al-din razi
+mathematical philosophy mathematician khayyám made fundamental contributions philosophy mathematics especially context persian mathematics persian philosophy most other persian scientists philosophers such avicenna abū rayḥān al-bīrūnī tusi associated
+there least three basic mathematical ideas strong philosophical dimensions associated khayyám
+mathematical order does order issue why does correspond world nature? answer philosophical treatises being
+khayyám's answer divine origin existence emanates wujud being virtue things gain reality source order inseparable very act existence
+significance axioms geometry necessity mathematician rely upon philosophy hence importance relation any particular science prime philosophy
+philosophical background khayyám's total rejection any attempt prove parallel postulate turn refusal bring motion attempt prove postulate ibn al-haytham because khayyám associated motion world matter wanted keep away purely intelligible immaterial world geometry
+clear distinction made khayyám basis work earlier persian philosophers such avicenna natural bodies mathematical bodies
+first defined body category substance stands itself hence subject natural sciences while second called volume category accidents attributes subsist themselves external world hence concern mathematics
+khayyám very careful respect boundaries each discipline criticized ibn al-haytham proof parallel postulate precisely because broken rule brought subject belonging natural philosophy motion belongs natural bodies domain geometry deals mathematical bodies
+gallery persian این قافلهٔ عُمر عجب میگذرد‎‎ — line poetry iranian poet omar khayyam shikasta nastaʿlīq
+ruba'i omar khayyam shikasta nastaʿlīq
+legacy lunar crater omar khayyam named after 1970 minor planet called 3095 omarkhayyam discovered soviet astronomer lyudmila zhuravlyova 1980 named after
+june 2009 iran donated scholar pavilion united nations office vienna placed central memorial plaza vienna international center
+persian scholars pavilion united nations vienna austria featuring statues four prominent iranian figures
+highlighting iranian architectural features pavilion adorned persian art forms includes statues renowned iranian scientists avicenna abu rayhan biruni zakariya razi rhazes omar khayyam
+statue khayyam persian scholars pavilion united nations office vienna austria statue khayyam united nations office vienna part persian scholars pavilion donated iran see also iran portal biography portal poetry portal astronomy medieval islam mathematics medieval islam nozhat al-majales omar khayyam film keeper legend omar khayyam notes c omar khayyam persian poet astronomer
+retrieved 2012-05-30
+professor seyyed hossein nasr professor mehdi aminrazavi
+“an anthology philosophy persia vol
+zoroaster ‘umar khayyam”
+tauris association institute ismaili studies 2007
+omar khayyam
+mac tutor history mathematics archive
+c s
+nasr 2006 islamic philosophy origin present chapter 9
+165-183 jos biegstraaten tomb omar khayyâm george sarton isis vol
+29 no
+1938 15
+edward fitz gerald rubaiyat omar khayyam ed
+christopher decker university virginia press 1997 xv saljuq turks invaded province khorasan 1030 s city nishapur surrendered them voluntarily 1038
+thus omar khayyam grew maturity during first several alien dynasties rule iran until twentieth century
+peter avery john heath-stubbs ruba'iyat omar khayyam penguin group 1981 14 these dates 1048-1031 tell us khayyam lived saljuq turkish sultans extending consolidating their power over persia effects power particularly felt nishapur khayyam's birthplace
+edward fitz gerald rubaiyat omar khayyam xv
+quatrains omar khayyam e
+whinfield pg 14 fstc newsletter issue isfizari project
+retrieved 2012-05-30
+smith 1935 p
+6 euclid
+proposition 28
+straight line falling two straight lines make exterior angle equal interior opposite angle same side interior angles same side equal two right angles straight lines will parallel another
+proposition 29
+straight line falling parallel straight lines makes alternate angles equal another exterior angle equal interior opposite angle interior angles same side equal two right angles
+rozenfeld 1988 pp
+64–65 katz 1998 p
+excerpt sense treatment better ibn al-haytham's because explicitly formulated new postulate replace euclid's rather latter hidden new definition
+c e
+amir-moez paper omar khayyám scripta mathematica 1963 pp
+323-37 mathematical masterpieces further chronicles explorers p
+92 e
+kennedy chapter 10 cambridge history iran 5 p
+amir-moez khayyam's solution cubic equations mathematics magazine vol
+35 no
+5 nov
+1962 pp
+paper contains extension late mohsen hashtroodi khayyám's method degree four equations
+muslim extraction roots
+mactutor history mathematics
+coolidge story binomial theorem amer
+monthly vol
+56 no
+3 mar
+1949 pp
+147-157 boris abramovich rozenfelʹd 1988 history non-euclidean geometry evolution concept geometric space p
+boris rosenfeld adolf p youschkevitch 1996 geometry p
+467 roshdi rashed régis morelon 1996 encyclopedia history arabic science routledge
+دقیق ترین تقویم جهان، هدیه خیام به ایرانیان persian
+retrieved 2012-05-30
+پيمانه کردن سال و ماه از ديرباز تا کنون در گفتگو با دکتر ايرج ملک پور persian
+retrieved 2012-05-30
+پژوهش‌های ایرانی | پاسداشت گاهشماری ایرانی persian
+retrieved 2012-05-30
+پژوهش‌های ایرانی | گاهشماری تقویم جلالی persian
+retrieved 2012-05-30
+early history astronomy - middle east
+retrieved 2012-09-08
+mapping time calendar history e
+richards oxford university press 1998 p
+235 physicsoftheuniverse
+retrieved 2012-09-08
+retrieved 2012-09-08
+donald marilynn olson 1988 'zodiac light false dawn omar khayyam' observatory vol
+108 p
+181-182 rex pay 2000
+retrieved 2012-09-08
+farrell charlotte 1996 ninth-century renaissance astronomy physics teacher 34 268–272 doi10
+1958 omar khayyam mathematician mathematics teacher 51 4 280–285 jstor 27955652
+molavi afshin soul iran norton 2005 p
+110 great umar khayyam global reception rubaiyat aup - leiden university press
+sadegh hedayat pointed out khayyám youth death remained materialist pessimist agnostic
+khayyám looked religions' questions skeptical eye continues hedayat hated fanaticism narrow-mindedness spirit vengeance mullahs so-called religious scholars
+hitchens c
+portable atheist essential readings nonbeliever p
+philadelphia pa da capo
+katouzian h
+sadeq hedayat life literature iranian writer p
+tauris fitz gerald e
+rubaiyat omar khayyam p
+champaign ill
+project gutenberg mehdi aminrazavi 2005 wine wisdom life poetry philosophy omar khayyam oneworld publications p
+55 978 1-85168-504-2 mehdi aminrazavi 2005 p
+56 sufistic quatrains omar khayyam new york m
+dunne 1903 p
+145 c
+bjerregaard 1915
+sufism omar khayyam e
+sufi publishing society
+ca/wiki/robaiyat abdullah dougan potter? gnostic press x bausani
+chapter 3 cambridge history iran 5 p
+c s
+nasr chapter 9 p
+170-1 dictionary minor planet names - p
+retrieved 2012-09-08
+html http//en
+aspx?fkeyid=&siteid=207&pageid=28858 http//parseed
+ir/?ez=8002 references turner howard r
+science medieval islam illustrated introduction
+university texas press
+jos biegstraaten 2008
+omar khayyam impact literary social scene abroad
+encyclopaedia iranica
+encyclopaedia iranica foundation
+nasr s
+islamic philosophy origin present philosophy land prophecy
+suny press
+katz victor 1998
+history mathematics introduction 2 ed
+knoebel nasr arthur laubenbacher reinhard lodder jerry pengelley david 2007
+mathematical masterpieces further chronicles explorers
+cambridge history iran 5 saljug mongol periods
+cambridge university press
+smith david eugene 1935
+euclid omar khayyâm saccheri
+scripta mathematica iii 5–10
+oclc 14156259
+rozenfeld boris
+history non-euclidean geometry evolution concept geometric space
+springer verlag
+65 471
+browne 1998
+literary history persia
+four volumes 2256 pages 25 years writing
+x jan rypka 1968
+history iranian literature
+reidel publishing company
+oclc 460598
+omar khayyam vierzeiler rubāʿīyāt übersetzt von friedrich rosen mit miniaturen von hossein behzad
+details further reference r
+chopra great poets classical persian june 2014 sparrow publication kolkata
+external links wikiquote quotations related omar khayyam wikimedia commons media related omar khayyam
+hashemipour behnaz 2007
+khayyām ghiyāth al‐dīn abū al‐fatḥ ʿumar ibn ibrāhīm al‐khayyāmī al‐nīshāpūrī
+thomas hockey et al
+biographical encyclopedia astronomers
+new york springer
+pdf version umar khayyam stanford encyclopedia philosophy khayyam's works original persian ganjoor persian library khayyam tarikhema
+ir works omar khayyam project gutenberg works omar khayyam internet archive works omar khayyam libri vox public domain audiobooks illustrated rubáiyát omar khayyám internet archive
+omar khayyam's rubaiyat translated edward fitzgerald st edition rubaiyat omar khayyam internet classics archive illustrations rubaiyat adelaide hanscom panoramic images khayyam’s tomb neyshabur day vte persian literature old behistun inscription old persian inscriptions ganjnameh inscription xerxes great van fortress achaemenid inscription kharg island middle ayadgar-i zariran counsels adurbad-e mahrspandan dēnkard book jamasp book arda viraf karnamak-i artaxshir-i papakan cube zoroaster dana-i menog khrat shabuhragan mani shahrestanha-ye eranshahr bundahishn menog-i khrad jamasp namag dadestan-i denig anthology zadspram warshtmansr zand-i wahman yasn drakht-i asurig shikand-gumanic vichar classical900 s–1000 s rudaki abu-mansur daqiqi ferdowsi shahnameh abu shakur balkhi abu tahir khosrovani shahid balkhi bal'ami rabia balkhi abusaeid abolkheir 967–1049 avicenna 980–1037 unsuri asjadi kisai marvazi ayyuqi 1000 s–1100 s bābā tāher nasir khusraw 1004–1088 al-ghazali 1058–1111 khwaja abdullah ansari 1006–1088 asadi tusi qatran tabrizi 1009–1072 nizam al-mulk 1018–1092 masud sa'd salman 1046–1121 moezi neyshapuri omar khayyām 1048–1131 fakhruddin as'ad gurgani ahmad ghazali hujwiri manuchehri ayn-al-quzat hamadani 1098–1131 uthman mukhtari abu-al-faraj runi sanai banu goshasp borzu-nama afdal al-din kashani abu'l hasan mihyar al-daylami mu'izzi mahsati ganjavi 1100 s–1200 s hakim iranshah suzani samarqandi hassan ghaznavi faramarz nama shahab al-din suhrawardi 1155–1191 adib sabir am'aq najm al-din razi attār 1142–c
+1220 khaghani 1120–1190 anvari 1126–1189 faramarz-e khodadad nizami ganjavi 1141–1209 fakhr al-din al-razi 1149–1209 kamal al-din esfahani shams tabrizi
+1248 1200 s–1300 s abu tahir tarsusi awhadi maraghai shams al-din qays razi sultan walad nasīr al-dīn al-tūsī afdal al-din kashani fakhr-al-din iraqi mahmud shabistari 1288–1320 s abu'l majd tabrizi amir khusro 1253–1325 saadi bustan / golestān bahram-e-pazhdo zartosht bahram e pazhdo rumi homam tabrizi 1238–1314 nozhat al-majales khwaju kermani sultan walad 1300 s–1400 s ibn yamin shah ni'matullah wali hafez abu ali qalandar fazlallah astarabadi nasimi emad al-din faqih kermani 1400 s–1500 s ubayd zakani salman sawaji hatefi jami kamal khujandi ahli shirzi 1454–1535 fuzûlî 1483–1556 ismail 1487–1524 baba faghani shirzani 1500 s–1600 s vahshi bafqi 1523–1583 'orfi shirazi 1600 s–1700 s taleb amoli saib tabrizi 1607–1670 kalim kashani hazin lāhiji 1692–1766 saba kashani bidel dehlavi 1642–1720 1700 s–1800 s neshat esfahani abbas foroughi bastami 1798–1857 mahmud saba kashani 1813–1893 contemporary poetry iran ahmadreza ahmadi mehdi akhavan-sales hormoz alipour qeysar aminpour aref qazvini manouchehr atashi mahmoud mosharraf azad tehrani mohammad-taqi bahar reza baraheni simin behbahani dehkhoda hushang ebtehaj bijan elahi parviz eslampour parvin e'tesami forough farrokhzad hossein monzavi hushang irani iraj mirza bijan jalali siavash kasraie esmail khoi shams langeroodi mohammad mokhtari nosrat rahmani yadollah royaee tahereh saffarzadeh sohrab sepehri mohammad-reza shafiei kadkani mohammad-hossein shahriar ahmad shamlou manouchehr sheybani nima yooshij fereydoon moshiri armenia edward haghverdian afghanistan nadia anjuman wasef bakhtari raziq faani khalilullah khalili youssof kohzad massoud nawabi abdul ali mustaghni tajikistan sadriddin ayni farzona iskandar khatloni abolqasem lahouti gulrukhsor safieva loiq sher-ali payrav sulaymoni mirzo tursunzoda uzbekistan asad gulzoda pakistan muhammad iqbal novels ali mohammad afghani ghazaleh alizadeh bozorg alavi reza amirkhani mahshid amirshahi reza baraheni simin daneshvar mahmoud dowlatabadi reza ghassemi houshang golshiri aboutorab khosravi ahmad mahmoud shahriyar mandanipour abbas maroufi iraj pezeshkzad short stories jalal al-e-ahmad shamim bahar sadeq chubak simin daneshvar nader ebrahimi ebrahim golestan houshang golshiri sadegh hedayat mohammad-ali jamalzadeh aboutorab khosravi mostafa mastoor jaafar modarres-sadeghi houshang moradi kermani bijan najdi shahrnush parsipur gholam-hossein sa'edi bahram sadeghi goli taraqqi plays reza abdoh mirza fatali akhundzadeh hamid amjad bahram beyzai mohammad charmshir alireza koushk jalali hadi marzban bijan mofid hengameh mofid abbas nalbandian akbar radi pari saberi mohammad yaghoubi screenplays saeed aghighi rakhshan bani-e'temad bahram beyzai hajir darioush pouran derakhshandeh asghar farhadi bahman farmanara hossein shahabi farrokh ghaffari behrouz gharibpour bahman ghobadi fereydun gole ebrahim golestan ali hatami abolfazl jalili ebrahim hatamikia abdolreza kahani varuzh karim-masihi samuel khachikian abbas kiarostami david mahmoudieh majid majidi mohsen makhmalbaf dariush mehrjui reza mirkarimi rasoul mollagholipour amir naderi jafar panahi kambuzia partovi rasul sadr ameli mohammad sadri parviz shahbazi sohrab shahid-saless translators amrollah abjadian jaleh amouzgar najaf daryabandari behzad ghaderi sohi mohammad ghazi lili golestan sadegh hedayat saleh hosseini ahmad kamyabi mask mohammad moin ebrahim pourdavoud hamid samandarian jalal sattari jafar shahidi ahmad shamlou ahmad tafazzoli abbas zaryab essayists aydin aghdashloo mohammad ebrahim bastani parizi ehsan yarshater contemporary persian classical persian same language writers since 1900 classified contemporary
+time persian common cultural language much non-arabic islamic world
+today official language iran tajikistan two official languages afghanistan
+vte people khorasan scientists abu ma'shar abu wafa abu zayd balkhi alfraganus ali qushji avicenna birjandi biruni hāsib marwazī ibn hayyān khāzin khāzinī khujandi khwarizmi nasawi nasir al-din tusi omar khayyám sharaf al-din tusi sijzi philosophers ghazali amiri avicenna farabi nasir khusraw qushayri sejestani shahrastani islamic scholars abu dawood abu hanifa ahmad ibn hanbal ansari baghavi bayhaqi bukhari hākim nishapuri juwayni marghinani maturidi muslim ibn al-hajjaj nishapuri nasafi nasa'i qushayri razi shaykh tusi taftazani tirmidhi zamakhshari poets artists abu al-khair attar behzad daqiqi ferdowsi jami rabi'a balkhi rudaki rumi sanā'ī hasanoglu historians andpolitical figures abul-fazl bayhaqi abu muslim abu saʿīd gardēzī ali sher nava'i ata al-mulk juvayni aufi muhammad bal'ami goharshad begum ibn khordadbeh khalid ibn barmak nizam al-mulk tahir ibn husayn yahya barmaki ahmad ibn nizam al-mulk shihab al-nasawi authority control world cat identities viaf 100210377 lccn n79105787 isni 0000 0001 2283 6122 gnd 118736302 sudoc 027053008 bnf cb119181488 data ulan 500245123 music brainz 4 e49 f8 fa-20 b0-47 c0-bc2 c-37 fe9 e9 e6221 nkc jn20010601215 iccu it\iccu\cfiv\096900

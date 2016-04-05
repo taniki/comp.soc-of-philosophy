@@ -1,0 +1,245 @@
+weyl redirects here
+other persons see weyl surname
+hermann weyl born hermann klaus hugo weyl1885-11-099 november 1885 elmshorn german empire died december 19551955-12-08 aged 70 zurich switzerland nationality german fields mathematical physics institutions institute advanced study university göttingen eth zurich alma mater university göttingen thesis singuläre integralgleichungen mit besonder berücksichtigung des fourierschen integraltheorems 1908 doctoral advisor david hilbert doctoral students alexander weinstein other notable students saunders mac lane known see list topics named after hermann weyl influences edmund husserl l
+brouwer notable awards fellow royal society spouses friederike bertha helene joseph nickname hella 1893–1948 ellen bär née lohnstein 1902–1988 children fritz joachim weyl 1915–1977 michael weyl 1917–2011 signature hermann klaus hugo weyl mem rs german [vaɪl] 9 november 1885 december 1955 german mathematician theoretical physicist philosopher
+although much working life spent zürich switzerland then princeton associated university göttingen tradition mathematics represented david hilbert hermann minkowski
+research major significance theoretical physics well purely mathematical disciplines including number theory
+most influential mathematicians twentieth century important member institute advanced study during early years
+weyl published technical general works space time matter philosophy logic symmetry history mathematics
+first conceive combining general relativity laws electromagnetism
+while no mathematician generation aspired 'universalism' henri poincaré hilbert weyl came close anyone
+michael atiyah particular commented whenever examined mathematical topic found weyl preceded mathematical intelligencer 1984 vol
+6 no
+contents biography 2 contributions 2
+distribution eigenvalues 2
+2 geometric foundations manifolds physics 2
+3 topological groups lie groups representation theory 2
+4 harmonic analysis analytic number theory 2
+5 foundations mathematics 2
+6 weyl fermions 3 quotes 4 topics named after hermann weyl 5 references 6 further reading 6
+primary 6
+2 secondary 7 external links biography weyl born elmshorn small town near hamburg germany attended gymnasium christianeum altona
+1904 1908 studied mathematics physics both göttingen munich
+doctorate awarded university göttingen under supervision david hilbert whom greatly admired
+september 1913 göttingen weyl married friederike bertha helene joseph march 30 1893 september 5 1948 went name helene nickname hella
+helene daughter dr
+bruno joseph december 13 1861 june 10 1934 physician held position sanitätsrat ribnitz-damgarten germany
+helene philosopher she disciple phenomenologist edmund husserl also translator spanish literature german english especially works spanish philosopher josé ortega gasset
+through helene's close connection husserl hermann became familiar greatly influenced husserl's thought
+hermann helene two sons fritz joachim weyl february 19 1915 july 20 1977 michael weyl september 15 1917 march 19 2011 both whom born zürich switzerland
+helene died princeton new jersey september 5 1948
+memorial service her honor held princeton september 9 1948
+speakers her memorial service included her son fritz joachim weyl mathematicians oswald veblen 1880-1960 richard courant 1888-1972
+1950 hermann married sculptress ellen bär née lohnstein april 17 1902 july 14 1988 widow professor richard josef bär september 1892 december 15 1940 zürich
+after taking teaching post few years weyl left göttingen zürich take chair mathematics eth zurich colleague albert einstein working out details theory general relativity
+einstein lasting influence weyl became fascinated mathematical physics
+1921 weyl met erwin schrödinger 1887-1961 theoretical physicist time professor university zürich
+become close friends over time
+weyl sort childless love affair erwin's wife annemarie anny schrödinger née bertel december 31 1896 october 3 1965 while same time anny helping raise illegitimate daughter erwin's named ruth georgie erica march born 1934 oxford england
+weyl left zürich 1930 become hilbert's successor göttingen leaving nazis assumed power 1933 particularly wife jewish
+offered first faculty positions new institute advanced study princeton new jersey declined because desire leave homeland
+political situation germany grew worse changed mind accepted offered position again
+remained there until retirement 1951
+together second wife ellen spent time princeton zürich died heart attack december 1955 while living zürich
+hermann weyl cremated zürich december 12 1955
+cremains ashes remained private hands until 1999 time interred outdoor columbarium vault princeton cemetery aka princeton cemetery nassau presbyterian church located 29 greenview avenue princeton mercer county new jersey
+cremains ashes hermann's son michael weyl 1917-2011 interred right next hermann's ashes same columbarium vault princeton cemetery
+contributions hermann weyl left ernst peschl right
+distribution eigenvalues further information weyl law weyl conjecture 1911 weyl published über die asymptotische verteilung eigenwerte asymptotic distribution eigenvalues proved eigenvalues laplacian compact domain distributed according so-called weyl law
+1912 suggested new proof based variational principles
+weyl returned topic several times considered elasticity system formulated weyl conjecture
+these works started important domain—asymptotic distribution eigenvalues—of modern analysis
+geometric foundations manifolds physics further information weyl transformation weyl tensor 1913 weyl published die idee riemannschen fläche concept riemann surface gave unified treatment riemann surfaces
+weyl utilized point set topology order make riemann surface theory rigorous model followed later work manifolds
+absorbed l
+brouwer's early work topology purpose
+weyl major figure göttingen school fully apprised einstein's work early days
+tracked development relativity physics raum zeit materie space time matter 1918 reaching 4 th edition 1922
+1918 introduced notion gauge gave first example now known gauge theory
+weyl's gauge theory unsuccessful attempt model electromagnetic field gravitational field geometrical properties spacetime
+weyl tensor riemannian geometry major importance understanding nature conformal geometry
+1929 weyl introduced concept vierbein general relativity
+overall approach physics based phenomenological philosophy edmund husserl specifically husserl's 1913 ideen zu einer reinen phänomenologie und phänomenologischen philosophie
+erstes buch allgemeine einführung die reine phänomenologie ideas pure phenomenology phenomenological philosophy
+first book general introduction
+husserl reacted strongly gottlob frege's criticism first work philosophy arithmetic investigating sense mathematical other structures frege distinguished empirical reference
+[citation needed] topological groups lie groups representation theory main articles peter–weyl theorem weyl group weyl spinor weyl algebra 1923 1938 weyl developed theory compact groups terms matrix representations
+compact lie group case proved fundamental character formula
+these results foundational understanding symmetry structure quantum mechanics put group-theoretic basis
+included spinors
+together mathematical formulation quantum mechanics large measure due john von neumann gave treatment familiar since 1930
+non-compact groups their representations particularly heisenberg group also streamlined specific context 1927 weyl quantization best extant bridge classical quantum physics date
+time certainly much helped weyl's expositions lie groups lie algebras became mainstream part both pure mathematics theoretical physics
+book classical groups seminal difficult text reconsidered invariant theory
+covered symmetric groups general linear groups orthogonal groups symplectic groups results their invariants representations
+harmonic analysis analytic number theory details topic see weyl's criterion
+weyl also showed how use exponential sums diophantine approximation criterion uniform distribution mod fundamental step analytic number theory
+work applied riemann zeta function well additive number theory
+developed many others
+foundations mathematics continuum weyl developed logic predicative analysis using lower levels bertrand russell's ramified theory types
+able develop most classical calculus while using neither axiom choice nor proof contradiction avoiding georg cantor's infinite sets
+weyl appealed period radical constructivism german romantic subjective idealist fichte
+shortly after publishing continuum weyl briefly shifted position wholly intuitionism brouwer
+continuum constructible points exist discrete entities
+weyl wanted continuum aggregate points
+controversial article proclaiming himself l
+brouwer revolution
+article far influential propagating intuitionistic views original works brouwer himself
+george pólya weyl during mathematicians' gathering zürich 9 february 1918 made bet concerning future direction mathematics
+weyl predicted subsequent 20 years mathematicians come realize total vagueness notions such real numbers sets countability moreover asking truth falsity least upper bound property real numbers meaningful asking truth basic assertions hegel philosophy nature
+any answer such question unverifiable unrelated experience therefore senseless
+however within few years weyl decided brouwer's intuitionism put too great restrictions mathematics critics
+crisis article disturbed weyl's formalist teacher hilbert later 1920 s weyl partially reconciled position hilbert
+after 1928 weyl apparently decided mathematical intuitionism compatible enthusiasm phenomenological philosophy husserl apparently earlier thought
+last decades life weyl emphasized mathematics symbolic construction moved position closer hilbert ernst cassirer
+weyl however rarely refers cassirer brief articles passages articulating position
+1949 weyl thoroughly disillusioned ultimate value intuitionism mathematics brouwer gains highest intuitive clarity
+succeeds developing beginnings analysis natural manner time preserving contact intuition much closely done before
+cannot denied however advancing higher general theories inapplicability simple laws classical logic eventually results almost unbearable awkwardness
+mathematician watches pain greater part towering edifice believed built concrete blocks dissolve mist before eyes
+weyl fermions main article weyl fermion 1929 weyl proposed fermion use replacement theory relativity
+fermion massless quasiparticle carry electric charge
+electron split two weyl fermions formed two weyl fermions
+neutrinos once thought weyl fermions now known mass
+weyl fermions sought after electronics applications solve problems electrons present
+such quasiparticles discovered 2015 form crystals known weyl semimetals type topological material
+quotes question ultimate foundations ultimate meaning mathematics remains open know direction will find final solution nor even whether final objective answer expected
+mathematizing may well creative activity man like language music primary originality whose historical decisions defy complete objective rationalization
+—gesammelte abhandlungen—as quoted year book american philosophical society 1943 p
+392 these days angel topology devil abstract algebra fight soul each individual mathematical domain
+weyl 1939 p
+500 topics named after hermann weyl majorana–weyl spinor peter–weyl theorem schur–weyl duality weyl algebra weyl basis gamma matrices weyl chamber weyl character formula weyl curvature see weyl tensor weyl curvature hypothesis weyl dimension formula specialization character formula weyl equation relativistic wave equation weyl fermion weyl gauge weyl gravity weyl group weyl integral weyl law weyl module weyl notation weyl quantization weyl scalar weyl spinor weyl sum type exponential sum weyl symmetry see weyl transformation weyl tensor weyl transform weyl transformation weyl vector compact lie group weyl–schouten theorem weyl's criterion weyl's inequality weyl's lemma hypoellipticity weyl's lemma very weak form laplace equation weyl's paradox properly grelling–nelson paradox weyl's postulate weyl's theorem complete reducibility weyl's tile argument weyl's unitary trick references weyl h
+david hilbert
+obituary notices fellows royal society 4 13 547–526
+notes hermann weyl stanford encyclopedia philosophy newman m
+hermann weyl
+biographical memoirs fellows royal society 3 305
+o'connor john j
+robertson edmund f
+hermann weyl mac tutor history mathematics archive university st andrews
+hermann weyl mathematics genealogy project works hermann weyl libraries world cat catalog elsner bernd 2008
+die abiturarbeit hermann weyls
+christianeum 63 3–15
+htm universität zũrich matrikeledition hermann weyl collection ar 3344 sys #000195637 leo baeck institute center jewish history 15 west 16 th street new york ny 10011
+collection includes typewritten document titled hellas letzte krankheit hella's last illness last sentence page 2 document states hella starb am 5
+september mittags 12 uhr
+hella died 1200 noon september 5
+helene's funeral arrangements handled m
+mather funeral home now named mather-hodge funeral home located 40 vandeventer avenue princeton new jersey
+helene weyl cremated september 6 1948 ewing cemetery & crematory 78 scotch road trenton mercer county new jersey
+additional information helene weyl including bibliography her translations published works manuscripts see following link memoriam helene weyl hermann weyl
+document items hermann weyl collection leo baeck institute new york city written hermann weyl end june 1948 nine weeks before helene died september 5 1948 princeton new jersey
+first sentence document reads follows eine skizze nicht sehr von hellas als von unserem gemeinsamen leben niedergeschrieben ende juni 1948
+sketch much hella's life our common life written end june 1948
+com/local/obituaries/michael-weyl-foreign-service-officer/2011/04/04/afruxbl c_story
+html memoriam helene weyl 1948 fritz joachim weyl
+see http//www
+org/oclc/724142550 ii http//d-nb
+info/993224164 http//www
+php?menu=artist&info=80111 http//www
+com/tribe/familytree?uid=jeffreymarx&surname=baer ellen lohnstein richard josef bär married september 14 1922 zürich switzerland
+photo erwin annemarie schrödinger's combined gravemarker alpbacher friedhof alpbach cemetery located alpbach kufstein district tirol austria gravemarker gives annemarie's birthdate december 31 1896 — december 3 1896 mistakenly reported numerous internet websites — her deathdate october 3 1965
+annemarie's maiden surname bertel
+born salzburg austria annemarie daughter eduard bertel 1856 after 1914 prosperous photographer court photographer actor industrialist whose various businesses headquartered salzburg
+however reported eduard moved vienna 1909 1910
+annemarie's mother believed illegitimate daughter georg junger 1831-1908 famous wealthy salzburg businessman 1858 founded firm wholesale merchants selling fashion accessories located altermarkt section salzburg
+annemarie older brother named erich bertel younger sister named irmgard bertel
+biographical information annemarie schrödinger née bertel annemarie's birthdate given december 3 1896 website very likely wrong since her birthdate given her gravemarker alpbach cemetery december 31 1896
+moore walter 1989
+schrödinger life thought
+cambridge university press
+ruth georgie erica march born may 30 1934 oxford england but—according records presented here—it appears her birth wasn't registered british authorities until 3 rd registration quarter july–august-september quarter year 1934
+ruth's actual biological father erwin schrödinger 1887–1961 her mother hildegunde march née holzhammer born 1900 wife austrian physicist arthur march february 23 1891 april 17 1957
+hildegunde's friends often called her hilde hilda rather hildegunde
+arthur march erwin schrödinger's assistant time ruth's birth
+reason ruth's surname march instead schrödinger because arthur agreed named ruth's father her birth certificate even though wasn't her biological father
+ruth married engineer arnulf braunizer may 1956 lived alpbach austria many years
+ruth very active sole administrator intellectual other property her father erwin's estate she manages alpbach
+137 jung pauli pursuit scientific obsession new york london w
+norton & company 2009 arthur
+miller page 228
+cgi?page=gr&grid=60572577 hermann weyl's cremains ashes interred outdoor columbarium vault princeton cemetery location section 3 block 04 lot c1 grave b15
+cgi?page=cr&grid=60572577&crid=100174& 1929
+elektron und gravitation zeitschrift physik 56 pp 330–352
+gurevich yuri
+platonism constructivism computer proofs vs proofs hand bulletin european association theoretical computer science 1995
+paper describes letter discovered gurevich 1995 documents bet
+friendly bet ended individuals gathered cited pólya victor kurt gödel concurrence
+charles q
+choi 16 july 2015
+weyl fermions found quasiparticle acts like massless electron
+ieee spectrum ieee
+after 85-year search massless particle promise next-generation electronics found
+science daily
+16 july 2015
+su-yang xu ilya belopolski nasser alidoust madhab neupane guang bian chenglong zhang raman sankar guoqing chang zhujun yuan chi-cheng lee shin-ming huang hao zheng jie ma daniel s
+sanchez bao kai wang arun bansil fangcheng chou pavel p
+shibayev hsin lin shuang jia m
+zahid hasan
+discovery weyl fermion semimetal topological fermi arcs
+further reading primary 1911
+über die asymptotische verteilung eigenwerte nachrichten königlichen gesellschaft wissenschaften zu göttingen 110–117 1911
+idee riemannflāche 2 1955
+concept riemann surface
+das kontinuum trans
+1987 continuum critical examination foundation analysis
+raum zeit materie
+5 edns
+1922 ed
+notes jūrgen ehlers 1980
+4 th edn
+henry brose 1922 space time matter methuen rept
+1952 dover
+mathematische analyse des raumproblems
+ist materie? 1925
+1988 ed
+chandrasekharan riemann's geometrische idee
+philosophie mathematik und naturwissenschaft 2 edn
+philosophy mathematics natural science princeton 0689702078
+new introduction frank wilczek princeton university press 2009
+gruppentheorie und quantenmechanik
+robertson theory groups quantum mechanics 1931 rept
+1950 dover
+elektron und gravitation zeitschrift physik 56 pp 330–352
+introduction vierbein gr 1933
+open world yale rept
+1989 oxbow press 1934
+mind nature u
+pennsylvania press
+generalized riemann matrices ann
+35 400–415
+elementary theory invariants
+structure representation continuous groups lectures princeton university during 1933–34
+weyl hermann 1939 classical groups
+their invariants representations princeton university press 978-0-691-05756-9 mr 0000255 weyl hermann 1939 invariants duke mathematical journal 5 3 489–502 doi10
+1215/s0012-7094-39-00540-5 issn 0012-7094 mr 0000030 1940
+algebraic theory numbers rept
+1998 princeton u
+princeton university press
+chandrasekharan ed gesammelte abhandlungen
+vol iv
+secondary ed
+chandrasekharan hermann weyl 1885–1985 centenary lectures delivered c
+yang r
+borel eth zürich springer-verlag berlin heidelberg new york london paris tokyo 1986 published eidgenössische technische hochschule zürich
+deppert wolfgang et al
+exact sciences their philosophical foundations
+vorträge des internationalen hermann-weyl-kongresses kiel 1985 bern new york paris peter lang 1988 ivor grattan-guinness 2000
+search mathematical roots 1870-1940
+princeton uni
+erhard scholz robert coleman herbert korte hubert goenner skuli sigurdsson norbert straumann eds
+hermann weyl's raum zeit materie general introduction scientific work oberwolfach seminars springer-verlag new york new york n
+thomas hawkins emergence theory lie groups new york springer 2000
+kilmister c
+october 1980 zeno aristotle weyl shuard two-and-a-half millennia worries over number mathematical gazette mathematical gazette vol
+64 no
+429 64 429 149–158 doi10
+2307/3615116 jstor 3615116
+connection weyl–pólya bet copy original letter together background found pólya g
+eine erinnerung hermann weyl
+mathematische zeitschrift 126 3 296–298
+external links wikiquote quotations related hermann weyl wikimedia commons media related hermann weyl
+national academy sciences biography bell john l
+hermann weyl intuition continuum feferman solomon
+significance hermann weyl's das kontinuum straub william o
+hermann weyl website works hermann weyl project gutenberg works hermann weyl internet archive vte relativity specialrelativity background principle relativity introduction special relativity special relativity foundations relative motion frame reference speed light maxwell's equations formulation galilean relativity galilean transformation lorentz transformation consequences time dilation relativistic mass mass–energy equivalence length contraction relativity simultaneity relativistic doppler effect thomas precession relativistic disks spacetime minkowski spacetime world line spacetime diagrams light cone generalrelativity background introduction mathematical formulation resources fundamentalconcepts special relativity equivalence principle world line riemannian geometry minkowski diagram phenomena two-body problem lenses waves frame-dragging geodetic effect event horizon singularity black hole equations linearized gravity post-newtonian formalism einstein field equations geodesic equation friedmann equations adm formalism bssn formalism hamilton–jacobi–einstein equation advancedtheories kaluza–klein quantum gravity brans–dicke theory solutions schwarzschild reissner–nordström gödel kerr kerr–newman kasner taub–nut milne robertson–walker pp-wave van stockum dust scientists einstein lorentz hilbert poincaré schwarzschild de sitter reissner nordström weyl eddington friedmann milne zwicky lemaître gödel wheeler robertson bardeen walker kerr chandrasekhar ehlers penrose hawking taylor hulse stockum taub newman yau thorne weiss bondi misner others authority control world cat identities viaf 64072393 lccn n50018035 isni 0000 0000 8388 6804 gnd 118816624 selibr 238852 sudoc 031921434 bnf cb12305695 data hds 31708 mgp 7373 nla 35602647 ndl 00460689 nkc jn20000703396 bne xx820224

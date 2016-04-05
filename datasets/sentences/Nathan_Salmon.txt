@@ -1,0 +1,147 @@
+article multiple issues
+please help improve discuss these issues talk page
+biographical article relies too much references primary sources
+please improve biographical article adding secondary tertiary sources
+contentious material living persons unsourced poorly sourced must removed immediately especially potentially libelous harmful
+january 2013 major contributor section appears close connection subject
+may require cleanup comply wikipedia's content policies particularly neutral point view
+please discuss further talk page
+july 2013 nathan u
+salmon born january 2 1951 los angeles california era 20 th-/21 st-century philosophy region western philosophy school analytic philosophy main interests philosophy language philosophy logic notable ideas millianism mill's theory meaning influences gotlob frege bertrand russell alonzo church david kaplan saul kripke nathan u
+salmon né nathan salmon ucuzoglu 1951 american philosopher analytic tradition specializing metaphysics philosophy language philosophy logic
+contents biography 2 work 2
+direct reference theory 2
+2 existence 2
+3 semantics pragmatics 2
+4 essentialism 2
+5 identity 2
+6 publications 2
+books 2
+2 selected articles 3 see also 4 references 5 external links biography salmon born january 2 1951 los angeles working-class family sephardi jews spanish-turkish heritage
+grandson archivist emily sene née emily perez oud player isaac sene
+salmon attended lincoln elementary school torrance california through eighth grade classmate friend child prodigy james newton howard
+salmon graduated north high school torrance 1969
+first person family go college salmon graduated el camino college 1971 university california los angeles
+1973 m
+1974 ph
+ucla studied tyler burge alonzo church keith donnellan donald kalish david kaplan saul kripke yiannis moschovakis
+salmon assistant professor philosophy princeton university 1978 1982
+1984 council graduate schools awarded gustave o
+arlt award humanities book reference essence 1981 based ucla doctoral dissertation
+second book frege's puzzle 1986 selected scott soames literary website best five books philosophy language
+salmon currently distinguished professor philosophy university california santa barbara teaching there since 1984
+also taught ucla university california riverside university southern california regular visiting distinguished professor city university new york graduate center 2009
+work direct reference theory salmon proponent theory direct reference
+salmon provided accounts both propositional attitudes frege's puzzle true identifications
+truths form =
+salmon maintains co-designative proper names inter-substitutable preservation semantic content
+thus view sentence samuel clemens witty expresses exactly same content mark twain witty whether competent user these sentences recognizes
+therefore person believes mark twain witty ipso facto believes samuel clemens witty even she also believes inconsistently clemens witty
+salmon argues made palatable recognizing believe proposition cognitively disposed particular manner toward proposition taking means proposition-guise other may disposed relative proposition-guise while being disposed relative another
+salmon applies apparatus solve variety famous philosophical puzzles including frege's puzzle kripke's puzzle so-called de dicto belief w
+quine's puzzle de re belief
+example quine describes scenario ralph believes ortcutt no spy yet ralph also believes man brown hat spy unbeknownst ralph man hat none other ortcutt
+under these circumstances ortcutt believed ralph spy? grounds affirmative negative judgment seem equally balanced
+salmon's account ortcutt believed ralph spy since ralph appropriately cognitively disposed toward proposition ortcutt spy taking proposition means proposition-guise even though ralph disposed relative alternative equally relevant proposition-guise
+existence salmon provided direct-reference accounts problems nonexistence names fiction
+salmon argues directly contrary immanuel kant existence property particular individuals other individuals lack
+according salmon english verb exist along literal tranlsations other languages among other things term alleged property sentence form exists true subject term designates something property false does exist true subject term designates something complementary property nonexistence
+thus russell's example present king france exists neither true nor false since france presently monarchy therefore present king france does designate whereas napoleon exists simply false since although napoleon once existed moment died took property nonexistence
+contrast salmon maintains sherlock holmes exists literally true whereas sherlock holmes detective literally false
+according salmon sherlock holmes abstract entity created author arthur conan doyle fiction story collection stories very character literally false
+holmes really exists depicted detective fiction
+fiction holmes detective reality holmes merely fictional detective
+salmon extends view calls mythical objects like hypothetical planet vulcan
+vulcan really exists real planet
+abstract entity depicted planet myth
+salmon's account fiction myth thus direct application philosophy religion
+salmon also applied account mythical objects peter geach's famous problem uncovering logical form particular sentence hob thinks witch blighted bob's mare nob wonders whether she same witch killed cob's sow
+salmon's account shows how problematic sentence true even though there no witches even hob nob know each other there no whom think witch
+salmon thinks again contrary kant perfectly legitimate invoke existence term's definition
+thus god might legitimately defined conceivable individual divine also exists
+according salmon ontological argument god's existence fallaciously assumes f f truth logic analytic truth
+true logic significantly weaker variant anything uniquely f then f f
+strongest conclusion validly follows proposed definition any conceivable individual actually uniquely both divine existent then god actually exists
+same conclusion also trivial logical consequence atheist's contention no conceivable individual actually uniquely both divine existent
+according salmon's critique ontological argument thus shows nothing
+semantics pragmatics salmon argues natural-language sentences representable λ-converts another sense church's lambda-calculus although logically equivalent λ-conversion typically strictly synonymous
+typically differ semantic content—as example large also seaworthy thing both large seaworthy
+salmon maintains sharp division semantics pragmatics speech acts
+argues uttering sentence speaker typically asserts good deal words' semantic content consequently mistake identify semantic content sentence speaker
+salmon maintains such identification instance mistaken form argument philosophy language pragmatic fallacy
+essentialism salmon also known metaphysics among other things analysis arguments essentialism—the doctrine properties things properties those things fail except perhaps existing
+particular salmon known development defense reductio ad absurdum argument using sorites-like problem slippery slope against nearly universally accepted modal logic systems s4 s5 argues commit fallacy necessity iteration sanctioning invalid inference observation proposition p necessary truth conclusion necessary truth p necessary truth
+defends view exposing mistake standard argument favoring s5 while arguing there possible worlds—thought maximal scenarios might obtained—but addition classically consistent impossible worlds maximal scenarios obtain
+identity salmon also provided controversial reductio ad absurdum disproof indeterminate identity
+philosophically popular idea pairs things there no fact matter concerning whether those things very same
+salmon argues there such pair things x then pair different reflexive pair x itself since there fact concerning whether x x same
+then follow set theory x same case there fact matter after concerning whether x same
+therefore there cannot pair things there no fact concerning their identity
+other hand salmon maintains vagueness due language indeterminacy results how things themselves
+things attributes independently language there no fact matter concerning whether those things those attributes
+critics salmon's alleged proof acknowledge highlighted difference <x y> <x x>—that there fact whether elements latter former same thing—is genuine respond does validly support conclusion those pairs same
+other hand there no argument criticism salmon frege' identity
+publications books content cognition communication 2007
+oxford university clarendon press
+frege's puzzle second edition 1986
+ridgeview atacadero california
+metaphysics mathematics meaning 2005
+oxford university clarendon press
+propositions attitudes 1988 co-edited scott soames
+oxford university press new york
+reference essence second edition 1981
+prometheus books amherst new york
+selected articles analyticity apriority 1993 philosophical perspectives 7 language logic james tomberlin ed
+ridgeview atascadero
+assertion incomplete definite descriptions 1982 philosophical studies 42 37-46
+being two minds belief doubt 1995 noûs 29 1-20
+demonstrating necessity 2002 philosophical review 111 4 497-537 existence 1987 philosophical perspectives james tomberlin ed
+ridgeview atascadero
+fact x = 1987 philosophia 17 517-518
+how become millian heir philosophical studies 165-177
+how derive essentialism theory reference 1979 journal philosophy 76 703-725
+how become millian heir 1989 noûs 23 211-220
+how measure standard metre 1988 proceedings aristotelian society 88 193-217
+identity facts 2002 philosophical topics 30 237-267
+illogical belief 1989 philosophical perspectives 3 philosophy mind action theory
+ridgeview atascadero
+impossible worlds 1984 analysis 114-117
+limits human mathematics 2001 noûs 15 93-117
+logic might 1989 philosophical review 98 3-34
+modal paradox parts counterparts points counterpoints 1986 midwest studies philosophy 75-120
+mythical objects 2002 campbell o'rourke shier meaning truth
+naming necessity beyond 2003 mind 112 447 475-492
+nonexistence 1998 noûs 3 277-319
+content 1992 mind 101 404 733-751
+designating 2005 mind 114 456 1069-1133
+pragmatic fallacy philosophical studies 83-97
+problem frege-church theory sense denotation 1993 noûs 272 158-166
+reference information content names descriptions 1989 handbook philosophical logic
+gabbay ed
+kluwer dordrecht
+reflections reflexivity 1992 linguistics philosophy 151 53-63
+reflexivity 1986 notre dame journal formal logic 27 401-429
+relational belief 1995 quine new essays paolo leonardi ed
+cambridge university press new york
+relative absolute apriority 1993 philosophical studies 691 83-100
+review beyond rigidity unfinished semantic agenda naming necessity scott soames 2003 mind 112447 475-492
+tense intension 2003 time tense reference aleksander jokic quentin smith eds
+mit press cambridge
+tense singular propositions 1989 themes kaplan
+oxford university press new york
+theory bondage 2006 philosophical review 115 4 415-448
+trans-world identification stipulation 1996 philosophical studies 842-3 203-223
+wholes parts numbers 1997 philosophical perspectives mind causation world james tomberlin ed
+blackwell boston
+see also descriptivist theory names american philosophy list american philosophers references view meaning simple proper name object stands jeff speaks theories meaning
+scott soames best five books philosophy language browser october 15 2010
+other selections monographs noam chomsky gottlob frege david kaplan saul kripke
+books frege's puzzle content cognition communication
+propositional attitude reports see e
+metaphysics mathematics meaning oxford university press 2005
+critique pure reason book ii c
+3 sec
+5 a598 b626
+propositional attitude reports
+natural kinds https//books
+com/books?id=c i0 d7 cgj0 bac&pg=pa61&dq=criticism+of+nathan+salmon&hl=en&sa=x&ved=0 cdk q6 aew bwo vch mi28 aau leay aiv5 d9 ch2 ysw1 o#v=onepage&q&f=false external links nathan salmon's web page ucsb authority control world cat identities viaf 94352464 isni 0000 0001 1879 6295 sudoc 116381639 bnf cb120254810 data

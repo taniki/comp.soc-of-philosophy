@@ -1,0 +1,265 @@
+heinrich hertz born heinrich rudolf hertz1857-02-2222 february 1857 hamburg german confederation died january 18941894-01-01 aged 36 bonn german empire residence germany nationality german fields physics electronic engineering institutions university kiel university karlsruhe university bonn alma mater university munich university berlin doctoral advisor hermann von helmholtz doctoral students vilhelm bjerknes known electromagnetic radiation photoelectric effect hertz's principle least curvature notable awards matteucci medal 1888 rumford medal 1890 signature heinrich rudolf hertz german [hɛɐʦ] february 1857 january 1894 german physicist first conclusively proved existence electromagnetic waves theorized james clerk maxwell's electromagnetic theory light
+hertz proved theory engineering instruments transmit receive radio pulses using experimental procedures ruled out other known wireless phenomena
+unit frequency cycle per second named hertz honor
+contents biography
+death 2 contributions 2
+meteorology 2
+2 contact mechanics 2
+3 electromagnetic research 3 nazi persecution 4 legacy honors 5 see also 6 references 7 further reading external links biography heinrich rudolf hertz born 1857 hamburg then sovereign state german confederation prosperous cultured hanseatic family
+father gustav ferdinand hertz originally named david gustav hertz 1827–1914 barrister later senator
+mother anna elisabeth pfefferkorn
+hertz's paternal grandfather heinrich david hertz originally named hertz hertz 1797–1862 businessman paternal grandmother bertha betty oppenheim daughter banker salomon oppenheim jr
+hertz's paternal great-grandfather david wolff hertz 1757–1822 fourth son benjamin wolff hertz moved hamburg 1793 made living jeweller wife schöne hertz 1760–1834 buried former jewish cemetery ottensen
+their first son wolff hertz 1790–1859 chairman jewish community
+heinrich rudolf hertz's father paternal grandparents converted judaism christianity 1834
+mother's family lutheran pastor's family
+while studying gelehrtenschule des johanneums hamburg heinrich rudolf hertz showed aptitude sciences well languages learning arabic sanskrit
+studied sciences engineering german cities dresden munich berlin studied under gustav r
+kirchhoff hermann von helmholtz
+1880 hertz obtained ph university berlin next three years remained post-doctoral study under helmholtz serving assistant
+1883 hertz took post lecturer theoretical physics university kiel
+1885 hertz became full professor university karlsruhe
+1886 hertz married elisabeth doll daughter dr
+max doll lecturer geometry karlsruhe
+two daughters johanna born 20 october 1887 mathilde born 14 january 1891 went become notable biologist
+during time hertz conducted landmark research electromagnetic waves
+hertz took position professor physics director physics institute bonn 3 april 1889 position held until january 1894
+during time worked theoretical mechanics work published book die prinzipien mechanik neuem zusammenhange dargestellt principles mechanics presented new form published posthumously 1894
+death 1892 hertz diagnosed infection after bout severe migraines underwent operations treat illness
+died granulomatosis polyangiitis age 36 bonn germany 1894 buried ohlsdorf cemetery hamburg
+hertz's wife elisabeth hertz née doll 1864–1941 remarry
+hertz left two daughters johanna 1887–1967 mathilde 1891–1975
+hertz's daughters never married no descendants
+contributions meteorology hertz deep interest meteorology probably derived contacts wilhelm von bezold professor laboratory course munich polytechnic summer 1878
+however hertz contribute much field himself except early articles assistant helmholtz berlin including research evaporation liquids new kind hygrometer graphical means determining properties moist air subjected adiabatic changes
+contact mechanics memorial heinrich hertz campus karlsruhe institute technology translates site heinrich hertz discovered electromagnetic waves years 1885–1889
+main article contact mechanics 1886–1889 hertz published two articles become known field contact mechanics
+hertz well known contributions field electrodynamics see below however most papers look fundamental nature contact cite two papers source important ideas
+joseph valentin boussinesq published critically important observations hertz's work nevertheless establishing work contact mechanics immense importance
+work basically summarises how two axi-symmetric objects placed contact will behave under loading obtained results based upon classical theory elasticity continuum mechanics
+most significant failure theory neglect any nature adhesion two solids proves important materials composing solids start assume high elasticity
+natural neglect adhesion age there no experimental methods testing
+develop theory hertz used observation elliptical newton's rings formed upon placing glass sphere upon lens basis assuming pressure exerted sphere follows elliptical distribution
+used formation newton's rings again while validating theory experiments calculating displacement sphere lens
+johnson k
+roberts jkr used theory basis while calculating theoretical displacement indentation depth presence adhesion 1971
+hertz's theory recovered their formulation adhesion materials assumed zero
+similar theory however using different assumptions
+derjaguin v
+toporov published another theory 1975 came known dmt theory research community also recovered hertz's formulations under assumption zero adhesion
+dmt theory proved rather premature needed several revisions before came accepted another material contact theory addition jkr theory
+both dmt jkr theories form basis contact mechanics upon transition contact models based used material parameter prediction nanoindentation atomic force microscopy
+hertz's research days lecturer preceding great work electromagnetism himself considered characteristic soberness trivial come down age nanotechnology
+electromagnetic research hertz's 1887 apparatus generating detecting radio waves spark transmitter left consisting dipole antenna spark gap powered high voltage pulses ruhmkorff coil receiver right consisting loop antenna spark gap
+hertz's radio wave receivers loop antenna adjustable micrometer spark gap bottom
+during hertz's studies 1879 helmholtz suggested hertz's doctoral dissertation testing maxwell's theory electromagnetism published 1865 predicted existence electromagnetic waves moving speed light predicted light itself just such wave
+helmholtz also proposed berlin prize problem year prussian academy sciences anyone experimentally prove electromagnetic effect polarization depolarization insulators something predicted maxwell's theory
+helmholtz sure hertz most likely candidate win
+seeing any way build apparatus experimentally test hertz thought too difficult worked electromagnetic induction instead
+hertz produce analysis maxwell's equations during time kiel showing validity then prevalent action distance theories
+after hertz received professorship karlsruhe experimenting pair riess spirals autumn 1886 noticed discharging leyden jar these coils produce spark other coil
+idea how build apparatus hertz now way proceed berlin prize problem 1879 proving maxwell's theory although actual prize expired uncollected 1882
+used ruhmkorff coil-driven spark gap one-meter wire pair radiator
+capacity spheres present ends circuit resonance adjustments
+receiver precursor dipole antenna simple half-wave dipole antenna
+experiment produced received now called radio waves very high frequency range
+hertz's first radio transmitter dipole resonator consisting pair meter copper wires ending 30 cm zinc spheres
+induction coil applied high voltage two sides sparks across center spark gap created standing waves radio frequency current wires radiated radio waves
+frequency waves roughly 100 mhz used modern television transmitters
+1886 1889 hertz conduct series experiments prove effects observing results maxwell's predicted electromagnetic waves
+starting november 1887 paper electromagnetic effects produced electrical disturbances insulators hertz send series papers helmholtz berlin academy including papers 1888 showed transverse free space electromagnetic waves traveling finite speed over distance
+apparatus hertz used electric magnetic fields radiate away wires transverse waves
+hertz positioned oscillator 12 meters zinc reflecting plate produce standing waves
+each wave 4 meters long
+using ring detector recorded how wave's magnitude component direction varied
+hertz measured maxwell's waves demonstrated velocity these waves equal velocity light
+electric field intensity polarity reflection waves also measured hertz
+these experiments established light these waves both form electromagnetic radiation obeying maxwell equations
+hertz also described hertzian cone type wave-front propagation through various media
+hertz's directional spark transmitter center half-wave dipole antenna made two 13 cm brass rods spark gap center closeup left powered ruhmkorff coil focal line
+2 m x 2 m cylindrical sheet metal parabolic reflector
+radiated beam 66 cm waves frequency 450 mhz
+receiver right similar parabolic dipole antenna micrometer spark gap
+hertz's demonstration polarization radio waves receiver does respond antennas perpendicular shown receiver rotated received signal grows stronger shown length sparks until reaches maximum dipoles parallel
+another demonstration polarization waves pass through polarizing filter receiver wires perpendicular dipoles parallel
+demonstration refraction radio waves bend passing through prism made pitch similarly light waves passing through glass prism
+hertz' plot standing waves created radio waves reflected sheet metal hertz helped establish photoelectric effect later explained albert einstein noticed charged object loses charge readily illuminated ultraviolet light
+1887 made observations photoelectric effect production reception electromagnetic em waves published journal annalen physik
+receiver consisted coil spark gap whereby spark seen upon detection em waves
+placed apparatus darkened box see spark better
+observed maximum spark length reduced box
+glass panel placed source em waves receiver absorbed ultraviolet radiation uv assisted electrons jumping across gap
+removed spark length increase
+observed no decrease spark length substituted quartz glass quartz does absorb uv radiation
+hertz concluded months investigation reported results obtained
+further pursue investigation effect nor make any attempt explaining how observed phenomenon brought
+hertz realize practical importance experiments
+stated it's no use whatsoever[
+just experiment proves maestro maxwell right—we just these mysterious electromagnetic waves cannot see naked eye
+asked ramifications discoveries hertz replied nothing guess
+official english translation untersuchungen über die ausbreitung elektrischen kraft published 1893 year before hertz's death
+hertz's proof existence airborne electromagnetic waves referred hertzian waves early lead experimentation new form electromagnetic radiation eventual development commercial hertzian wave based wireless telegraphy radio audio radio later television
+1892 hertz began experimenting demonstrated cathode rays penetrate very thin metal foil such aluminium
+philipp lenard student heinrich hertz further researched ray effect
+developed version cathode tube studied penetration x-rays various materials
+philipp lenard though realize producing x-rays
+hermann von helmholtz formulated mathematical equations x-rays
+postulated dispersion theory before röntgen made discovery announcement
+formed basis electromagnetic theory light wiedmann's annalen vol
+however work actual x-rays
+nazi persecution heinrich hertz lutheran throughout life considered himself jewish father's family converted lutheranism father still childhood aged seven 1834
+nevertheless nazi regime gained power decades after hertz's death portrait removed them prominent position honor hamburg's city hall rathaus because partly jewish ancestry
+painting since returned public display
+hertz's widow daughters left germany 1930 s went england
+legacy honors heinrich hertz heinrich hertz's nephew gustav ludwig hertz nobel prize winner gustav's son carl helmut hertz invented medical ultrasonography
+si unit hertz hz established honor international electrotechnical commission 1930 frequency expression number times repeated event occurs per second
+adopted cgpm conférence générale des poids et mesures 1960 officially replacing previous name cycles per second cps
+1928 heinrich-hertz institute oscillation research founded berlin
+today known fraunhofer institute telecommunications heinrich hertz institute hhi
+1969 east germany heinrich hertz memorial medal cast
+ieee heinrich hertz medal established 1987 outstanding achievements hertzian waves [
+presented annually individual achievements theoretical experimental nature
+crater lies far side moon just behind eastern limb named honor
+hertz market radio electronics products nizhny novgorod russia named after
+heinrich-hertz-turm radio telecommunication tower hamburg named after city's famous son
+hertz honored japan membership order sacred treasure multiple layers honor prominent people including scientists
+heinrich hertz honored number countries around world their postage issues post-world war ii times appeared various german stamp issues well
+birthday google honored hertz google doodle inspired life's work home page
+see also lists histories fraunhofer institute telecommunications heinrich hertz institute history radio invention radio list people stamps germany list physicists outline physics timeline mechanics physics electromagnetism timeline wireless telegraphy electromagnetic radiation microwave other list german inventors discoverers references iec history
+biography heinrich rudolf hertz
+mac tutor history mathematics archive
+retrieved 2 february 2013
+robertson struan
+buildings integral former life and/or persecution jews hamburg
+archived original 27 march
+retrieved february
+heinrich rudolf hertz
+ur5 eaw
+com wolff stefan l
+2008-01-04 juden wider willen wie es den nachkommen des physikers heinrich hertz im ns-wissenschaftsbetrieb erging
+jüdische allgemeine
+mitchell curtis 1970
+cavalcade broadcasting
+follett pub
+heinrich rudolf hertz
+find grave
+retrieved august 2014
+hamburger friedhöfe » ohlsdorf » prominente
+retrieved august 2014
+plan ohlsdorfer friedhof map ohlsdorf cemetery
+ieee institute you know? historical ‘facts’ true susskind charles
+heinrich hertz short life
+san francisco san francisco press
+mulligan j
+hertz h
+unpublished lecture heinrich hertz energy balance earth’’
+american journal physics 65 36–45
+bibcode1997 am jph
+36 m
+johnson k
+kendall k
+surface energy contact elastic solids pdf
+proceedings royal society 324 1558 301–313
+bibcode1971 rspsa
+301 j
+appleyard rollo october 1927
+pioneers electrical communication part 5 - heinrich rudolph hertz pdf
+electrical communication new york international standard electric corp
+6 2 63–77
+retrieved december 19 2015
+two images shown p
+66 fig
+3 p
+70 fig
+9 heinrich hertz
+retrieved august 2014
+baird davis hughes r
+nordmann alfred eds
+heinrich hertz classical physicist modern philosopher
+new york springer-verlag
+49 heilbron john l
+2005 oxford guide history physics astronomy
+oxford university press
+148 baird davis hughes r
+nordmann alfred eds
+heinrich hertz classical physicist modern philosopher
+new york springer-verlag
+53 huurdeman anton
+2003 worldwide history telecommunications
+202 most important experiments - most important experiments their publication 1886 1889
+fraunhofer heinrich hertz institute
+retrieved 2016-02-19
+c pierce george washington 1910
+principles wireless telegraphy
+new york mc graw-hill book co
+institute chemistry hebrew university jerusalem heinrich rudolf hertz
+capri anton z
+2007 quips quotes quanta anecdotal history physics
+world scientific
+p 93
+norton andrew 2000 dynamic fields waves
+crc press
+heinrich hertz 1893
+electric waves being researches propagation electric action finite velocity through space
+dover publications
+koertge noretta
+dictionary scientific biography
+new york thomson-gale
+6 p
+robertson struan ii
+buildings integral former life and/or persecution jews hamburg eimsbüttel/rotherbaum
+de heinrich rudolf hertz
+retrieved august 2014
+l'harmattan list recipients japanese order sacred treasure french albanesius chloe february
+google doodle honors heinrich hertz electromagnetic wave pioneer
+retrieved february heinrich rudolf hertz's 155 th birthday
+google february
+retrieved august 2014
+further reading hertz h
+ueber sehr schnelle electrische schwingungen annalen physik vol
+267 no
+7 p
+421–448 may 1887 doi10
+18872670707 hertz h
+ueber einen einfluss des ultravioletten lichtes auf die electrische entladung annalen physik vol
+267 no
+983–1000 june 1887 doi10
+18872670827 hertz h
+ueber die einwirkung einer geradlinigen electrischen schwingung auf eine benachbarte strombahn annalen physik vol
+270 no
+5 p
+155–170 march 1888 doi10
+18882700510 hertz h
+ueber die ausbreitungsgeschwindigkeit electrodynamischen wirkungen annalen physik vol
+270 no
+7 p
+551–569 may 1888 doi10
+18882700708 hertz h
+1899 principles mechanics presented new form london macmillan introduction hermann von helmholtz english translation die prinzipien mechanik neuem zusammenhange dargestellt leipzig posthumously published 1894
+jenkins john
+discovery radio waves 1888 heinrich rudolf hertz 1847–1894 retrieved 27 jan 2008 naughton russell
+heinrich rudolph alt rudolf hertz dr 1857 1894 retrieved 27 jan 2008 roberge pierre r
+heinrich rudolph hertz 1857–1894 retrieved 27 jan 2008 appleyard rollo
+pioneers electrical communication
+london macmillan company
+reprinted ayer company publishers manchester new hampshire bodanis david
+electric universe how electricity switched modern world
+new york three rivers press
+buchwald jed z
+creation scientific effects heinrich hertz electric waves
+chicago university chicago press
+bryant john h
+heinrich hertz beginning microwaves discovery electromagnetic waves opening electromagnetic spectrum heinrich hertz years 1886–1892
+new york ieee institute electrical electronics engineers
+lodge oliver joseph
+signaling across space without wires electric waves being description work [heinrich] hertz successors
+reprinted arno press new york 1974
+maugis daniel
+contact adhesion rupture elastic solids
+new york springer-verlag
+susskind charles
+heinrich hertz short life
+san francisco san francisco press
+external links media related heinrich hertz wikimedia commons quotations related heinrich hertz wikiquote hertz heinrich rudolf
+encyclopædia britannica th ed
+vte scientists whose names used si units base units andré-marie ampère william thomson st baron kelvin derived units henri becquerel anders celsius charles-augustin de coulomb michael faraday louis harold gray joseph henry heinrich hertz james prescott joule isaac newton georg ohm blaise pascal werner von siemens rolf maximilian sievert nikola tesla alessandro volta james watt wilhelm eduard weber see also scientists whose names used non si units scientists whose names used physical constants authority control world cat identities viaf 56711749 lccn n83210758 isni 0000 0001 2134 2542 gnd 11855008 x selibr 237442 sudoc 03401151 x bnf cb124810439 data mgp 67546 nla 35908879 ndl 00443175 nkc jn20000700701 bne xx1150427

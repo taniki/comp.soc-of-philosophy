@@ -1,0 +1,161 @@
+other uses see euclid disambiguation
+euclid euclid justus van gent 15 th century born mid-4 th century bcedied mid-3 rd century bceresidence alexandria hellenistic egypt fields mathematics known euclidean geometry euclid's elements euclidean algorithm euclid /ˈjuːklɪd/ greek εὐκλείδης eukleidēs ancient greek [eu̯
+dɛːs] fl
+300 bce sometimes called euclid alexandria distinguish euclid megara greek mathematician often referred father geometry
+active alexandria during reign ptolemy 323–283 bce
+elements most influential works history mathematics serving main textbook teaching mathematics especially geometry time publication until late 19 th early 20 th century
+elements euclid deduced principles now called euclidean geometry small set axioms
+euclid also works perspective conic sections spherical geometry number theory rigor
+euclid anglicized version greek name εὐκλείδης means renowned glorious
+contents life 2 elements 3 other works 4 see also 5 notes 6 references 7 further reading external links life very few original references euclid survive little known life
+date place circumstances both birth death unknown may estimated roughly relative other figures mentioned alongside
+rarely mentioned name other greek mathematicians archimedes onward usually call ὁ στοιχειώτης author elements
+few historical references euclid written centuries after lived proclus c
+450 ad pappus alexandria c
+320 ad
+proclus introduces euclid briefly commentary elements
+according proclus euclid belonged plato's persuasion brought together elements drawing prior work several pupils plato particularly eudoxus cnidus theaetetus philip opus
+proclus believes euclid much younger these must lived during time ptolemy because mentioned archimedes 287–212 bc
+although apparent citation euclid archimedes judged interpolation later editors works still believed euclid works before those archimedes
+proclus later retells story ptolemy asked there shorter path learning geometry euclid's elements euclid replied there no royal road geometry
+anecdote questionable since similar story menaechmus alexander great
+other key reference euclid pappus briefly mentioned fourth century apollonius spent very long time pupils euclid alexandria thus acquired such scientific habit thought c
+247–222 bc
+detailed biography euclid given arabian authors mentioning example birth town tyre
+biography generally believed completely fictitious
+because lack biographical information unusual period extensive biographies available most significant greek mathematicians several centuries before after euclid researchers proposed euclid fact historical character works written team mathematicians took name euclid historical character euclid megara compare bourbaki
+however hypothesis well accepted scholars there little evidence favor
+elements oldest surviving fragments euclid's elements found oxyrhynchus dated circa ad 100 p
+diagram accompanies book ii proposition 5
+main article euclid's elements although many results elements originated earlier mathematicians euclid's accomplishments present them single logically coherent framework making easy use easy reference including system rigorous mathematical proofs remains basis mathematics 23 centuries later
+there no mention euclid earliest remaining copies elements most copies say edition theon lectures theon while text considered primary held vatican mentions no author
+reference historians rely euclid having written elements proclus briefly commentary elements ascribes euclid author
+although best known geometric results elements also includes number theory
+considers connection perfect numbers mersenne primes known euclid–euler theorem infinitude prime numbers euclid's lemma factorization leads fundamental theorem arithmetic uniqueness prime factorizations euclidean algorithm finding greatest common divisor two numbers
+geometrical system described elements long known simply geometry considered geometry possible
+today however system often referred euclidean geometry distinguish other so-called non-euclidean geometries mathematicians discovered 19 th century
+other works euclid's construction regular dodecahedron
+construction dodecahedron placing faces edges cube
+addition elements least five works euclid survived present day
+follow same logical structure elements definitions proved propositions
+data deals nature implications given information geometrical problems subject matter closely related first four books elements
+divisions figures survives partially arabic translation concerns division geometrical figures two equal parts parts given ratios
+similar third-century ad work heron alexandria
+catoptrics concerns mathematical theory mirrors particularly images formed plane spherical concave mirrors
+attribution held anachronistic however j j o'connor e f robertson name theon alexandria likely author
+phaenomena treatise spherical astronomy survives greek quite similar moving sphere autolycus pitane flourished around 310 bc
+statue honor euclid oxford university museum natural history optics earliest surviving greek treatise perspective
+definitions euclid follows platonic tradition vision caused discrete rays emanate eye
+important definition fourth things seen under greater angle appear greater those under lesser angle less while those under equal angles appear equal
+36 propositions follow euclid relates apparent size object distance eye investigates apparent shapes cylinders cones viewed different angles
+proposition interesting proving any two unequal magnitudes there point two appear equal
+pappus believed these results important astronomy included euclid's optics along phaenomena little astronomy compendium smaller works studied before syntaxis almagest claudius ptolemy
+other works credibly attributed euclid lost
+conics work conic sections later extended apollonius perga famous work subject
+likely first four books apollonius's work come directly euclid
+according pappus apollonius having completed euclid's four books conics added four others handed down eight volumes conics
+conics apollonius quickly supplanted former work time pappus euclid's work already lost
+porisms might outgrowth euclid's work conic sections exact meaning title controversial
+pseudaria book fallacies elementary text errors reasoning
+surface loci concerned either loci sets points surfaces loci themselves surfaces under latter interpretation hypothesized work might dealt quadric surfaces
+several works mechanics attributed euclid arabic sources
+heavy light contains nine definitions five propositions aristotelian notions moving bodies concept specific gravity
+balance treats theory lever similarly euclidean manner containing definition two axioms four propositions
+third fragment circles described ends moving lever contains four propositions
+these three works complement each other such way suggested remnants single treatise mechanics written euclid
+see also axiomatic method euclid's orchard euclidean algorithm euclidean geometry euclidean relation extended euclidean algorithm list topics named after euclid papyrus oxyrhynchus 29 notes ball pp
+boyer pp
+macardle et al
+scientists extraordinary people altered course history
+new york metro books
+harper douglas
+euclidean adj
+online etymology dictionary
+retrieved march 18 2015
+heath 1981 p
+357 joyce david
+clark university department mathematics computer science
+proclus p
+xxx c euclid alexandria mac tutor history mathematics archive
+proclus p
+57 boyer p
+heath 1956 p
+conic sections ancient greece
+jean itard 1962
+les livres arithmétiques d'euclide
+bill casselman
+oldest extant diagrams euclid
+university british columbia
+retrieved 2008-09-26
+struik p
+51 their logical structure influenced scientific thinking perhaps any other text world
+heath 1981 p
+theon article their institution
+retrieved 2014-07-26
+references artmann benno 1999
+euclid creation mathematics
+new york springer
+ball w
+rouse 1960
+short account history mathematics 4 th ed
+dover publications
+boyer carl
+history mathematics 2 nd ed
+john wiley & sons inc
+douglass charlene 2007
+page john
+math open reference
+extensive bibliography
+heath thomas ed
+thirteen books euclid's elements
+dover publications
+heath thomas l
+euclid traditions
+heath thomas l
+euclid elements
+reproduced perseus digital library
+heath thomas l
+history greek mathematics 2 vols
+new york dover publications
+kline morris 1980
+mathematics loss certainty
+oxford oxford university press
+o'connor john j
+robertson edmund f
+euclid alexandria mac tutor history mathematics archive university st andrews
+proclus commentary first book euclid's elements translated glenn raymond morrow princeton university press 1992
+struik dirk j
+concise history mathematics
+dover publications
+van waerden bartel leendert taisbak christian marinus october 30 2014
+encyclopædia britannica
+retrieved november 21 2014
+further reading de lacy estelle allen 1963
+euclid geometry
+new york franklin watts
+knorr wilbur richard 1975
+evolution euclidean elements study theory incommensurable magnitudes significance early greek geometry
+dordrecht holland
+mueller ian 1981
+philosophy mathematics deductive structure euclid's elements
+cambridge ma mit press
+reid constance 1963
+long way euclid
+new york crowell
+szabó árpád 1978
+beginnings greek mathematics
+ungar trans
+dordrecht holland
+external links wikiquote quotations related euclid wikisource original works written euclid wikimedia commons media related euclid
+works euclid project gutenberg works euclid internet archive works euclid libri vox public domain audiobooks euclid's elements thirteen books interactive diagrams using java
+clark university euclid's elements original greek english translation facing pages includes pdf version printing
+university texas
+euclid's elements books i–vi english pdf project gutenberg victorian textbook edition diagrams
+euclid's elements thirteen books several languages spanish catalan english german portuguese arabic italian russian chinese
+elementa geometriae 1482 venice
+rare book room
+elementa 888 ad byzantine
+rare book room
+texts ancient mathematics mathematical astronomy pdf scans note many very large files
+includes editions translations euclid's elements data optica proclus's commentary euclid other historical sources
+elements geometrie most auncient philosopher euclide megara1570 english printing collection rare book special collection division library congress vte ancient greek mathematics mathematicians anaxagoras anthemius archytas aristaeus elder aristarchus apollonius archimedes autolycus bion boethius bryson callippus carpus chrysippus cleomedes conon ctesibius democritus dicaearchus diocles diophantus dinostratus dionysodorus domninus eratosthenes eudemus euclid eudoxus eutocius geminus heron hipparchus hippasus hippias hippocrates hypatia hypsicles isidore miletus leon marinus menaechmus menelaus metrodorus nicomachus nicomedes nicoteles oenopides pappus perseus philolaus philon porphyry posidonius proclus ptolemy pythagoras serenus simplicius sosigenes sporus thales theaetetus theano theodorus theodosius theon alexandria theon smyrna thymaridas xenocrates zeno elea zeno sidon zenodorus treatises almagest archimedes palimpsest arithmetica conics apollonius elements euclid sizes distances aristarchus sizes distances hipparchus moving sphere autolycus sand reckoner problems problem apollonius squaring circle doubling cube angle trisection centers cyrene library alexandria platonic academy timeline ancient greek mathematicians vte ancient greece outline timeline history geography periods cycladic civilization minoan civilization mycenaean civilization greek dark ages archaic period classical greece hellenistic greece roman greece geography aegean sea aeolis alexandria antioch cappadocia crete cyprus doris ephesus epirus hellespont ionia ionian sea macedonia magna graecia miletus peloponnesus pergamon pontus ancient greek colonies city states politics military city states argos athens byzantium chalkis corinth megalopolis rhodes sparta syracuse thebes politics boeotarch boule koinon proxeny strategos tagus tyrant amphictyonic league athenian agora areopagus ecclesia graphē paranómōn heliaia ostracism spartan apella ephor gerousia harmost macedon synedrion koinon military wars athenian military antigonid macedonian army army macedon ballista cretan archers hellenistic armies hippeis hoplite hetairoi macedonian phalanx phalanx peltast pezhetairos sarissa sacred band thebes sciritae seleucid army spartan army toxotai xiphos xyston people list ancient greeks rulers kings argos archons athens kings athens kings commagene diadochi kings lydia kings macedonia kings paionia attalid kings pergamon kings pontus kings sparta tyrants syracuse philosophers anaxagoras anaximander anaximenes antisthenes aristotle democritus diogenes sinope empedocles epicurus gorgias heraclitus hypatia leucippus parmenides plato protagoras pythagoras socrates thales zeno authors aeschylus aesop alcaeus archilochus aristophanes bacchylides euripides herodotus hesiod hipponax homer ibycus lucian menander mimnermus pindar plutarch polybius sappho simonides sophocles stesichorus theognis thucydides timocreon tyrtaeus xenophon others agesilaus ii agis ii alcibiades alexander great aratus archimedes aspasia demosthenes epaminondas euclid hipparchus hippocrates leonidas lycurgus lysander milo croton miltiades pausanias pericles philip macedon philopoemen praxiteles ptolemy pyrrhus solon themistocles groups philosophers playwrights poets tyrants culture ancient greek tribes thracian greeks ancient macedonians society culture society agriculture calendar clothing coinage cuisine economy education festivals funeral burial practices homosexuality law olympic games pederasty philosophy prostitution religion slavery warfare wedding customs wine arts sciences architecture greek revival architecture astronomy literature mathematics medicine music musical system pottery sculpture technology theatre religion funeral burial practices mythology mythological figures temple twelve olympians underworld sacred places eleusis delphi delos dodona mount olympus olympia structures athenian treasury lion gate long walls philippeion theatre dionysus tunnel eupalinos temples aphaea artemis athena nike erechtheion hephaestus hera olympia parthenon samothrace zeus olympia language proto-greek mycenaean homeric dialects aeolic arcadocypriot attic doric ionic locrian macedonian pamphylian koine writing linear linear cypriot syllabary greek alphabet greek numerals attic numerals lists cities epirus people place names stoae temples theatres category portal wiki project authority control world cat identities viaf 176184097 lccn n50043341 isni 0000 0001 2321 3955 gnd 118638955 selibr 185706 sudoc 026854651 bnf cb11901997 s data nkc jn20011024099 rls 000002326 bne xx1000405

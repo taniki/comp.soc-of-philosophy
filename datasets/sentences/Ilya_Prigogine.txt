@@ -1,0 +1,214 @@
+article includes list references sources remain unclear because insufficient inline citations
+please help improve article introducing precise citations
+october 2010 ilya prigogine born ilya romanovich prigogine1917-01-2525 january 1917 moscow russian empire died 28 may 20032003-05-28 aged 86 brussels belgium nationality belgian fields chemistry physics institutions université libre de bruxelles international solvay institute university texas austin alma mater université libre de bruxelles doctoral advisor théophile de donder doctoral students adi bulsara radu bălescu dilip kondepudi zili zhang known dissipative structures brusselator influences ludwig boltzmann alan turing henri bergson michel serres influenced isabelle stengers immanuel wallerstein notable awards francqui prize 1955 rumford medal 1976 nobel prize chemistry 1977 spouse hélène jofé m
+1945 child maria prokopowicz m
+1961 child viscount ilya romanovich prigogine /ˈpriːɡoʊᵈʒiːn/ russian илья́ рома́нович приго́жин ilya romanovich prigozhin 25 january 1917 28 may 2003 belgian physical chemist nobel laureate noted work dissipative structures complex systems irreversibility
+contents biography 2 research 2
+dissipative structures theory 2
+2 work unsolved problems physics 2
+3 end certainty 3 publications 4 see also 5 notes 6 references 7 external links biography prigogine born moscow few months before russian revolution 1917 jewish family
+father roman ruvim abramovich prigogine chemical engineer imperial moscow technical school mother yulia vikhman pianist
+because family critical new soviet system left russia 1921
+first went germany 1929 belgium prigogine received belgian nationality 1949
+brother alexandre 1913-1991 became ornithologist
+prigogine studied chemistry université libre de bruxelles 1950 became professor
+1959 appointed director international solvay institute brussels belgium
+year also started teaching university texas austin united states later appointed regental professor ashbel smith professor physics chemical engineering
+1961 until 1966 affiliated enrico fermi institute university chicago
+austin 1967 co-founded center thermodynamics statistical mechanics now center complex quantum systems
+year also returned belgium became director center statistical mechanics thermodynamics
+member numerous scientific organizations received numerous awards prizes 53 honorary degrees
+1955 ilya prigogine awarded francqui prize exact sciences
+study irreversible thermodynamics received rumford medal 1976 1977 nobel prize chemistry
+1989 awarded title viscount belgian nobility king belgians
+until death president international academy science munich 1997 founders international commission distance education code worldwide accreditation agency
+1998 awarded honoris causa doctorate unam mexico city
+prigogine first married belgian poet hélène jofé author also known hélène prigogine 1945 son yves
+after their divorce married polish-born chemist maria prokopowicz also known maria prigogine 1961
+1970 son pascal
+2003 nobel laureates signed humanist manifesto
+research prigogine best known definition dissipative structures their role thermodynamic systems far equilibrium discovery won nobel prize chemistry 1977
+summary ilya prigogine discovered importation dissipation energy chemical systems reverse maximization entropy rule imposed second law thermodynamics
+dissipative structures theory dissipative structure theory led pioneering research self-organizing systems well philosophical inquiries formation complexity biological entities quest creative irreversible role time natural sciences
+see criticism joel keizer ronald fox
+professor robert herman also developed basis two fluid model traffic model traffic engineering urban networks analogous two fluid model classical statistical mechanics
+prigogine's formal concept self-organization used also complementary bridge general systems theory thermodynamics conciliating cloudiness important systems theory concepts[which?] scientific rigour
+[citation needed] work unsolved problems physics see also unsolved problems physics later years work concentrated fundamental role indeterminism nonlinear systems both classical quantum level
+prigogine coworkers proposed liouville space extension quantum mechanics
+liouville space vector space formed set self-adjoint linear operators equipped inner product act hilbert space
+there exists mapping each linear operator liouville space yet every self-adjoint operator liouville space counterpart hilbert space sense liouville space richer structure hilbert space
+liouville space extension proposal prigogine co-workers aimed solve arrow time problem thermodynamics measurement problem quantum mechanics
+prigogine co-authored several books isabelle stengers including end certainty nouvelle alliance order out chaos
+end certainty 1996 book fin des certitudes co-authored isabelle stengers published english 1997 end certainty time chaos new laws nature prigogine contends determinism no longer viable scientific belief
+know our universe difficult becomes believe determinism
+major departure approach newton einstein schrödinger whom expressed their theories terms deterministic equations
+according prigogine determinism loses explanatory power face irreversibility instability
+prigogine traces dispute over determinism back darwin whose attempt explain individual variability according evolving populations inspired ludwig boltzmann explain behavior gases terms populations particles rather individual particles
+led field statistical mechanics realization gases undergo irreversible processes
+deterministic physics processes time-reversible meaning proceed backward well forward through time
+prigogine explains determinism fundamentally denial arrow time
+no arrow time there no longer privileged moment known present follows determined past precedes undetermined future
+time simply given future determined undetermined past
+irreversibility arrow time reintroduced physics
+prigogine notes numerous examples irreversibility including diffusion radioactive decay solar radiation weather emergence evolution life
+like weather systems organisms unstable systems existing far thermodynamic equilibrium
+instability resists standard deterministic explanation
+instead due sensitivity initial conditions unstable systems explained statistically terms probability
+prigogine asserts newtonian physics now extended three times[citation needed] first use wave function quantum mechanics then introduction spacetime general relativity finally recognition indeterminism study unstable systems
+publications prigogine
+defay r
+chemical thermodynamics
+london longmans green co
+prigogine ilya 1957
+molecular theory solutions
+amsterdam north holland publishing company
+prigogine ilya 1961
+introduction thermodynamics irreversible processes second ed
+new york interscience
+oclc 219682909
+glansdorff paul prigogine
+thermodynamics theory structure stability fluctuations
+london wiley-interscience
+prigogine ilya herman r
+kinetic theory vehicular traffic
+new york american elsevier
+prigogine ilya nicolis g
+self-organization non-equilibrium systems
+prigogine ilya 1980
+being becoming
+prigogine ilya stengers isabelle 1984
+order out chaos man's new dialogue nature
+behavior matter under nonequilibrium conditions fundamental aspects applications energy-oriented problems progress report period september 1984--november 1987 department physics university texas-austin united states department energy 7 october 1987
+behavior matter under nonequilibrium conditions fundamental aspects applications progress report april 15 1988--april 14 1989 center studies statistical mathematics university texas-austin united states department energy january 1989
+behavior matter under nonequilibrium conditions fundamental aspects applications progress report period august 15 1989 april 14 1990 center studies statistical mechanics university texas-austin united states department energy-office energy research october 1989
+nicolis g
+exploring complexity introduction
+new york ny w
+time dynamics chaos integrating poincare's 'non-integrable systems' center studies statistical mechanics complex systems university texas-austin united states department energy-office energy research commission european communities october 1990
+behavior matter under nonequilibrium conditions fundamental aspects applications progress report period april 151990 - april 14 center studies statistical mechanics complex systems university texas-austin united states department energy-office energy research december 1990
+prigogine ilya 1993
+chaotic dynamics transport fluids plasmas research trends physics series
+new york american institute physics
+prigogine ilya stengers isabelle 1997
+end certainty
+free press
+kondepudi dilip prigogine ilya 1998
+modern thermodynamics heat engines dissipative structures
+prigogine ilya 2002
+advances chemical physics
+new york wiley inter science
+retrieved 2008-07-29
+editor stuart
+rice advances chemical physics book series published john wiley & sons presently over 140 volumes see also systems science portal autocatalytic reactions order creation list jewish nobel laureates systems theory process philosophy notes h
+bunke t
+kanade h
+noltemeier ed
+modelling planning sensor based intelligent robot systems world scientific 1995 p
+gunter p
+bergson non-linear non-equilibrium thermodynamics application method revue internationale de philosophie 177 pp
+michel serres hermes johns hopkins university press 1982 p
+francis leroy
+century nobel prizes recipients chemistry physics medicine p
+retrieved 2012-03-12
+vicomte ilya prigogine obituary telegraph
+retrieved 2012-03-12
+magnus ramage karen shipp
+systems thinkers p
+retrieved 2012-03-12
+andrew robinson
+time notion
+retrieved 2012-03-12
+time change
+retrieved 2012-03-12
+biography ilya prigogine
+retrieved 2012-03-12
+louette michel 1992
+obituary alexandre prigogine 1913-1991
+ibis 134 89–90
+1474-919 x
+nobel prize-winning physical chemist dies brussels age 86
+retrieved 2012-12-19
+html http//www
+pdf prigogine ilya
+curriculum vitae ilya prigogine future given
+world scientific
+notable signers
+humanism aspirations
+american humanist association
+retrieved 4 october
+macklem p
+3 april 2008
+emergent phenomena secrets life
+journal applied physiology 104 6 1844–1846
+gregg jaeger quantum information overview springer 2007 chapter
+3 lioville space open quantum systems p
+248 t
+sida k
+saitô si si eds
+quantum information complexity proceedings meijo winter school 6–10 january 2003 world scientific publishing 2004 p
+62 t
+prigogine 1997
+liouville space extension quantum mechanics
+advances chemical physics 99 1–120
+|access-date= requires |url= help prigogine & stengers 1997 p
+references karl grandin ed
+ilya prigogine autobiography
+les prix nobel
+nobel foundation
+retrieved 2008-07-24
+eftekhari ali 2003
+obituary - prof
+ilya prigogine 1917-2003 pdf
+adaptive behavior 2 129–131
+barbra rodriguez 2003-05-28
+biography nobel prize-winning physical chemist dies brussels age 86 check |url= value help
+university texas austin
+retrieved 2008-07-29
+external links wikimedia commons media related ilya prigogine
+wikiquote quotations related ilya prigogine biography bibliographic resources office scientific technical information united states department energy nobel lecture december 1977 center complex quantum systems emergent computation hostile notes ilya prigogine cosma rohilla shalizi video ilya prigogine talking complexity you tube interview ilya prigogine giannis zisis you tube interview prigogine belgian vrt 1977 vte laureates nobel prize chemistry1901–1925 1901 jacobus van 't hoff 1902 emil fischer 1903 svante arrhenius 1904 william ramsay 1905 adolf von baeyer 1906 henri moissan 1907 eduard buchner 1908 ernest rutherford 1909 wilhelm ostwald 1910 otto wallach 1911 marie curie 1912 victor grignard / paul sabatier 1913 alfred werner 1914 theodore richards 1915 richard willstätter 1916 1917 1918 fritz haber 1919 1920 walther nernst 1921 frederick soddy 1922 francis aston 1923 fritz pregl 1924 1925 richard zsigmondy 1926–1950 1926 theodor svedberg 1927 heinrich wieland 1928 adolf windaus 1929 arthur harden / hans von euler-chelpin 1930 hans fischer 1931 carl bosch / friedrich bergius 1932 irving langmuir 1933 1934 harold urey 1935 frédéric joliot-curie / irène joliot-curie 1936 peter debye 1937 norman haworth / paul karrer 1938 richard kuhn 1939 adolf butenandt / leopold ružička 1940 1941 1942 1943 george de hevesy 1944 otto hahn 1945 artturi virtanen 1946 james
+sumner / john northrop / wendell meredith stanley 1947 robert robinson 1948 arne tiselius 1949 william giauque 1950 otto diels / kurt alder 1951–1975 1951 edwin mc millan / glenn t
+seaborg 1952 archer martin / richard synge 1953 hermann staudinger 1954 linus pauling 1955 vincent du vigneaud 1956 cyril hinshelwood / nikolay semyonov 1957 alexander todd 1958 frederick sanger 1959 jaroslav heyrovský 1960 willard libby 1961 melvin calvin 1962 max perutz / john kendrew 1963 karl ziegler / giulio natta 1964 dorothy hodgkin 1965 robert woodward 1966 robert s
+mulliken 1967 manfred eigen / ronald norrish / george porter 1968 lars onsager 1969 derek barton / odd hassel 1970 luis federico leloir 1971 gerhard herzberg 1972 christian
+anfinsen / stanford moore / william stein 1973 ernst otto fischer / geoffrey wilkinson 1974 paul flory 1975 john cornforth / vladimir prelog 1976–2000 1976 william lipscomb 1977 ilya prigogine 1978 peter
+mitchell 1979 herbert c
+brown / georg wittig 1980 paul berg / walter gilbert / frederick sanger 1981 kenichi fukui / roald hoffmann 1982 aaron klug 1983 henry taube 1984 robert merrifield 1985 herbert
+hauptman / jerome karle 1986 dudley r
+herschbach / yuan t
+lee / john polanyi 1987 donald j
+cram / jean-marie lehn / charles j
+pedersen 1988 johann deisenhofer / robert huber / hartmut michel 1989 sidney altman / thomas cech 1990 elias corey richard r
+ernst 1992 rudolph
+marcus 1993 kary mullis / michael smith 1994 george olah 1995 paul j
+crutzen / mario j
+molina / frank rowland 1996 robert curl / harold kroto / richard smalley 1997 paul
+boyer / john e
+walker / jens christian skou 1998 walter kohn / john pople 1999 ahmed zewail 2000 alan j
+heeger / alan mac diarmid / hideki shirakawa 2001–present 2001 william knowles / ryoji noyori / k
+barry sharpless 2002 john
+fenn / koichi tanaka / kurt wüthrich 2003 peter agre / roderick mac kinnon 2004 aaron ciechanover / avram hershko / irwin rose 2005 robert h
+grubbs / richard r
+schrock / yves chauvin 2006 roger
+kornberg 2007 gerhard ertl 2008 osamu shimomura / martin chalfie / roger
+tsien 2009 venkatraman ramakrishnan / thomas
+steitz / ada e
+yonath 2010 richard f
+heck / akira suzuki / ei-ichi negishi 2011 dan shechtman robert lefkowitz / brian kobilka 2013 martin karplus / michael levitt / arieh warshel 2014 eric betzig / stefan hell / william e
+moerner 2015 tomas lindahl / paul l
+modrich / aziz sancar vte international society systems sciences presidents russell ackoff 1987-88 ilya prigogine 1988 charles west churchman 1989 len troncale 1990 howard odum ian mitroff 1992 harold linstone 1993 j
+donald r
+de raadt 1994 ervin lászló 1995 yong pil rhee 1996 g
+swanson 1997 béla
+bánáthy 1998 peter
+corning 1999 harold g
+nelson 2000 michael c
+jackson 2001 alexander christakis 2002 kenneth
+bailey 2003 enrique herrscher 2004-2005 debora hammond 2005-2006 kyoichi kijima 2006-2007 gary metcalf 2007-2008 timothy allen 2008-2009 allenna leonard 2009-2010 jennifer wilby 2010-2011 david ing 2011-2012 alexander laszlo 2012-2013 gerald midgley 2013-2014 ray ison 2014-2015 john kineman 2015-2016 society general systems research presidents vte systems · systems science systemstypes anatomical art biological complex complex adaptive conceptual coupled human–environment database dynamical ecological economic formal global positioning holarchic information legal measurement metric multi-agent nervous nonlinear operating physical planetary political sensory social star writing theoreticalfields chaos theory complex systems control theory cybernetics earth system science living systems sociotechnical system systemics urban metabolism world-systems theory systems
+analysis biology dynamics ecology engineering neuroscience psychology science theory thinking systemsscientists russell l
+ackoff william ross ashby béla h
+bánáthy gregory bateson anthony stafford beer richard e
+bellman ludwig von bertalanffy kenneth e
+boulding murray bowen c
+west churchman george dantzig heinz von foerster jay wright forrester charles s hall james j
+kay george klir edward norton lorenz niklas luhmann humberto maturana margaret mead donella meadows mihajlo
+mesarovic james grier miller howard t
+odum talcott parsons ilya prigogine qian xuesen anatol rapoport peter senge claude shannon francisco varela kevin warwick norbert wiener anthony wilden categories systems conceptual physical social systems science systems science portal authority control world cat identities viaf 99876969 lccn n79045078 isni 0000 0000 8169 3793 gnd 11883567 x sudoc 059782579 bnf cb11920651 t data mgp 45826 nla 36554406 ndl 00453344 nkc jn19981002038 iccu it\iccu\cfiv\012023 bne xx1077477

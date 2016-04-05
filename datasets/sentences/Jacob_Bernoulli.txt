@@ -1,0 +1,129 @@
+other family members named jacob see bernoulli family
+article needs additional citations verification
+please help improve article adding citations reliable sources
+unsourced material may challenged removed
+june 2010 jacob bernoulli jacob bernoulli born 1654-12-2727 december 1654 basel switzerland died 16 august 17051705-08-16 aged 50 basel switzerland residence switzerland fields mathematics mechanics institutions university basel alma mater university basel theses primi et secundi adami collatio 1676 solutionem tergemini problematis arithmetici geometrici et astronomici 1684 doctoral advisor peter werenfels other academic advisors gottfried leibniz nicolas malebranche doctoral students johann bernoulli jacob hermann nicolaus bernoulli known bernoulli differential equation bernoulli numbers bernoulli's formula bernoulli polynomials bernoulli map bernoulli trial bernoulli process bernoulli scheme bernoulli operator hidden bernoulli model bernoulli sampling bernoulli distribution bernoulli random variable bernoulli's golden theorem bernoulli's inequality lemniscate bernoulli notes brother johann bernoulli jacob bernoulli also known james jacques 6 january 1655 [o
+27 december 1654] 16 august 1705 many prominent mathematicians bernoulli family
+early proponent leibnizian calculus sided leibniz during leibniz–newton calculus controversy
+known numerous contributions calculus along brother johann founders calculus variations
+however most important contribution field probability derived first version law large numbers work ars conjectandi
+contents biography 2 important works 3 discovery mathematical constant e 4 translation latin inscription bernoulli's tomb 5 references 6 further reading 7 external links biography jacob bernoulli born basel switzerland
+following father's wish studied theology entered ministry
+contrary desires parents[citation needed] also studied mathematics astronomy
+traveled throughout europe 1676 1682 learning latest discoveries mathematics sciences under leading figures time
+included work johannes hudde robert boyle robert hooke
+during time also produced incorrect theory comets
+bernoulli returned switzerland began teaching mechanics university basel 1683
+1684 married judith stupanus two children
+during decade also began fertile research career
+travels allowed establish correspondence many leading mathematicians scientists era maintained throughout life
+during time studied new discoveries mathematics including christiaan huygens's de ratiociniis aleae ludo descartes' geometrie frans van schooten's supplements
+also studied isaac barrow john wallis leading interest infinitesimal geometry
+apart these 1684 1689 many results make up ars conjectandi discovered
+appointed professor mathematics university basel 1687 remaining position rest life
+time begun tutoring brother johann bernoulli mathematical topics
+two brothers began study calculus presented leibniz 1684 paper differential calculus nova methodus pro maximis et minimis published acta eruditorum
+also studied publications von tschirnhaus
+must understood leibniz's publications calculus very obscure mathematicians time bernoullis first try understand apply leibniz's theories
+jacob collaborated brother various applications calculus
+however atmosphere collaboration two brothers turned rivalry johann's own mathematical genius began mature both them attacking each other print posing difficult mathematical challenges test each other's skills
+1697 relationship completely broken down
+jacob bernoulli died 1705
+bernoulli chose figure logarithmic spiral motto eadem mutata resurgo changed yet same rise again gravestone spiral executed stonemasons however archimedean spiral “[jacob bernoulli] logarithmic spiral ‘may used symbol either fortitude constancy adversity human body after changes even after death will restored exact perfect self’
+livio 2002 116
+grave basel munster cathedral gravestone shown below located
+lunar crater bernoulli also named after jointly brother johann
+important works jacob bernoulli's grave
+jacob bernoulli's first important contributions pamphlet parallels logic algebra published 1685 work probability 1685 geometry 1687
+geometry result gave construction divide any triangle four equal parts two perpendicular lines
+1689 published important work infinite series published law large numbers probability theory
+jacob bernoulli published five treatises infinite series 1682 1704 first two these contained many results such fundamental result diverges bernoulli believed new actually proved mengoli 40 years earlier
+bernoulli find closed form show converged finite limit less 2
+euler first find sum series 1737
+bernoulli also studied exponential series came out examining compound interest
+may 1690 paper published acta eruditorum jacob bernoulli showed problem determining isochrone equivalent solving first-order nonlinear differential equation
+isochrone curve constant descent curve along particle will descend under gravity any point bottom exactly same time no matter starting point
+studied huygens 1687 leibniz 1689
+after finding differential equation bernoulli then solved now call separation variables
+jacob bernoulli's paper 1690 important history calculus since term integral appears first time integration meaning
+1696 bernoulli solved equation now called bernoulli differential equation jacob bernoulli also discovered general method determine evolutes curve envelope circles curvature
+also investigated caustic curves particular studied these associated curves parabola logarithmic spiral epicycloids around 1692
+lemniscate bernoulli first conceived jacob bernoulli 1694
+1695 investigated drawbridge problem seeks curve required weight sliding along cable keeps drawbridge balanced
+jacob bernoulli's most original work ars conjectandi published basel 1713 eight years after death
+work incomplete time death still work greatest significance theory probability
+book bernoulli reviewed work others probability particular work van schooten leibniz prestet
+bernoulli numbers appear book discussion exponential series
+many examples given how much expect win playing various games chance
+term bernoulli trial resulted work
+there interesting thoughts probability really
+probability measurable degree certainty necessity chance moral versus mathematical expectation priori posteriori probability expectation winning players divided according dexterity regard available arguments their valuation their calculable evaluation law large numbers
+bernoulli most significant promoters formal methods higher analysis
+astuteness elegance seldom found method presentation expression there maximum integrity
+discovery mathematical constant e 1683 bernoulli discovered constant e studying question compound interest required find value following expression fact e example account starts $1
+00 pays 100 percent interest per year
+interest credited once end year value $2
+00 interest computed added twice year $1 multiplied
+5 twice yielding $1
+5² = $2
+compounding quarterly yields $1
+254 = $2
+compounding monthly yields $1
+12 = $2
+bernoulli noticed sequence approaches limit force interest smaller compounding intervals
+compounding weekly yields $2
+while compounding daily yields $2
+just two cents
+using n number compounding intervals interest 100%/n each interval limit large n number euler later named e continuous compounding account value will reach $2
+generally account starts $1 yields 1+r dollars simple interest will yield e r dollars continuous compounding
+translation latin inscription bernoulli's tomb iacobus bernoulli mathematicus incomparabilis acad
+vltra xviii annos prof
+item regiae paris
+et berolin
+socius editis lucubrat
+morbo chronico mente ad extremum integra anno salut
+augusti aetatis l
+vii extinctus resurrect
+hic praestolatur iuditha stupana xx annor
+uxor cum duobus liberis marito et parenti eheu desideratiss
+jacob bernoulli incomparable mathematician
+professor university basel 18 years member royal academies paris berlin famous writings
+chronic illness sound mind end succumbed year grace 1705 16 th august age 50 years 7 months awaiting resurrection
+judith stupanus wife 20 years two children erected monument husband father miss much
+references jacob jacques bernoulli mac tutor history mathematics archive school mathematics statistics university st andrews uk
+jacob bernoulli 1690 quæstiones nonnullæ de usuris cum solutione problematis de sorte alearum propositi ephem
+1685 questions interest solution problem games chance proposed journal des savants ephemerides eruditorum gallicanæ year anno 1685
+** acta eruditorum pp
+222 bernoulli poses question alterius naturæ hoc problema est quæritur si creditor aliquis pecuniæ summam fænori exponat ea lege ut singulis momentis pars proportionalis usuræ annuæ sorti annumeretur quantum ipsi finito anno debeatur? problem another kind question lender invest [a] sum money [at] interest let accumulate [at] every moment [it] receive [a] proportional part [its] annual interest how much owed [at the] end [the] year? bernoulli constructs power series calculate answer then writes … quæ nostra serie [mathematical expression geometric series] &c
+major est
+… si a=b debebitur plu quam 2½a & minus quam 3
+… our series [a geometric series] larger [than]
+… a=b [the lender] will owed 2½a less 3
+a=b geometric series reduces series × e 2
+5 < e < 3
+** reference problem jacob bernoulli posed appears journal des sçavans 1685 bottom page 314
+number e
+st andrews university
+retrieved jan 2016
+|first1= missing |last1= authors list help further reading hoffman j
+bernoulli jakob jacques
+dictionary scientific biography 2
+new york charles scribner's sons
+schneider 2005
+jakob bernoulli ars conjectandi 1713
+grattan-guinness ivor
+landmark writings western mathematics 1640–1940
+livio mario 2002
+golden ratio story phi world's most astonishing number
+broadway books
+external links jacob bernoulli mathematics genealogy project o'connor john j
+robertson edmund f
+jacob bernoulli mac tutor history mathematics archive university st andrews
+bernoulli jakob
+tractatus de seriebus infinitis pdf
+weisstein eric w
+bernoulli jakob 1654–1705 science world
+vte bernoulli family tree section does cite any sources
+please help improve section adding citations reliable sources
+unsourced material may challenged removed
+april 2015 nicolus bernoulli 1623–1708 jacob bernoulli 1654–1705 nicolaus bernoulli 1662–1716 johann bernoulli 1667–1748 nicolaus bernoulli 1687–1759 nicolaus ii bernoulli 1695–1726 daniel bernoulli 1700–1782 johann ii bernoulli 1710–1790 johann iii bernoulli 1744–1807 daniel ii bernoulli 1751–1834 nicolaus iv bernoulli 1754–1841 jakob ii bernoulli 1759–1789 nicolaus 1793–1876 fritz 1824–1913 theodor 1837–1909 hermann hesse 1877–1962 maria bernoulli 1868–1963 hans benno bernoulli 1876–1959 notes family tree bernoulli family authority control world cat identities viaf 14793931 lccn n83196756 isni 0000 0001 1021 5046 gnd 118509950 sudoc 029042062 bnf cb120751142 data mgp 54440

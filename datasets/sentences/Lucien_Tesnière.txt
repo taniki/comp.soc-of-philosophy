@@ -1,0 +1,200 @@
+lucien tesnière born 1893-05-1313 may 1893 mont-saint-aignan france died 6 december 19541954-12-06 aged 61 montpellier france era 20 th century school structuralism main interests linguistics syntax notable ideas dependency grammar valency influences wilhelm von humboldt ferdinand de saussure influenced igor mel'čuk lucien tesnière french [lysjɛ̃ tɛnjɛʁ] may 13 1893 december 6 1954 prominent influential french linguist
+born mont-saint-aignan may 13 1893
+professor strasbourg 1924 later montpellier 1937 published many papers books slavic languages
+however importance history linguistics based mainly development approach syntax natural languages become known dependency grammar
+presented theory book éléments de syntaxe structurale elements structural syntax published posthumously 1959
+book proposes sophisticated formalization syntactic structures supported many examples diversity languages
+tesnière died montpellier december 6 1954
+many central concepts modern study syntax takes granted developed presented tesnière's book
+instance tesnière developed concept valency detail primary distinction arguments actants adjuncts circumstants french circonstants most theories syntax now acknowledge build central tesnière's understanding
+tesnière also argued vehemently syntax autonomous morphology semantics
+stance similar generative grammar takes syntax separate component human faculty language
+contents biography 2 central ideas tesnière's conception syntax 2
+connections 2
+2 autonomous syntax 2
+3 verb centrality 2
+4 stemmas 2
+5 centrifugal head-initial centripetal head-final languages 2
+6 valency 2
+7 actants vs
+circonstants 2
+transfer 3 legacy 4 see also 5 notes 6 main works 7 secondary works biography lucien tesnière born may 13 1893 mont-saint-aignan now suburb rouen north-west france
+studied latin greek german school
+spent time abroad young man england germany italy
+enrolled university sorbonne university leipzig studying germanic languages wwi broke out
+mobilized august 12 th sent front october 15 th
+became prisoner war 16 th february 1915
+interned camp merseburg 4000 other prisoners nationalities
+during 40 months captivity continued intense study languages
+also worked german authorities french-english-russian-italian-german interpreter
+continued studies sorbonne after war
+studied joseph vendryes collège de france under tutelage antoine meillet prominent linguist time
+tesnière then invited lecturer university lubjana now capital slovenia doctoral thesis disappearance dual slovenien
+married jeanne roulier zagreb fathered three children her
+february 1924 tesnière became associate professor slavic language literature university strasbourg capital alsace border germany taught russian old slavic
+tesnière promoted professor grammaire comparée university montpellier south france 1937
+during wwii tesnière worked cryptography officer military intelligence so-called deuxième bureau
+became very sick after war 1947 health remained poor until died december 6 th 1954
+primary oeuvre éléments de syntaxe structurale then published five years later 1959 due constant efforts wife jeanne help colleagues friends
+central ideas tesnière's conception syntax following subsections consider central ideas concepts tesnière's approach syntax
+following areas touched connections 2 autonomous syntax 3 verb centrality 4 stemmas 5 centripetal head-initial centrifugal head-final languages 6 valency 7 actants circonstants transfer
+connections tesnière begins presentation theory syntax connection
+connections present words sentences
+group words together creating units assigned meaning
+tesnière writes every word sentence isolated dictionary
+mind perceives connections word neighbors
+totality these connections forms scaffold sentence
+these connections indicated anything absolutely crucial perceived mind without them sentence intelligible
+sentence type alfred spoke composed just two elements alfred spoke rather three elements first being alfred second spoke third connection unites them without there no sentence
+say sentence type alfred spoke consists two elements analyze superficial manner purely morphologically while neglecting essential aspect syntactic link
+connections tesnière describes passage now widely called dependencies hence term dependency grammar
+two words connected dependency equal status rather word superior other subordinate
+tesnière called superior word governor inferior word subordinate
+acknowledging totality connections words sentence tesnière position assign sentence concrete syntactic structure terms stemma see below
+autonomous syntax tesnière rejected influence morphology field syntax
+doing promoting break tradition linguistics focused concrete forms such affixes inflectional paradigms associated study languages antiquity latin greek
+tesnière argued study syntax should limited examination concrete forms rather acknowledge explore connections just described above
+pointed key concept innere sprachform 'inner speech form' established wilhelm von humboldt
+since innere sprachform
+connections abstract cannot acknowledge explore central role plays syntax focusing just concrete forms
+tesnière arguing other words syntax largely independent morphology autonomous component natural language
+tesnière also saw syntax semantics separate domains language
+illustrate separation produced nonsensical sentence le silence vertébral indispose voile licite 'the vertebral silence indisposes licit sail'
+emphasized while sentence nonsensical well-formed syntactic point view forms words their order appearance correct
+noam chomsky made same point famous sentence colorless green ideas sleep furiously
+verb centrality tesnière argued vehemently against binary division clause subject predicate prevalent study syntax replaced division verb centrality
+stated division stems logic no place linguistics
+positioned verb root clause structure whereby other elements clause either directly indirectly dependent verb
+tesnière illustrated distinction diagrammatic representations stemmas french sentence alfred parle lentement 'alfred speaks slowly' latin sentence filius amat patrem 'the father loves son' diagram french sentence above illustrates binary division tesnière rejected clause divided two parts subject alfred predicate parle lentement
+latin sentence below illustrates verb centrality tesnière espoused verb amat root clause subject filius object patrem dependents
+importance distinction resides overall understanding sentence structure arises these competing views
+theory syntax starts binary division likely become phrase structure grammar constituency grammar whereas theory syntax starts verb centrality likely become dependency grammar
+stemmas tesnière relied heavily tree-like diagrams represent understanding sentence structure syntax pursuing
+called these diagrams stemmas - éléments contains over 350 them
+these stemmas show connections manner connections link words sentences hierarchy structure e
+these diagrams show main traits tesnière's conception syntactic structure
+verb centrality evident since verb highest word stemma root
+syntactic units present constituents phrases identified correspond complete subtrees
+important aspect these stemmas unordered
+reflect actual word order
+tesnière structural order hierarchical order preceded linear order mind speaker
+speaker first conceives he/she wants say whereby conception consists words organized hierarchically terms connections structural order
+act speaking involves transforming structural order linear order conversely act hearing understanding involves transforming linear order structural order
+strict separation ordering dimensions point contention among modern dependency grammars
+dependency grammars
+stratified ones e
+meaning-text theory functional generative description build strict separation structural order linear order whereas other dependency grammars e
+word grammar monostratal syntax hence reject separation
+centrifugal head-initial centripetal head-final languages given hierarchical organization syntactic units posited represented using stemmas tesnière identified centripetal centrifugal structures
+modern terms these concepts head-initial centrifugal head-final centripetal
+centrifugal structures see governors heads preceding their dependents whereas situation reversed centrifugal structures dependents preceding their heads e
+tesnière actually produce ordered stemmas like two right here
+does choose reflect word order stemmas then distinction centrifugal vs
+centripetal structures tesnière established clearly visible
+following two trees english sentences stop attempting sister's attempts succeeded illustrate distinction stemmas clearly show manner centrifugal structures extend down right centripetal structures down left
+tesnière classified languages according whether centrifugal centripetal vice versa
+distinction since become mainstay language typology
+languages classified terms their head-directionality parameter predominantly head-initial head-final
+semitic languages e
+hebrew arabic instance much centrifugal centripetal certain east asian languages much centripetal centrifugal e
+japanese korean
+english mitigated language according tesnière meaning contains good mixture both centrifugal centripetal structures
+valency valency metaphor tesnière contributed our understanding nature lexicon
+compared verbs molecules
+like oxygen atom o attracts two hydrogen atoms h create h2 o molecule verbs attract actants create clauses
+verbs therefore valency
+tesnière distinguished verbs avalent no actant monovalent actant divalent two actants trivalent three actants
+english examples follow avalent verb rained
+- verb rain avalent pronoun semantically devoid content
+monovalent verb sam slept
+- verb sleep monovalent takes single actant divalent verb susan knows sam
+- verb know divalent takes two actants subject actant object actant trivalent verb sam gave susan earrings
+- verb give trivalent takes three actants subject actant two object actants
+valency characteristics verbs play role exploration various mechanisms syntax
+particular various phenomena diathesis active passive reflexive reciprocal recessive sensitive underlying valency verbs
+concept valency now widely acknowledged study syntax even most phrase structures grammars acknowledging valency predicates
+actants vs
+circonstants addition actants tesnière acknowledged circumstants french circonstants
+while actants appear verb important completing meaning verb circumstants add optional content e
+tomorrow alfred leaving noon
+- circumstants tomorrow noon add optional content
+sees lot time everywhere
+- circumstants lot time everywhere add optional content
+number actants appear clause limited valency characteristics clause-establishing verb whereas number circumstants appear clause theoretically unlimited since circumstants restricted verb valency
+modern syntax acknowledges actants circumstants course also although uses different terminology
+actants known arguments circumstants adjuncts again tesnière identified explored key concepts now mainstay modern study syntax
+transfer second half elements 300 pages focuses theory transfer french translation
+transfer component tesnière's theory addresses syntactic categories
+tesnière interested keeping number principle syntactic categories minimum
+acknowledged just four basic categories content words nouns o verbs adjectives adverbs e
+abbreviations used these words o e match last letter corresponding esperanto designations
+addition these four basic content words also posited two types function words indices translatives
+took articles definite indefinite clitic pronouns indices typical translatives subordinators subordinate conjunctions prepositions
+main task translatives perform transfer content words category another
+instance prepositions typically transfer nouns adjectives adverbs subordinators typically transfer verbs nouns
+example phrase le livre de pierre 'the book peter peter's book' preposition de serves transfer noun pierre adjective modify noun livre
+other words noun pierre although technically adjective comes function like adjective addition translative de
+transfer represented stemmas using special convention
+following stemmas represent phrase de pierre 'of peter' sentence écrivez dans le livre de votre ami 'write book your friend' translative word transfers placed equi-level vertical dividing line separates them
+target category
+category result transfer indicated above horizontal line
+first stemma above indicates pierre transferred de adjective
+stemma below shows two instances transfer whereby first indicates dans livre de votre ami transferred adverb second de votre ami transferred adjective
+tesnière ability transfer category another will fluid speech primary tool makes truly productive speech possible
+syntactic categories alone capable combining each other immediately unified translative effects transfer
+legacy tesnière's legacy resides primarily widespread view sees éléments starting point impetus development dependency grammar
+thus frameworks syntax grammar dependency-based e
+word grammar meaning-text theory functional generative description generally cite tesnière father modern dependency grammars
+interesting side note regard tesnière himself set out produce dependency grammar since distinction dependency- constituency-based grammars phrase structure grammars known linguistics while tesnière alive
+distinction first became established during reception tesnière's ideas
+tesnière's legacy limited development dependency grammar however
+stated above number key concepts developed e
+valency arguments vs
+adjuncts head-initial vs head-final languages cornerstones most modern work field syntax
+interestingly though tesnière does receive full credit perhaps deserves contribution field syntax
+tesnière died shortly before initiation generative grammar éléments remained untranslated english until just recently 2015
+thus influence greater europe english-speaking north america
+see also adjunct argument dependency grammar government head phrase structure grammar predicate subject valency notes due sickness end life tesnière manage see central work published
+actual publication éléments due part work friends family especially madame tesnière former students
+these admirers linguist ensured manuscript left organized put book form years after death
+biographical information here abbreviated version biography produced translators' introduction english version éléments
+see kahane osborne 2015
+passage cited here taken first page éléments 1959
+note tesnière never actually used term dependency grammar describe theory syntax proposing
+concept arose later 1960 s tesnière's theory being received evaluated
+these key terms governor subordinate first presented chapter 2 elements 1959
+tesnière states chapter 15 morphology syntax separate domains 1959
+tesnière first mentions wilhelm von humboldt innere sprachform chapter 1959
+nonsensical sentence discussed chapter 20 1959[196940-42]
+note tesnière died 1954 whereas chomsky's famous sentence appears book syntactic structures 195715
+tesnière discusses binary division verb centrality chapters 48-49 éléments 1959[1969102-105]
+following two stemmas chapter 48 elements 1959
+two examples given here english translations french originals
+majority stemmas tesnière produced course french sentences phrases since tesnière frenchman
+tesnière discusses distinction structural order linear order chapter 6 1959[196919 ff
+distinction centripetal centrifugal structures first presented chapter 1959[196922 ff
+two ordered stemmas right here included merely aid understanding
+actually tesnière 1959 claimed english bit centripetal centrifugal claim modern language typology disagrees since english arguably employs centrifugal centripetal structures
+tesnière produces valency metaphor chapter 97 1959
+tesnière discusses valency diathesis detail chapters 97-119 1959[1969238-280]
+first example illustrating circumstants corresponds stemma 118 1959
+second example illustrating circumstants corresponds stemma 121 1959
+tesnière discusses circumstants chapter 56 1959
+tesnière presents four basic word categories their abbreviations chapter 33 1959[196963 f
+translatives first discussed chapter 40 1959[196982 f
+main works 1934
+petite grammaire russe henri didier paris
+cours élémentaire de syntaxe structurale
+cours de syntaxe structurale
+esquisse d'une syntaxe structurale klincksieck paris
+éléments de syntaxe structurale klincksieck paris
+éléments de syntaxe structurale klincksieck paris
+preface jean fourquet professor sorbonne
+revised corrected second edition
+elements structural syntax [english translation tesnière 1966]
+john benjamins amsterdam
+secondary works kahane osborne 2015
+translators' introduction
+elements structural syntax [english translation tesnière 1966]
+john benjamins amsterdam
+authority control world cat identities viaf 73916894 lccn n83010826 isni 0000 0001 0915 5277 gnd 118801678 sudoc 031763057 bnf cb12291784 p data ndl 01101738

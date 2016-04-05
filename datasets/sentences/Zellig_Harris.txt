@@ -1,0 +1,514 @@
+zellig sabbettai harris october 23 1909 may 1992 renowned american linguist mathematical syntactician methodologist science
+originally semiticist best known work structural linguistics discourse analysis discovery transformational structure language
+these developments first 10 years career published within first 25
+contributions subsequent 35 years career include transfer grammar string analysis adjunction grammar elementary sentence-differences decomposition lattices algebraic structures language operator grammar sublanguage grammar theory linguistic information principled account nature origin language
+contents biography 2 linguistics 2
+early career influences 2
+2 relation bloomfieldian structuralism 2
+3 major contributions 1940 s 2
+4 metalanguage notational systems 2
+5 linguistics applied mathematics 2
+6 transformational structure language 2
+7 operator grammar 2
+sublanguage linguistic information 2
+9 legacy 3 politics 4 bibliography 4
+selected writings 4
+2 literature treating harris 5 notes 6 external links biography harris born october 23 1909 balta then part russian empire
+1913 four years old family immigrated philadelphia pennsylvania
+age 13 request sent live palestine worked support himself rest life returned frequently live socialist kibbutz israel
+brother dr
+tzvi n
+harris wife shoshana played pivotal role understanding immune system development modern immunology
+sister anna h
+live director english institute esl students university pennsylvania now named english language program
+1941 married physicist bruria kaufman einstein's assistant 1950 s princeton
+1960 s couple established residence kibbutz mishmar ha'emek israel adopted their daughter tamar
+1949 until death harris maintained close relationship naomi sager director linguistic string project new york university
+their daughter eva harris professor infectious diseases university california berkeley president non-profit organization sustainable sciences institute
+harris died sleep after routine working day age 82 may 1992 new york
+linguistics outset early work 1930 s harris concerned establishing mathematical empirical foundations science language then emerging
+saw 'explain' language saussure's parole appeal priori principles competencies langue former provides sole evidence
+danger using such undefined intuitive criteria pattern symbol logical prioris linguistics precisely empirical field may enable us derive definitions these intuitive fundamental relationships out correlations observable phenomena
+early career influences harris received bachelor's 1930 master's 1932 doctoral 1934 degrees oriental studies department university pennsylvania
+although first direction semiticist publications ugaritic phoenician canaanite origins alphabet later hebrew both classical modern began teaching linguistic analysis penn 1931
+increasingly comprehensive approach saw practical application part war effort 1940 s
+1946-1947 formally established first modern linguistics department united states
+harris's early publications brought attention edward sapir strongly influenced came regard intellectual heir
+harris also greatly admired leonard bloomfield work person
+formally study either
+relation bloomfieldian structuralism widely believed harris carried bloomfieldian ideas linguistic description their extreme development investigation discovery procedures phonemes morphemes based distributional properties these units antecedent phonetic elements
+methods structural linguistics 1951 definitive formulation descriptive structural work developed up 1945
+book made famous generativists sometimes interpreted synthesis neo-bloomfieldian school structuralism
+rather harris viewed work articulating methods verifying results however reached validly derived data language
+line virtually serious views science time harris's methods corresponded hans reichenbach called context justification distinct context discovery
+no sympathy view scientific linguistic analyst must progress stepwise discovery phonetics phonemics morphology without mixing levels
+fundamental approach indeed making possible harris' recognition phonemic contrast cannot derived distributional analysis phonetic notations rather fundamental data linguistics speakers' judgments phonemic contrast
+developed clarified methods controlled experiment employing substitution tests such pair test harris 195132 informants distinguish repetition contrast
+probably accurate say phonetic data regarded fundamental other approaches linguistics
+example chomsky 196478 assume[s] each utterance any language uniquely represented sequence phones each regarded abbreviation set features
+recognizing primacy speaker perceptions contrast enabled remarkable flexibility creativity harris's linguistic analyses others - without improved foundation - labelled game playing hocus-pocus
+henry hoenigswald tells us late 1940 s 1950 s harris viewed colleagues person exploring consequences pushing methodological principles right edge
+close co-worker put zellig harris's work linguistics placed great emphasis methods analysis
+theoretical results product prodigious amounts work data language economy description major criterion
+kept introduction constructs minimum necessary bring together elements description system
+own role simply agent bringing data relation data
+false modesty made harris downplay particular role bringing results much fundamental belief objectivity methods employed
+language described terms placings words next words
+there nothing else no external metalanguage
+question how these placings worked themselves vehicle carrying 'semantic burden' language
+commitment methods such fair say methods leader follower
+genius see various crucial points methods leading analytic work necessary bring them new result
+then extension refinement distributional methodology pioneered sapir bloomfield investigating elements language co-occur cannot
+given representation contrasting utterances non-repetitions written differently even conventional alphabetic orthography stochastic procedures amenable statistical learning theory identify boundaries words morphemes
+practice course linguists identify words morphemes variety intuitive heuristic means
+these again substitution tests
+given words morphemes general method experimental follows substitute element string such elements others context being held constant then test acceptability new combination either finding corpus testing acceptability users language
+harris's experimental distributional methodology thus grounded subjective judgments language users judgments repetition vs
+imitation yielding fundamental data phonemic contrast judgments acceptability
+substitution tests using these judgments criteria identify departures randomness enable language carry information
+contrast commonly held view harris like bloomfield rejected mentalism espoused behaviorism
+major contributions 1940 s harris's contributions linguistics 1945 summarized methods structural linguistics harris 1951 include componential analysis long components phonology componential analysis morphology discontinuous morphemes substitution-grammar word- phrase-expansions related immediate-constituent analysis without limitations
+manuscript date january 1946 book recognized including first formulation notion generative grammar
+overriding aim book import word methods original title detailed specification validation criteria linguistic analysis
+these criteria lend themselves differing forms presentation sometimes taken competing
+harris showed how complementary
+analogy may drawn intersecting parameters optimality theory
+grammar another these analyses sentences exhibit simultaneously these properties
+harris's treatment these tools analysis rather theories language way using them work toward optimal presentation purpose contributed perception engaged hocus-pocus no expectation there any absolute truth matter
+harris's central methodological concern beginning earliest publications avoid obscuring essential characteristics language behind unacknowledged presuppositions such inherent conventions notation presentation
+vein among most illuminating works 1940 s restatements analyses other linguists done intention displaying properties linguistic phenomena invariant across diverse representations anticipates later work linguistic universals
+also very relevant here work transfer grammar presents intersection grammars two languages clarifying precisely those features differ relation corresponding such features
+obvious benefits machine translation
+metalanguage notational systems basis methodological concern unacknowledged presuppositions such inherent conventions notation presentation dependent upon prior knowledge use language
+since object investigation language itself properties language cannot presupposed without question-begging
+cannot describe structure natural language other kind system any system identify elements meanings given language already same essential structure words sentences language described
+[w]e cannot general impose our own categories information upon language
+cannot determine 'a priori' way 'logical form' sentences
+natural language demonstrably contains own metalanguages talk language itself
+any other means talking language such logical notations depends upon our prior shared 'common parlance' our learning interpreting
+describe language write grammar cannot rely upon metalinguistic resources outside intrinsic metalinguistic resources within language any system identify elements meanings given language already same essential structure words sentences language described
+there no way define describe language occurrences except such statements same language another natural language
+even grammar language stated largely symbols those symbols will defined ultimately natural language
+observation there followed harris's conclusion science aims determine nature language limited investigation relationships elements language another their distribution
+indeed beginning fundamental data linguistics phonemic contrasts elements defined relative another
+any metalinguistic notions representations notational conventions stateable metalanguage assertions language itself import complexity intrinsic language obscuring true character
+because harris strove 'least grammar'
+reason demand every entity rule every complexity restriction domains rule states departure randomness language being described
+since describe restriction combinations language description should add restrictions own
+hypothesis universal grammar ug amounts contrary proposal metalinguistic resources language fact priori prior external language part genetic inheritance humans
+insofar evidence properties ug language itself harris's view such properties cannot presupposed may sought once principled theory language established purely linguistic basis
+linguistics applied mathematics deriving insight harris's aim apply tools mathematics data language establish foundations science language
+[the] problem foundations mathematics topical ever just time harris took charge 'homologous' enterprise establishing linguistics clear basis
+see here then nearly fifty years during realize program established very early zellig harris searched found mathematics supports
+merits closer attention doubtless advisable consider without shutting reductive box 'possible applications mathematics linguistics
+question rather 'how little mathematics transmute itself linguistics?' contrasted attempts others project properties language formal language-like systems
+investigating mathematically definable system relation language being generalization subset formulating mathematical system properties relations necessary sufficient whole natural language
+transformational structure language early 1939 harris began teaching students linguistic transformations
+immediate utility enhance regularity repetition patterns texts discourse analysis
+1946 already done extensive transformational analysis diverse languages such kota hidatsa cherokee course hebrew ancient modern well english feel ready publication until culture style discourse analysis papers 1952
+later series papers beginning co-occurrence transformations linguistic structure 1957 developed general theory syntax
+harris argued following sapir bloomfield semantics included grammar separate form information being two faces same coin
+particular application concern presuppositions metalanguage noted above any specification semantics other immanent language stated metalanguage external language call own syntactic description semantic interpretation
+prior harris's discovery transformations grammar far developed yet treat individual word combinations word classes
+sequence ntuple word classes plus invariant morphemes termed constants specifies subset sentences formally alike
+harris investigated mappings such subset another set sentences
+linear algebra mapping preserves specified property called transformation sense harris introduced term linguistics
+harris's transformational analysis refined word classes found 1946 morpheme utterance grammar expansions
+recursively defining semantically specific subclasses according combinatorial privileges words may progressively approximate grammar individual word combinations
+relation progressive refinement subsequently shown direct straightforward way grammar substring combinability resulting string analysis harris 1962
+noam chomsky harris's student beginning undergraduate 1946
+rather taking transformations algebraic sense mappings subset subset preserving inter-word restrictions chomsky adapted notion rules transformation vs
+rules formation mathematical logic
+terms originated rudolf carnap
+also introduced symbol-rewriting rules post production systems invented years earlier emil post
+their capacity generate language-like formal systems beginning employed design computing machines such eniac announced penn great fanfare giant brain 1946
+chomsky employed rewrite rules notation presentation immediate-constituent analysis
+called phrase structure grammar psg
+set restate harris's transformations operations mapping phrase-structure tree another
+conception psg provided rules formation ‘enriched′ rules transformation
+led later redefinition transformations operations mapping abstract deep structure surface structure
+very different notion transformation creates complex hierarchy abstract structure harris showed unnecessary undesirable
+inter-word dependencies suffice determine transformations mappings set sentences many generalizations seem importance various theories employing abstract syntax trees such island phenomena fall out naturally harris's analysis no special explanation needed
+practice linguists take unnumbered short cuts intuitive heuristic guess keep many problems particular language before them same time
+early work transformations used paraphrase heuristic keeping methodological principles noted above section metalanguage issues earlier there also formal criterion transformational analysis
+1957 co-occurrence transformation paper criterion inter-word co-occurrence restrictions should preserved under mapping two sentence-forms transforms then acceptable word choices also obtain other
+even while 1957 publication press clear preservation word co-occurrence resolve certain problems 1965 transformational theory criterion refined difference acceptability found pair sentences satisfy sentence-form corresponding satisfiers other sentence-form likewise differentiated though contexts e
+under imagined dreamt acceptability-differences may collapsed
+these acceptability gradings may also expressed ranges contexts word choices fully acceptable formulation leads naturally sublanguage grammar below
+operator grammar harris factored set transformations elementary sentence-differences then employed operations generative processes decomposing synthesizing sentences
+these two kinds incremental operations add words paraphrastic operations change phonemic shapes words
+latter harris termed extended morphophonemics
+led partition set sentences two sublanguages informationally complete sublanguage neither ambiguity nor paraphrase vs
+set conventional usable paraphrases two systems grammar report paraphrase 1969
+paraphrastic set morphemes may present reduced form even reduced zero their fully explicit forms recoverable undoing deformations reductions phonemic shape
+thence parallel generalization linear algebra operator theory mathematics developed operator grammar
+here last grammar entry individual words construction sentence
+entry operator word argument places words relationship another given reduction requires may carried out
+reductions rarely obligatory
+operator entry trivial formalize
+resembles predicate calculus affinities categorial grammar these findings after fact guide development research led
+recent work stephen johnson formalization operator grammar adapts lexicon grammar maurice gross complex detail reductions
+sublanguage linguistic information work sublanguage analysis harris showed how sublanguage restricted domain pre-existent external metalanguage expressed sentences language outside sublanguage something available language whole
+language whole restrictions operator-argument combinability specified terms relative acceptability difficult rule out any satisfier attested sentence-form nonsense technical domains especially sublanguages science metalanguage definitions terms relations restrict word combinability correlation form meaning becomes quite sharp
+perhaps interest test exemplification form information science 1989 vindicates degree sapir–whorf hypothesis
+also expresses harris's lifelong interest further evolution refinement language context problems social amelioration e
+language international cooperation scientific sublanguages prospects global language science possible future developments language beyond present capacities
+harris's linguistic work culminated companion books grammar english mathematical principles 1982 theory language information
+mathematical information theory concerns quantity information exactly efficiency communication channels here first time theory information content
+latter work also harris ventured propose last might truth matter nature language required learn origin possible future development
+discoveries vindicate sapir's recognition long disregarded language pre-eminently social artifact users collectively create re-create course using
+legacy influence harris's work pervasive linguistics often invisibly
+diverse lines research harris opened continue developed others indicated contributions nevin 2002 2002
+medical language processor developed naomi sager others linguistic string program courant institute mathematical sciences nyu made available sourceforge
+richard kittredge colleagues developed systems automatic generation text data used weather radio broadcasts production reportage stock market activity sports results like
+work information retrieval influential development lexis-nexis systems elsewhere
+recent work statistical semantics particular distributional semantics based distributional hypothesis explicitly acknowledges influence harris' work distributional structure
+harris's students linguistics include among many others joseph applegate ernest bender noam chomsky william evan lila r
+gleitman michael gottfried maurice gross james higginbotham stephen
+johnson aravind joshi michael kac edward keenan daythal kendall richard kittredge james
+loriot/lauriault leigh lisker fred lukoff paul mattick james munz bruce e
+nevin jean-pierre paillet thomas pynchon ellen prince john r
+ross naomi sager morris salkoff thomas
+ryckman william c
+albert einstein zellig harris others letter politics harris also influential many students colleagues though less public way work amelioration social political arrangements
+last book — transformation capitalist society — summarizing findings published posthumously
+proposes ways identify foster seed-points humane successor capitalism saw arise niche areas capitalism cannot function well much capitalism arose midst feudalism
+unpublished writings politics collection van pelt library university pennsylvania
+committed life radical transformation society ground up rather revolution directed top down
+undergraduate days active student left-zionist organization called avukah hebrew torch
+resigned national president 1936 year obtained ph
+continued leadership advisory role until like many other student organizations war years fell apart 1943
+early 1940 s informal group fellow scientists diverse fields collaborated extensive project called frame reference social change
+develops new vocabulary concepts grounds existing ones economics sociology presuppose thereby covertly perpetuate capitalist constructs necessary ‘unfool’ oneself before proceeding
+submitted victor gollancz notoriously interventionist editor demanded complete rewrite familiar terms
+manuscript among harris's papers death titled directing social change brought publication 1997 seymour melman murray eden bill evan
+publisher changed title transformation capitalist society
+bibliography selected writings complete bibliography harris's writings available
+selection harris's works follows 1936
+grammar phoenician language
+american oriental series
+development canaanite dialects investigation linguistic history
+american oriental series 16
+morpheme utterance
+language 223
+methods structural linguistics 1962
+string analysis sentence structure 1968
+mathematical structures language 1970
+papers structural transformational linguistics 1976
+notes du cours de syntaxe french 1981
+papers syntax 1982
+grammar english mathematical principles 1988
+language information french translation ibrahim
+et martinot cl
+langue et l’information paris crl
+form information science analysis immunology sublanguage
+theory language information mathematical approach 1997
+transformation capitalist society 2002
+background transformational metalanguage analysis
+introduction legacy zellig harris language information 21 st century vol
+philosophy science syntax semantics john benjamins publishing company cilt 228
+literature treating harris [see also comprehensive bibliography konrad koerner nevin 2002 a305–316 2002 b293–304 revision koerner konrad bruce e
+nevin stephen
+bibliography zellig harris 1932–2002
+retrieved 28 july 2010
+barsky robert 2010
+zellig harris american linguistics socialist zionism
+cambridge ma mit press
+corcoran john 1971
+discourse grammars structure mathematical reasoning part mathematical reasoning stratification language
+journal structural learning 3 55–74
+available research gate
+net/profile/john_corcoran2/ corcoran john 1971
+discourse grammars structure mathematical reasoning part ii nature correct theory proof value
+journal structural learning 3 2 1–16
+corcoran john 1971
+discourse grammars structure mathematical reasoning part iii two theories proof
+journal structural learning 3 3 1–24
+corcoran john
+harris structure language
+[trömel-]plötz 1972
+available academia
+edu http//buffalo
+edu/john corcoran daladier anne september 1990
+aspects constructifs des grammaires de harris
+langages 99 september 57–84
+fuchs catherine le goffic pierre 1992
+du distributionalisme au transformationnalisme harris et gross
+fuchs catherine le goffic pierre
+les linguistiques contemporaines repères théoriques
+paris hachette
+goldsmith john 2005
+review article legacy zellig harris edited bruce nevin
+language 81 3 719–736
+harris randy allen 1995
+linguistics wars
+new york oxford univ
+hiż henry 1994
+zellig s
+harris 23 october 1909 may 1992
+proceedings american philosophical society philadelphia american philosophical society 138 4
+hoenigswald henry m
+zellig s
+stammerjohann harro auroux sylvain kerr james
+lexicon grammaticorum bio-bibliographical companion history linguistics
+hymes dell john fought 1981
+american structuralism
+hague mouton publishers
+lentin andré 1990
+quelques réflexions sur les references mathématiques dans l'œuvre de zellig harris
+langages 99 september 85–91
+lentin andré 2002
+reflections references mathematics work zellig harris
+nevin bruce johnson stephen
+legacy zellig harris language information 21 st century
+cilt 229
+2 computability language computer applications
+lentin 1990 bruce e
+amsterdam & philadelphia john benjamins publishing
+martin richard m
+harris' systems report paraphrase
+kasher asa
+language focus foundations methods systems
+essays memory yehoshua bar-hillel
+matthews peter h
+grammatical theory united states bloomfield chomsky
+cambridge cambridge university press
+matthews peter h
+zellig sabbettai harris
+language baltimore lsa 75 112–119
+mattick paul 2002
+implications zellig harris's work philosophy science
+nevin bruce
+legacy zellig harris language information 21 st century
+cilt 228
+philosophy science syntax semantics
+amsterdam & philadelphia john benjamins publishing
+munz james 1972
+reflections development transformational theories
+plötz senta [trömel-]
+transformationelle analyse die transformationstheorie von zellig harris und ihre entwicklung / transformational analysis transformational theory zellig harris development
+linguistische forschungen
+frankfurt/main athenäum-verlag
+nevin bruce 1984
+review zellig s
+harris grammar english mathematical principles 1982
+computational linguistics association computational linguistics 10 34 203–211
+nevin bruce 1993
+harris revolutionary phonemic theory
+jankowsky kurt r
+history linguistics 1993 papers sixth international conference history language sciences icho ls vi washington
+9–14 august 1993
+amsterdam studies theory history linguistic science
+amsterdam & philadelphia john benjamins publishing
+nevin bruce e
+minimalist program linguistics work zellig harris meaning information
+historiographia linguistica amsterdam/philadelphia john benjamins 20 2/3 355–398
+06 nev
+nevin bruce e
+legacy zellig harris language information 21 st century
+cilt 228
+volume philosophy science syntax semantics
+amsterdam/philadelphia john benjamins
+nevin bruce e
+johnson eds
+legacy zellig harris language information 21 st century
+cilt 229
+volume 2 mathematics computability language
+amsterdam/philadelphia john benjamins
+nevin bruce e
+concerning roots transformational generative grammar
+historiographia linguistica amsterdam/philadelphia john benjamins
+xxxvi 2/3 459–479
+21 nev
+nevin bruce e
+noam zellig
+kibbee douglas
+chomskyan revolutions
+amsterdam & philadelphia john benjamins publishing
+nevin bruce e
+zellig harris science language radical transformation society
+historiographia linguistica amsterdam & philadelphia john benjamins publishing 38 3 55–366
+pereira fernando 2000
+formal grammar information theory together again?
+philosophical transactions royal society london royal society publishing 358 1769 1239–1253
+pereira fernando 2002
+formal grammar information theory together again?
+nevin bruce johnson stephen
+legacy zellig harris language information 21 st century
+cilt 229
+2 computability language computer applications revision pereira 2000 ed
+amsterdam & philadelphia john benjamins publishing
+[trömel-]plötz senta ed
+transformationelle analyse die transformationstheorie von zellig harris und ihre entwicklung / transformational analysis transformational theory zellig harris development
+linguistische forschungen
+frankfurt/main athenäum-verlag
+ryckman thomas
+grammar information investigation linguistic metatheory ph
+new york columbia university
+ryckman thomas a[lan] 2002
+method theory harris's grammar information
+nevin bruce
+legacy zellig harris language information 21 st century
+cilt 228
+philosophy science syntax semantics
+amsterdam & philadelphia john benjamins publishing
+hoenigswald henry m
+zellig s
+stammerjohann harro auroux sylvain kerr james
+lexicon grammaticorum bio-bibliographical companion history linguistics
+notes r
+harris 1995 hoenigswald 1996 hiz 1994 hymes & fought 1981 matthews 1986 r
+harris 1993428-429
+… half dozen american linguists whose work greatest influence both own country abroad matthews 19991
+harris 1990 2002 nevin 1993 2002 a472 fn 18 2002 bx fn
+3 2010110
+harris's account nature origin language learnability final chapters language information 1988 theory language information number four bampton lectures columbia 1986 former based
+friedman herman immunity sysiphus effect szentivanyi andor friedman herman 1994
+immunologic revolution facts witnesses
+crc press
+harris zellig s
+jul–sep 1940 review louis h[erbert] gray 1875–1955 foundations language new york macmillan 1939 language 16 3 216–235 doi10
+2307/409060 jstor 409060 repr
+title “gray's foundations language” harris zellig s
+papers structural transformational linguistics
+formal linguistics series
+dordrecht/ holland
+228 p
+704 reprint
+press release archive record
+hiż henry
+linguistics university pennsylvania internal document linguistics department university pennsylvania
+particular phrase used department website
+claims precedence continuity 'modernity' other contenders being berkeley columbia chicago yale
+harris zellig s
+review selected writings edward sapir
+language 27 no
+3 1951 288-333 = harris 1970712-764 1970712-76 harris 1970765-768 hoenigswald 1996
+regna darnell biographer edward sapir independently victor golla editor sapir's collected writings reported nevin 1993365 fn
+16 nevin 2002 axiv fn
+hoenigswald 1996 harris zellig s
+review charles f
+hockett ed
+leonard bloomfield anthology bloomington & london indiana university press 1970
+ijal chicago university chicago press 39 4 252–255
+harris 21995 hoenigswald 1996 hymes & fought 1981 matthews 1986
+remember having great difficulty explaining younger colleagues followed harris's work 1950 s actually saying
+their demonology man tried failed develop chomsky called 'discovery procedures'
+plainly fit
+free one's mind every current prejudice understand thinking fit
+matthews 1999113–114 r
+harris 21995 hoenigswald 1996 hymes & fought 1981 matthews 1986
+hoenigswald 1996
+harris 1951 hoenigswald 1996 hymes & fought 1981148-149 matthews 1986 nevin 1993 a353 1993 b373 fn
+harris 1951 a29 fn1 34-35 nevin 1993 1993 b366-367
+householder fred w
+1952 review harris zellig s
+methods structural linguistics international journal american linguistics 18
+260-268 p
+261 hoenigswald 1996 hymes & fought 1981150-151 matthews 1986 nevin 1993 1993
+hoenigswald 1996
+sager naomi & ngô thanh nhàn 2002
+computability strings transformations sublanguage
+nevin bruce & johnson stephen
+legacy zellig harris language information 21 st century
+cilt 229
+2 computability language computer applications
+amsterdam & philadelphia john benjamins publishing
+harris zellig 1955 phoneme morpheme language 31190–222
+harris 1970 32–67
+harris zellig 1967 morpheme boundaries within words report computer test transformations discourse analysis papers 73
+harris 1970 68–77
+harris 1988 3 17 harris 23 33 238
+problem finally resolved single general procedure building around certain words given sentence graded expansions such way sentence shown expansion particular word sequence word sequence being itself sentence harris 2002
+immediate constituent analysis does capture head-of relations well
+insofar x-bar theory 1970 s remedied reflected harris’s account 1940 s matthews 1999115
+chomsky 197511 fn
+16 hymes & fought 1981 hiz 1994 hoenigswald 1996 also stated harris 1954260 see matthews 1999113
+these procedures plan obtaining data field work
+[they] also constitute necessary laboratory schedule
+[their] chief usefulness
+therefore reminder course original research form checking presenting results may desirable make sure information called
+validly obtained
+harris 19511-2
+hoenigswald 1996 nevin 2010
+sometimes explicitly comparative overview harris 1965238-239
+harris 1965364
+harris zellig s
+transfer grammar
+international journal american linguistics chicago university chicago press 20 4 259–270
+harris 1970
+salkoff morris 1999
+french-english grammar contrastive grammar translational principles
+amsterdam & philadelphia john benjamins
+salkoff morris
+new results transfer grammar
+nevin 2002 a167-178
+harris 19883
+also there no way define describe language occurrences except such statements same language another natural language
+even grammar language stated largely symbols those symbols will defined ultimately natural language
+harris 1991274 harris 199131-32 & chapter 10 elsewhere
+harris 1991346
+harris 196817 198290-91 198835-37 ch
+even mathematics borel emile felix edouard justin 1928
+leçons sur theorie des fonctions
+3 e ed
+paris gauthier-villars & cie
+160 quoted ryckman thomas
+grammar information investigation linguistic metatheory ph
+new york columbia university
+harris 199131-32 274-278 198835-37 harris 19883 harris 1991274 harris 19883-4 199131-36
+realization obviously owes nothing behaviorism logical positivism
+harris review n
+trubetzkoy grundzuge phonologie language 17
+41941348 348 harris 195133-35 370-371 nevin 2010 b136-137
+fundamental data descriptive linguistics … distinctions equivalences among utterances parts utterances
+harris 1951 a33 linguistic elements defined each language associating them particular features speech—or rather differences portions features speech—to linguist refer
+harris 195114
+harris 196812 fn
+6 198210-11 19883 57 84 97 199131-36 38 49 153
+harris 19883-4
+harris 199126 31 117-118 350-352 365 387
+similarly origins language harris 1988107 f 1991365-381
+lentin 20022 cf
+nevin 2010110
+lentin 20021
+harris 19681 reported leigh lisker student harris time nevin 2002 ax fn
+see also harris 2002
+3 status expansions component sentences visible beginning referring expansion grammar harris 1946 applying e
+hidatsa 1930 s
+form exemplified lexicon-grammar work maurice gross colleagues e
+gross maurice 1994 lexicon grammar language application french asher r
+encyclopedia language linguistics oxford pergamon press pp
+2195–2205 chomsky noam 1965
+aspects theory syntax
+mit press
+each sentencea deep structure determines semantic interpretation surface structure determines phonetic interpretation
+harris 1965 fn
+3 1982
+joshi aravind hierarchical structure sentence description nevin 2002 b121-142
+harris 1982
+nevin 2010143-147
+harris 19511
+john corcoran then colleague harris linguistics university pennsylvania summarized critically examined development harris’s thought discourse through 1969 lectures attended harris’ colleagues students philadelphia cambridge subsequently published corcoran 1972
+harris 1976 1982 1988
+harris 1968 1982 1989
+harris discourse sublanguage kittredge richard lehrberger john eds
+studies language restricted semantic domains
+berlin walter de gruyter
+lila gleitman attributes graduate student amnesia her contribution nevin 2002209
+example sager naomi j
+tougar z
+harris j
+bookchin april 1970
+application syntactic analysis information retrieval string program reports no
+new york new york university linguistic string program
+iv 204
+barsky robert 2010
+zellig harris american linguistics socialist zionism
+cambridge ma mit press
+nevin bruce e
+zellig harris science language radical transformation society
+historiographia linguistica john benjamins 38 3 355–366
+05 nev
+|access-date= requires |url= help external links zellig harris home page noam chomsky life dissent zellig haris avukah hashomer hatzair penn's department asian & middle eastern studies successor oriental studies department penn's department linguistics review transformation capitalist society beyond chomsky-harris comparison robert f
+barsky berfrois august 2011 transformation capitalist society book national academy sciences biographical memoir authority control world cat identities viaf 109204960 lccn n79128139 isni 0000 0001 0932 7251 gnd 11870172 x sudoc 026915340 bnf cb11906948 s data mgp 76341

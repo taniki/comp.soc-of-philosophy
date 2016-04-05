@@ -1,0 +1,116 @@
+swiss politician see alfred weber swiss politician
+article multiple issues
+please help improve discuss these issues talk page
+biographical article needs additional citations verification
+please help adding reliable sources
+contentious material living persons unsourced poorly sourced must removed immediately especially potentially libelous harmful
+june article includes list references sources remain unclear because insufficient inline citations
+please help improve article introducing precise citations
+december 2008 alfred weber born 1868-07-3030 july 1868 erfurt prussian saxony died 2 may 19581958-05-02 aged 89 heidelberg baden-württemberg alfred weber 30 july 1868 2 may 1958 german economist geographer sociologist theoretician culture whose work influential development modern economic geography
+contents life 2 work 3 least cost theory 3
+material index 3
+2 labor 3
+3 agglomeration deglomeration 4 globalization 5 works 6 see also 7 references external links life born erfurt raised charlottenburg weber seven children born max weber sr
+prominent politician civil servant helene fallenstein
+weber sr
+'s engagement public life immersed family home politics salon received many prominent scholars public figures
+influence seen both alfred's career brother max considered founders modern study sociology public administration
+1907 1933 weber professor university heidelberg until dismissal following criticism hitlerism
+weber lived nazi germany during second world war leader intellectual resistance
+after 1945 writings teaching influential both out academic circles promoting philosophical political recovery german people
+reinstated professor 1945 continued role until death heidelberg
+work weber supported reintroducing theory causal models field economics addition using historical analysis
+field achievements involve work early models industrial location
+lived during period sociology became separate field science
+weber maintained commitment philosophy history traditions
+contributed theories analyzing social change western civilization confluence civilization intellectual technological social processes organizations culture art religion philosophy
+went st
+joseph's convent bideford maine 13 april 1928 conducted empirical historical analyses growth geographical distribution cities capitalism
+least cost theory leaning heavily work developed relatively unknown wilhelm launhardt alfred weber formulated least cost theory industrial location tries explain predict locational pattern industry macro-scale
+emphasizes firms seek site minimum transport labor cost
+point locating industry minimizes costs transportation labor requires analysis three factors material index point optimal transportation based costs distance material index ratio weights intermediate products raw materials finished product
+scenario weight final product less weight raw material going making product—the weight losing industry
+example copper industry very expensive haul raw materials market processing manufacturing occurs near raw materials
+besides mining other primary activities extractive industries considered material oriented timber mills furniture manufacture most agricultural activities etc
+often located rural areas these businesses may employ most local population
+leave locale area loses economic base
+other final product equally heavy material index equal raw materials require transport
+usually case ubiquitous raw material such water being incorporated product
+called weight-gaining industry
+type industry tends build up near market raw material source called foot-loose industry
+cotton industry prominent example weight-gaining raw material
+industries like heavy chemical industry weight raw materials less weight finished product
+these industries grow up near market
+weber's point optimal transportation generalization fermat point problem
+simplest form fermat problem consists locating point respect three points c such way sum distances each three other points minimized
+weber triangle problem consists locating point respect three points c such way sum transportation costs each three other points minimized
+1971 luc-normand tellier found first direct non iterative numerical solution fermat weber triangle problems
+long before von thünen’s contributions go back 1818 fermat point problem seen very beginning space economy
+formulated famous french mathematician pierre de fermat before 1640
+weber triangle problem generalization fermat triangle problem first formulated thomas simpson 1750 popularized alfred weber 1909
+1985 book entitled économie spatiale rationalité économique de l'espace habité tellier formulated all-new problem called “attraction-repulsion problem” constitutes generalization both fermat weber problems
+simplest version attraction-repulsion problem consists locating point respect three points a1 a2 r such way attractive forces exerted points a1 a2 repulsive force exerted point r cancel each other out
+same book tellier solved problem first time triangle case reinterpreted spatial economics theory especially theory land rent light concepts attractive repulsive forces stemming attraction-repulsion problem
+problem later further analyzed mathematicians like chen hansen jaumard tuy 1992 jalal krarup 2003
+attraction-repulsion problem seen ottaviano thisse 2005 prelude new economic geography developed 1990 s earned paul krugman nobel memorial prize economic sciences 2008
+labor labor distortion sources lower cost labor may justify greater transport distances become primary determinant production
+unskilled labor industries such garment industry require cheap unskilled laborers complete activities mechanized
+often termed ubiquitous meaning found everywhere
+pull due low wages little unionization young employees
+skilled labor high tech firms such those located silicon valley require exceptionally skilled professionals
+skilled labor often difficult find mobile unskilled labor
+agglomeration deglomeration agglomeration phenomenon spatial clustering concentration firms relatively small area
+clustering linkages allow individual firms enjoy both internal external economies
+auxiliary industries specialized machines services used occasionally larger firms tend located agglomeration areas just lower costs serve bigger populations
+deglomeration occurs companies services leave because diseconomies industries’ excessive concentration
+firms achieve economies increasing their scale industrial activities benefit agglomeration
+however after reaching optimal size local facilities may become over-taxed lead offset initial advantages increase pc
+then force agglomeration may eventually replaced other forces promote deglomeration
+globalization similarly industrial activity considered secondary economic activity also discussed manufacturing
+industrial activity broken down further include following activities processing creation intermediate parts final assembly
+today multinational corporations three activities listed above may occur outside mdcs
+weber's theory explain causes current movement yet such discussion come weber himself
+weber found industrial activity least expensive produce
+least cost location then implies marketing product least cost consumer much like retailers attempt obtain large market shares today
+economically explained way make profit creating cheapest product consumer market leads greater volume sales hence greater profits
+therefore companies take time locate cheapest inputs largest markets succeed since their product costs produce costs consumer
+theory five assumptions
+first assumption known isotropic plain assumption
+means model operative single country uniform topography climate technology economic system
+second assumption finished product considered time product shipped single market
+third assumption raw materials fixed certain locations market also known fixed location
+fourth assumption labor fixed geographically available unlimited quantities any production site selected
+final assumption transport costs direct function weight item distance shipped
+use theory created locational triangle
+triangle used market two sources material
+illustrated manufacturing utilizes pure materials will never tie processing location material site
+also industries utilizing high weight loss materials will tend pulled toward material source opposed market
+furthermore many industries will select intermediate location market material
+last generalization considered wrong because never takes account terminal costs therefore considered biased toward intermediate locations
+further explore location firms weber also created two concepts
+first isotim line equal transport cost any product material
+second isodapane line total transport costs
+isodapane found adding isotims location
+reason using isodapanes systematically introduce labor component weber’s locational theory
+weber received much criticism
+weber effectively realistically take account geographic variation market demand considered locational factor paramount influence
+also treatment transport recognize these costs proportional distance weight intermediate locations necessitate added terminal charges
+labor available unlimited quantity any location usually quite mobile through migration
+plus most manufacturing plants obtain large number material inputs produce wide range products many diverse markets theory doesn’t easily apply
+furthermore underestimated effect agglomeration
+works über den standort industrie theory location industries 1909 ideen zur staats - und kultursoziologie 1927 kulturgeschichte als kultursoziologie 1935 farewell european history
+1947 einführung die soziologie 1955 see also geometric median also known fermat–weber problem list sociologists list economists list geographers johann heinrich von thünen references w
+bernsdorf internationales soiziologen lexikon
+enke stuttgart 1959 615-17
+tellier luc-normand 1972 “the weber problem solution interpretation” geographical analysis vol
+4 no
+3 pp
+tellier luc-normand 1985 économie spatiale rationalité économique de l'espace habité chicoutimi gaëtan morin éditeur 280 pages
+chen pey-chun hansen pierre jaumard brigitte hoang tuy 1992 weber's problem attraction repulsion journal regional science 467–486
+jalal g
+& krarup j
+geometrical solution fermat problem arbitrary weights
+annals operations research 123 67{104
+ottaviano gianmarco jacques-françois thisse 2005 “new economic geography n?” environment planning 37 1707–1725
+external links biography csss alfred weber's theory industrial location alfred weber subsequent developments industrial location theory weber' theory location industries english translation vte max weber books roman agrarian history significance public private law 1891 condition farm labour eastern germany 1892 stock exchange 1896 objectivity sociological social-political knowledge 1904 protestant ethic spirit capitalism 1905 religion china confucianism taoism 1915 religion india sociology hinduism buddhism 1916 rejection meaning world 1916 sociology religion 1920 ancient judaism 1921 city 1921 economy society 1922 basic concepts sociology 1922 theory social economic organization 1947 three types legitimate rule 1958 sociology community sociology rulership religion sociology world religions introduction essays protestant sects spirit capitalism 1904 politics vocation 1919 lectures science vocation 1918 wirtschaftsgeschichte 1923 related max weber bibliography speeches max weber zur geschichte handelsgesellschaften im mittelalter people max weber sr
+father alfred weber brother marianne weber wife authority control world cat identities viaf 88054895 lccn n85256865 isni 0000 0001 0922 5810 gnd 118765787 sudoc 031334725 bnf cb122569629 data mgp 170808 nla 35595720 ndl 00460366 nkc jn20000720327

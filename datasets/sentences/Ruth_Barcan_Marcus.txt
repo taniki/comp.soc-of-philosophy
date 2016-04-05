@@ -1,0 +1,77 @@
+ruth barcan marcus ruth barcan marcus august 2 1921 february 19 american philosopher logician developed barcan formula
+she pioneering figure quantification modal logic theory direct reference
+she seminal papers identity essentialism possibilia belief moral conflict well critical historical studies
+timothy williamson wykeham professor logic oxford university sums up celebration professor marcus's career stating many her main ideas just original clever beautiful fascinating influential way ahead their time actually — believe — true
+contents education 2 academic appointments 3 professional offices service partial list 4 philosophy 4
+quantified modal logic 4
+2 direct reference 4
+3 necessity identity 4
+4 semantics qml 4
+5 moral conflict 4
+6 belief 4
+7 essentialism 4
+substitutional quantification 5 awards recognitions 6 books written edited 7 see also references notes 9 external links education
+new york university 1941 m
+yale university 1942 ph
+yale university 1946 academic appointments professor philosophy founding department chair university illinois chicago 1962–1970 professor philosophy northwestern university 1970–1973 halleck professor philosophy yale university 1973–1991 professor emerita senior research scholar yale university 1992-2012 visiting distinguished professor university california irvine quarter each year 1992–97 professional offices service partial list chair board officers american philosophical association 1976–83 president association symbolic logic 1983–86 president international institut de philosophie 1989–92 presidente honoraire continuing served various visoring committees programs departments serves various editorial boards philosophy quantified modal logic ruth barcan marcus' earliest published work publication first axiomatic study modal logic quantifiers
+these three ground-breaking articles functional calculus first order based strict implication journal symbolic logic jsl 1946 deduction theorem functional calculus first order based strict implication jsl 1946 identity individuals strict functional calculus second order jsl 1947
+three articles published under marcus' maiden name ruth c
+widely discussed barcan formula introduced axiom qml
+papers 1946 1947 first systems quantified modal logic extended propositional modal systems clarence irving lewis first second order major accomplishment development 20 th century logic
+lewis gives marcus special recognition notes logic intension originally printed structure method meaning essays honor henry m
+sheffer new york 1951
+here lewis recognizes barcan marcus first logician extend propositional logic higher order intensional logic
+direct reference ruth barcan marcus proposed view philosophy language according proper names marcus termed mere tags
+modalities intensional languages synthese 1961 elsewhere
+these tags used refer object bearer name
+meaning name regarded exhausted referential function
+view contrasts example late bertrand russell's description theory proper names well john searle's cluster description theory names prevailed time
+view proper names presented 1962 quine commentator identified quentin smith theory reference given saul kripke's naming necessity
+however recent laudatio ruth barcan marcus professor timothy williamson says ideas them resonates most current philosophy language proper names mere tags without descriptive content
+kripke's idea names rigid designators designating same object respect relevant worlds ‘rigidified’ definite descriptions rigid designators still descriptive content
+rather idea later developed david kaplan others proper names directly referential sense contribute their bearer propositions expressed sentences occur
+philosopher language stephen neale also argued against professor smith's claim times literary supplement
+necessity identity marcus formally proved necessity identity 1946 informally argued 1961 thereafter thus rejecting possibility contingent identity
+see journal symbolic logic 1947 12 pp 12–15 semantics qml marcus prefers interpretation domain interpretation comprises individual entities actual world
+she also suggests uses alternative substitutional semantics warranted see below
+she provides arguments against possibilia
+see dispensing possibilia proceedings american philosophical association 1975–76 possibilia possible worlds grazer philosophische studien 1985–86
+t moral conflict marcus defines consistent set moral principles there possible world obeyable
+may conflict actual world mark inconsistency
+case necessity identity there resistance interpretation moral conflict
+her argument counts against widely received view systems moral rules inevitably inconsistent
+belief proposed believing relationship agent possible state affairs under specified internal external circumstances
+assenting quoted sentence disquotation account belief behavioral marker believing
+betting behavior another
+wholly language centered account belief e
+davidson rejected
+agent traditionally described believing impossibility until impossibility disclosed marcus proposes under those circumstances agent should say she claimed believe impossibility
+much same way mathematician discovers conjectures false since mathematically false impossible say claimed conjecture true
+odd proposal analogous widely accepted principle knowing claim know p p turns out false say used know say mistaken claiming
+essentialism aristotelian essentialism concerned properties marcus defines context modal framework
+proposal property essential something everything something then necessarily wholly individuating e
+natural kind property
+otherwise claimed quine others modal logic semantics committed essentialist truths
+marcus argues informally there interpretations modal systems essentialist claims false
+terence parsons later formally proved result
+substitutional quantification alternative tarskian model theoretic semantics proposed uses truth conditions quantified formuli given purely terms truth no appeal domains interpretation
+later called others truth value semantics
+she shows claim such semantics leads contradictions false
+such semantics may interest mathematics e
+hartry field fictional discourse
+objectual quantification required interpretation identity other metaphysical categories
+awards recognitions guggenheim fellow 1952 national science foundation fellow 1963 rockefeller foundation residency bellagio 1973 1990 center advanced study behavioral sciences 1979 university edinburgh fellow humanities institute 1983 wolfson college oxford university visiting fellow 1985 1986 clare hall cambridge university visiting fellow 1988 national humanities center mellon fellow 1992–93 fellow american academy arts sciences1977 medal collège de france 1986 doctor humane letters honoris causa university illinois chicago 1995 wilbur cross medal yale university 2000 lauener prize analytic philosophy lauener foundation 2007-08
+permanent member common room clare hall 1986- phi beta kappa 1941 membre institut international de philosophie presidente 1989-92 president honoraire 1992- quinn prize american philosophical association 2007 service profession dewey lecture apa dec 2009
+books written edited logical enterprise ed
+anderson r
+martin yale 1995 logic methodology philosophy science vii eds
+barcan marcus et al
+north holland 1986 modalities philosophical essays oxford university press 1993
+paperback 1995 contains many marcus's important papers see also american philosophy list american philosophers references notes http//leiterreports
+html timothy williamson's tribute ruth barcan marcus occasion her receipt lauener prize leiter reports philosophical blog october 14 2008
+edu/6546412/neale_kripke see moral dilemmas consistency journal philosophy 1980 frequently published elsewhere see proposed solution puzzle belief foundations analytic philosophy midwest studies 1981 rationality believing impossible journal philosophy 1983 elsewhere
+philosophical review 78 1969
+book members 1780–2010 chapter m pdf
+american academy arts sciences
+retrieved july 29 2014
+external links encyclopedia jewish women ruth barcan marcus ny times ruth barcan marcus philosopher-logician dies 90 ruth barcan marcus mathematics genealogy project authority control world cat identities viaf 73879373 lccn n81050604 isni 0000 0001 1770 1821 gnd 11928443 x sudoc 029191149 bnf cb12086919 f data mgp 82835

@@ -1,0 +1,353 @@
+alfred tarski born alfred teitelbaum1901-01-14 january 14 1901 warsaw congress poland died october 19831983-10-26 aged 82 berkeley california united states citizenship polish american nationality polish fields mathematics logic philosophy language institutions university california berkeley alma mater university warsaw doctoral advisor stanisław leśniewski doctoral students solomon feferman haim gaifman bjarni jónsson howard jerome keisler roger maddux james donald don monk richard montague andrzej mostowski julia robinson robert vaught benjamin wells known work foundations modern logic formal notion truth development model theorylogic relations banach–tarski paradox influences charles sanders peirce influenced john corcoran rudolph carnap kenneth j
+arrow w
+quine karl popper donald davidson patrick suppes erich leo lehmann alfred tarski /ˈtɑːrski/ january 14 1901 october 1983 polish logician mathematician philosopher
+educated university warsaw member lwów–warsaw school logic warsaw school mathematics philosophy immigrated usa 1939 became naturalized citizen 1945 taught carried out research mathematics university california berkeley 1942 until death
+prolific author best known work model theory metamathematics algebraic logic also contributed abstract algebra topology geometry measure theory mathematical logic set theory analytic philosophy
+biographers anita solomon feferman state along contemporary kurt gödel changed face logic twentieth century especially through work concept truth theory models
+contents life 2 mathematician 3 logician 4 truth formalized languages 5 logical consequence 6 work logical notions 7 works see also 9 references 10 further reading external links life alfred tarski born alfred teitelbaum polish spelling tajtelbaum parents polish jews comfortable circumstances
+first manifested mathematical abilities while secondary school warsaw's szkoła mazowiecka
+nevertheless entered university warsaw 1918 intending study biology
+after poland regained independence 1918 warsaw university came under leadership jan łukasiewicz stanisław leśniewski wacław sierpiński quickly became world-leading research institution logic foundational mathematics philosophy mathematics
+leśniewski recognized tarski's potential mathematician encouraged abandon biology
+henceforth tarski attended courses taught łukasiewicz sierpiński stefan mazurkiewicz tadeusz kotarbiński became person ever complete doctorate under leśniewski's supervision
+tarski leśniewski soon grew cool each other
+however later life tarski reserved warmest praise kotarbiński mutual
+1923 alfred teitelbaum brother wacław changed their surname tarski
+years later alfred met another alfred tarski northern california
+tarski brothers also converted roman catholicism poland's dominant religion
+alfred even though avowed agnostic
+tarski polish nationalist saw himself pole wished fully accepted such — later america spoke polish home
+after becoming youngest person ever complete doctorate warsaw university tarski taught logic polish pedagogical institute mathematics logic university served łukasiewicz's assistant
+because these positions poorly paid tarski also taught mathematics warsaw secondary school before world war ii uncommon european intellectuals research caliber teach high school
+hence 1923 departure united states 1939 tarski several textbooks many papers number them ground-breaking also while supporting himself primarily teaching high-school mathematics
+1929 tarski married fellow teacher maria witkowska pole catholic background
+she worked courier army polish-soviet war
+two children son jan became physicist daughter ina married mathematician andrzej ehrenfeucht
+tarski applied chair philosophy lwów university bertrand russell's recommendation awarded leon chwistek
+1930 tarski visited university vienna lectured karl menger's colloquium met kurt gödel
+thanks fellowship able return vienna during first half 1935 work menger's research group
+vienna traveled paris present ideas truth first meeting unity science movement outgrowth vienna circle
+1937 tarski applied chair poznań university chair abolished
+tarski's ties unity science movement likely saved life because resulted being invited address unity science congress held september 1939 harvard university
+thus left poland august 1939 last ship sail poland united states before german soviet invasion poland outbreak world war ii
+tarski left reluctantly because leśniewski died few months before creating vacancy tarski hoped fill
+oblivious nazi threat left wife children warsaw
+see them again until 1946
+during war nearly extended family died hands german occupying authorities
+once united states tarski held number temporary teaching research positions harvard university 1939 city college new york 1940 thanks guggenheim fellowship institute advanced study princeton 1942 again met gödel
+1942 tarski joined mathematics department university california berkeley spent rest career
+tarski became american citizen 1945
+although emeritus 1968 taught until 1973 supervised ph
+candidates until death
+berkeley tarski acquired reputation awesome demanding teacher fact noted many observers seminars berkeley quickly became famous world mathematical logic
+students many whom became distinguished mathematicians noted awesome energy coax cajole their best work out them demanding highest standards clarity precision
+tarski extroverted quick-witted strong-willed energetic sharp-tongued
+preferred research collaborative — sometimes working night colleague — very fastidious priority
+charismatic leader teacher known brilliantly precise yet suspenseful expository style tarski intimidatingly high standards students same time very encouraging particularly women — contrast general trend
+students frightened away circle disciples remained many whom became world-renowned leaders field
+tarski supervised twenty-four ph
+dissertations including chronological order those andrzej mostowski bjarni jónsson julia robinson robert vaught solomon feferman richard montague james donald monk haim gaifman donald pigozzi roger maddux well chen chung chang jerome keisler authors model theory 1973 classic text field
+also strongly influenced dissertations alfred lindenbaum dana scott steven givant
+five tarski's students women remarkable fact given men represented overwhelming majority graduate students time
+tarski lectured university college london 1950 1966 institut henri poincaré paris 1955 miller institute basic research science berkeley 1958–60 university california los angeles 1967 pontifical catholic university chile 1974–75
+among many distinctions garnered over course career tarski elected united states national academy sciences british academy royal netherlands academy arts sciences 1958 received honorary degrees pontifical catholic university chile 1975 marseilles' paul cézanne university 1977 university calgary well berkeley citation 1981
+tarski presided over association symbolic logic 1944–46 international union history philosophy science 1956–57
+also honorary editor algebra universalis
+mathematician tarski's mathematical interests exceptionally broad
+collected papers run 2500 pages most them mathematics logic
+concise survey tarski's mathematical logical accomplishments former student solomon feferman see interludes i–vi feferman feferman
+tarski's first paper published 19 years old set theory subject returned throughout life
+1924 stefan banach proved accepts axiom choice ball cut finite number pieces then reassembled ball larger size alternatively reassembled two balls whose sizes each equal original
+result now called banach–tarski paradox
+decision method elementary algebra geometry tarski showed method quantifier elimination first-order theory real numbers under addition multiplication decidable
+while result appeared 1948 dates back 1930 mentioned tarski 1931
+very curious result because alonzo church proved 1936 peano arithmetic theory natural numbers decidable
+peano arithmetic also incomplete gödel's incompleteness theorem
+1953 undecidable theories tarski et al
+showed many mathematical systems including lattice theory abstract projective geometry closure algebras undecidable
+theory abelian groups decidable non-abelian groups
+1920 s 30 s tarski often taught high school geometry
+using ideas mario pieri 1926 tarski devised original axiomatization plane euclidean geometry considerably concise hilbert's
+tarski's axioms form first-order theory devoid set theory whose individuals points having two primitive relations
+1930 proved theory decidable because mapped another theory already proved decidable namely first-order theory real numbers
+1929 showed much euclidean solid geometry recast first-order theory whose individuals spheres primitive notion single primitive binary relation contained two axioms among other things imply containment partially orders spheres
+relaxing requirement individuals spheres yields formalization mereology far easier exposit lesniewski's variant
+near end life tarski very long letter published tarski givant 1999 summarizing work geometry
+cardinal algebras studied algebras whose models include arithmetic cardinal numbers
+ordinal algebras sets out algebra additive theory order types
+cardinal ordinal addition commutes
+1941 tarski published important paper binary relations began work relation algebra metamathematics occupied tarski students much balance life
+while exploration closely related work roger lyndon uncovered important limitations relation algebra tarski also showed tarski givant 1987 relation algebra express most axiomatic set theory peano arithmetic
+introduction relation algebra see maddux 2006
+late 1940 s tarski students devised cylindric algebras first-order logic two-element boolean algebra classical sentential logic
+work culminated two monographs tarski henkin monk 1971 1985
+logician tarski's student vaught ranked tarski four greatest logicians time — along aristotle gottlob frege kurt gödel
+however tarski often expressed great admiration charles sanders peirce particularly pioneering work logic relations
+tarski produced axioms logical consequence worked deductive systems algebra logic theory definability
+semantic methods culminated model theory number berkeley students developed 1950 s 60 s radically transformed hilbert's proof-theoretic metamathematics
+[tarski's] view metamathematics became similar any mathematical discipline
+concepts results mathematized actually integrated mathematics
+tarski destroyed borderline metamathematics mathematics
+objected restricting role metamathematics foundations mathematics
+tarski's 1936 article concept logical consequence argued conclusion argument will follow logically premises every model premises model conclusion
+1937 published paper presenting clearly views nature purpose deductive method role logic scientific studies
+high school undergraduate teaching logic axiomatics culminated classic short text published first polish then german translation finally 1941 english translation introduction logic methodology deductive sciences
+tarski's 1969 truth proof considered both gödel's incompleteness theorems tarski's undefinability theorem mulled over their consequences axiomatic method mathematics
+truth formalized languages 1933 tarski published very long paper polish titled pojęcie prawdy w językach nauk dedukcyjnych setting out mathematical definition truth formal languages
+1935 german translation titled wahrheitsbegriff den formalisierten sprachen concept truth formalized languages sometimes shortened wahrheitsbegriff
+english translation appeared 1956 first edition volume logic semantics metamathematics
+collection papers 1923 1938 event 20 th-century analytic philosophy contribution symbolic logic semantics philosophy language
+brief discussion content see convention t also t-schema
+recent philosophical debate examines extent tarski's theory truth formalized languages seen correspondence theory truth
+debate centers how read tarski's condition material adequacy truth definition
+condition requires truth theory following theorems sentences p language truth being defined p true p
+p proposition expressed p debate amounts whether read sentences form such snow white true snow white expressing merely deflationary theory truth embodying truth substantial property see kirkham 1992
+important realize tarski's theory truth formalized languages examples natural language illustrations use tarski's theory truth
+logical consequence 1936 tarski published polish german versions lecture given preceding year international congress scientific philosophy paris
+new english translation paper tarski 2002 highlights many differences german polish versions paper corrects number mistranslations tarski 1983
+publication set out modern model-theoretic definition semantic logical consequence least basis
+whether tarski's notion entirely modern turns whether intended admit models varying domains particular models domains different cardinalities
+question matter debate current philosophical literature
+john etchemendy stimulated much recent discussion tarski's treatment varying domains
+tarski ends pointing out definition logical consequence depends upon division terms logical extra-logical expresses skepticism any such objective division will forthcoming
+logical notions? thus viewed continuing concept logical consequence
+work logical notions another theory tarski's attracting attention recent philosophical literature outlined logical notions? tarski 1986
+published version talk gave originally 1966 london later 1973 buffalo edited without direct involvement john corcoran
+became most cited paper journal history philosophy logic
+talk tarski proposed demarcation logical operations calls notions non-logical
+suggested criteria derived erlangen programme german 19 th century mathematician felix klein
+mautner 1946 possibly article portuguese mathematician sebastiao e silva anticipated tarski applying erlangen program logic
+program classified various types geometry euclidean geometry affine geometry topology etc
+type one-one transformation space onto itself left objects geometrical theory invariant
+one-to-one transformation functional map space onto itself every point space associated mapped other point space
+rotate 30 degrees magnify factor 2 intuitive descriptions simple uniform one-one transformations
+continuous transformations give rise objects topology similarity transformations those euclidean geometry
+range permissible transformations becomes broader range objects able distinguish preserved application transformations becomes narrower
+similarity transformations fairly narrow preserve relative distance points thus allow us distinguish relatively many things e
+equilateral triangles non-equilateral triangles
+continuous transformations intuitively thought transformations allow non-uniform stretching compression bending twisting no ripping glueing allow us distinguish polygon annulus ring hole centre allow us distinguish two polygons each other
+tarski's proposal demarcate logical notions considering possible one-to-one transformations automorphisms domain onto itself
+domain meant universe discourse model semantic theory logic
+identifies truth value true domain set truth-value false empty set then following operations counted logical under proposal truth-functions truth-functions admitted proposal
+includes limited n-ary truth-functions finite n
+also admits truth-functions any infinite number places
+individuals no individuals provided domain least two members
+predicates one-place total null predicates former having members domain extension latter having no members domain extension two-place total null predicates former having set ordered pairs domain members extension latter empty set extension two-place identity predicate set order-pairs <aa> extension member domain two-place diversity predicate set order pairs <ab> distinct members domain n-ary predicates general predicates definable identity predicate together conjunction disjunction negation up any ordinality finite infinite quantifiers tarski explicitly discusses monadic quantifiers points out such numerical quantifiers admitted under proposal
+these include standard universal existential quantifiers well numerical quantifiers such exactly four finitely many uncountably many four 9 million example
+while tarski does enter issue also clear polyadic quantifiers admitted under proposal
+these quantifiers like given two predicates fx gy morex says things f g
+set-theoretic relations relations such inclusion intersection union applied subsets domain logical present sense
+set membership tarski ended lecture discussion whether set membership relation counted logical sense
+given reduction most mathematics set theory effect question whether most mathematics part logic
+pointed out set membership logical set theory developed along lines type theory extralogical set theory set out axiomatically canonical zermelo–fraenkel set theory
+logical notions higher order while tarski confined discussion operations first-order logic there nothing proposal necessarily restricts first-order logic
+tarski likely restricted attention first-order notions talk given non-technical audience
+higher-order quantifiers predicates admitted well
+ways present proposal obverse lindenbaum tarski 1936 proved logical operations russell whitehead's principia mathematica invariant under one-to-one transformations domain onto itself
+present proposal also employed tarski givant 1987
+solomon feferman vann mc gee further discussed tarski's proposal work published after death
+feferman 1999 raises problems proposal suggests cure replacing tarski's preservation automorphisms preservation arbitrary homomorphisms
+essence suggestion circumvents difficulty tarski's proposal dealing sameness logical operation across distinct domains given cardinality across domains distinct cardinalities
+feferman's proposal results radical restriction logical terms compared tarski's original proposal
+particular ends up counting logical those operators standard first-order logic without identity
+mc gee 1996 provides precise account operations logical sense tarski's proposal terms expressibility language extends first-order logic allowing arbitrarily long conjunctions disjunctions quantification over arbitrarily many variables
+arbitrarily includes countable infinity
+works anthologies collections 1986
+collected papers alfred tarski 4 vols
+givant s
+mc kenzie r
+givant steven 1986
+bibliography alfred tarski
+journal symbolic logic 51 913–41
+1983 1956
+logic semantics metamathematics papers 1923 1938 alfred tarski corcoran j
+st edition edited translated j
+woodger oxford uni
+collection contains translations polish tarski's most important papers early career including concept truth formalized languages concept logical consequence discussed above
+original publications tarski 1930 une contribution theorie de mesure
+fund math 15 1930 42-50
+jan łukasiewicz
+untersuchungen uber den aussagenkalkul [investigations sentential calculus] comptes rendus des seances de societe des sciences et des lettres de varsovie vol 23 1930 cl
+iii pp
+31–32 tarski 1983 38-59
+sur les ensembles définissables de nombres réels fundamenta mathematica 17 210-239 tarski 1983 110-142
+grundlegung wissenschaftlichen semantik actes du congrès international de philosophie scientifique sorbonne paris 1935 vol
+iii language et pseudo-problèmes paris hermann 1936 pp
+1–8 tarski 1983 401-408
+über den begriff logischen folgerung actes du congrès international de philosophie scientifique sorbonne paris 1935 vol
+vii logique paris hermann pp
+1–11 tarski 1983 409-420
+1936 adolf lindenbaum
+limitations deductive theories tarski 1983 384-92
+1994 1941
+introduction logic methodology deductive sciences
+calculus relations journal symbolic logic 6 73-89
+semantical concept truth foundations semantics philosophy phenomenological research 4 341-75
+decision method elementary algebra geometry
+santa monica ca rand corp
+cardinal algebras
+oxford univ
+1953 mostowski raphael robinson
+undecidable theories
+north holland
+ordinal algebras
+simplified formalization predicate logic identity archiv für mathematische logik und grundlagenforschung 7 61-79 1969
+truth proof scientific american 220 63-77
+1971 leon henkin donald monk
+cylindric algebras part
+1985 leon henkin donald monk
+cylindric algebras part ii
+logical notions? corcoran j
+history philosophy logic 7 143-54
+1987 steven givant
+formalization set theory without variables
+41 american mathematical society colloquium publications
+providence ri american mathematical society
+review 1999 steven givant
+tarski's system geometry bulletin symbolic logic 5 175-214
+concept following logically magda stroińska david hitchcock trans
+history philosophy logic 23 155-96
+see also biography portal logic portal list things named after alfred tarski references feferman
+feferman & feferman p
+feferman & feferman pp
+17-18 feferman & feferman p
+feferman & feferman p
+294 most socialist party members also favor assimilation tarski's political allegiance socialist time
+along being practical move becoming polish jewish ideological statement approved many though colleagues
+why tarski professed atheist converted just came territory part package you going polish then you say you catholic
+anita burdman feferman solomon feferman alfred tarski life logic 2004 page 39
+newsletter janusz korczak association canada pdf
+september 2007
+number 5
+retrieved february
+feferman & feferman 2004 pp
+feferman & feferman p
+67 feferman & feferman pp
+102-103 feferman & feferman chap
+5 pp
+124-149 robert vaught john addison benson mates julia robinson 1985
+alfred tarski mathematics berkeley
+university california system academic senate
+retrieved 2008-12-26
+obituary times reproduced here gregory moore alfred tarski dictionary scientific biography feferman chang c
+keisler h
+model theory
+north-holland amsterdam
+american elsevier new york
+alfred tarski mathematics genealogy project feferman & feferman pp
+385-386 alfred tarski 1902 - 1983
+royal netherlands academy arts sciences
+retrieved 17 july 2015
+o'connor john j
+robertson edmund f
+alfred tarski mac tutor history mathematics archive university st andrews
+feferman & feferman pp
+43-52 69-75 109-123 189-195 277-287 334-342 vaught robert l
+dec 1986
+alfred tarski's work model theory
+journal symbolic logic asl 51 4 869–882
+jstor 2273900
+restall greg 2002–2006
+great moments logic
+archived original 6 december 2008
+retrieved 2009-01-03
+sinaceur hourya 2001
+alfred tarski semantic shift heuristic shift metamathematics
+synthese springer verlag 126 1–2 49–65
+issn 0039-7857
+alfred tarski pojęcie prawdy w językach nauk dedukcyjnych towarszystwo naukowe warszawskie warszawa 1933
+text polish digital library wfisuw-ifispan-ptf
+etchemendy john 1999
+concept logical consequence
+stanford ca csli publications
+halmos paul 1957
+review logic semantics metamathematics
+papers 1923 1938 alfred tarski translated j
+woodger pdf
+63 2 155–156
+quine w
+review einführung die mathematische logik und die methodologie mathematik alfred tarski
+vienna springer 1937
+x+166 pp
+5 317–318
+curry haskell
+review introduction logic methodology deductive sciences alfred tarski pdf
+48 7 507–510
+mc naughton robert 1953
+review decision method elementary algebra geometry
+tarski pdf
+59 91–93
+birkhoff garrett 1950
+review cardinal algebras
+tarski pdf
+56 2 208–209
+gál ilse novak 1954
+review undecidable theories alfred tarski collaboration
+mostowsku r
+robinson pdf
+60 6 570–572
+further reading biographical references feferman anita burdman 1999
+alfred tarski
+american national biography 21
+oxford university press
+feferman anita burdman feferman solomon 2004
+alfred tarski life logic
+cambridge university press
+oclc 54691904
+givant steven
+portrait alfred tarski
+mathematical intelligencer 13 16–32
+patterson douglas
+alfred tarski philosophy language logic palgrave macmillan 262 pages biography focused work late-1920 s mid-1930 s particular attention influences teachers stanislaw lesniewski tadeusz kotarbinski
+logic literature december 1986 issue journal symbolic logic surveys tarski's work model theory robert vaught algebra jonsson undecidable theories mc nulty algebraic logic donald monk geometry szczerba
+march 1988 issue same journal surveys work axiomatic set theory azriel levy real closed fields lou van den dries decidable theory doner wilfrid hodges metamathematics blok pigozzi truth logical consequence john etchemendy general philosophy patrick suppes
+blok w
+pigozzi don alfred tarski's work general metamathematics journal symbolic logic vol
+53 no
+1988 pp
+36–50 chang c
+keisler h
+model theory
+north-holland amsterdam
+american elsevier new york
+corcoran john sagüillo josé miguel 2011
+absence multiple universes discourse 1936 tarski consequence-definition paper history philosophy logic 359–80
+corcoran john weber leonardo 2015
+tarski’s convention t condition beta south american journal logic
+etchemendy john 1999
+concept logical consequence
+stanford ca csli publications
+feferman solomon 1999
+logic logics logicism pdf
+notre dame journal formal logic 40 31–54
+grattan-guinness ivor 2000
+search mathematical roots 1870-1940
+princeton uni
+kirkham richard 1992
+theories truth
+mit press
+maddux roger
+relation algebras vol
+150 studies logic foundations mathematics elsevier science
+mautner f
+extension klein's erlanger program logic invariant-theory
+american journal mathematics 68 345–84
+mc gee van 1996
+logical operations
+journal philosophical logic 25 567–80
+popper karl r
+1972 rev
+1979 philosophical comments tarski's theory truth addendum objective knowledge oxford 319-340
+sinaceur h 2001
+alfred tarski semantic shift heuristic shift metamathematics
+synthese 126 49–65
+smith james t
+definitions nondefinability geometry american mathematical monthly 117475–89
+wolenski jan 1989
+logic philosophy lvov–warsaw school
+external links media related alfred tarski wikimedia commons stanford encyclopedia philosophy tarski's truth definitions wilfred hodges
+alfred tarski mario gómez-torrente
+propositional consequence relations algebraic logic ramon jansana
+includes fairly detailed discussion tarski's work these topics
+tarski's semantic theory internet encyclopedia philosophy
+authority control world cat identities viaf 88667191 lccn n50008718 isni 0000 0000 8162 4974 gnd 118620851 selibr 238740 sudoc 028527704 bnf cb120345968 data mgp 13347 nkc mzk2003187564 bne xx1086244

@@ -1,0 +1,234 @@
+other people same name see lakatos disambiguation
+native form personal name lakatos imre
+article uses western name order
+imre lakatos imre lakatos c
+1960 s born 1922-11-09 november 9 1922 debrecen hungary died february 2 19741974-02-02 aged 51 london england alma mater university debrecen moscow state university era 20 th-century philosophy region western philosophy school fallibilism falsificationism main interests philosophy mathematics philosophy science epistemology politics notable ideas method proofs refutations methodology scientific research programmes methodology historiographical research programmes criticism logical positivism formalism influences paul feyerabend georg hegel vladimir lenin george lukacs karl marx george polya karl popper thomas kuhn árpád szabó de influenced paul feyerabend nancey murphy jean-claude milner alan chalmers john worrall imre lakatos hungarian lakatos imre [ˈlɒkɒtoʃ ˈimrɛ] november 9 1922 february 2 1974 hungarian philosopher mathematics science known thesis fallibility mathematics 'methodology proofs refutations' pre-axiomatic stages development also introducing concept 'research programme' methodology scientific research programmes
+contents life 2 proofs refutations mathematics 2
+cauchy uniform convergence 3 research programmes 4 pseudoscience 4
+darwin's theory 5 historiographical research programmes 6 criticism 6
+feyerabend 7 see also notes 9 references 10 further reading external links
+archives life lakatos born imre avrum lipschitz jewish family debrecen hungary 1922
+received degree mathematics physics philosophy university debrecen 1944
+avoided nazi persecution jews changing name imre molnár
+mother grandmother died auschwitz
+became active communist during second world war
+changed surname once again lakatos locksmith honor géza lakatos
+after war 1947 worked senior official hungarian ministry education
+also continued education ph debrecen university awarded 1948 also attended györgy lukács's weekly wednesday afternoon private seminars
+also studied moscow state university under supervision sofya yanovskaya 1949
+returned however found himself losing side internal arguments within hungarian communist party imprisoned charges revisionism 1950 1953
+lakatos' activities hungary after world war ii recently become known
+fact lakatos hardline stalinist despite young age important role 1945 1950 own arrest jailing building up communist rule especially cultural life academia hungary
+after release lakatos returned academic life doing mathematical research translating george pólya's how solve hungarian
+still nominally communist political views shifted markedly involved least dissident student group lead-up 1956 hungarian revolution
+after soviet union invaded hungary november 1956 lakatos fled vienna later reached england
+received doctorate philosophy 1961 university cambridge
+book proofs refutations logic mathematical discovery published after death based work
+lakatos never obtained british citizenship
+1960 appointed position london school economics philosophy mathematics philosophy science
+lse philosophy science department time included karl popper joseph agassi j
+agassi first introduced lakatos popper under rubric applying fallibilist methodology conjectures refutations mathematics cambridge ph thesis
+co-editor alan musgrave edited often cited criticism growth knowledge proceedings international colloquium philosophy science london 1965
+published 1970 1965 colloquium included well-known speakers delivering papers response thomas kuhn's structure scientific revolutions
+lakatos remained london school economics until sudden death 1974 heart attack age just 51
+lakatos award set up school memory
+january 1971 became editor british journal philosophy science j
+wisdom built up before departing 1965 continued editor until death 1974 after then edited jointly many years lse colleagues john w
+watkins john worrall lakatos's ex-research assistant
+last lse lectures scientific method lent term 1973 along parts correspondence friend critic paul feyerabend published against method
+lakatos colleague spiro latsis organised international conference devoted entirely historical case studies lakatos's methodology research programmes physical sciences economics held greece 1974 still went ahead following lakatos's death february 1974
+these case studies such einstein's relativity programme fresnel's wave theory light neoclassical economics published cambridge university press two separate volumes 1976 devoted physical sciences lakatos's general programme rewriting history science concluding critique great friend paul feyerabend other devoted economics
+proofs refutations mathematics main article proofs refutations lakatos' philosophy mathematics inspired both hegel's marx's dialectic karl popper's theory knowledge work mathematician george polya
+1976 book proofs refutations based first three chapters four chapter 1961 doctoral thesis essays logic mathematical discovery
+first chapter lakatos's own revision chapter first published proofs refutations four parts 1963–4 british journal philosophy science
+largely taken up fictional dialogue set mathematics class
+students attempting prove formula euler characteristic algebraic topology theorem properties polyhedra namely polyhedra number their vertices minus number their edges plus number their faces 2 v e + f = 2
+dialogue meant represent actual series attempted proofs mathematicians historically offered conjecture repeatedly refuted counterexamples
+often students paraphrase famous mathematicians such cauchy noted lakatos's extensive footnotes
+lakatos termed polyhedral counter examples euler's formula monsters distinguished three ways handling these objects firstly monster-barring means theorem question applied such objects
+secondly monster-adjustment whereby making re-appraisal monster made obey proposed theorem
+thirdly exception handling further distinct process
+interestingly these distinct strategies taken up qualitative physics terminology monsters applied apparent counter-examples techniques monster-barring monster-adjustment recognized approaches refinement analysis physical issue
+lakatos tried establish no theorem informal mathematics final perfect
+means should think theorem ultimately true no counterexample yet found
+once counterexample
+entity contradicting/not explained theorem found adjust theorem possibly extending domain validity
+continuous way our knowledge accumulates through logic process proofs refutations
+axioms given branch mathematics however lakatos claimed proofs those axioms tautological
+logically true
+lakatos proposed account mathematical knowledge based idea heuristics
+proofs refutations concept 'heuristic' well developed although lakatos gave several basic rules finding proofs counterexamples conjectures
+thought mathematical 'thought experiments' valid way discover mathematical conjectures proofs sometimes called philosophy 'quasi-empiricism'
+however also conceived mathematical community carrying kind dialectic decide mathematical proofs valid
+therefore fundamentally disagreed 'formalist' conception proof prevailed frege's russell's logicism defines proof simply terms formal validity
+first publication paper british journal philosophy science 1963–4 proofs refutations became highly influential new work philosophy mathematics although few agreed lakatos' strong disapproval formal proof
+before death planning return philosophy mathematics apply theory research programmes
+lakatos worrall zahar use poincaré 1893 answer major problems perceived critics namely pattern mathematical research depicted proofs refutations does faithfully represent most actual activity contemporary mathematicians
+cauchy uniform convergence 1966 text published lakatos 1978 lakatos re-examines history calculus special regard augustin-louis cauchy concept uniform convergence light non-standard analysis
+lakatos concerned historians mathematics should judge evolution mathematics terms currently fashionable theories
+illustration examines cauchy's proof sum series continuous functions itself continuous
+lakatos critical those see cauchy's proof failure make explicit suitable convergence hypothesis merely inadequate approach weierstrassian analysis
+lakatos sees such approach failure realize cauchy's concept continuum differed currently dominant views
+research programmes section needs additional citations verification
+please help improve article adding citations reliable sources
+unsourced material may challenged removed
+april 2013 lakatos's second major contribution philosophy science model 'research programme' formulated attempt resolve perceived conflict popper's falsificationism revolutionary structure science described kuhn
+popper's standard falsificationism widely taken imply theory should abandoned soon any evidence appears challenge while kuhn's descriptions scientific activity taken imply science most constructive upheld system popular 'normal' theories despite anomalies
+lakatos' model research programme aims combine popper's adherence empirical validity kuhn's appreciation conventional consistency
+lakatosian research programme based hard core theoretical assumptions cannot abandoned altered without abandoning programme altogether
+modest specific theories formulated order explain evidence threatens 'hard core' termed auxiliary hypotheses
+auxiliary hypotheses considered expendable adherents research programme—they may altered abandoned empirical discoveries require order 'protect' 'hard core'
+whereas popper generally read hostile toward such ad hoc theoretical amendments lakatos argued progressive
+productive enhance programme's explanatory and/or predictive power least permissible until better system theories devised research programme replaced entirely
+difference progressive degenerative research programme lies lakatos whether recent changes auxiliary hypotheses achieved greater explanatory/predictive power whether made simply out necessity offering response face new troublesome evidence
+degenerative research programme indicates new progressive system theories should sought replace currently prevailing until such system theories conceived agreed upon abandonment current further weaken our explanatory power therefore unacceptable lakatos
+lakatos's primary example research programme successful time then progressively replaced founded isaac newton three laws motion forming 'hard core'
+lakatosian research programme deliberately provides framework within research conducted basis 'first principles' 'hard core' shared those involved research programme accepted purpose research without further proof debate
+regard similar kuhn's notion paradigm
+lakatos sought replace kuhn's paradigm guided irrational 'psychology discovery' research programme no less coherent consistent yet guided popper's objectively valid logic discovery
+lakatos following pierre duhem's idea protect cherished theory part hostile evidence redirecting criticism toward other theories parts thereof
+see confirmation holism duhem–quine thesis
+aspect falsification acknowledged popper
+popper's theory falsificationism proposed scientists put forward theories nature 'shouts no' form inconsistent observation
+according popper irrational scientists maintain their theories face nature's rejection kuhn described them doing
+lakatos however propose theory nature may shout no rather propose maze theories nature may shout inconsistent
+continued adherence programme's 'hard core' augmented adaptable auxiliary hypotheses reflects lakatos's less strict standard falsificationism
+lakatos saw himself merely extending popper's ideas changed over time interpreted many conflicting ways
+contrasted popper naive falsificationist demanded unconditional rejection any theory face any anomaly interpretation lakatos saw erroneous nevertheless referred often popper1 nuanced conservatively interpreted philosopher popper2 sophisticated methodological falsificationist lakatos claims logical extension correctly interpreted ideas popper1 therefore essentially lakatos himself
+therefore very difficult determine ideas arguments concerning research programme should credited whom
+while lakatos dubbed theory sophisticated methodological falsificationism methodological strict sense asserting universal methodological rules scientific research must abide
+rather methodological theories abandoned according methodical progression worse theories better theories—a stipulation overlooked lakatos terms dogmatic falsificationism
+methodological assertions strict sense pertaining methods valid invalid themselves contained within research programmes choose adhere them should judged according whether research programmes adhere them prove progressive degenerative
+lakatos divided these 'methodological rules' within research programme 'negative heuristics'
+research methods approaches avoid 'positive heuristics'
+research methods approaches prefer
+lakatos claimed changes auxiliary hypotheses research programme calls 'problem shifts' equally productive acceptable
+took view these 'problem shifts' should evaluated just their ability defend 'hard core' explaining apparent anomalies also their ability produce new facts form predictions additional explanations
+adjustments accomplish nothing maintenance 'hard core' mark research programme degenerative
+lakatos' model provides possibility research programme continued presence troublesome anomalies remains progressive despite them
+lakatos essentially necessary continue theory basically know cannot completely true even possible make scientific progress doing long remain receptive better research programme may eventually conceived
+sense lakatos acknowledged misnomer refer 'falsification' 'refutation' truth falsity theory solely determining whether consider 'falsified' also availability less false theory
+theory cannot rightfully 'falsified' according lakatos until superseded better
+progressive research programme
+says happening historical periods kuhn describes revolutions makes them rational opposed mere leaps faith periods deranged social psychology kuhn argued
+pseudoscience according demarcation criterion pseudoscience originally proposed lakatos theory pseudoscientific fails make any novel predictions previously unknown phenomena contrast scientific theories predict novel facts
+progressive scientific theories those their novel facts confirmed degenerate scientific theories those whose predictions novel facts refuted
+put given fact explained scientifically new fact predicted
+idea growth concept empirical character soldered
+see pages 34–5 methodology scientific research programmes 1978
+lakatos's own key examples pseudoscience ptolemaic astronomy immanuel velikovsky's planetary cosmogony freudian psychoanalysis 20 th century soviet marxism lysenko's biology niels bohr's quantum mechanics post-1924 astrology psychiatry sociology neoclassical economics darwin's theory
+darwin's theory 1973 lse scientific method lecture also claimed nobody date yet found demarcation criterion according darwin described scientific
+almost 20 years after lakatos's 1973 challenge scientificity darwin her ant peacock lse lecturer ex-colleague lakatos helena cronin attempted establish darwinian theory empirically scientific respect least being supported evidence likeness diversity life forms world explained descent modification
+she our usual idea corroboration requiring successful prediction novel facts
+darwinian theory strong temporally novel predictions
+however familiar evidence whatever role played construction theory still confirms theory
+historiographical research programmes 1970 paper history science rational reconstructions lakatos proposed dialectical historiographical meta-method evaluating different theories scientific method namely means their comparative success explaining actual history science scientific revolutions hand whilst other providing historiographical framework rationally reconstructing history science anything merely inconsequential rambling
+paper started now renowned dictum philosophy science without history science empty history science without philosophy science blind
+however neither lakatos himself nor collaborators ever completed first part dictum showing any scientific revolution great majority relevant scientific community converted just lakatos's criterion programme successfully predicting novel facts whilst competitor degenerated satisfied
+indeed historical case studies 1970 criticism methodology scientific research programmes openly admitted much commenting 'in paper my purpose go seriously second stage comparing rational reconstructions actual history any lack historicity
+criticism feyerabend paul feyerabend argued lakatos's methodology methodology merely words sound like elements methodology
+argued lakatos's methodology no different practice epistemological anarchism feyerabend's own position
+science free society after lakatos's death lakatos realized admitted existing standards rationality standards logic included too restrictive hindered science applied determination
+therefore permitted scientist violate them admits science rational sense these standards
+however demanded research programmes show certain features long run — must progressive
+argued demand no longer restricts scientific practice
+any development agrees
+lakatos feyerabend planned produce joint work lakatos develop rationalist description science feyerabend attack
+correspondence lakatos feyerabend two discussed project since reproduced commentary matteo motterlini
+see also scientific community metaphor approach programming influenced lakatos's work research programmes
+list soviet eastern bloc defectors lakatos award set up memory notes andrás máté 2006
+árpád szabó imre lakatos relation history philosophy mathematics
+perspectives science 14 3 282–301
+com/chocolate-chess-unlocking-lakatos-bandy/dp/9630588196 scheffler israel 2007 gallery scholars philosopher's recollections philosophy education 13 springer p
+42 9781402027109
+donald gillies
+imre lakatos
+paul k
+threshold science against method matteo motterlini
+british journal philosophy science
+47 no
+3 sep
+org/stable/687992 see lakatos's 5 jan 1971 letter paul feyerabend pp 233–4 motterlini's 1999 against method these respectively method appraisal physical sciences critical background modern science 1800–1905 colin howson edand method appraisal economics spiro j
+latsis ed lakatosian monsters
+retrieved 18 january 2015
+see instance lakatos' renaissance empiricism recent philosophy mathematics section 2 defines euclidean system consisting logical deductions initial set axioms writes euclidean system may claimed true
+poincaré h
+sur généralisation d'un théorème d'euler relatif aux polyèdres comptes redus de seances de l'academie des sciences 117 p
+144 cited lakatos worrall zahar p
+162 lakatos worrall zahar 1976 proofs refutations x pp
+106–126 note poincaré's formal proof 1899 complèment à l'analysis situs rediconti del circolo matematico di palermo 13 pp
+285–343 rewrites euler's conjecture tautology vector algebra
+[disambiguation needed] bruce j
+caldwell methodology scientific research programmes criticisms conjectures g
+shaw ed
+economics culture education essays honor mark blaug aldershot elgar pp
+95–107 lakatos musgrave ed
+1970 pg
+130 theoretical progressiveness new 'theory empirical content old
+empirical progressiveness content corroborated
+lakatos ed
+1970 p
+118 see/hear lakatos's 1973 open university bbc radio talk science pseudoscience lse website @ www
+uk/lakatos lakatos notably condemned specifically soviet marxism pseudoscientific opposed marxism general
+fact very end very last lse lectures scientific method 1973 finished posing question whether trotsky's theoretical development marxism scientific commented nobody ever undertaken critical history marxism aid better methodological historiographical instruments
+nobody ever tried find answer questions like trotsky's unorthodox predictions simply patching up badly degenerating programme represent creative development marx's programme? answer similar questions really need detailed analysis takes years work
+simply know answer even am very interested
+[p109 motterlini 1999] however 1976 critique scientific reason feyerabend claimed vladimir lenin's development marxism auxiliary theory colonial exploitation 'lakatos scientific' because accompanied wealth novel predictions arrival structure monopolies being them
+continued claiming both rosa luxemburg's trotsky's developments marxism close lakatos regarded scientific whoever read rosa luxemburg's reply bernstein's criticism marx trotsky's account why russian revolution took place backward country cf
+also lenin vol 19 pp99 ff
+will see marxists pretty close lakatos like any upstanding rationalist
+[see footnote 9 p315 howson ed 1976] published against method imre lakatos paul feyerabend motterlini ed university chicago press 1999 cronin h
+ant peacock altruism sexual selection darwin today cambridge university press 1993
+lakatos imre
+history science rational reconstructions
+psa proceedings biennial meeting philosophy science association
+org/stable/495757 see how defend society against science paul feyerabend 1978
+science free society
+london nlb
+motterlini m
+against method
+chicago ucp
+references oxford dictionary national biography cronin helena ant peacock cambridge university press howson colin ed
+method appraisal physical sciences critical background modern science 1800–1905 cambridge university press 1976 kampis kvaz & stoltzner eds appraising lakatos mathematics methodology man vienna circle institute library kluwer 2002 lakatos musgrave ed
+criticism growth knowledge
+cambridge cambridge university press
+lakatos 1976
+proofs refutations
+cambridge cambridge university press
+lakatos 1978
+methodology scientific research programmes philosophical papers volume
+cambridge cambridge university press lakatos 1978
+mathematics science epistemology philosophical papers volume 2
+cambridge cambridge university press
+cauchy continuum significance nonstandard analysis history philosophy mathematics
+intelligencer 1978 no
+3 151–161 paper originally presented 1966
+feyerabend p
+against method including lakatos's lectures scientific method lakatos-feyerabend correspondence ed
+matteo motterlini chicago university press 451 pp 1999 latsis spiro j
+method appraisal economics cambridge university press 1976 popper k r 1972 objective knowledge evolutionary approach oxford clarendon press 1972 bibliographic summary no text
+zahar elie 1973 why einstein's programme superseded lorentz's british journal philosophy science zahar elie 1988 einstein's revolution study heuristic open court 1988 further reading alex bandy 2010
+chocolate chess
+unlocking lakatos
+budapest akadémiai kiadó
+brendan larvor 1998
+lakatos introduction
+london routledge
+jancis long 1998
+lakatos hungary philosophy social sciences 28 pp
+john kadvany 2001
+imre lakatos guises reason
+durham london duke university press
+author's web site http//www
+teun koetsier
+lakatos' philosophy mathematics historical approach
+amsterdam etc
+north holland
+szabó árpád beginnings greek mathematics tr ungar reidel & akadémiai kiadó budapest 1978 external links wikiquote quotations related imre lakatos science pseudoscience including mp3 audio file lakatos' 1973 open university bbc radio talk subject o'connor john j
+robertson edmund f
+imre lakatos mac tutor history mathematics archive university st andrews
+lakatos's hungarian intellectual background autumn 2006 mit press journal perspectives science devoted articles topic article abstracts
+official russian page archives imre lakatos's papers held london school economics
+personal library wayback machine archived january 5 2008 also held school
+vte philosophy science concepts analysis analytic–synthetic distinction priori posteriori causality commensurability consilience construct creative synthesis demarcation problem empirical evidence explanatory power fact falsifiability feminist method ignoramus et ignorabimus inductive reasoning intertheoretic reduction inquiry nature objectivity observation paradigm problem induction scientific law scientific method scientific revolution scientific theory testability theory choice theory-ladenness underdetermination unity science metatheoryof science coherentism confirmation holism constructive empiricism constructive realism constructivist epistemology contextualism conventionalism {deductive-nomological model hypothetico-deductive model inductionism} epistemological anarchism fallibilism foundationalism instrumentalism pragmatism model-dependent realism naturalism physicalism positivism-reductionism-determinism rationalism / empiricism received view / semantic view theories scientific realism / anti-realism scientific essentialism scientific formalism scientific skepticism scientism structuralism uniformitarianism vitalism philosophy physics thermal statistical motion chemistry biology environment geography social science technology engineering artificial intelligence computer science information mind psychology perception space time related topics alchemy criticism science epistemology faith rationality history philosophy science history science history evolutionary thought logic metaphysics pseudoscience relationship religion science rhetoric science sociology scientific knowledge sociology scientific ignorance philosophers science era ancient plato aristotle stoicism epicurians medieval averroes avicenna roger bacon william ockham hugh saint victor dominicus gundissalinus robert kilwardby early modern francis bacon thomas hobbes rené descartes galileo galilei pierre gassendi isaac newton david hume classical modern immanuel kant friedrich schelling auguste comte william whewell wilhelm windelband john stuart mill herbert spencer pierre duhem henri poincaré wilhelm wundt late modern albert einstein bertrand russell alfred north whitehead rudolf carnap w
+quine bas van fraassen carl gustav hempel charles sanders peirce daniel dennett hans reichenbach ian hacking imre lakatos jürgen habermas karl pearson karl popper larry laudan michael polanyi otto neurath paul feyerabend thomas kuhn portal category authority control world cat identities viaf 108401548 lccn n50039434 isni 0000 0001 2146 9658 gnd 118568817 sudoc 028597214 bnf cb130917985 data ulan 500023389 mgp 146090 ndl 00446677

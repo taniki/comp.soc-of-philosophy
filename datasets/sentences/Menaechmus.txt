@@ -1,0 +1,63 @@
+there also menaechmus plautus' play menaechmi
+menaechmus greek μέναιχμος 380–320 bc ancient greek mathematician geometer born alopeconnesus thracian chersonese known friendship renowned philosopher plato apparent discovery conic sections solution then-long-standing problem doubling cube using parabola hyperbola
+contents life work 2 references 3 sources 4 external links life work menaechmus remembered mathematicians discovery conic sections solution problem doubling cube
+menaechmus likely discovered conic sections ellipse parabola hyperbola by-product search solution delian problem
+menaechmus knew parabola y² = lx l constant called latus rectum although aware fact any equation two unknowns determines curve
+apparently derived these properties conic sections others well
+using information now possible find solution problem duplication cube solving points two parabolas intersect solution equivalent solving cubic equation
+there few direct sources menaechmus's work work conic sections known primarily epigram eratosthenes accomplishment brother devising method create square equal area given circle using quadratrix dinostratus known solely writings proclus
+proclus also mentions menaechmus taught eudoxus
+there curious statement plutarch effect plato disapproved menaechmus achieving doubled cube solution use mechanical devices proof currently known appears purely algebraic
+menaechmus tutor alexander great belief derives following anecdote supposedly once alexander asked shortcut understanding geometry replied o king traveling over country there royal road roads common citizens geometry there road
+beckmann history pi 1989 p
+34 however quote first attested stobaeus 500 ad whether menaechmus really taught alexander uncertain
+precisely died uncertain well though modern scholars believe eventually expired cyzicus
+references cooke roger 1997
+euclidean synthesis
+history mathematics brief course
+new york wiley
+eutocius proclus both attribute discovery conic sections menaechmus lived athens late fourth century
+proclus quoting eratosthenes refers conic section triads menaechmus
+since quotation comes just after discussion section right-angled cone section acute-angled cone inferred conic sections produced cutting cone plane perpendicular elements
+then vertex angle cone acute resulting section calledoxytome ellipse
+angle right section orthotome parabola angle obtuse section amblytome hyperbola see fig
+age plato aristotle
+history mathematics
+consequently signal achievement part menaechmus disclosed curves having desired property near hand
+fact there family appropriate curves obtained single source - cutting right circular cone plane perpendicular element cone
+menaechmus reputed discovered curves later known ellipse parabola hyperbola
+yet first discovery ellipse seems made menaechmus mere by-product search parabola hyperbola proffered properties needed solution delian problem
+age plato aristotle
+history mathematics
+op=y od = x coordinates point p y<sup2 = r
+ov substituting equals y2 = r'd
+ov = ar'
+bc/ab = ar'
+much segments ar' bc ab same points p curve eqdpg write equation curve section right-angled cone y2=lx l constant later known latus rectum curve
+menaechmus apparently derived these properties conic sections others well
+since material strong resemblance use coordinates illustrated above sometimes maintains menaechmus analytic geometry
+such judgment warranted part certainly menaechmus unaware any equation two unknown quantities determines curve
+fact general concept equation unknown quantities alien greek thought
+hit upon conics successful search curves properties appropriate duplication cube
+terms modern notation solution easily achieved
+shifting cutting plane fig
+2 find parabola any latus rectum
+then wish duplicate cube edge locate right-angled cone two parabolas latus rectum another latus rectum 2
+probable menaechmus knew duplication achieved also use rectangular hyperbola parabola
+sources beckmann petr 1989
+history pi 3 rd ed
+dorset press
+boyer carl
+history mathematics second ed
+john wiley & sons inc
+cooke roger 1997
+history mathematics brief course
+external links menaechmus' constructions conics convergence o'connor john j
+robertson edmund f
+menaechmus mac tutor history mathematics archive university st andrews
+article encyclopædia britannica wolfram
+com biography fuentes gonzález pedro pablo “ménaichmos” r
+goulet ed
+dictionnaire des philosophes antiques vol
+iv paris cnrs 2005 p
+vte ancient greek mathematics mathematicians anaxagoras anthemius archytas aristaeus elder aristarchus apollonius archimedes autolycus bion boethius bryson callippus carpus chrysippus cleomedes conon ctesibius democritus dicaearchus diocles diophantus dinostratus dionysodorus domninus eratosthenes eudemus euclid eudoxus eutocius geminus heron hipparchus hippasus hippias hippocrates hypatia hypsicles isidore miletus leon marinus menaechmus menelaus metrodorus nicomachus nicomedes nicoteles oenopides pappus perseus philolaus philon porphyry posidonius proclus ptolemy pythagoras serenus simplicius sosigenes sporus thales theaetetus theano theodorus theodosius theon alexandria theon smyrna thymaridas xenocrates zeno elea zeno sidon zenodorus treatises almagest archimedes palimpsest arithmetica conics apollonius elements euclid sizes distances aristarchus sizes distances hipparchus moving sphere autolycus sand reckoner problems problem apollonius squaring circle doubling cube angle trisection centers cyrene library alexandria platonic academy timeline ancient greek mathematicians authority control world cat identities viaf 69321357 gnd 102399034

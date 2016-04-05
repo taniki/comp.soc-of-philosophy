@@ -1,0 +1,98 @@
+other people same name see david kaplan disambiguation
+david benjamin kaplan born 1933 american philosopher logician teaching ucla
+philosophical work focuses logic philosophical logic modality philosophy language metaphysics epistemology
+best known work demonstratives propositions reference intensional contexts
+elected fellow american academy arts & sciences 1983 corresponding fellow british academy 2007
+contents biography 2 work 2
+semantics indexicals demonstratives 2
+2 quantifying 2
+3 logic pedagogy & logic 2000 program 3 bibliography 4 see also 5 references 6 external links biography kaplan received ph
+philosophy ucla 1964 last graduate student supervised rudolf carnap
+thesis entitled foundations intensional logic
+work continues strongly formal approach philosophy long associated ucla represented mathematician-logician-philosophers such alonzo church richard montague
+most years kaplan teaches upper division course philosophy language focusing work either gottlob frege bertrand russell p
+also teaches related course kripke's naming necessity
+lively[opinion] lectures often focus selected paragraphs russell's denoting well frege's sense reference
+work kaplan's work primarily focused issues philosophy language logic
+these ventures however sometimes take related issues other fields such philosophy mind
+semantics indexicals demonstratives kaplan's most influential contribution philosophy language semantic analysis indexicals demonstratives outlined progressively greater detail series articles dthat logic demonstratives demonstratives afterthoughts
+kaplan's insights center two key distinctions may seen responses inability frege's semantics deal context-sensitivity language
+first place frege's categories sinn bedeutung typically translated sense reference kaplan introduces notions character content
+former linguistic meaning expression latter proposition propositional component expressed expression context
+second kaplan makes explicit distinction context utterance circumstances evaluation proposition expressed utterance
+context formalized set composed speaker place time possible world depending analysis demonstratives perhaps set either demonstrations directing intentions
+circumstances evaluation play role very similar possible worlds modal semantics
+these rough distinctions kaplan then defines character content precisely
+character defines function associated convention expression takes contextual elements arguments yields content values
+content other hand defines function taking arguments those elements circumstances evaluation relevant determining extension yielding extension referent truth-value value
+two important notions thus defined
+say expression context-sensitive character defines non-constant function
+yields different content-values given different context-element-arguments
+expression context-insensitive character defines constant function
+also distinction character content breaks down case context-insensitive expressions convention associates each such expression directly content
+other hand expression directly referential content defines constant function circumstances evaluation extension
+kaplan also characterizes directly referential expressions those refer without mediation fregean sinn those whose contribution content their referents
+thus case directly referential expressions say distinction content referent breaks down
+any singular term directly referential according kaplan
+following intuitive picture emerges meaning indexical rule taking us part context expression meaning expression bit propositional content determines extension each possible world
+kaplan goes use semantic scheme explain phenomena concerning relationship necessary priori truth
+utterance necessarily true content expresses true every possible circumstance while utterance true priori expresses each context content true circumstances context part
+am here now true priori because each indexical expressions used 'i' 'here' 'now' directly refer speaker location time utterance
+utterance necessarily true because any given speaker might different place time given different circumstances evaluation
+other hand am david kaplan spoken david kaplan necessarily true since david kaplan both directly referential expressions refer same object every circumstance evaluation
+same statement true priori however because spoken different context e
+speaker other kaplan might false
+another result kaplan's theory solves frege's puzzle indexicals
+roughly puzzle here arises indexicals thought directly referential
+refer means fregean sinn
+however frege explains cognitive value terms sinn
+thus following problem emerges sentences am david kaplan spoken david kaplan david kaplan spoken someone pointing david kaplan david kaplan david kaplan spoken anyone express same content refer same individuals
+yet each three different cognitive value possible rationally believe while denying another
+kaplan explains associating cognitive value character rather content thus remedying problem
+there problems approach kaplan explores afterthoughts
+kaplan's semantic theory faces problem however proper names seem both directly referential context-insensitive
+kaplan's account means constant functions defined both proper name's character content imply proper names no meaning other their reference
+while approach proper names novel john stuart mill being early advocate frege's puzzle thought cast doubt any such account
+many philosophers attempted deal issue notably joseph almog david braun michael devitt john perry nathan salmon scott soames howard wettstein no solution widely accepted
+quantifying article quantifying 1968 kaplan discusses issues intensional indirect ungerade oblique discourse such substitution failure existential generalization failure distinction de re / de dicto propositional attitude attributions
+such issues made salient primarily w
+quine quantifiers propositional attitudes 1956
+phrase quantifying comes quine's discussion calls relational constructions existential statement
+such cases variable bound anterior variable-binding operator occurs within non-extensional context such created 'that' clause alternatively propositional attitude modal operators
+quantifying idiom captures notion variable-binding operator example existential quantifier 'something' reaches speak non-extensional context bind variable occurring within scope
+example using propositional attitude clause quantifies statement ralph believes ortcutt spy result partly formalized ǝx ralph believes x spy [there someone ralph believes spy] short kaplan attempts among other things provide apparatus fregean vein allows quantify such intensional contexts even exhibit kind substitution failure quine discusses
+successful shows quine wrong thinking substitution failure implies existential generalization failure inability quantify clauses exhibit such substitution failure
+logic pedagogy & logic 2000 program recent years kaplan devoted much effort teaching introductory logic
+main contribution work create computer program logic 2000 students their assignments
+logic 2000 currently available use free charge
+program many parts including derivations module symbolizations module models module much
+program initially developed complement logic text donald kalish richard montague derivations module therefore uses their distinctive natural deduction system
+perhaps most significant features program feedback error-checking capacities
+program provide student immediate extensive error messages detailing any errors student may made problem she currently working
+program may obtained http//logic2 k
+edu bibliography quantifying synthese xix 1968
+logic demonstratives journal philosophical logic viii 1978 81-98 reprinted french et al
+contemporary perspectives philosophy language minneapolis university minnesota press 1979 401-412
+dthat syntax semantics vol
+9 ed
+cole new york academic press 1978 reprinted philosophy language ed
+martinich oxford oxford university press 1985
+bob carol ted alice approaches natural language j
+hintikka et al
+reidel 1973
+how russell frege-church journal philosophy lxxii 1975
+opacity w
+quine l
+hahn ed
+open court 1986
+demonstratives afterthoughts themes kaplan almog et al
+oxford 1989
+words aristotelian society supplementary volume lxiv 1990 problem possible world semantics modality morality belief w
+sinnott-armstrong et al
+cambridge 1995
+reading 'on denoting' centenary mind 114 2005 934-1003
+philosophy david kaplan joseph almog & paolo leonardi eds
+oxford university press 2009
+see also american philosophy list american philosophers references http//www
+edu/about/awards-and-honors/faculty/american-academy-of-arts-and-sciences http//www
+cfm external links indexicals entry david braun stanford encyclopedia philosophy authority control world cat identities viaf 24653512 lccn n2008032092 isni 0000 0001 0879 5977 gnd 133915387 sudoc 030974518 bnf cb12228328 data nla 36047236

@@ -1,0 +1,621 @@
+gödel redirects here
+programming language see gödel programming language
+other uses see godel disambiguation
+kurt gödel born kurt friedrich gödel1906-04-28 april 28 1906 brünn austria-hungarynow brno czech republic died january 14 19781978-01-14 aged 71 princeton new jersey u
+residence austria united states citizenship austria united states nationality austrian fields mathematics mathematical logic institutions institute advanced study alma mater university vienna thesis über die vollständigkeit des logikkalküls completeness calculus logic 1929 doctoral advisor hans hahn known gödel's incompleteness theorems gödel's completeness theorem consistency continuum hypothesis zfc gödel metric gödel's ontological proof gödel–dummett logic notable awards albert einstein award 1951 national medal science 1974 mem rs 1968 fellow british academy[citation needed] signature kurt friedrich gödel /ˈkɜːrt ˈgɜːdəl/ german [ˈkʊʁt ˈɡøːdəl] listen april 28 1906 january 14 1978 austrian later american logician mathematician philosopher
+considered aristotle gottlob frege most significant logicians history gödel made immense impact upon scientific philosophical thinking 20 th century time others such bertrand russell
+whitehead david hilbert pioneering use logic set theory understand foundations mathematics
+gödel published two incompleteness theorems 1931 25 years old year after finishing doctorate university vienna
+first incompleteness theorem states any self-consistent recursive axiomatic system powerful enough describe arithmetic natural numbers example peano arithmetic there true propositions naturals cannot proved axioms
+prove theorem gödel developed technique now known gödel numbering codes formal expressions natural numbers
+also showed neither axiom choice nor continuum hypothesis disproved accepted axioms set theory assuming these axioms consistent
+former result opened door mathematicians assume axiom choice their proofs
+also made important contributions proof theory clarifying connections classical logic intuitionistic logic modal logic
+contents early life education
+2 studying vienna 2 career 2
+incompleteness theorem 2
+2 mid-1930 s further work visits us 2
+3 relocation princeton einstein u
+citizenship 3 awards honours 4 later life death 5 personal life 5
+religious views 6 legacy 7 bibliography 7
+important publications see also 9 notes 10 references further reading 12 external links early life education childhood gödel born april 28 1906 brünn austria-hungary now brno czech republic ethnic german family rudolf gödel manager textile factory marianne gödel née handschuh
+time birth city german-speaking majority included parents
+father catholic mother protestant children raised protestant
+ancestors kurt gödel often active brünn's cultural life
+example grandfather joseph gödel famous singer time years member brünner männergesangverein
+gödel automatically became czechoslovak citizen age 12 austro-hungarian empire broke up end world war
+according classmate klepetař like many residents predominantly german sudetenländer gödel considered himself austrian exile czechoslovakia
+chose become austrian citizen age 23[citation needed]
+germany annexed austria 1938 gödel automatically became german citizen age
+after world war ii age 42 became american citizen
+family young kurt known herr warum mr
+why because insatiable curiosity
+according brother rudolf age six seven kurt suffered rheumatic fever completely recovered rest life remained convinced heart suffered permanent damage
+gödel attended evangelische volksschule lutheran school brünn 1912 1916 enrolled deutsches staats-realgymnasium 1916 1924 excelling honors subjects particularly mathematics languages religion
+although kurt first excelled languages later became interested history mathematics
+interest mathematics increased 1920 older brother rudolf born 1902 left vienna go medical school university vienna
+during teens kurt studied gabelsberger shorthand goethe's theory colours criticisms isaac newton writings immanuel kant
+studying vienna age 18 gödel joined brother vienna entered university vienna
+time already mastered university-level mathematics
+although initially intending study theoretical physics also attended courses mathematics philosophy
+during time adopted ideas mathematical realism
+read kant's metaphysische anfangsgründe naturwissenschaft participated vienna circle moritz schlick hans hahn rudolf carnap
+gödel then studied number theory took part seminar run moritz schlick studied bertrand russell's book introduction mathematical philosophy became interested mathematical logic
+according gödel mathematical logic science prior others contains ideas principles underlying sciences
+attending lecture david hilbert bologna completeness consistency mathematical systems may set gödel's life course
+1928 hilbert wilhelm ackermann published grundzüge theoretischen logik principles mathematical logic introduction first-order logic problem completeness posed axioms formal system sufficient derive every statement true models system? became topic gödel chose doctoral work
+1929 age 23 completed doctoral dissertation under hans hahn's supervision
+established completeness first-order predicate calculus gödel's completeness theorem
+awarded doctorate 1930
+thesis along additional work published vienna academy science
+career incompleteness theorem kurt gödel's achievement modern logic singular monumental indeed monument landmark will remain visible far space time
+subject logic certainly completely changed nature possibilities gödel's achievement
+—john von neumann 1931 while still vienna gödel published incompleteness theorems über formal unentscheidbare sätze principia mathematica und verwandter systeme called english formally undecidable propositions principia mathematica related systems
+article proved any computable axiomatic system powerful enough describe arithmetic natural numbers e
+peano axioms zermelo–fraenkel set theory axiom choice system consistent cannot complete
+consistency axioms cannot proven within system
+these theorems ended half-century attempts beginning work frege culminating principia mathematica hilbert's formalism find set axioms sufficient mathematics
+hindsight basic idea heart incompleteness theorem rather simple
+gödel essentially constructed formula claims unprovable given formal system
+provable false contradicts idea consistent system provable statements true
+thus there will least true unprovable statement
+any computably enumerable set axioms arithmetic set principle printed out idealized computer unlimited resources there formula true arithmetic provable system
+make precise however gödel needed produce method encode natural numbers statements proofs concept provability using process known gödel numbering
+two-page paper zum intuitionistischen aussagenkalkül 1932 gödel refuted finite-valuedness intuitionistic logic
+proof implicitly used later become known gödel–dummett intermediate logic gödel fuzzy logic
+mid-1930 s further work visits us gödel earned habilitation vienna 1932 1933 became privatdozent unpaid lecturer there
+1933 adolf hitler came power germany over following years nazis rose influence austria among vienna's mathematicians
+june 1936 moritz schlick whose seminar aroused gödel's interest logic assassinated johann nelböck former student moritz schlick
+triggered severe nervous crisis gödel
+developed paranoid symptoms including fear being poisoned spent several months sanitarium nervous diseases
+1933 gödel first traveled u
+met albert einstein became good friend
+delivered address annual meeting american mathematical society
+during year gödel also developed ideas computability recursive functions point able present lecture general recursive functions concept truth
+work developed number theory using gödel numbering
+1934 gödel gave series lectures institute advanced study ias princeton new jersey entitled undecidable propositions formal mathematical systems
+stephen kleene just completed ph princeton took notes these lectures subsequently published
+gödel visited ias again autumn 1935
+traveling hard work exhausted next year took break recover depressive episode
+returned teaching 1937
+during time worked proof consistency axiom choice continuum hypothesis went show these hypotheses cannot disproved common system axioms set theory
+married adele nimbursky née porkert 1899–1981 whom known over 10 years september 20 1938
+their relationship opposed parents grounds she divorced dancer six years older
+subsequently left another visit usa spending autumn 1938 ias spring 1939 university notre dame
+relocation princeton einstein u
+citizenship after anschluss 1938 austria become part nazi germany
+germany abolished title privatdozent gödel apply different position under new order
+former association jewish members vienna circle especially hahn weighed against
+university vienna turned application down
+predicament intensified german army found fit conscription
+world war ii started september 1939
+before year up gödel wife left vienna princeton
+avoid difficulty atlantic crossing gödels took trans-siberian railway pacific sailed japan san francisco reached march 4 1940 then crossed u
+train princeton gödel accepted position institute advanced study ias
+gödel very quickly resumed mathematical work
+1940 published work consistency axiom choice generalized continuum-hypothesis axioms set theory classic modern mathematics
+[citation needed] work introduced constructible universe model set theory sets exist those constructed simpler sets
+gödel showed both axiom choice ac generalized continuum hypothesis gch true constructible universe therefore must consistent zermelo–fraenkel axioms set theory zf
+result considerable consequences working mathematicians means assume axiom choice proving hahn-banach theorem
+paul cohen later constructed model zf ac gch false together these proofs mean ac gch independent zf axioms set theory
+albert einstein also living princeton during time
+gödel einstein developed strong friendship known take long walks together institute advanced study
+nature their conversations mystery other institute members
+economist oskar morgenstern recounts toward end life einstein confided own work no longer meant much came institute merely
+privilege walking home gödel
+gödel wife adele spent summer 1942 blue hill maine blue hill inn top bay
+gödel merely vacationing very productive summer work
+using heft 15 [volume 15] gödel's still-unpublished arbeitshefte [working notebooks] john w
+dawson jr
+conjectures gödel discovered proof independence axiom choice finite type theory weakened form set theory while blue hill 1942
+gödel's close friend hao wang supports conjecture noting gödel's blue hill notebooks contain most extensive treatment problem
+december 5 1947 einstein morgenstern accompanied gödel u
+citizenship exam acted witnesses
+gödel confided them discovered inconsistency u
+constitution allow u
+become dictatorship
+einstein morgenstern concerned their friend's unpredictable behavior might jeopardize application
+fortunately judge turned out phillip forman knew einstein administered oath einstein's own citizenship hearing
+everything went smoothly until forman happened ask gödel thought dictatorship like nazi regime happen u
+gödel then started explain discovery forman
+forman understood going cut gödel off moved hearing other questions routine conclusion
+gödel became permanent member institute advanced study princeton 1946
+around time stopped publishing though continued work
+became full professor institute 1953 emeritus professor 1976
+during many years institute gödel's interests turned philosophy physics
+1949 demonstrated existence solutions involving closed time-like curves albert einstein's field equations general relativity
+given elaboration einstein present 70 th birthday
+rotating universes allow time travel past caused einstein doubts own theory
+solutions known gödel metric exact solution einstein field equation
+studied admired works gottfried leibniz came believe hostile conspiracy caused leibniz's works suppressed
+lesser extent studied immanuel kant edmund husserl
+early 1970 s gödel circulated among friends elaboration leibniz's version anselm canterbury's ontological proof god's existence
+now known gödel's ontological proof
+awards honours gödel awarded julian schwinger first albert einstein award 1951 also awarded national medal science 1974
+[citation needed] gödel elected foreign member royal society mem rs 1968
+gravestone kurt adele gödel princeton n
+cemetery later life death later life gödel suffered periods mental instability illness
+obsessive fear being poisoned eat food wife adele prepared
+late 1977 she hospitalized six months no longer prepare her husband's food
+her absence refused eat eventually starving death
+weighed 65 pounds approximately 30 kg died
+death certificate reported died malnutrition inanition caused personality disturbance princeton hospital january 14 1978
+buried princeton cemetery
+adele's death followed 1981
+personal life religious views gödel convinced theist christian tradition
+held notion god personal differed religious views friend albert einstein
+believed firmly afterlife stating course supposes there many relationships today's science received wisdom haven't any inkling
+am convinced [the afterlife] independently any theology
+possible today perceive pure reasoning entirely consistent known facts
+world rationally constructed meaning then there must such thing [as afterlife]
+unmailed answer questionnaire gödel described religion baptized lutheran member any religious congregation
+my belief theistic pantheistic following leibniz rather spinoza
+describing religions general gödel religions most part bad—but religion
+according wife adele gödel although go church religious read bible bed every sunday morning while islam like islam consistent [or consequential] idea religion open-minded
+legacy kurt gödel society founded 1987 named honor
+international organization promotion research areas logic philosophy history mathematics
+university vienna hosts kurt gödel research center mathematical logic
+association symbolic logic invited annual kurt gödel lecturer each year since 1990
+five volumes gödel's collected works published
+first two include gödel's publications third includes unpublished manuscripts gödel's nachlass final two include correspondence
+biography gödel published john dawson 2005
+gödel also four mathematicians examined 2008 bbc documentary entitled dangerous knowledge david malone
+douglas hofstadter popular book 1979 called gödel escher bach celebrate work ideas gödel along those artist m
+escher composer johann sebastian bach
+book partly explores ramifications fact gödel's incompleteness theorem applied any turing-complete computational system may include human brain
+gödel main character daniel kehlmann's play ghosts princeton 2011
+character basyli quentin canterel's jolly coroner 2015 largely based gödel
+bibliography important publications german 1930 die vollständigkeit axiome des logischen funktionenkalküls
+monatshefte für mathematik und physik 37 349–60
+1931 über formal unentscheidbare sätze principia mathematica und verwandter systeme
+monatshefte für mathematik und physik 38 173–98
+1932 zum intuitionistischen aussagenkalkül anzeiger akademie wissenschaften wien 69 65–66
+english 1940
+consistency axiom choice generalized continuum hypothesis axioms set theory
+princeton university press
+cantor's continuum problem? american mathematical monthly 54 515–25
+revised version paul benacerraf hilary putnam eds
+1984 1964
+philosophy mathematics selected readings
+cambridge univ
+press 470–85
+1950 rotating universes general relativity theory
+proceedings international congress mathematicians cambridge 175–81 english translation kurt godel 1992
+formally undecidable propositions principia mathematica related systems tr
+meltzer comprehensive introduction richard braithwaite
+dover reprint 1962 basic books edition
+kurt godel 2000
+formally undecidable propositions principia mathematica related systems tr
+martin hirzel jean van heijenoort 1967
+source book mathematical logic 1879–1931
+harvard univ
+completeness axioms functional calculus logic 582–91
+metamathematical results completeness consistency 595–96
+abstract 1931
+formally undecidable propositions principia mathematica related systems 596–616
+completeness consistency 616–17
+my philosophical viewpoint c
+1960 unpublished
+modern development foundations mathematics light philosophy 1961 unpublished
+collected works oxford university press new york
+editor-in-chief solomon feferman
+volume publications 1929–1936 / paperback volume ii publications 1938–1974 / paperback volume iii unpublished essays lectures / paperback volume iv correspondence a–g volume v correspondence h–z
+see also biography portal logic portal gödel machine gödel prize gödel's speed-up theorem list austrian scientists original proof gödel's completeness theorem slingshot argument notes kreisel g
+kurt godel
+28 april 1906-14 january 1978
+biographical memoirs fellows royal society 148–126
+collins english dictionary
+instance their principia mathematica stanford encyclopedia philosophy edition
+dawson 1997 pp
+3–4 chisholm hugh ed
+encyclopædia britannica th ed
+cambridge university press
+dawson 1997 p
+12 procházka 2008 pp
+dawson 1997 p
+dawson 1997 p
+gleick j
+2011 information history theory flood london fourth estate p181
+halmos p
+legend von neumann american mathematical monthly vol
+80 no
+april 1973 pp
+382–394 casti john l
+depauli werner koppe matthias weismantel robert 2001
+gödel life logic
+mathematics operations research 31 cambridge mass
+basic books
+80 quotes rudolf gödel kurt's brother medical doctor
+words severe nervous crisis judgement schlick assassination trigger rudolf gödel quote
+rudolf knew kurt well those years
+dawson 1997 pp
+110–112 hutchinson encyclopedia 1988 p
+518 goldstein 2005 p
+dawson 1997 pp
+story gödel's citizenship hearing repeated many versions
+dawson's account most carefully researched written before rediscovery morgenstern's written account
+most other accounts appear based dawson hearsay speculation
+oskar morgenstern september 13 1971
+history naturalization kurt gödel pdf
+retrieved june 20
+kurt gödel institute advanced study
+retrieved december 2015
+example new type cosmological solutions einstein's field equations gravitation rev
+21 447 published july 1949
+das genie & wahnsinn tagesspiegel january 13 2008 german
+john w
+dawson jr
+logical dilemmas life work kurt gödel
+k peters ltd
+davis martin may 4 2005
+gödel's universe
+toates frederick olga coschug toates 2002
+obsessive compulsive disorder practical tried-and-tested strategies overcome ocd
+class publishing
+tucker mc elroy 2005
+z mathematicians
+infobase publishing
+gödel happy childhood called mr
+why family due numerous questions
+baptized lutheran re-mained theist believer personal god throughout life
+hao wang logical journey gödel philosophy 1996 pp
+gödel's answer special questionnaire sent sociologist burke grandjean
+answer quoted directly wang 1987 p
+18 indirectly wang 1996 p
+it's also quoted directly dawson 1997 p
+6 cites wang 1987
+grandjean questionnaire perhaps most extended autobiographical item gödel's papers
+gödel filled out pencil cover letter never returned
+theistic italicized both wang 1987 wang 1996
+possible italicization wang's gödel's
+quote follows wang 1987 two corrections taken wang 1996
+wang 1987 reads baptist lutheran wang 1996 baptized lutheran
+wang 1987 rel
+wang 1996 expanded religious congregation
+wang 1996 p
+316 wang 1996 p
+wang 1996 p
+148 4
+gödel's observations made 16 november 7 december 1975 wang found hard classify under main topics considered elsewhere book
+dangerous knowledge
+june 2008
+retrieved october 6 2009
+kurt godel 1931
+über formal unentscheidbare sätze principia mathematica und verwandter systeme [on formally undecidable propositions principia mathematica related systems i] pdf
+monatshefte für mathematik und physik 38 173–198
+references dawson john w
+logical dilemmas life work kurt gödel
+wellesley ma k peters
+1911 encyclopædia britannica/brünn
+september 19 2007
+wikisource free library
+retrieved 10 pm est march 13 2008
+rebecca goldstein 2005
+incompleteness proof paradox kurt gödel
+norton & company new york
+further reading john l
+casti werner de pauli 2000
+gödel life logic basic books perseus books group cambridge ma
+john w
+dawson jr
+logical dilemmas life work kurt gödel
+ak peters ltd
+john w
+dawson jr 1999
+gödel limits logic scientific american vol
+280 num
+6 pp
+76–81 torkel franzén 2005
+gödel's theorem incomplete guide use abuse
+wellesley ma k peters
+ivor grattan-guinness 2000
+search mathematical roots 1870–1940
+princeton univ
+jaakko hintikka 2000
+douglas hofstadter 1980
+gödel escher bach
+stephen kleene 1967
+mathematical logic
+dover paperback reprint ca
+stephen kleene 1980
+introduction metamathematics
+north holland ishi press paperback
+lucas 1970
+freedom will
+clarendon press oxford
+ernest nagel newman james r
+gödel's proof
+new york univ
+procházka jiří 2006 2006 2008 2008 2010
+kurt gödel 1906–1978 genealogie
+item brno
+brno 2006
+volume ii
+brno 2006
+volume iii
+brno 2008
+volume iv
+brno princeton 2008
+volume vbrno princeton 2010 x
+procházka jiří
+kurt gödel 1906–1978 historie
+itembrno wien princeton
+ed regis 1987
+got einstein's office? addison-wesley publishing company inc
+raymond smullyan 1992
+godel's incompleteness theorems
+oxford university press
+olga taussky-todd 1983
+remembrances kurt gödel
+engineering & science winter 1988
+hao wang 1987
+reflections kurt gödel
+mit press
+hao wang 1996
+logical journey godel philosophy
+mit press
+yourgrau palle 1999
+gödel meets einstein time travel gödel universe
+chicago open court
+yourgrau palle 2004
+world without time forgotten legacy gödel einstein
+basic books
+book review john stachel notices american mathematical society 54 7 pp
+861–868 external links wikimedia commons media related kurt gödel
+wikiquote quotations related kurt gödel kurt gödel mathematics genealogy project weisstein eric w
+gödel kurt 1906–1978 science world
+kurt gödel entry juliette kennedy stanford encyclopedia philosophy time bandits article relationship gödel einstein jim holt gödel limits logic john w dawson jr
+june 2006 notices ams april 2006 volume 53 number 4 kurt gödel centenary issue paul davies freeman dyson discuss kurt godel gödel nature mathematical truth edge talk rebecca goldstein kurt gödel
+it's numbers gregory chaitin explains gödel's mathematical complexities
+gödel photo g
+kurt gödel find grave national academy sciences biographical memoir o'connor john j
+robertson edmund f
+kurt gödel mac tutor history mathematics archive university st andrews
+vte set theory axioms choice countable dependent extensionality infinity pairing power set regularity union martin's axiom axiom schema replacement specification operations cartesian product complement de morgan's laws disjoint union intersection power set set difference symmetric difference union concepts methods cardinality cardinal number large class constructible universe continuum hypothesis diagonal argument element ordered pair tuple family forcing one-to-one correspondence ordinal number transfinite induction venn diagram set types countable empty finite hereditarily fuzzy infinite recursive subset · superset transitive uncountable universal theories alternative axiomatic naive cantor's theorem zermelo general principia mathematica new foundations zermelo–fraenkel von neumann–bernays–gödel morse–kelley kripke–platek tarski–grothendieck paradoxes problems russell's paradox suslin's problem set theorists abraham fraenkel bertrand russell ernst zermelo georg cantor john von neumann kurt gödel lotfi
+zadeh paul bernays paul cohen richard dedekind thomas jech willard quine vte united states national medal science laureates behavioral social science1960 s 1964 roger adams othmar h
+ammann theodosius dobzhansky neal elgar miller 1980 s 1986 herbert
+simon 1987 anne anastasi george j
+stigler 1988 milton friedman 1990 s 1990 leonid hurwicz patrick suppes robert w
+kates george
+miller 1992 eleanor j
+gibson 1994 robert k
+merton 1995 roger n
+shepard 1996 paul samuelson 1997 william k
+estes 1998 william julius wilson 1999 robert m
+solow 2000 s 2000 gary becker 2001 george bass 2003 r
+duncan luce 2004 kenneth arrow 2005 gordon h
+bower 2008 michael
+posner 2009 mortimer mishkin 2010 s 2011 anne treisman 2014 robert axelrod biological sciences1960 s 1963 c
+van niel 1964 marshall w
+nirenberg 1965 francis p
+rous george g
+simpson donald
+van slyke 1966 edward f
+knipling fritz albert lipmann william c
+rose sewall wright 1967 kenneth s
+cole harry f
+harlow michael heidelberger alfred h
+sturtevant 1968 horace barker bernard
+brodie detlev w
+bronk jay lush burrhus frederic skinner 1969 robert huebner ernst mayr 1970 s 1970 barbara mc clintock albert
+sabin 1973 daniel
+arnon earl w
+sutherland jr
+1974 britton chance erwin chargaff james v
+neel james augustine shannon 1975 hallowell davis paul gyorgy sterling
+hendricks orville lvin vogel 1976 roger guillemin keith roberts porter efraim racker e
+wilson 1979 robert h
+burris elizabeth c
+crosby arthur kornberg severo ochoa earl reece stadtman george ledyard stebbins paul alfred weiss 1980 s 1981 philip handler 1982 seymour benzer glenn w
+burton mildred cohn 1983 howard l
+bachrach paul berg wendell l
+roelofs berta scharrer 1986 stanley cohen donald
+henderson vernon
+mountcastle george emil palade joan
+steitz 1987 michael e
+de bakey theodor o
+diener harry eagle har gobind khorana rita levi-montalcini 1988 michael s
+brown stanley norman cohen joseph l
+goldstein maurice r
+hilleman eric r
+kandel rosalyn sussman yalow 1989 katherine esau viktor hamburger philip leder joshua lederberg roger w
+sperry harland g
+wood 1990 s 1990 baruj benacerraf herbert w
+boyer daniel e
+koshland jr
+lewis david g
+nathan e
+donnall thomas mary ellen avery g
+evelyn hutchinson elvin
+kabat salvador luria paul
+marks folke k
+skoog paul c
+zamecnik 1992 maxine singer howard martin temin 1993 daniel nathans salome g
+waelsch 1994 thomas eisner elizabeth f
+neufeld 1995 alexander rich 1996 ruth patrick 1997 james watson robert
+weinberg 1998 bruce ames janet rowley 1999 david baltimore jared diamond lynn margulis 2000 s 2000 nancy c
+andreasen peter h
+raven carl woese 2001 francisco j
+ayala mario r
+capecchi ann graybiel gene e
+likens victor
+mc kusick harold varmus 2002 james e
+darnell evelyn m
+witkin 2003 j
+michael bishop solomon h
+snyder charles yanofsky 2004 norman e
+borlaug phillip
+sharp thomas e
+starzl 2005 anthony s
+fauci torsten n
+wiesel 2006 rita r
+colwell nina fedoroff lubert stryer 2007 robert j
+lefkowitz bert w
+o'malley 2008 francis s
+collins elaine fuchs j
+craig venter 2009 susan l
+lindquist stanley
+prusiner 2010 s 2010 ralph l
+brinster shu chien rudolf jaenisch 2011 lucy shapiro leroy hood sallie chisholm 2014 may berenbaum bruce alberts chemistry1980 s 1982 f
+albert cotton gilbert stork 1983 roald hoffmann george c
+pimentel richard n
+zare 1986 harry
+gray yuan tseh lee carl s
+marvel frank h
+westheimer 1987 william s
+johnson walter h
+stockmayer max tishler 1988 william o
+baker konrad e
+bloch elias j
+corey 1989 richard
+bernstein melvin calvin rudolph
+marcus harden m
+mc connell 1990 s 1990 elkan blout karl folkers john
+roberts ronald breslow gertrude
+elion dudley r
+herschbach glenn t
+seaborg 1992 howard e
+simmons jr
+1993 donald j
+cram norman hackerman 1994 george s
+hammond 1995 thomas cech isabella l
+karle 1996 norman davidson 1997 darleane c
+hoffman harold s
+johnston 1998 john w
+cahn george m
+whitesides 1999 stuart
+rice john ross susan solomon 2000 s 2000 john
+baldeschwieler ralph f
+hirschmann 2001 ernest r
+davidson gábor
+somorjai 2002 john
+brauman 2004 stephen j
+lippard 2006 marvin h
+caruthers peter
+dervan 2007 mostafa
+el-sayed 2008 joanna fowler jo anne stubbe 2009 stephen j
+benkovic marye anne fox 2010 s 2010 jacqueline k
+barton peter j
+stang 2011 allen j
+bard m
+frederick hawthorne 2014 judith p
+klinman jerrold meinwald 2015 geraldine l
+richmond engineering sciences1960 s 1962 theodore von kármán 1963 vannevar bush john robinson pierce 1964 charles s
+draper 1965 hugh l
+dryden clarence l
+johnson warren k
+lewis 1966 claude e
+shannon 1967 edwin h
+land igor
+sikorsky 1968 j
+presper eckert nathan m
+newmark 1969 jack st
+clair kilby 1970 s 1970 george e
+mueller 1973 harold e
+edgerton richard t
+whitcomb 1974 rudolf kompfner ralph brazelton peck abel wolman 1975 manson benedict william hayward pickering frederick e
+terman wernher von braun 1976 morris cohen peter c
+goldmark erwin wilhelm müller 1979 emmett n
+leith raymond
+mindlin robert n
+noyce earl r
+parker simon ramo 1980 s 1982 edward h
+heinemann donald l
+katz 1983 william redington hewlett george m
+low john g
+trump 1986 hans wolfgang liepmann t
+lin bernard m
+oliver 1987 r
+byron bird h
+bolton seed ernst weber 1988 daniel c
+drucker willis m
+hawkins george w
+housner 1989 harry george drickamer herbert e
+grier 1990 s 1990 mildred dresselhaus nick holonyak jr
+george h
+heilmeier luna
+leopold h
+guyford stever 1992 calvin f
+quate john roy whinnery 1993 alfred
+cho 1994 ray w
+clough 1995 hermann
+haus 1996 james l
+flanagan c
+kumar n
+patel 1998 eli ruckenstein 1999 kenneth n
+stevens 2000 s 2000 yuan-cheng
+fung 2001 andreas acrivos 2002 leo beranek 2003 john m
+prausnitz 2004 edwin n
+lightfoot 2005 jan
+achenbach tobin j
+marks 2006 robert s
+langer 2007 david j
+wineland 2008 rudolf e
+kálmán 2009 amnon yariv 2010 s 2011 sidney drell sandra faber sylvester james gates john goodenough mathematical statistical computer sciences1960 s 1963 norbert wiener 1964 solomon lefschetz h
+marston morse 1965 oscar zariski 1966 john milnor 1967 paul cohen 1968 jerzy neyman 1969 william feller 1970 s 1970 richard brauer 1973 john tukey 1974 kurt gödel 1975 john w
+backus shiing-shen chern george dantzig 1976 kurt otto friedrichs hassler whitney 1979 joseph l
+doob donald e
+knuth 1980 s 1982 marshall harvey stone 1983 herman goldstine isadore singer 1986 peter lax antoni zygmund 1987 raoul bott michael freedman 1988 ralph e
+gomory joseph
+keller 1989 samuel karlin saunders mac lane donald c
+spencer 1990 s 1990 george f
+carrier stephen cole kleene john mc carthy alberto calderón 1992 allen newell 1993 martin david kruskal 1994 john cocke 1995 louis nirenberg 1996 richard karp stephen smale 1997 shing-tung yau 1998 cathleen synge morawetz 1999 felix browder ronald r
+coifman 2000 s 2000 john griggs thompson karen k
+uhlenbeck 2001 calyampudi r
+rao elias m
+stein 2002 james g
+glimm 2003 carl r
+de boor 2004 dennis p
+sullivan 2005 bradley efron 2006 hyman bass 2007 leonard kleinrock andrew j
+viterbi 2009 david
+mumford 2010 s 2010 richard
+tapia s
+srinivasa varadhan 2011 solomon golomb barry mazur 2014 alexandre chorin thomas kailath david blackwell physical sciences1960 s 1963 luis w
+alvarez 1964 julian schwinger harold clayton urey robert burns woodward 1965 john bardeen peter debye leon m
+lederman william rubey 1966 jacob bjerknes subrahmanyan chandrasekhar henry eyring john h
+van vleck vladimir k
+zworykin 1967 jesse beams francis birch gregory breit louis hammett george kistiakowsky 1968 paul bartlett herbert friedman lars onsager eugene wigner 1969 herbert c
+brown wolfgang panofsky 1970 s 1970 robert h
+dicke allan r
+sandage john c
+slater john
+wheeler saul winstein 1973 carl djerassi maurice ewing arie jan haagen-smit vladimir haensel frederick seitz robert rathbun wilson 1974 nicolaas bloembergen paul flory william alfred fowler linus carl pauling kenneth sanborn pitzer 1975 hans
+bethe joseph o
+hirschfelder lewis sarett edgar bright wilson chien-shiung wu 1976 samuel goudsmit herbert s
+gutowsky frederick rossini verner suomi henry taube george uhlenbeck 1979 richard p
+feynman herman mark edward m
+purcell john sinfelt lyman spitzer victor f
+weisskopf 1980 s 1982 philip w
+anderson yoichiro nambu edward teller charles h
+townes 1983 e
+margaret burbidge maurice goldhaber helmut landsberg walter munk frederick reines bruno
+rossi j
+robert schrieffer 1986 solomon j
+buchsbaum h
+richard crane herman feshbach robert hofstadter chen-ning yang 1987 philip abelson walter elsasser paul c
+lauterbur george pake james
+van allen 1988
+allan bromley paul ching-wu chu walter kohn norman f
+ramsey jack steinberger 1989 arnold o
+beckman eugene parker robert sharp henry stommel 1990 s 1990 allan m
+cormack edwin m
+mc millan robert pound roger revelle arthur l
+schawlow ed stone steven weinberg 1992 eugene m
+shoemaker 1993 val fitch vera rubin 1994 albert overhauser frank press 1995 hans dehmelt peter goldreich 1996 wallace s
+broecker 1997 marshall rosenbluth martin schwarzschild george wetherill 1998 don l
+anderson john n
+bahcall 1999 james cronin leo kadanoff 2000 s 2000 willis e
+lamb jeremiah p
+ostriker gilbert f
+white 2001 marvin l
+cohen raymond davis jr
+charles keeling 2002 richard garwin w
+jason morgan edward witten 2003 g
+brent dalrymple riccardo giacconi 2004 robert n
+clayton 2005 ralph
+alpher lonnie thompson 2006 daniel kleppner 2007 fay ajzenberg-selove charles p
+slichter 2008 berni alder james e
+gunn 2009 yakir aharonov esther m
+conwell warren m
+washington 2010 s 2011 sidney drell 2014 burton richter sean c
+solomon vte relativity specialrelativity background principle relativity introduction special relativity special relativity foundations relative motion frame reference speed light maxwell's equations formulation galilean relativity galilean transformation lorentz transformation consequences time dilation relativistic mass mass–energy equivalence length contraction relativity simultaneity relativistic doppler effect thomas precession relativistic disks spacetime minkowski spacetime world line spacetime diagrams light cone generalrelativity background introduction mathematical formulation resources fundamentalconcepts special relativity equivalence principle world line riemannian geometry minkowski diagram phenomena two-body problem lenses waves frame-dragging geodetic effect event horizon singularity black hole equations linearized gravity post-newtonian formalism einstein field equations geodesic equation friedmann equations adm formalism bssn formalism hamilton–jacobi–einstein equation advancedtheories kaluza–klein quantum gravity brans–dicke theory solutions schwarzschild reissner–nordström gödel kerr kerr–newman kasner taub–nut milne robertson–walker pp-wave van stockum dust scientists einstein lorentz hilbert poincaré schwarzschild de sitter reissner nordström weyl eddington friedmann milne zwicky lemaître gödel wheeler robertson bardeen walker kerr chandrasekhar ehlers penrose hawking taylor hulse stockum taub newman yau thorne weiss bondi misner others authority control world cat identities viaf 97851774 lccn n79007770 isni 0000 0001 1031 567 x gnd 11869569 x sudoc 028039734 bnf cb12133987 data mgp 19539 ndl 00549746 nkc jn20000602196 iccu it\iccu\milv\024928 bne xx988655

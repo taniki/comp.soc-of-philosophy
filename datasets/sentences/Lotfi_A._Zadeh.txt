@@ -1,0 +1,321 @@
+zadeh born lotfi aliasker zadeh 1921-02-04 february 4 1921 age 95 baku azerbaijan ssrresidence united states fields mathematics electrical engineering artificial intelligence institutions u
+berkeley alma mater university tehran columbia university thesis frequency analysis variable networks 1949 doctoral advisor john r
+ragazzini doctoral students joseph goguen known founder fuzzy mathematics fuzzy set theory fuzzy logic z numbers z-transform notable awards eringen medal 1976 ieee hamming medal 1992 rufus oldenburger medal 1993 ieee medal honor 19952012 bbva foundation frontiers knowledge award acm fellow ieee fellow aaas fellow aaai fellow member national academy engineering founding member eurasian academy lotfi aliasker zadeh /ˈzɑːdeɪ/ azerbaijani lütfəli rəhimoğlu əsgərzadə born february 4 1921 mathematician computer scientist electrical engineer artificial intelligence researcher professor emeritus computer science university california berkeley
+best known proposing fuzzy mathematics consisting those fuzzy related concepts fuzzy sets fuzzy logic fuzzy algorithms fuzzy semantics fuzzy languages fuzzy control fuzzy systems fuzzy probabilities fuzzy events fuzzy information
+founding member eurasian academy
+contents life career 2 personal life beliefs 3 work 3
+fuzzy sets systems 3
+2 other contributions 4 selected publications 5 awards honors 6 references 7 external links life career zadeh born baku azerbaijan ssr lotfi aliaskerzadeh iranian azerbaijani father ardabil rahim aleskerzade journalist assignment iran russian jewish mother also iranian citizen fanya korenman pediatrician odessa
+soviet government time courted foreign correspondents family lived well while baku
+zadeh attended elementary school three years there significant long-lasting influence my thinking my way looking things
+1931 zadeh ten years old family moved tehran iran father's homeland
+zadeh enrolled alborz college presbyterian missionary school educated next eight years met future wife fay
+zadeh says deeply influenced extremely decent fine honest helpful missionaries united states ran college
+me represented best you find united states people midwest strong roots
+really 'good samaritans' willing give themselves benefit others
+kind attitude influenced me deeply
+also instilled me deep desire live united states
+during time zadeh awarded several patents
+despite being fluent russian persian zadeh sat national university exams placed third entire country
+student ranked first class first two years
+1942 graduated university tehran degree electrical engineering fanni three students field graduate year due turmoil created world war ii united states britain soviet union invaded iran whose ruler shah pro-german
+over 30000 american soldiers based there zadeh worked father business them contractor hardware building materials
+1943 zadeh decided emigrate united states traveled philadelphia way cairo after months delay waiting proper papers right ship appear
+arrived mid-1944 entered m
+graduate student later year
+while united states changed name lotfi asker zadeh
+received ms degree electrical engineering m
+1946 then applied columbia university parents settled new york city
+columbia admitted doctoral student offered instructorship well
+received ph electrical engineering columbia 1949 became assistant professor next year
+zadeh taught ten years columbia promoted full professor 1957 taught university california berkeley since 1959
+published seminal work fuzzy sets 1965 detailed mathematics fuzzy set theory
+1973 proposed theory fuzzy logic
+personal life beliefs zadeh noted quick shrug off nationalism insisting there much deeper issues life quoted stating interview question really isn't whether i'm american russian iranian azerbaijani anything else
+i've shaped these people cultures feel quite comfortable among them
+zadeh also notes same interview obstinacy tenacity
+being afraid get embroiled controversy
+that's very much turkish tradition
+that's part my character too
+very stubborn
+that's probably beneficial development fuzzy logic
+describes himself american mathematically oriented electrical engineer iranian descent born russia
+zadeh married fay zadeh two children stella zadeh norman zadeh
+work according google scholar september 2015 zadeh's work cited 150852 times 1965 fuzzy sets paper receiving 58251
+fuzzy sets systems zadeh theory fuzzy sets proposed using membership function range covering interval operating domain possible values
+proposed new operations calculus logic showed fuzzy logic generalisation classical boolean logic
+also proposed fuzzy numbers special case fuzzy sets well corresponding rules consistent mathematical operations fuzzy arithmetic
+other contributions lotfi zadeh also credited along john r
+ragazzini 1952 having pioneered development z-transform method discrete time signal processing analysis
+these methods now standard digital signal processing digital control other discrete-time systems used industry research
+editor international journal computational cognition
+zadeh's latest work includes computing words perceptions
+recent papers include search engines question-answering systems—the role fuzzy logic progress informatics no
+1-3 2005 toward generalized theory uncertainty gtu—an outline information sciences elsevier vol
+172 1-40 2005
+selected publications 1965
+fuzzy sets
+information control
+1965 338–353
+fuzzy sets systems
+fox j editor
+system theory
+brooklyn ny polytechnic press 1965 29–39
+fuzzy-set-theoretical interpretation linguistic hedges
+journal cybernetics 1972 2 4–34
+outline new approach analysis complex systems decision processes
+ieee trans
+systems man cybernetics 1973 3 28–44
+fuzzy logic application approximate reasoning
+information processing 74 proc
+ifip congr
+1974 3 pp
+fuzzy logic approximate reasoning
+synthese 1975 30 407–428
+calculus fuzzy restrictions
+zadeh fu ks tanaka k shimura m editors
+fuzzy sets their applications cognitive decision processes
+new york academic press 1975 1–39
+concept linguistic variable application approximate reasoning i-iii information sciences 1975 199–251 301–357 9 1976 43–80
+computing numbers computing words — manipulation measurements manipulation perceptions international journal applied math computer science pp
+307–324 vol
+12 no
+3 2002
+computing words
+principal concepts ideas
+berlin springer
+complete list publications website http//www
+edu/~zadeh/ awards honors zadeh fellow institute electrical electronics engineers american academy arts sciences association computing machinery association advancement artificial intelligence international fuzzy systems association member national academy engineering
+also member academies science azerbaijan bulgaria finland korea poland international academy systems studies moscow
+received 24 honorary doctorates
+awards received zadeh include among many others ieee education medal 1973 ieee richard w
+hamming medal seminal contributions information science systems including conceptualization fuzzy sets 1992 american society mechanical engineers rufus oldenburger medal 1993
+honorary professorship azerbaijan state oil academy 1993 ieee medal honor pioneering development fuzzy logic many diverse applications 1995 american automatic control council's richard e
+bellman control heritage award 1998
+acm allen newell award 2001 outstanding contribution award web intelligence consortium wic halifax canada 2003
+wall fame heinz nixdorf museums forum hnf paderborn germany 2004
+kaufmann prize gold medal international association fuzzy-set management economy sigef barcelona spain nov
+15 2004
+keith brimacombe ipmm award recognition development fuzzy set theory fuzzy logic 2005
+benjamin franklin medal electrical engineering franklin institute philadelphia inventing developing field fuzzy logic 2009 induction ieee intelligent systems' ai's hall fame 2011 work soft computing fuzzy logic neural-net theory
+bbva foundation frontiers knowledge award category information communication technologies ict spain
+see also list members national academy engineering computer science references notes dr
+zadeh elected 1973 member national academy engineering computer science & engineering electronics communication & information systems engineering
+php?options=content&id=619 lotfi
+zadeh faculty page college engineering electrical engineering computer science university california berkeley zadeh l
+fuzzy sets
+information control 3 338
+zadeh l
+fuzzy logic = computing words
+ieee transactions fuzzy systems 4 2 103
+zadeh l
+fuzzy algorithms
+information control 12 2 94
+zadeh l
+quantitative fuzzy semantics
+information sciences 3 2 159
+lee e
+zadeh l
+note fuzzy languages
+information sciences 4 421
+zadeh l
+rationale fuzzy control
+journal dynamic systems measurement control 94 3
+zadeh l
+toward theory fuzzy systems pdf
+retrieved 2014
+zadeh l
+fuzzy probabilities
+information processing & management 20 3 363
+zadeh l
+toward theory fuzzy information granulation centrality human reasoning fuzzy logic
+fuzzy sets systems 90 2 111
+eurasian academy official site time azerbaijan ssr independent republic created red army
+become part transcaucasian socialist federative soviet republic march 1922 then part soviet union december 1922
+mc neil & freiberger p
+17 fuzzy logic—a personal perspective
+science direct
+retrieved 2015-06-16
+cs1 maint date year link jews computer & information science jinfo
+org website анвар унугви жанет селимова mamoirs lotfi
+zadeh's cousin baku theatrical director professor zhanet selimova
+c gale thomson
+lotfi asker zadeh biography world computer science c e mc neil & freiberger p
+18 blair betty
+interview lotfi zadeh december 1999 famous people then now lotfi zadeh creator fuzzy logic 1921- azerbaijan international 7
+4 winter 1999 c e mc neil & freiberger p
+19 blair betty
+short biographical sketch
+azerbaijan international vol
+24 winter 1994 p
+blair betty
+interview lotfi zadeh creator fuzzy logic
+azerbaijan international vol
+24 winter 1994 pp
+46 ff
+jsp?arnumber=06052364 mc neil & freiberger passim ieee james h
+mulligan jr
+education medal recipients pdf
+retrieved september 3 2011
+ieee richard w
+hamming medal recipients pdf
+retrieved may 29 2011
+rufus oldenburger medal
+american society mechanical engineers
+retrieved february 12 2013
+ieee medal honor recipients pdf
+retrieved september 3 2011
+richard e
+bellman control heritage award
+american automatic control council
+retrieved february 10 2013
+ai's hall fame pdf
+ieee intelligent systems ieee computer society 4 5–15
+ieee computer society magazine honors artificial intelligence leaders
+digital journal
+august 24 2011
+retrieved september 18 2011
+press release source prweb vocus
+bibliography mc neil daniel freiberger paul
+fuzzy logic discovery revolutionary computer technology - how changing our world
+new york simon & schuster 1993
+further reading fuzzy sets systems
+main journal field contains many contributions founder
+zadeh fay
+my life travels father fuzzy logic
+1998 tsi press albuquerque nm
+zadeh lofti
+lotfi visions two-part interview jack j
+woehr dr
+dobb's journal july 1994 part august 1994 part 2
+seising rudolf fuzzification systems
+genesis fuzzy set theory initial applications - developments up 1970 s studies fuzziness soft computing vol
+216 berlin new york [et al
+springer 2007
+external links wikiquote quotations related lotfi
+zadeh lotfi zadeh berkeley commencement speech commercialism human values you can't stop lunch azerbaijan international vol
+61 spring 1998 p
+famous people then now lotfi zadeh reflecting childhood azerbaijan international vol
+74 winter 1999 pp
+lotfi zadeh short biographical sketch
+azerbaijan international vol
+24 winter 1994 p
+edu academic profile berkeley university california
+ro honorary chair keynote speaker icccc 2008 conference dedicated centenary john bardeen
+1965 seminal work cs
+edu fuzzy sets zadeh's google scholar citations zadeh's ph students lotfi
+zadeh mathematics genealogy project lotfi
+zadeh ai genealogy project
+vte set theory axioms choice countable dependent extensionality infinity pairing power set regularity union martin's axiom axiom schema replacement specification operations cartesian product complement de morgan's laws disjoint union intersection power set set difference symmetric difference union concepts methods cardinality cardinal number large class constructible universe continuum hypothesis diagonal argument element ordered pair tuple family forcing one-to-one correspondence ordinal number transfinite induction venn diagram set types countable empty finite hereditarily fuzzy infinite recursive subset · superset transitive uncountable universal theories alternative axiomatic naive cantor's theorem zermelo general principia mathematica new foundations zermelo–fraenkel von neumann–bernays–gödel morse–kelley kripke–platek tarski–grothendieck paradoxes problems russell's paradox suslin's problem set theorists abraham fraenkel bertrand russell ernst zermelo georg cantor john von neumann kurt gödel lotfi
+zadeh paul bernays paul cohen richard dedekind thomas jech willard quine awards honors lotfi
+zadehvte ieee james h
+mulligan jr
+education medal1956–1975 frederick terman 1956 william littell everitt 1957 j
+calvert 1958 gordon s
+brown 1959 ernst weber 1960 george f
+corcoran 1961 ernst guillemin 1962 william gould dow 1963
+teare jr
+1964 hugh h
+skilling 1965 william h
+huggins 1966 john roy whinnery 1967 edward c
+jordan 1968 donald pederson 1969 jacob millman 1970 franz ollendorff 1971 mac van valkenburg 1972 lotfi
+zadeh 1973 john g
+truxal 1974 charles
+desoer 1975 1976–2000 john g
+linvill 1976 robert fano 1977 harold
+peterson 1978 john r
+ragazzini 1979 aldert van ziel 1980 ernest s
+kuh 1981 king-sun fu 1982 mischa schwartz 1983 athanasios papoulis 1984 james f
+gibbons 1985 richard
+adler 1986 joseph w
+goodman 1987 alan v
+oppenheim 1988 ben g
+streetman 1989 james
+meindl 1990 hermann
+haus ronald w
+schafer 1992 ronald
+rohrer 1993 chung laung liu 1994 thomas kailath 1995 adel sedra 1996 david
+hodges 1997 stephen w
+director 1998 andries van dam 1999 david patterson 2000 2001–present brian anderson 2001 petar v
+kokotovic 2002 yasuharu suematsu 2003 paul r
+gray 2004 vincent poor 2005 sanjit k
+mitra 2006 andrew s
+tanenbaum 2007 joseph bordogna 2008 jose
+cruz jr
+2009 randy katz 2010 raj mittra 2011 fawwaz t
+ulaby j
+david irwin 2013 john g
+proakis 2014 richard baraniuk 2015 vte ieee richard w
+hamming medal1988–2000 richard hamming 1988 irving s
+reed 1989 dennis ritchie / ken thompson 1990 elwyn berlekamp lotfi
+zadeh 1992 jorma rissanen 1993 gottfried ungerboeck 1994 jacob ziv 1995 mark semenovich pinsker 1996 thomas m
+cover 1997 david
+clark 1998 david
+huffman 1999 solomon w
+golomb 2000 2001–present alexander g
+fraser 2001 peter elias 2002 claude berrou / alain glavieux 2003 jack k
+wolf 2004 neil sloane 2005 vladimir levenshtein 2006 abraham lempel 2007 sergio verdú 2008 peter franaszek 2009 whitfield diffie / martin hellman / ralph merkle 2010 toby berger 2011 michael luby / amin shokrollahi robert calderbank 2013 thomas richardson / rüdiger l
+urbanke 2014 imre csiszár 2015 vte ieee medal honor1917–1925 edwin h
+armstrong 1917 ernst alexanderson 1919 guglielmo marconi 1920 reginald
+fessenden 1921 lee de forest 1922 john stone stone 1923 michael
+pupin 1924 1926–1950 greenleaf w
+pickard 1926 louis w
+austin 1927 jonathan zenneck 1928 george w
+pierce 1929 peder oluf pedersen 1930 gustave
+ferrie 1931 arthur edwin kennelly 1932 john ambrose fleming 1933 stanford c
+hooper 1934 balthasar van pol 1935 george ashley campbell 1936 melville eastham 1937 john h
+dellinger 1938 albert g
+lee 1939 lloyd espenschied 1940 alfred n
+goldsmith 1941 albert h
+taylor 1942 william wilson 1943 haraden pratt 1944 harold h
+beverage 1945 ralph hartley 1946 lawrence c
+horle 1948 ralph bown 1949 frederick terman 1950 1951–1975 vladimir zworykin 1951 walter ransom gail baker 1952 john m
+miller 1953 william littell everitt 1954 harald t
+friis 1955 john v
+hogan 1956 julius adams stratton 1957 albert hull 1958 emory leon chaffee 1959 harry nyquist 1960 ernst guillemin 1961 edward victor appleton 1962 george c
+southworth john hays hammond jr
+1963 harold
+wheeler 1964 no award 1965 claude elwood shannon 1966 charles h
+townes 1967 gordon k
+teal 1968 edward ginzton 1969 dennis gabor 1970 john bardeen 1971 jay w
+forester 1972 rudolf kompfner 1973 rudolf kalman 1974 john robinson pierce 1975 1976–2000 no award 1976 h
+earle vaughan 1977 robert noyce 1978 richard bellman 1979 william shockley 1980 sidney darlington 1981 john tukey 1982 nicolaas bloembergen 1983 norman f
+ramsey 1984 john roy whinnery 1985 jack kilby 1986 paul lauterbur 1987 calvin quate 1988 c
+kumar patel 1989 robert g
+gallager 1990 leo esaki amos e
+joel jr
+1992 karl johan åström 1993 alfred
+cho 1994 lotfi
+zadeh 1995 robert metcalfe 1996 george h
+heilmeier 1997 donald pederson 1998 charles concordia 1999 andrew grove 2000 2001–present herwig kogelnik 2001 herbert kroemer 2002 nick holonyak 2003 tadahiro sekimoto 2004 james flanagan 2005 james
+meindl 2006 thomas kailath 2007 gordon moore 2008 robert h
+dennard 2009 andrew viterbi 2010 morris chang 2011 john l
+hennessy irwin m
+jacobs 2013
+jayant baliga 2014 mildred dresselhaus 2015 complete roster 1917–1925 1926–1950 1951–1975 1976–2000 2001–present vte aacc richard e
+bellman control heritage award1979–2000 hendrik wade bode 1979 nathaniel
+nichols 1980 charles stark draper 1981 irving lefkowitz 1982 john v
+breakwell 1983 richard e
+bellman 1984 harold chestnut 1985 john zaborszky 1986 john c
+lozier 1987 walter r
+evans 1988 roger w
+brockett 1989 arthur e
+bryson jr
+1990 john g
+truxal rutherford aris 1992 eliahu
+jury 1993 jose
+cruz jr
+1994 michael athans 1995 elmer g
+gilbert 1996 rudolf e
+kalman 1997 lotfi
+zadeh 1998 yu-chi ho 1999 w
+harmon ray 2000 2001–present
+balakrishnan 2001 petar v
+kokotovic 2002 kumpati s
+narendra 2003 harold j
+kushner 2004 gene f
+franklin 2005 tamer başar 2006 sanjoy k
+mitter 2007 pravin varaiya 2008 george leitmann 2009 dragoslav
+šiljak 2010 manfred morari 2011 arthur j
+stephen morse 2013 dimitri bertsekas 2014 thomas f
+edgar 2015 authority control world cat identities viaf 59157256 lccn n79017973 isni 0000 0001 0905 6957 gnd 128821760 sudoc 078161274 bnf cb12342587 j data mgp 32837 ndl 00461696

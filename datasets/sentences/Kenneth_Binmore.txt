@@ -1,0 +1,124 @@
+article includes list references sources remain unclear because insufficient inline citations
+please help improve article introducing precise citations
+july 2011 kenneth george binmore born 1940-09-27 27 september 1940 age 75 era 20 th-century philosophy · 21 st-century philosophy region western philosophy school analytic philosophy main interests game theory · political philosophy · ethics · social contract theory · mathematical analysis influences immanuel kant · david hume · charles darwin · john rawls · john harsanyi kenneth george ken binmore cbe born 27 september 1940 british mathematician economist game theorist
+professor emeritus economics university college london ucl visiting emeritus professor economics university bristol
+founders modern economic theory bargaining along nash rubinstein made important contributions foundations game theory experimental economics evolutionary game theory well analytical philosophy
+binmore took up economics after career mathematics during held chair mathematics london school economics
+since switch economics forefront developments game theory
+other research interests include political moral philosophy decision theory statistics
+author 100 scholarly papers 14 books
+contents education 2 research 3 affiliations 4 books 5 selected articles 6 interviews binmore 7 references external links education studied mathematics imperial college london awarded st class honours bsc governor's prize subsequently ph mathematical analysis
+research binmore's major research contributions theory bargaining testing laboratory
+pioneer experimental economics
+began experimental work 1980 s most economists thought game theory work laboratory
+binmore collaborators established game theory often predict behaviour experienced players very well laboratory settings even case human bargaining behaviour particularly challenging case game theory
+brought conflict proponents behavioural economics emphasise importance other-regarding social preferences argue their findings threaten traditional game theory
+binmore’s work political moral philosophy began 1980 s first applied bargaining theory john rawls' original position
+search philosophical foundations original position took first kant's works then hume
+hume inspired binmore contribute naturalistic science morals seeks foundations rawlsian ideas fairness norms biological social evolution
+result two-volume game theory social contract ambitious attempt lay foundations genuine science morals using theory games
+game theory social contract binmore proposes naturalistic reinterpretation john rawls' original position reconciles egalitarian theory justice john harsanyi's utilitarian theory
+recent natural justice provides nontechnical synthesis work
+affiliations 1995 binmore became founding directors centre economic learning social evolution else interdisciplinary research centre involving economists psychologists anthropologists mathematicians based university college london
+funded economic social research council else pursues fundamental research evolutionary learning approaches games society applies theoretical findings practical problems government business
+while director else binmore became widely known ‘poker-playing economic theorist’ netted british government £22 billion led team designed third generation 3 g telecommunications auction 2000
+went design implement 3 g spectrum auctions belgium denmark greece israel hong kong
+binmore emeritus professor economics university college london visiting emeritus professor economics university bristol visiting professor department philosophy logic scientific method london school economics
+held corresponding positions london school economics caltech university pennsylvania university michigan
+fellow econometric society british academy
+awarded cbe new years honours list 2001 contributions game theory role designing uk’s 3 g telecommunications auctions
+elected foreign honorary member american academy arts sciences 2002
+2007 appointed honorary research fellow department philosophy university bristol honorary fellow centre philosophy london school economics
+books 1977
+mathematical analysis straightforward approach
+new york cambridge university press
+foundations analysis book logic sets numbers
+cambridge university press
+foundations analysis book 2 topological ideas
+cambridge university press
+economic organizations games co-edited partha dasgupta
+basil blackwell
+economics bargaining co-edited partha dasgupta
+basil blackwell
+collection including many binmore's classic early papers nash bargaining theory
+essays foundations game theory
+basil blackwell
+collection includes binmore's seminal papers “modeling rational players ii” economics philosophy 1987
+fun games text game theory
+heath company
+game theory social contract 1994
+volume playing fair
+cambridge mit press
+volume 2 just playing
+cambridge mit press
+calculus concepts methods joan davies
+cambridge university press
+natural justice
+new york oxford university press
+playing real text game theory
+new york oxford university press
+does game theory work? bargaining challenge
+mit press
+collection binmore's influential papers bargaining experiments newly written commentary addressing challenges game theory posed behavioural school economics
+game theory very short introduction
+oxford university press
+mini-biographies many founders subject—including john nash—this book offers concise overview cutting-edge field seen spectacular successes evolutionary biology economics beginning revolutionise other disciplines psychology political science
+rational decisions
+princeton university press
+binmore explains foundations bayesian decision theory shows why leonard savage restricted theory's application small worlds argues bayesian approach knowledge inadequate large world
+selected articles k
+wolinsky “the nash bargaining solution economic modeling” rand journal economics 1986
+binmore perfect equilibria bargaining models k
+binmore p
+dasgupta editors economics bargaining basil blackwell oxford 1987
+binmore “modeling rational players ii” economics philosophy 1987
+shaked j
+sutton “an outside option experiment” quarterly journal economics 1989
+binmore debayesing game theory
+skyrms editor studies logic foundations game theory proceedings ninth international congress logic methodology philosophy science kluwer dordrecht 1992
+binmore l
+samuelson evolutionary stability repeated games played finite automata journal economic theory 57 1992
+binmore j
+gale l
+samuelson learning imperfect ultimatum game games economic behavior 1995
+binmore l
+samuelson muddling through noisy equilibrium selection journal economic theory 74 1997
+binmore “rationality backward induction” journal economic methodology 4 1997
+binmore j
+mc carthy g
+shaked l
+samuelson backward induction experiment journal economic theory 104 2002
+binmore p
+klemperer biggest auction ever sale british 3 g telecom licences economic journal 112 2002
+binmore l
+samuelson evolution focal points games economic behavior 55 2006
+shaked experimental economics next? journal economic behavior organization 2009
+interviews binmore 'the origin fairness' alex voorhoeve conversations ethics
+oxford university press 2009
+binmore's approach moral philosophy
+references cv pdf
+retrieved 12 november 2011
+html book members 1780–2010 chapter pdf
+american academy arts sciences
+retrieved 20 july 2011
+external links wikiquote quotations related kenneth binmore professor binmore's else page ucl professor binmore's university bristol page binmore's review robert axelrod's complexity cooperation agent-based models competition collaboration 1997
+one-armed economists show big business how play game
+article binmore british 3 g telecoms auction independent 29 may 2000
+another 5 numbers game theory
+simon singh interviews binmore bbc radio 4 bluffing poker british 3 g telecoms auction 31 october 2003
+review binmore's natural justice brian skyrms times literary supplement july 2005
+symposium binmore's natural justice politics philosophy & economics february 2006 volume 5 no
+binmore's making decisions large worlds
+recent paper argues need look beyond bayesian decision theory answer general problem making rational decisions under uncertainty
+binmore shaked's experimental economics science what?
+revised version shaked's controversial critique literature inequity aversion warns economists may lose respect other scientific disciplines accepting wide claims human behaviour without critical examination data claims supposedly derived methodology employed analysing data
+rules game
+recent article prospect magazine binmore argues governments should take note theory mechanism design — work recently won three economists nobel prize
+vte topics game theory definitions normal-form game extensive-form game escalation commitment graphical game cooperative game succinct game information set hierarchy beliefs preference equilibrium concepts nash equilibrium subgame perfection mertens-stable equilibrium bayesian-nash perfect bayesian trembling hand proper equilibrium epsilon-equilibrium correlated equilibrium sequential equilibrium quasi-perfect equilibrium evolutionarily stable strategy risk dominance core shapley value pareto efficiency quantal response equilibrium self-confirming equilibrium strong nash equilibrium markov perfect equilibrium strategies dominant strategies pure strategy mixed strategy tit tat grim trigger collusion backward induction forward induction markov strategy classes games symmetric game perfect information simultaneous game sequential game repeated game signaling game cheap talk zero-sum game mechanism design bargaining problem stochastic game n-player game large poisson game nontransitive game global games strictly determined game games prisoner's dilemma traveler's dilemma coordination game chicken centipede game volunteer's dilemma dollar auction battle sexes stag hunt matching pennies ultimatum game rock-paper-scissors pirate game dictator game public goods game blotto games war attrition el farol bar problem fair division fair cake-cutting cournot game deadlock diner's dilemma guess 2/3 average kuhn poker nash bargaining game screening game prisoners hats puzzle trust game princess monster game monty hall problem rendezvous problem theorems minimax theorem nash's theorem purification theorem folk theorem revelation principle arrow's impossibility theorem key figures albert w
+tucker amos tversky ariel rubinstein daniel kahneman david k
+levine david m
+kreps donald
+gillies drew fudenberg eric maskin harold w
+kuhn herbert simon hervé moulin jean tirole jean-françois mertens john harsanyi john maynard smith john nash john von neumann kenneth arrow kenneth binmore leonid hurwicz lloyd shapley melvin dresher merrill m
+flood oskar morgenstern paul milgrom peyton young reinhard selten robert aumann robert
+wilson roger myerson samuel bowles thomas schelling william vickrey see also all-pay auction alpha–beta pruning bertrand paradox bounded rationality combinatorial game theory confrontation analysis coopetition list game theorists list games game theory no-win situation tragedy commons tyranny small decisions authority control world cat identities viaf 34518435 lccn n81147236 gnd 113051034 sudoc 03161809 x bnf cb122798687 data

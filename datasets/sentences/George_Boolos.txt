@@ -1,0 +1,185 @@
+confused george boole
+george boolos born 1940-09-04 september 4 1940 new york new york u
+died may 27 19961996-05-27 aged 55 cambridge massachusetts u
+alma mater princeton university oxford university mit era 20 th-century philosophy region western philosophy school analytic philosophy main interests philosophy mathematics mathematical logic notable ideas hume's principle influences gottlob frege hilary putnam george stephen boolos september 4 1940 may 27 1996 american philosopher mathematical logician taught massachusetts institute technology
+contents life 2 work 3 publications 3
+books 3
+2 articles 4 see also 5 notes 6 references 7 external links life boolos graduated princeton university 1961
+oxford university awarded
+1966 obtained first ph
+philosophy ever awarded massachusetts institute technology under direction hilary putnam
+after teaching three years columbia university returned mit 1969 spent rest career until death cancer
+charismatic speaker well known clarity wit once delivered lecture 1994 giving account gödel's second incompleteness theorem employing words syllable
+end viva hilary putnam asked tell us mr
+boolos does analytical hierarchy real world? without hesitating boolos replied it's part
+expert puzzles kinds 1993 boolos reached london regional final times crossword competition
+score highest ever recorded american
+paper hardest logic puzzle ever—one many puzzles created raymond smullyan
+work boolos coauthored richard jeffrey first three editions classic university text mathematical logic computability logic
+book now fifth edition last two editions updated john p
+kurt gödel first paper provability logic applies modal logic—the logic necessity possibility—to theory mathematical proof gödel never developed subject any significant extent
+boolos earliest proponents pioneers produced first book-length treatment unprovability consistency published 1979
+solution major unsolved problem years later led new treatment logic provability published 1993
+modal-logical treatment provability helped demonstrate intensionality gödel's second incompleteness theorem meaning theorem's correctness depends precise formulation provability predicate
+these conditions first identified david hilbert paul bernays their grundlagen arithmetik
+unclear status second theorem noted several decades logicians such georg kreisel leon henkin asked whether formal sentence expressing sentence provable opposed gödel sentence sentence provable provable hence true
+martin löb showed henkin's conjecture true well identifying important reflection principle also neatly codified using modal logical approach
+key provability results involving representation provability predicates obtained earlier using very different methods solomon feferman
+boolos authority 19 th-century german mathematician philosopher gottlob frege
+boolos proved conjecture due crispin wright also proved independently others system frege's grundgesetze long thought vitiated russell's paradox freed inconsistency replacing axioms notorious basic law v hume's principle
+resulting system since subject intense work
+[citation needed] boolos argued reads second-order variables monadic second-order logic plurally then second-order logic interpreted having no ontological commitment entities other those over first-order variables range
+result plural quantification
+david lewis employed plural quantification parts classes derive system zermelo-fraenkel set theory peano axioms theorems
+while boolos usually credited plural quantification peter simons 1982 argued essential idea found work stanislaw leśniewski
+shortly before death boolos chose 30 papers published book
+result perhaps most highly regarded work posthumous logic logic logic
+book reprints much boolos's work rehabilitation frege well number papers set theory second-order logic nonfirstorderizability plural quantification proof theory three short insightful papers gödel's incompleteness theorem
+there also papers dedekind cantor russell
+publications books 1979
+unprovability consistency essay modal logic
+cambridge university press
+1990 editor
+meaning method essays honor hilary putnam
+cambridge university press
+logic provability
+cambridge university press
+1998 richard jeffrey john p
+burgess eds
+logic logic logic
+harvard university press
+2007 1974 richard jeffrey john p
+computability logic 4 th ed
+cambridge university press
+articles list may dates numbers etc
+may better sortable table format
+please help improve list discuss talk page
+april 2013 lll = reprinted logic logic logic
+fpm = reprinted demopoulos w
+frege's philosophy mathematics
+harvard univ
+1968 hilary putnam degrees unsolvability constructible sets integers journal symbolic logic 33 497-513
+1969 effectiveness natural languages sidney hook ed
+language philosophy
+new york university press
+1970 semantics constructible levels 16 139-148
+1970 proof löwenheim-skolem theorem notre dame journal formal logic 76-78
+1971 iterative conception set journal philosophy 68 215-231
+reprinted paul benacerraf hilary putnam eds
+philosophy mathematics selected readings 2 nd ed
+cambridge univ
+press 486-502
+lll 1973 note evert willem beth's theorem bulletin de l'academie polonaise des sciences 2 1-2
+1974 arithmetical functions minimization zeitschrift für mathematische logik und grundlagen mathematik 20 353-354
+1974 reply charles parsons' 'sets classes'
+first published lll
+1975 friedman's 35 th problem affirmative solution notices american mathematical society a-646
+1975 kalmar's consistency proof generalization notion omega-consistency archiv für mathematische logik und grundlagenforschung 17 3-7
+1975 second-order logic journal philosophy 72 509-527
+1976 deciding truth certain statements involving notion consistency journal symbolic logic 41 779-781
+1977 deciding provability certain fixed point statements journal symbolic logic 42 191-193
+1979 reflection principles iterated consistency assertions journal symbolic logic 33-35
+1980 omega-consistency diamond studia logica 39 237-243
+1980 systems modal logic provability interpretations theoria 46 7-18
+1980 provability arithmetic schema grzegorczyk fundamenta mathematicae 106 41-45
+1980 c provability truth modal logic journal philosophical logic 9 1-7
+1980 review raymond m
+smullyan name book? philosophical review 89 467-470
+1981 every there linguistic inquiry 12 465-466
+1981 review robert m
+solovay provability interpretations modal logic journal symbolic logic 46 661-662
+1982 extremely undecidable sentences journal symbolic logic 47 191-196
+1982 nonexistence certain normal forms logic provability journal symbolic logic 47 638-640
+1984 don't eliminate cut journal philosophical logic 13 373-378
+1984 logic provability american mathematical monthly 91 470-480
+1984 nonfirstorderizability again linguistic inquiry 15 343
+1984 c 'syllogistic inference' cognition 17 181-182
+1984 value variable values variables journal philosophy 81 430-450
+1984 e trees finite satisfiability proof conjecture john burgess notre dame journal formal logic 25 193-197
+1984 f justification mathematical induction psa 2 469-475
+1985 1-consistency diamond notre dame journal formal logic 341-347
+1985 nominalist platonism philosophical review 94 327-344
+1985 reading begriffsschrift mind 94 331-344
+lll fpm 163-81
+1985 c giovanni sambin incomplete system modal logic journal philosophical logic 14 351-358
+1986 review yuri manin course mathematical logic journal symbolic logic 51 829-830
+1986-87 saving frege contradiction proceedings aristotelian society 87 137-151
+lll fpm 438-52
+1987 consistency frege's foundations arithmetic j
+thomson ed
+being saying essays richard cartwright
+mit press 3-20
+lll fpm 211-233
+1987 curious inference journal philosophical logic 16 1-12
+1987 notions provability provability logic abstracts th international congress logic methodology philosophy science 5 236-238
+1987 c vann mc gee degree set sentences predicate provability logic true under every interpretation journal symbolic logic 52 165-171
+1988 alphabetical order notre dame journal formal logic 29 214-215
+1988 review craig smorynski self-reference modal logic journal symbolic logic 53 306-309
+1989 iteration again philosophical topics 17 5-21
+1989 new proof gödel incompleteness theorem notices american mathematical society 36 388-390
+afterword appeared under title letter george boolos ibid
+1990 'seeing' truth gödel sentence behavioral brain sciences 13 655-656
+1990 review jon barwise john etchemendy turing's world tarski's world journal symbolic logic 55 370-371
+1990 review v
+uspensky gödel's incompleteness theorem journal symbolic logic 55 889-891
+1990 c standard equality numbers boolos g
+meaning method essays honor hilary putnam
+cambridge univ
+press 261-278
+lll fpm 234-254
+zooming down slippery slope nous 25 695-706
+giovanni sambin provability emergence mathematical modality studia logica 50 1-23
+1993 analytical completeness dzhaparidze's polymodal logics annals pure applied logic 61 95-111
+1993 whence contradiction? aristotelian society supplementary volume 67 213-233
+1994 1879? p
+hale eds
+reading putnam
+oxford blackwell 31-48
+1994 advantages honest toil over theft
+george ed
+mathematics mind
+oxford university press 27-44
+1994 gödel's second incompleteness theorem explained words syllable mind 103 1-3
+1995 frege's theorem peano postulates bulletin symbolic logic 317-326
+1995 introductory note *1951 solomon feferman et al
+kurt gödel collected works vol
+oxford university press 290-304
+*1951 gödel's 1951 gibbs lecture basic theorems foundations mathematics their implications
+1995 quotational ambiguity leonardi p
+santambrogio m
+cambridge university press 283-296
+lll 1996 hardest logic puzzle ever harvard review philosophy 6 62-65
+italian translation massimo piattelli-palmarini l'indovinello piu difficile del mondo repubblica 16 april 1992 36-37
+1996 proof frege's theorem
+morton s
+stich eds
+paul benacerraf critics
+cambridge ma blackwell
+1997 constructing cantorian counterexamples journal philosophical logic 237-239
+1997 hume's principle analytic? richard g
+heck jr
+language thought logic essays honour michael dummett
+oxford univ
+press 245-61
+1997 richard heck die grundlagen arithmetik §§82-83 matthias schirn ed
+philosophy mathematics today
+oxford univ
+1998 gottlob frege foundations arithmetic
+first published lll
+french translation mathieu marion alain voizard eds
+logique et philosophie
+montréal paris l'harmattan 17-32
+2000 must believe set theory? gila sher richard tieszen eds
+logic intuition essays honour charles parsons
+cambridge university press
+see also american philosophy axiomatic set theory s boolos 1989 general set theory boolos's axiomatic set theory just adequate peano robinson arithmetic
+list american philosophers notes van gelder lawrence 30 may 1996
+george boolos 55 philosopher
+ny times
+mit faculty resolution boolos' death references peter simons 1982 understanding lesniewski history philosophy logic
+solomon feferman 1960 arithmetization metamathematics general setting fundamentae mathematica vol
+49 pp
+external links george boolos memorial web site george boolos
+hardest logic puzzle ever
+harvard review philosophy 662–65 1996
+authority control world cat identities viaf 34530215 lccn n88137851 isni 0000 0001 0886 5912 gnd 171984196 sudoc 032339674 bnf cb123388341 data mgp 82996

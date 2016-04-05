@@ -1,0 +1,274 @@
+confused hendrikus albertus lorentz
+see also lorentz lorenz
+hendrik antoon lorentz born 1853-07-1818 july 1853 arnhem netherlands died 4 february 19281928-02-04 aged 74 haarlem netherlands nationality netherlands fields physics alma mater university leiden doctoral advisor pieter rijke doctoral students geertruida l
+de haas-lorentz adriaan fokker leonard ornstein hendrika johanna van leeuwen known lorentz transformation theory em radiation lorentz force lorentz contraction notable awards nobel prize physics 1902 mem rs 1905 rumford medal 1908 franklin medal 1917 copley medal 1918 hendrik antoon lorentz 18 july 1853 4 february 1928 dutch physicist shared 1902 nobel prize physics pieter zeeman discovery theoretical explanation zeeman effect
+also derived transformation equations formed basis special relativity theory albert einstein
+according biography published nobel foundation may well lorentz regarded theoretical physicists world's leading spirit completed left unfinished predecessors prepared ground fruitful reception new ideas based quantum theory
+received many honours distinctions during life including—from 1925 death 1928—the role chairman exclusive international committee intellectual cooperation
+contents biography
+early life
+2 career
+professor leiden
+2 electrodynamics relativity
+3 lorentz special relativity
+4 lorentz general relativity
+5 assessments
+6 change priorities
+7 civil work
+3 death 2 legacy 3 see also 4 references 4
+primary sources 4
+2 secondary sources 5 external links biography early life hendrik lorentz born arnhem gelderland netherlands son gerrit frederik lorentz 1822–1893 well-off nurseryman geertruida van ginkel 1826–1861
+1862 after mother's death father married luberta hupkes
+despite being raised protestant freethinker religious matters
+[b 1] 1866 1869 attended hogere burger school arnhem new type public high school recently established johan rudolph thorbecke
+results school exemplary excel physical sciences math also english french german
+1870 passed exams classical languages then required admission university
+[b 2] lorentz studied physics mathematics leiden university strongly influenced teaching astronomy professor frederik kaiser influence led become physicist
+after earning bachelor's degree returned arnhem 1871 teach night school classes mathematics continued studies leiden addition teaching position
+1875 lorentz earned doctoral degree under pieter rijke thesis entitled over de theorie terugkaatsing en breking van het licht theory reflection refraction light refined electromagnetic theory james clerk maxwell
+[b 2] career professor leiden portrait jan veth 17 november 1877 24 years age hendrik antoon lorentz appointed newly established chair theoretical physics university leiden
+position initially offered johan van waals opted position universiteit van amsterdam last moment
+[b 2] 25 january 1878 lorentz delivered inaugural lecture de moleculaire theoriën de natuurkunde molecular theories physics
+1881 became member royal netherlands academy arts sciences
+during first twenty years leiden lorentz primarily interested theory electromagnetism explain relationship electricity magnetism light
+after extended research much wider area while still focusing theoretical physics
+lorentz made significant contributions fields ranging hydrodynamics general relativity
+most important contributions area electromagnetism electron theory relativity
+[b 2] lorentz theorized atoms might consist charged particles suggested oscillations these charged particles source light
+colleague former student lorentz pieter zeeman discovered zeeman effect 1896 lorentz supplied theoretical interpretation
+experimental theoretical work honored nobel prize physics 1902
+lorentz' name now associated lorentz-lorenz formula lorentz force lorentzian distribution lorentz transformation
+electrodynamics relativity main articles lorentz ether theory history special relativity 1892 1895 lorentz worked describing electromagnetic phenomena propagation light reference frames move relative luminiferous aether
+discovered transition another reference frame simplified using new time variable called local time
+local time depended universal time location under consideration
+explain aberration light result fizeau experiment
+lorentz's publications made use term local time without giving detailed interpretation physical relevance
+1900 1904 henri poincaré called local time lorentz's most ingenious idea illustrated showing clocks moving frames synchronized exchanging light signals assumed travel same speed against motion frame see einstein synchronisation relativity simultaneity
+1892 attempt explain michelson-morley experiment lorentz also proposed moving bodies contract direction motion see length contraction george fitz gerald already arrived conclusion 1889
+1899 again 1904 lorentz added time dilation transformations published poincaré 1905 named lorentz transformations
+apparently unknown lorentz joseph larmor used identical transformations describe orbiting electrons 1897
+larmor's lorentz's equations look somewhat dissimilar algebraically equivalent those presented poincaré einstein 1905
+[b 3] lorentz's 1904 paper includes covariant formulation electrodynamics electrodynamic phenomena different reference frames described identical equations well defined transformation properties
+paper clearly recognizes significance formulation namely outcomes electrodynamic experiments depend relative motion reference frame
+1904 paper includes detailed discussion increase inertial mass rapidly moving objects useless attempt make momentum look exactly like newtonian momentum also attempt explain length contraction accumulation stuff onto mass making slow contract
+lorentz special relativity albert einstein hendrik antoon lorentz photographed ehrenfest front home leiden 1921
+1905 einstein use many concepts mathematical tools results lorentz discussed write paper entitled electrodynamics moving bodies known today theory special relativity
+because lorentz laid fundamentals work einstein theory originally called lorentz-einstein theory
+[b 4] 1906 lorentz's electron theory received full-fledged treatment lectures columbia university published under title theory electrons
+increase mass first prediction lorentz einstein tested experiments kaufmann appeared show slightly different mass increase led lorentz famous remark end latin
+confirmation prediction wait until 1908 later see kaufmann–bucherer–neumann experiments
+lorentz published series papers dealing called einstein's principle relativity
+instance 1909 1910 1914
+1906 lectures published additions 1909 book theory electrons updated 1915 spoke affirmatively einstein's theory will clear impressions received two observers a0 alike respects
+impossible decide them moves stands still respect ether there no reason preferring times lengths measured those determined other nor saying either them possession true times true lengths
+point einstein laid particular stress theory starts calls principle relativity [
+cannot speak here many highly interesting applications einstein made principle
+results concerning electromagnetic optical phenomena
+agree main those obtained preceding pages chief difference being einstein simply postulates deduced difficulty altogether satisfactorily fundamental equations electromagnetic field
+doing may certainly take credit making us see negative result experiments like those michelson rayleigh brace fortuitous compensation opposing effects manifestation general fundamental principle
+unjust add besides fascinating boldness starting point einstein's theory another marked advantage over mine
+whereas able obtain equations referred moving axes exactly same form those apply stationary system einstein accomplished means system new variables slightly different those introduced
+though lorentz still maintained there undetectable aether resting clocks indicate true time 1909 yet think something may also claimed favour form presented theory
+cannot regard ether seat electromagnetic field energy vibrations endowed certain degree substantiality however different may ordinary matter
+1910 provided there aether then under systems x z t preferred fact coordinate axes well clocks resting aether
+connects idea abandon reluctantly space time completely different things there true time simultaneity thus independent location agreement circumstance idea infinitely great velocities then easily seen true time should indicated clocks rest aether
+however relativity principle general validity nature wouldn't position determine whether reference system just used preferred
+then comes same results following einstein minkowski deny existence aether true time see reference systems equally valid
+these two ways thinking following surely left individual
+lorentz also gave credit poincaré's contributions relativity
+indeed physical quantities enter formulas indicate transformation suits best
+done poincaré then mr
+einstein minkowski [
+succeed obtaining exact invariance equations [
+poincaré contrary obtained perfect invariance equations electrodynamics formulated postulate relativity terms first employ
+let us add correcting imperfections my work never reproached me them
+lorentz general relativity lorentz few scientists supported einstein's search general relativity beginning several research papers discussed einstein personally letter
+[b 5] instance attempted combine einstein's formalism hamilton's principle 1915 reformulate coordinate-free way 1916
+[b 6] lorentz 1919 total eclipse sun may 29 resulted striking confirmation new theory universal attractive power gravitation developed albert einstein thus reinforced conviction defining theory most important steps ever taken domain natural science
+assessments einstein lorentz 1928 enormous significance work consisted therein forms basis theory atoms general special theories relativity
+special theory detailed expose those concepts found lorentz's research 1895
+[b 7] 1953 me personally meant others met my life's journey
+[b 8] poincaré 1902 lorentz's theory electrodynamics most satisfactory theory lorentz unquestionably theory best explains known facts throws relief greatest number known relations
+due lorentz results fizeau optics moving bodies laws normal abnormal dispersion absorption connected each other
+look ease new zeeman phenomenon found place even aided classification faraday's magnetic rotation defied maxwell's efforts
+paul langevin 1911 lorentz[b 9] will lorentz's main claim fame demonstrated fundamental equations electromagnetism also allow group transformations enables them resume same form transition made reference system another
+group differs fundamentally above group regards transformations space time
+'' lorentz emil wiechert interesting correspondence topics electromagnetism theory relativity lorentz explained ideas letters wiechert
+correspondence lorentz wiechert published wilfried schröder
+[b 10] lorentz chairman first solvay conference held brussels autumn 1911
+shortly after conference poincaré essay quantum physics gives indication lorentz's status time
+every moment [the twenty physicists different countries] heard talking [quantum mechanics] contrasted old mechanics
+now old mechanics? newton still reigned uncontested close nineteenth century? no mechanics lorentz dealing principle relativity hardly five years ago seemed height boldness
+change priorities 1910 lorentz decided reorganize life
+teaching management duties leiden university taking up too much time leaving little time research
+1912 resigned chair theoretical physics become curator physics cabinet teylers museum haarlem
+remained connected leiden university external professor monday morning lectures new developments theoretical physics soon became legendary
+[b 2] lorentz initially asked einstein succeed professor theoretical physics leiden
+however einstein accept because just accepted position eth zurich
+einstein no regrets matter since prospect having fill lorentz's shoes made shiver
+instead lorentz appointed paul ehrenfest successor chair theoretical physics leiden university found institute theoretical physics become known lorentz institute
+[b 2] civil work after world war lorentz driving forces behind founding wetenschappelijke commissie van advies en onderzoek het belang van volkswelvaart en weerbaarheid committee harness scientific potential united royal netherlands academy arts sciences knaw solving civil problems such food shortage resulted war
+lorentz appointed chair committee
+however despite best efforts many participants committee harvest little success
+exception being ultimately resulted founding tno netherlands organisation applied scientific research
+[b 2] lorentz also asked dutch government chair committee calculate effects proposed afsluitdijk enclosure dam flood control dam water levels waddenzee
+hydraulic engineering mainly empirical science time disturbance tidal flow caused afsluitdijk unprecedented empirical rules trusted
+originally lorentz supposed coordinating role committee quickly became apparent lorentz physicist any fundamental traction problem
+period 1918 till 1926 lorentz invested large portion time problem
+lorentz proposed start basic hydrodynamic equations motion solve problem numerically
+feasible human computer because quasi-one-dimensional nature water flow waddenzee
+afsluitdijk completed 1932 predictions lorentz committee turned out remarkably accurate
+[b 11][b 2] two sets locks afsluitdijk named after
+death january 1928 lorentz became seriously ill died shortly after february 4
+[b 2] respect held netherlands apparent owen willans richardson's description funeral funeral took place haarlem noon friday february 10
+stroke twelve state telegraph telephone services holland suspended three minutes revered tribute greatest man netherlands produced our time
+attended many colleagues distinguished physicists foreign countries
+president sir ernest rutherford represented royal society made appreciative oration graveside
+[b 12] unique 1928 film footage funeral procession lead carriage followed ten mourners followed carriage coffin followed turn least four carriages passing crowd grote markt haarlem zijlstraat smedestraat then back again through grote houtstraat towards barteljorisstraat way algemene begraafplaats kleverlaan northern haarlem cemetery digitized you tube
+[b 13] einstein gave eulogy memorial service leiden university
+[b 2] legacy lorentz considered prime representatives second dutch golden age period several decades surrounding 1900 natural sciences netherlands flourished
+[b 2] richardson describes lorentz [a] man remarkable intellectual powers
+although steeped own investigation moment seemed immediate grasp ramifications every corner universe
+singular clearness writings provides striking reflection wonderful powers respect
+possessed successfully employed mental vivacity necessary follow interplay discussion insight required extract those statements illuminate real difficulties wisdom lead discussion among fruitful channels skillfully process hardly perceptible
+[b 12] m
+klein 1967 lorentz's reputation 1920 s many years physicists eager hear lorentz will say new theory advanced even seventy-two disappoint them
+[b 14] addition nobel prize lorentz received great many honours outstanding work
+elected foreign member royal society mem rs 1905
+society awarded their rumford medal 1908 their copley medal 1918
+see also list things named after hendrik antoon lorentz geertruida de haas-lorentz lorentz factor lorentz force lorentz medal lorentz crater references primary sources wikisource original works written hendrik lorentz german wikisource original text related article hendrik antoon lorentz many papers lorentz mostly english available online viewing proceedings royal netherlands academy arts science amsterdam
+lorentz hendrik antoon 1900 considerations gravitation proc
+science amsterdam 2 559–574 lorentz hendrik antoon 1927–1931 lectures theoretical physics vol
+i-iii new york [ny
+macmillan & co
+online secondary sources russell mc cormmach
+lorentz hendrik antoon
+complete dictionary scientific biography
+retrieved 25 april
+although grew up protestant circles freethinker religious matters regularly attended local french church improve french
+c e f g h j k kox anne j
+hendrik antoon lorentz dutch
+nederlands tijdschirft voor natuurkunde 77 12 441
+macrossan michael n
+1986 note relativity before einstein brit
+37 2 232–234 doi10
+232 miller arthur
+albert einstein’s special theory relativity
+emergence 1905 early interpretation 1905–1911
+reading addison–wesley
+einstein lorentz leiden general relativity
+quantum grav
+10 187
+bibcode1993 cqgra
+10 s
+187 k
+janssen m
+lorentz's attempt give coordinate-free formulation general
+theory relativity
+studies history general relativity
+boston birkhäuser
+pais abraham 1982 subtle lord science life albert einstein new york oxford university press 0-19-520438-7 justin wintle february 2002
+makers nineteenth century culture 1800–1914
+retrieved 25 july
+langevin p
+1911 evolution space time scientia x 31–54 translated j
+sykes 1973
+sci 1984
+carlo beenakker
+retrieved 2012-02-01
+richardson o
+1929 hendrik antoon lorentz j
+london math
+4 183–192 doi10
+biography refers article gives no pagination details other those article itself o'connor john j
+robertson edmund f
+hendrik lorentz mac tutor history mathematics archive university st andrews
+funeral procession you tube hendrik lorentz przibram karl ed
+klein martin j
+1967 letters wave mechanics schrödinger planck einstein lorentz
+edited karl przibram austrian academy sciences new york [ny
+philosophical library de haas-lorentz geertruida l
+fagginger auer joh
+1957 h
+lorentz impressions life work amsterdam north-holland pub
+langevin paul 1911 l'évolution de l'espace et du temps scientia x 31–54 n
+poincaré henri 1900 théorie de lorentz et le principe de réaction archives néerlandaises des sciences exactes et naturelles v 253–278 see english translation
+poincaré henri 1902 science et l'hypothèse paris [france] ernest flammarion n
+quotation english translation poincaré henri 1952 science hypothesis new york [ny
+dover publications p
+175 poincaré henri 1913 dernières pensées paris [france] ernest flammarion n
+quotation article english translation poincaré henri bolduc john w
+1963 mathematics science last essays new york [ny
+dover publications n
+sri kantha s
+einstein lorentz
+nature july 13 1995 376 111
+letter external links wikiquote quotations related hendrik lorentz wikimedia commons media related hendrik antoon lorentz
+publications h
+lorentz karl grandin ed
+lorentz biography
+les prix nobel
+nobel foundation
+retrieved 2008-07-29
+works hendrik antoon lorentz project gutenberg works hendrik lorentz internet archive works hendrik lorentz libri vox public domain audiobooks beenakker carlo lorentz zuiderzee project leiden [the netherlands] instituut lorentz university leiden van helden albert 1999 hendrik antoon lorentz 1853–1928 van berkel klaas van helden albert palm lodewijk eds
+history science netherlands survey themes reference leiden [the netherlands] brill pp
+514–518 90-04-10006-7 list ph
+students hendrik lorentz
+o'connor john j
+robertson edmund f
+hendrik lorentz mac tutor history mathematics archive retrieved 2008-05-01 movie lorentz's funeral vte copley medallists 1901–1950 josiah willard gibbs 1901 joseph lister 1902 eduard suess 1903 william crookes 1904 dmitri mendeleev 1905 élie metchnikoff 1906 albert
+michelson 1907 alfred russel wallace 1908 george william hill 1909 francis galton 1910 george darwin 1911 felix klein 1912 ray lankester 1913 j
+thomson 1914 ivan pavlov 1915 james dewar 1916 pierre paul émile roux 1917 hendrik lorentz 1918 william bayliss 1919 horace tabberer brown 1920 joseph larmor 1921 ernest rutherford 1922 horace lamb 1923 edward albert sharpey-schafer 1924 albert einstein 1925 frederick gowland hopkins 1926 charles scott sherrington 1927 charles algernon parsons 1928 max planck 1929 william henry bragg 1930 arthur schuster 1931 george ellery hale 1932 theobald smith 1933 john scott haldane 1934 charles thomson rees wilson 1935 arthur evans 1936 henry hallett dale 1937 niels bohr 1938 thomas hunt morgan 1939 paul langevin 1940 thomas lewis 1941 robert robinson 1942 joseph barcroft 1943 geoffrey ingram taylor 1944 oswald avery 1945 edgar douglas adrian 1946 g
+hardy 1947 archibald hill 1948 george de hevesy 1949 james chadwick 1950 1731–1750 1751–1800 1801–1850 1851–1900 1901–1950 1951–2000 2001–present vte laureates nobel prize physics1901–1925 1901 röntgen 1902 lorentz / zeeman 1903 becquerel / p
+curie / m
+curie 1904 rayleigh 1905 lenard 1906 j
+thomson 1907 michelson 1908 lippmann 1909 marconi / braun 1910 van waals 1911 wien 1912 dalén 1913 kamerlingh onnes 1914 laue 1915 w
+bragg / w
+bragg 1916 1917 barkla 1918 planck 1919 stark 1920 guillaume 1921 einstein 1922 n
+bohr 1923 millikan 1924 m
+siegbahn 1925 franck / hertz 1926–1950 1926 perrin 1927 compton / c
+wilson 1928 o
+richardson 1929 de broglie 1930 raman 1931 1932 heisenberg 1933 schrödinger / dirac 1934 1935 chadwick 1936 hess / c
+anderson 1937 davisson / g
+thomson 1938 fermi 1939 lawrence 1940 1941 1942 1943 stern 1944 rabi 1945 pauli 1946 bridgman 1947 appleton 1948 blackett 1949 yukawa 1950 powell 1951–1975 1951 cockcroft / walton 1952 bloch / purcell 1953 zernike 1954 born / bothe 1955 lamb / kusch 1956 shockley / bardeen / brattain 1957 c
+yang / t
+lee 1958 cherenkov / frank / tamm 1959 segrè / chamberlain 1960 glaser 1961 hofstadter / mössbauer 1962 landau 1963 wigner / goeppert-mayer / jensen 1964 townes / basov / prokhorov 1965 tomonaga / schwinger / feynman 1966 kastler 1967 bethe 1968 alvarez 1969 gell-mann 1970 alfvén / néel 1971 gabor 1972 bardeen / cooper / schrieffer 1973 esaki / giaever / josephson 1974 ryle / hewish 1975
+bohr / mottelson / rainwater 1976–2000 1976 richter / ting 1977 p
+anderson / mott / van vleck 1978 kapitsa / penzias / r
+wilson 1979 glashow / salam / weinberg 1980 cronin / fitch 1981 bloembergen / schawlow / k
+siegbahn 1982 k
+wilson 1983 chandrasekhar / fowler 1984 rubbia / van meer 1985 von klitzing 1986 ruska / binnig / rohrer 1987 bednorz / müller 1988 lederman / schwartz / steinberger 1989 ramsey / dehmelt / paul 1990 friedman / kendall / r
+taylor de gennes 1992 charpak 1993 hulse / j
+taylor 1994 brockhouse / shull 1995 perl / reines 1996
+lee / osheroff / r
+richardson 1997 chu / cohen-tannoudji / phillips 1998 laughlin / störmer / tsui 1999 't hooft / veltman 2000 alferov / kroemer / kilby 2001–present 2001 cornell / ketterle / wieman 2002 davis / koshiba / giacconi 2003 abrikosov / ginzburg / leggett 2004 gross / politzer / wilczek 2005 glauber / hall / hänsch 2006 mather / smoot 2007 fert / grünberg 2008 nambu / kobayashi / maskawa 2009 kao / boyle / smith 2010 geim / novoselov 2011 perlmutter / riess / schmidt wineland / haroche 2013 englert / higgs 2014 akasaki / amano / nakamura 2015 kajita / mc donald authority control world cat identities viaf 68984502 lccn n83239384 isni 0000 0001 0912 1560 gnd 118780484 selibr 235195 sudoc 031196594 bnf cb12245820 n data bpn 26511706 mgp 105756 nla 35592939 ndl 00448030 nkc jn20021014005 botanist h
+lorentz fellows royal society
+london royal society
+archived original 2015-03-16
+lorentz - biographical nobelprize
+org retrieved 4 november 2015 hendrik antoon lorentz 1853 - 1928
+royal netherlands academy arts sciences
+retrieved 17 july 2015
+lorentz hendrik antoon 1892 théorie electromagnétique de maxwell et son application aux corps mouvants internet archive archives néerlandaises des sciences exactes et naturelles 25 363–552 external link |title= help lorentz hendrik antoon 1895 versuch einer theorie electrischen und optischen erscheinungen bewegten körpern leiden e
+brill english wikisource translation attempt theory electrical optical phenomena moving bodies poincaré henri 1900 théorie de lorentz et le principe de réaction archives néerlandaises des sciences exactes et naturelles 5 252–278
+see also english translation
+poincaré henri 1904 principles mathematical physics congress arts science universal exposition st
+louis 1904 boston new york houghton mifflin company pp
+604–622 lorentz hendrik antoon 1892 relative motion earth aether zittingsverlag akad
+74–79 lorentz hendrik antoon 1899 simplified theory electrical optical phenomena moving systems proceedings royal netherlands academy arts sciences 427–442 lorentz hendrik antoon 1904 electromagnetic phenomena system moving any velocity smaller light proceedings royal netherlands academy arts sciences 6 809–831 einstein albert 1905 zur elektrodynamik bewegter körper pdf annalen physik 322 10 891–921 bibcode1905 p
+891 e doi10
+see also english translation
+lorentz à poincaré wayback machine archived february 21 2005 c lorentz hendrik antoon 1909/16 theory electrons applications phenomena light radiant heat course lectures delivered columbia university new york march april 1906 new york [ny
+columbia university press check date values |date= help lorentz hendrik antoon 1910/1913
+das relativitätsprinzip und seine anwendung auf einige besondere physikalische erscheinungen
+blumenthal otto & sommerfeld arnold
+das relativitätsprinzip
+eine sammlung von abhandlungen
+check date values |date= help english wikisource translation principle relativity application special physical phenomena lorentz hendrik antoon 1910 published 1931 lectures theoretical physics vol
+3 london mac millan check date values |date= help lorentz hendrik antoon 1914
+das relativitätsprinzip
+drei vorlesungen gehalten teylers stiftung zu haarlem 1913
+leipzig berlin
+lorentz hendrik antoon 1914/21 deux mémoires de henri poincaré sur physique mathématique acta mathematica 38 293–308 doi10
+1007/bf02392073 check date values |date= help english wikisource translation two papers henri poincaré mathematical physics lorentz hendrik antoon 1915 hamilton's principle einstein's theory gravitation proceedings royal netherlands academy arts sciences 19 751–765 lorentz hendrik antoon 1916 einstein's theory gravitation i–iv proceedings royal netherlands academy arts sciences 19/20 1341–1361 2–34 lorentz hendrik antoon 1920 einstein theory relativity new york bentano's poincaré henri 1902 science hypothesis london newcastle-on-cyne 1905 walter scott publishing co
+poincaré henri 1913 last essays internet archive new york external link |title= help

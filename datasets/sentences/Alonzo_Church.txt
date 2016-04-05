@@ -1,0 +1,85 @@
+article mathematician logician
+president university georgia u
+see alonzo s
+alonzo church alonzo church 1903–1995 born 1903-06-14 june 14 1903 washington
+usdied august 19951995-08-11 aged 92 hudson ohio usresidence united states nationality american fields mathematics logic institutions princeton university 1929–67 ucla 1967–95 alma mater princeton university thesis alternatives zermelo's assumption 1927 doctoral advisor oswald veblen doctoral students c
+anthony anderson peter andrews george alfred barnard martin davis leon henkin david kaplan john george kemeny stephen kleene gary r
+mar michael o
+rabin hartley rogers jr j
+barkley rosser dana scott raymond smullyan alan turing known lambda calculus church–turing thesis frege–church ontology church–rosser theorem alonzo church june 14 1903 august 1995 american mathematician logician made major contributions mathematical logic foundations theoretical computer science
+best known lambda calculus church–turing thesis proving undecidability entscheidungsproblem frege–church ontology church–rosser theorem
+contents life 2 mathematical work 3 students 4 books 5 see also 6 notes 7 references external links life alonzo church born june 14 1903 washington
+father samuel robbins church judge municipal court district columbia
+family later moved virginia after father lost position because failing eyesight
+help uncle also named alonzo church able attend ridgefield school boys ridgefield connecticut
+after graduating ridgefield 1920 church attended princeton university exceptional student publishing first paper lorentz transformations graduating 1924 degree mathematics
+stayed princeton earning ph
+mathematics three years under oswald veblen
+married mary julia kuczinski 1925 couple three children alonzo church jr
+1929 mary ann 1933 mildred 1938
+after receiving ph
+taught briefly instructor university chicago then received two-year national research fellowship
+allowed attend harvard university 1927–1928 then both university göttingen university amsterdam following year
+taught philosophy mathematics princeton 1929–1967 university california los angeles 1967–1990
+received honorary doctor science degrees case western reserve university 1969 princeton university 1985 university buffalo state university new york 1990 connection international symposium honor organized john corcoran
+deeply religious person lifelong member presbyterian church
+died 1995 buried princeton cemetery
+mathematical work church known following accomplishments proof entscheidungsproblem asks decision procedure determine truth arbitrary propositions mathematical theory undecidable theory peano arithmetic
+known church's theorem
+articulation come known church–turing thesis
+founding editor journal symbolic logic editing reviews section until 1979
+creation lambda calculus
+lambda calculus emerged 1936 paper showing unsolvability entscheidungsproblem
+result preceded alan turing's work halting problem also demonstrated existence problem unsolvable mechanical means
+church turing then showed lambda calculus turing machine used turing's halting problem equivalent capabilities subsequently demonstrated variety alternative mechanical processes computation
+resulted church–turing thesis
+lambda calculus influenced design lisp programming language functional programming languages general
+church encoding named honor
+students many church's doctoral students led distinguished careers including c
+anthony anderson peter
+andrews george
+barnard david berlinski william w
+boone martin davis alfred l
+foster leon henkin john g
+kemeny stephen c
+kleene simon
+kochen maurice l'abbé isaac malitz gary r
+mar michael o
+rabin nicholas rescher hartley rogers jr
+barkley rosser dana scott raymond smullyan alan turing
+complete list church's students available via mathematics genealogy project
+books alonzo church introduction mathematical logic alonzo church calculi lambda-conversion alonzo church bibliography symbolic logic 1666–1935 c
+anthony anderson michael zelëny editors logic meaning computation essays memory alonzo church see also biography portal logic portal church–turing–deutsch principle higher-order logic universal set notes ridgefield school boys also known ridgefield school private school existed 1907 1938
+see ridgefield school
+honorary degrees awarded case western reserve university honorary degrees awarded princeton university finding aid honorary degree conferral doctor science alonzo church 1990 introduction alonzo church life work pdf
+retrieved 6 june
+deeply religious person lifelong member presbyterian church
+mathematics genealogy project
+archived original 4 august 2010
+retrieved 12 august 2010
+henkin leon 1957
+review introduction mathematical logic alonzo church pdf
+63 5 320–323
+frink jr
+orrin 1944
+review calculi lambda-conversion alonzo church pdf
+50 3 169–172
+references enderton herbert
+alonzo church life work
+introduction collected works alonzo church mit press yet published
+enderton herbert
+memoriam alonzo church bulletin symbolic logic vol
+4 dec
+1995 pp
+wade nicholas alonzo church 92 theorist limits mathematics obituary new york times september 5 1995 p
+hodges wilfred obituary alonzo church independent london september 14 1995
+alonzo church interviewed william aspray 17 may 1984
+princeton mathematics community 1930 s oral-history project transcript number 5
+rota gian-carlo fine hall golden age remembrances princeton early fifties
+century mathematics america part ii edited peter duren ams history mathematics vol 2 american mathematical society 1989 pp
+also available here
+external links o'connor john j
+robertson edmund f
+alonzo church mac tutor history mathematics archive university st andrews
+alonzo church mathematics genealogy project princeton university library manuscripts division alonzo church papers 1924–1995 finding aid
+bibliography church's reviews journal symbolic logic link each authority control world cat identities viaf 109830754 lccn n83152979 isni 0000 0001 1003 8502 gnd 119430223 selibr 301551 sudoc 060369604 bnf cb14575590 data mgp 8011 nla 50043018 nkc mzk2006354081

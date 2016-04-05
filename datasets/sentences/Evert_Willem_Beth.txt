@@ -1,0 +1,56 @@
+article includes list references related reading external links sources remain unclear because lacks inline citations
+please improve article introducing precise citations
+april 2013 evert willem beth 7 july 1908 12 april 1964 dutch philosopher logician whose work principally concerned foundations mathematics
+contents biography 2 contributions logic 2
+definition theorem 2
+2 semantic tableaux 2
+3 beth models 3 see also 4 books 5 references 6 external links biography beth born almelo small town eastern netherlands
+father studied mathematics physics university amsterdam awarded ph
+evert beth studied same subjects utrecht university then also studied philosophy psychology
+1935 ph
+1946 became professor logic foundations mathematics amsterdam
+apart two brief interruptions stint 1951 research assistant alfred tarski 1957 visiting professor johns hopkins university held post amsterdam continuously until death 1964
+first academic post country logic foundations mathematics during time contributed actively international cooperation establishing logic academic discipline
+1953 became member royal netherlands academy arts sciences
+died amsterdam
+contributions logic definition theorem section requires expansion
+april 2014 definition theorem states predicate function constant implicitly definable explicitly definable
+further explanation provided under beth definability semantic tableaux semantic tableaux proof method formal systems
+gentzen's natural deduction sequent calculus even j
+alan robinson's resolution hilbert's axiomatic systems
+considered many intuitively simple particularly students acquainted study logic wilfrid hodges example presents semantic tableaux introductory textbook logic melvin fitting does same presentation first-order logic computer scientists first-order logic automated theorem proving
+starts out intention proving certain set formulae imply another formula given set rules determined semantics formulae's connectives quantifiers first-order logic
+method assume concurrent truth every member negation then apply rules branch list tree-like structure simpler formulae until every possible branch contains contradiction
+point will established inconsistent thus formulae together imply
+beth models section requires expansion
+april 2014 these class relational models non-classical logic cf
+kripke semantics
+see also gerrit mannoury method analytic tableaux books evert w
+beth foundations mathematics
+study philosophy science
+xxvί + 722 pp
+amsterdam north-holland 1959
+evert w
+beth epistemologie mathematique et psychologie j
+352 pp
+paris p
+evert w
+beth formal methods introduction symbolic logic study effective operations arithmetic logic
+reidel publishing company / dordecht-holland 1962
+evert w
+beth aspects modern logic
+reidel publishing company / dordecht-holland 1971
+references evert willem beth 1908 - 1964
+royal netherlands academy arts sciences
+retrieved 20 july 2015
+francella miriam 1999
+evert willem beth's scientific philosophy
+grazer philosophische studien 57 221–236
+heyting alan 1966
+memoriam evert willem beth 1909–1964
+notre dame journal formal logic 7 4 289–295
+mooij j j
+beth evert willem 1908–1964
+biographical dictionary netherlands 1880–2000
+retrieved april 2013
+external links beth prize 2013 evert willem beth foundation authority control world cat identities viaf 76382085 lccn n50009102 isni 0000 0001 1029 7520 gnd 121030660 sudoc 052649482 bnf cb12298944 p data bpn 33501365 mgp 49614

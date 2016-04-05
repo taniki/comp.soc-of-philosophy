@@ -1,0 +1,359 @@
+sir roger penrose roger penrose 2005 born 1931-08-08 august 1931 age 84 colchester essex england residence united kingdom nationality british fields mathematical physics institutions bedford college london princeton university syracuse university king's college london birkbeck university london wadham college oxford polish academy sciences alma mater st john's college cambridge university college london university college school doctoral advisor john
+todd other academic advisors w
+hodge doctoral students claude le brun tristan needham richard jozsa richard s
+ward andrew hodges asghar qadir lane p
+hughston tim poston known twistor theory geometry spacetime cosmic censorship weyl curvature hypothesis penrose inequalities penrose interpretation quantum theory orch-or moore–penrose pseudoinverse newman–penrose formalism penrose tiling penrose stairs penrose graphical notation schrödinger–newton equations penrose–lucas argument influenced michael atiyah stuart hameroff notable awards adams prize 1966 heineman prize 1971 fellow royal society 1972 eddington medal 1975 royal medal 1985 wolf prize 1988 dirac medal 1989 naylor prize lectureship de morgan medal 2004 copley medal 2008 notes brother jonathan penrose oliver penrose shirley hodgson son lionel penrose nephew roland penrose
+sir roger penrose om frs born august 1931 english mathematical physicist mathematician philosopher science
+emeritus rouse ball professor mathematics mathematical institute university oxford well emeritus fellow wadham college
+penrose known work mathematical physics particular contributions general relativity cosmology
+received several prizes awards including 1988 wolf prize physics shared stephen hawking their contribution our understanding universe
+contents early life academia 2 later activity 3 earlier universe 4 physics consciousness 5 personal life 5
+family life 5
+2 religious views 6 awards honours 7 depictions popular culture works
+popular publications
+2 academic books
+3 foreword other books 9 see also 10 notes references 12 further reading 13 external links early life academia born colchester essex england roger penrose son psychiatrist mathematician lionel penrose margaret leathes[a] grandson physiologist john beresford leathes
+uncle artist roland penrose whose son photographer lee miller antony penrose
+penrose brother mathematician oliver penrose chess grandmaster jonathan penrose
+penrose attended university college school university college london graduated first class degree mathematics
+1955 while still student penrose reintroduced e
+moore generalised matrix inverse also known moore–penrose inverse after reinvented arne bjerhammar 1951
+having started research under professor geometry astronomy sir w
+hodge penrose finished ph cambridge st john's college 1958 writing thesis tensor methods algebraic geometry under algebraist geometer john
+devised popularised penrose triangle 1950 s describing impossibility purest form exchanged material artist m
+escher whose earlier depictions impossible objects partly inspired
+escher's waterfall ascending descending turn inspired penrose
+reviewer manjit kumar puts student 1954 penrose attending conference amsterdam chance came across exhibition escher's work
+soon trying conjure up impossible figures own discovered tribar [see tri-bar image] triangle looks like real solid three-dimensional object isn't
+together father physicist mathematician penrose went design staircase simultaneously loops up down
+article followed copy sent escher
+completing cyclical flow creativity dutch master geometrical illusions inspired produce two masterpieces
+having become reader birkbeck college london having attention drawn pure mathematics astrophysics cosmologist dennis sciama then cambridge 1964 words kip thorne caltech roger penrose revolutionised mathematical tools use analyse properties spacetime
+until then work curved geometry general relativity confined configurations sufficiently high symmetry einstein's equations soluble explicitly there doubt whether such cases typical
+approach issue use perturbation theory developed under leadership john archibald wheeler princeton
+other radically innovative approach initiated penrose overlook detailed geometrical structure spacetime instead concentrate attention just topology space most conformal structure since latter - determined lay lightcones - determines trajectories lightlike geodesics hence their causal relationships
+importance penrose's epoque-making paper gravitational collapse space-time singularities result - roughly object such dying star implodes beyond certain point then nothing prevent gravitational field getting strong form kind singularity
+also showed way obtain similarly general conclusions other contexts notably cosmological big bang dealt collaboration dennis sciama's most famous student stephen hawking
+predicted view outside horizon black hole lit thin accretion disc local context gravitational collapse contribution penrose most decisive starting 1969 cosmic censorship conjecture effect any ensuing singularities confined within well-behaved event horizon surrounding hidden space-time region wheeler coined term black hole leaving visible exterior region strong finite curvature gravitational energy may extractable known penrose process while accretion surrounding matter may release further energy account astrophysical phenomena such quasars
+following up weak cosmic censorship hypothesis penrose went 1979 formulate stronger version called strong censorship hypothesis
+together bkl conjecture issues nonlinear stability settling censorship conjectures most important outstanding problems general relativity
+also 1979 dates penrose's influential weyl curvature hypothesis initial conditions observable part universe origin second law thermodynamics
+penrose james terrell independently realised objects travelling near speed light will appear undergo peculiar skewing rotation
+effect come called terrell rotation penrose–terrell rotation
+oil painting urs schmid 1995 penrose tiling using fat thin rhombi
+1967 penrose invented twistor theory maps geometric objects minkowski space 4-dimensional complex space metric signature
+penrose tiling penrose well known 1974 discovery penrose tilings formed two tiles tile plane nonperiodically first tilings exhibit fivefold rotational symmetry
+penrose developed these ideas based article deux types fondamentaux de distribution statistique 1938 english translation two basic types statistical distribution czech geographer demographer statistician jaromír korčák
+1984 such patterns observed arrangement atoms quasicrystals
+another noteworthy contribution 1971 invention spin networks later came form geometry spacetime loop quantum gravity
+influential popularising commonly known penrose diagrams causal diagrams
+1983 penrose invited teach rice university houston then provost bill gordon
+worked there 1983 1987
+later activity 2004 penrose released road reality complete guide laws universe 1099-page book aimed giving comprehensive guide laws physics
+proposed novel interpretation quantum mechanics
+penrose francis helen pentz distinguished visiting professor physics mathematics pennsylvania state university
+also member editorial board astronomical review
+earlier universe wmap image extremely tiny anisotropies cosmic background radiation 2010 penrose reported possible evidence based concentric circles found wmap data cmb sky earlier universe existing before big bang our own present universe
+mentions evidence epilogue 2010 book cycles time book presents reasons einstein's field equations weyl curvature c weyl curvature hypothesis transition big bang smooth enough previous universe survive
+made several conjectures c wch subsequently proved others smoothness real
+simple terms believes singularity einstein's field equation big bang apparent singularity similar well-known apparent singularity event horizon black hole
+latter singularity removed change coordinate system penrose proposes different change coordinate system will remove singularity big bang
+implication major events big bang understood without unifying general relativity quantum mechanics therefore necessarily constrained wheeler–de witt equation disrupts time
+alternatively use einstein–maxwell–dirac equations
+physics consciousness prof
+penrose conference
+part series physical cosmology big bang · universe age universe chronology universe early universe inflation · nucleosynthesis backgrounds gravitational wave gwb microwave cmb · neutrino cnb expansion · future hubble's law · redshift metric expansion space flrw metric · friedmann equations future expanding universe ultimate fate universe components · structure components lambda-cdm model dark energy · dark fluid · dark matter structure shape universe galaxy filament · galaxy formation large quasar group large-scale structure reionization · structure formation experiments boomeran g cosmic background explorer cobe illustris project planck space observatory sloan digital sky survey sdss 2 f galaxy redshift survey 2 f wilkinson microwave anisotropy probe wmap scientists aaronson alfvén alpher bharadwaj copernicus de sitter dicke ehlers einstein ellis friedman galileo gamow guth hawking hubble lemaître mather newton penrose penzias rubin schmidt smoot suntzeff sunyaev tolman wilson zel'dovich list cosmologists subject history discovery cosmic microwavebackground radiation history big bang theory religious interpretations ofthe big bang theory timeline cosmological theories category cosmology portal astronomy portalvte penrose written books connection fundamental physics human animal consciousness
+emperor's new mind 1989 argues known laws physics inadequate explain phenomenon consciousness
+penrose proposes characteristics new physics may specifies requirements bridge classical quantum mechanics calls correct quantum gravity
+penrose uses variant turing's halting theorem demonstrate system deterministic without being algorithmic
+example imagine system two states off
+system's state given turing machine halts off turing machine does halt then system's state completely determined machine nevertheless there no algorithmic way determine whether turing machine stops
+penrose believes such deterministic yet non-algorithmic processes may come play quantum mechanical wave function reduction may harnessed brain
+argues present computer unable intelligence because algorithmically deterministic system
+argues against viewpoint rational processes mind completely algorithmic thus duplicated sufficiently complex computer
+contrasts supporters strong artificial intelligence contend thought simulated algorithmically
+bases claims consciousness transcends formal logic because things such insolubility halting problem gödel's incompleteness theorem prevent algorithmically based system logic reproducing such traits human intelligence mathematical insight
+these claims originally espoused philosopher john lucas merton college oxford
+penrose–lucas argument implications gödel's incompleteness theorem computational theories human intelligence widely criticised mathematicians computer scientists philosophers consensus among experts these fields seems argument fails though different authors may choose different aspects argument attack
+marvin minsky leading proponent artificial intelligence particularly critical stating penrose tries show chapter after chapter human thought cannot based any known scientific principle
+minsky's position exactly opposite believes humans fact machines whose functioning although complex fully explainable current physics
+minsky maintains carry quest [for scientific explanation] too far seeking new basic principles instead attacking real detail
+see penrose's quest new basic principle physics will account consciousness
+penrose responded criticism emperor's new mind follow up 1994 book shadows mind 1997 large small human mind
+those works also combined observations anesthesiologist stuart hameroff
+penrose hameroff argued consciousness result quantum gravity effects microtubules dubbed orch-or orchestrated objective reduction
+max tegmark paper physical review e calculated time scale neuron firing excitations microtubules slower decoherence time factor least 10000000000
+reception paper summed up statement tegmark's support physicists outside fray such ibm's john
+smolin say calculations confirm suspected along
+'we're working brain that's near absolute zero
+it's reasonably unlikely brain evolved quantum behavior'
+tegmark's paper widely cited critics penrose–hameroff position
+their reply tegmark's paper also published physical review e physicists scott hagan jack tuszynski hameroff claimed tegmark address orch-or model instead model own construction
+involved superpositions quanta separated 24 nm rather much smaller separations stipulated orch-or
+result hameroff's group claimed decoherence time seven orders magnitude greater tegmark's still well short 25 ms required quantum processing theory linked 40 hz gamma synchrony orch-or suggested
+bridge gap group made series proposals
+supposed interiors neurons alternate liquid gel states
+gel state further hypothesized water electrical dipoles oriented same direction along outer edge microtubule tubulin subunits
+hameroff et al
+proposed ordered water screen any quantum coherence within tubulin microtubules environment rest brain
+each tubulin also tail extending out microtubules negatively charged therefore attracts positively charged ions
+suggested provide further screening
+further there suggestion microtubules pumped coherent state biochemical energy
+roger penrose university santiago de compostela receive fonseca prize
+finally suggested configuration microtubule lattice might suitable quantum error correction means holding together quantum coherence face environmental interaction
+last decade researchers sympathetic penrose's ideas proposed alternative scheme quantum processing microtubules based interaction tubulin tails microtubule-associated proteins motor proteins presynaptic scaffold proteins
+these proposed alternative processes advantage taking place within tegmark's time decoherence
+hameroff lecture part google tech talks series exploring quantum biology gave overview current research area responded subsequent criticisms orch-or model
+addition recent 2011 paper roger penrose stuart hameroff gives updated model their orch-or theory light criticisms discusses place consciousness within universe
+phillip tetlow although himself supportive penrose's views acknowledges penrose's ideas human thought process present minority view scientific circles citing minsky's criticisms quoting science journalist charles seife's description penrose handful scientists believe nature consciousness suggests quantum process
+january 2014 hameroff penrose announced discovery quantum vibrations microtubules anirban bandyopadhyay national institute materials science japan confirms hypothesis orch-or theory
+reviewed updated version theory published along critical commentary debate march 2014 issue physics life reviews
+personal life family life penrose married vanessa thomas director academic development cokethorpe school former head mathematics abingdon school whom son
+three sons previous marriage american joan isabel wedge whom married 1959
+religious views penrose atheist
+film brief history time think say universe purpose it's somehow just there chance
+people think take view universe just there runs along it's bit like just sort computes happen somehow accident find ourselves thing
+don't think that's very fruitful helpful way looking universe think there something much deeper
+penrose distinguished supporter british humanist association
+awards honours roger penrose during lecture penrose awarded many prizes contributions science
+elected fellow royal society frs 1972
+1975 stephen hawking penrose jointly awarded eddington medal royal astronomical society
+1985 awarded royal society royal medal
+along stephen hawking awarded prestigious wolf foundation prize physics 1988
+1989 awarded dirac medal prize british institute physics
+1990 penrose awarded albert einstein medal outstanding work related work albert einstein albert einstein society
+awarded naylor prize london mathematical society
+1992 1995 served president international society general relativity gravitation
+1994 penrose knighted services science
+same year also awarded honorary degree doctor science university bath
+1998 elected foreign associate united states national academy sciences
+2000 appointed order merit
+2004 awarded de morgan medal wide original contributions mathematical physics
+quote citation london mathematical society deep work general relativity major factor our understanding black holes
+development twistor theory produced beautiful productive approach classical equations mathematical physics
+tilings plane underlie newly discovered quasi-crystals
+2005 penrose awarded honorary doctorate warsaw university katholieke universiteit leuven belgium 2006 university york
+2008 penrose awarded copley medal
+also distinguished supporter british humanist association patrons oxford university scientific society
+2011 penrose awarded fonseca prize university santiago de compostela
+penrose awarded richard r
+ernst medal eth zürich contributions science strengthening connection science society
+2015 penrose awarded honorary doctorate cinvestav-ipn mexico
+depictions popular culture 2004 bbc tv movie hawking penrose played tom ward 2014 movie theory everything penrose played christian mc kay works popular publications emperor's new mind concerning computers minds laws physics 1989 shadows mind search missing science consciousness 1994 road reality complete guide laws universe 2004 cycles time extraordinary new view universe 2010 fashion faith fantasy new physics universe 2016 co-authored nature space time stephen hawking 1996 large small human mind abner shimony nancy cartwright stephen hawking 1997 academic books techniques differential topology relativity 1972 spinors space-time volume two-spinor calculus relativistic fields wolfgang rindler 1987 paperback spinors space-time volume 2 spinor twistor methods space-time geometry wolfgang rindler 1988 reprint paperback foreword other books foreword beating odds life times e
+milne written meg weston smith
+published world scientific publishing co june 2013
+foreword quantum aspects life derek abbott paul c
+davies arun k
+published imperial college press 2008
+foreword fearful symmetry' anthony zee's
+published princeton university press 2007
+foreword computable universe hector zenil
+published world scientific publishing co december
+see also conformal cyclic cosmology illumination problem orchestrated objective reduction penrose graphical notation quantum aspects life quantum mind notes penrose father shared mathematical concepts dutch graphic artist m
+escher incorporated lot pieces including waterfall based 'penrose triangle' up down
+references penrose r 2005
+road reality complete guide laws universe
+vintage books
+penrose r
+todd j
+24 october 2008
+generalized inverse matrices
+mathematical proceedings cambridge philosophical society 51 03 406
+bibcode1955 pcps
+406 p
+cycles time extraordinary new view universe roger penrose review
+penrose roger january 1965
+gravitational collapse space-time singularities
+physical review letters 14 3 57–59
+bibcode1965 ph rv l
+57 p
+1103/phys rev lett
+penrose 1979
+singularities time-asymmetry
+hawking w
+general relativity einstein centenary survey
+cambridge university press
+terrell james 1959
+invisibility lorentz contraction
+physical review 116 4 1041–1045
+bibcode1959 ph rv
+1041 t
+1103/phys rev
+penrose roger 1959
+apparent shape relativistically moving sphere
+proceedings cambridge philosophical society 55 137–139
+bibcode1959 pcps
+137 p
+jaromír korčák 1938 deux types fondamentaux de distribution statistique
+prague comité d'organisation bull
+de l'institute int'l de statistique vol
+3 pp
+steinhardt paul 1996
+new perspectives forbidden symmetries quasicrystals penrose tilings
+pnas 93 25 14267–14270
+bibcode1996 pnas
+9314267 s
+pmc 34472
+pmid 8962037
+roger penrose rice 1983-87
+rice history corner
+electron two places once why can't you?
+archived original 2012-11-01
+retrieved 27 october 2008
+roger penrose penn state university
+retrieved 9 july 2007
+gurzadyan v
+penrose r
+concentric circles wmap data may provide evidence violent pre-big-bang activity
+ar xiv1011
+3706 [astro-ph
+roger penrose cycles time vintage reprint edition may criticism lucas/penrose argument intelligence entirely algorithmic mind papers 6
+godelian arguments references criticisms gödelian argument* boolos george et al
+open peer commentary emperor's new mind
+behavioral brain sciences 13 4 655
+davis martin 1993
+how subtle gödel's theorem? roger penrose
+behavioral brain sciences 16 611–612
+online version davis' faculty page http//cs
+edu/cs/faculty/davism/ feferman solomon 1996
+penrose's gödelian argument
+psyche 2 21–32
+cite seer x 10
+krajewski stanislaw 2007
+gödel's theorem mechanism inconsistency unsoundness unavoidable any attempt 'out-gödel' mechanist
+fundamenta informaticae 81 173–181
+reprinted topics logic philosophy foundations mathematics computer science recognition professor andrzej grzegorczyk 2008 p
+173 forte geoffrey patrick j
+hayes kenneth m
+ford 1998
+why gödel's theorem cannot refute computationalism
+artificial intelligence 104265–286
+lewis david k
+lucas against mechanism
+philosophy 231–233
+putnam hilary 1995
+review shadows mind
+bulletin american mathematical society 370–373 also see putnam's less technical criticisms new york times review sources indicate penrose's argument generally rejected bringsford s
+xiao h
+refutation penrose's gödelian case against artificial intelligence
+journal experimental theoretical artificial intelligence 12 307–329
+authors write generally agreed penrose failed destroy computational conception mind
+article http//www
+html l
+landau mathematics department king's college london writes penrose's argument basis implications rejected experts fields touches
+sources also note different sources attack different points argument princeton philosophy professor john burgess writes outside looking caution conservativeness published kurt gödel essays centennial following comments found pp
+131–132 consensus view logicians today seems lucas–penrose argument fallacious though elsewhere there least much lucas penrose logicians unanimously agreed precisely fallacy their argument lies
+there least three points argument may attacked
+nachum dershowitz 2005
+four sons penrose proceedings eleventh conference logic programming artificial intelligence reasoning lpar jamaica g
+sutcliffe andrei voronkov eds
+lecture notes computer science vol
+3835 springer-verlag berlin pp
+marvin minsky
+conscious machines
+machinery consciousness proceedings national research council canada 75 th anniversary symposium science society june
+tegmark max 2000
+importance quantum decoherence brain processes
+physical review e 61 4194–4206
+ar xivquant-ph/9907009
+bibcode2000 ph rv e
+4194 t
+tetlow philip 2007
+web's awake introduction field web science concept web life
+hoboken new jersey john wiley & sons
+hagan s
+hameroff s
+& tuszyński j
+quantum computation brain microtubules? decoherence biological feasibility
+physical review e 65 061901
+ar xivquant-ph/0005025
+bibcode2002 ph rv e
+65 f1901 h
+1103/phys rev e
+hameroff s
+consciousness neurobiology quantum mechanics
+tuszynski jack
+emerging physics consciousness
+193–253 clarifying tubulin bit/qubit defending penrose-hameroff orch model quantum biology
+you tube
+october 2010
+retrieved 13 august
+roger penrose & stuart hameroff 4 july 1992
+consciousness universe neuroscience quantum space-time geometry orch theory
+journal cosmology
+retrieved 13 august
+anirban bandyopadhyay
+research gate
+retrieved 2014-02-22
+discovery quantum vibrations 'microtubules' inside brain neurons supports controversial theory consciousness
+science daily
+retrieved 2014-02-22
+hameroff r
+penrose 2014
+consciousness universe review 'orch or' theory
+physics life reviews 39–78
+bibcode2014 ph lrv
+39 h
+pmid 24070914
+retrieved 29 march 2014
+peter & patricia gruber foundation st
+thomas us virgin islands grants international awards
+august 1931
+retrieved 13 august
+vanessa penrose
+abingdon school
+6 july
+retrieved 13 august
+big bang follows big bang follows big bang
+bbc news
+25 september 2010
+retrieved december 2010
+see brief history time film script - springfieldspringfield
+uk supplement 5369610 june 1994 london gazette
+retrieved 16 august 2015
+honorary graduates 1989 present
+university bath
+retrieved 18 february
+london mathematical society further reading ferguson kitty
+stephen hawking quest theory everything
+franklin watts
+misner charles thorne kip s
+& wheeler john archibald 1973
+san francisco w
+see box 34
+external links wikiquote quotations related roger penrose wikimedia commons media related roger penrose
+roger penrose internet movie database awake universe - penrose debates how creativity most elusive faculties helped us unlock country mind mysteries cosmos bonnie greer
+dangerous knowledge you tube penrose principal interviewees bbc documentary mathematics infinity directed david malone penrose's new theory aeons before big bang? original 2005 lecture before big bang? new perspective weyl curvature hypothesis isaac newton institute mathematical sciences cambridge nov 2005
+original publication before big bang outrageous new perspective implications particle physics
+proceedings epac 2006
+2759–2762 cf
+also hill c
+& nurowski p
+2007 penrose's 'before big bang' ideas
+ithaca revised 2009 lecture aeons before big bang? georgia institute technology center relativistic astrophysics bbc interview new theory you tube roger penrose forum penrose sidestepping reason you tube o'connor john j
+robertson edmund f
+roger penrose mac tutor history mathematics archive university st andrews
+hilary putnam's review penrose's 'shadows mind' claiming penrose's use godel's incompleteness theorem fallacious beyond doubting shadow reply commentaries shadows mind wayback machine archived june 18 2008 penrose tiling found islamic architecture two theories formation quasicrystals resembling penrose tilings tegmark max 2000
+importance quantum decoherence brain processes
+physical review e 61 4194–4206
+ar xivquant-ph/9907009
+bibcode2000 ph rv e
+4194 t
+biological feasibility quantum states brain disputation tegmark's result hagan hameroff tuszyński tegmarks's rejoinder hagan et al
+toilet paper plagiarism wayback machine archived march 12 2005
+trull penrose's lawsuit concerning use penrose tilings toilet paper roger penrose knight tiles plus magazine penrose's gifford lecture biography quantum-mind audio roger penrose conversation bbc world service discussion show roger penrose speaking hawking's new book premier christian radio cyclic universe conversation roger penrose ideas roadshow 2013 forbidden crystal symmetry mathematics architecture filmed event royal institution october 2013 oxford mathematics interviews extra time professor sir roger penrose conversation andrew hodges
+these two films explore development sir roger penrose’s thought over 60 years ending most recent theories predictions
+51 min 42 min
+mathematical institute vte works roger penrose books emperor's new mind 1989 shadows mind 1994 road reality 2004 cycles time 2010 coauthored books nature space time stephen hawking 1996 large small human mind abner shimony nancy cartwright stephen hawking 1997 white mars mind set free brian w
+aldiss 1999 academic works techniques differential topology relativity 1972 spinors space-time volume two-spinor calculus relativistic fields wolfgang rindler 1987 spinors space-time volume 2 spinor twistor methods space-time geometry wolfgang rindler 1988 vte copley medallists 2001–present jacques miller 2001 john pople 2002 john gurdon 2003 harry kroto 2004 paul nurse 2005 stephen hawking 2006 robert may 2007 roger penrose 2008 martin evans 2009 david cox / tomas lindahl 2010 dan mc kenzie 2011 john e
+walker andre geim 2013 alec jeffreys 2014 peter higgs 2015 1731–1750 1751–1800 1801–1850 1851–1900 1901–1950 1951–2000 2001–present vte laureates wolf prize physics agriculture arts chemistry mathematics medicine physics 1970 s chien-shiung wu 1978 george uhlenbeck / giuseppe occhialini 1979 1980 s michael fisher / leo kadanoff / kenneth g
+wilson 1980 freeman dyson / gerardus 't hooft / victor weisskopf 1981 leon m
+lederman / martin lewis perl 1982 erwin hahn / peter hirsch / theodore maiman 1983–84 conyers herring / philippe nozières 1984–85 mitchell feigenbaum / albert j
+libchaber 1986 herbert friedman / bruno rossi / riccardo giacconi 1987 roger penrose / stephen hawking 1988 1990 s pierre-gilles de gennes / david j
+thouless 1990 maurice goldhaber / valentine telegdi joseph h
+taylor jr
+1992 benoît mandelbrot 1993 vitaly ginzburg / yoichiro nambu 1994–95 john wheeler 1996–97 yakir aharonov / michael berry 1998 dan shechtman 1999 2000 s raymond davis jr
+/ masatoshi koshiba 2000 bertrand halperin / anthony leggett 2002–03 robert brout / françois englert / peter higgs 2004 daniel kleppner 2005 albert fert / peter grünberg 2006–07 2010 s john f
+clauser / alain aspect / anton zeilinger 2010 maximilian haider / harald rose / knut urban 2011 jacob bekenstein peter zoller / juan ignacio cirac 2013 james
+bjorken / robert p
+kirshner 2015 book wolf prize physics category wolf prize physics laureates portal physics vte relativity specialrelativity background principle relativity introduction special relativity special relativity foundations relative motion frame reference speed light maxwell's equations formulation galilean relativity galilean transformation lorentz transformation consequences time dilation relativistic mass mass–energy equivalence length contraction relativity simultaneity relativistic doppler effect thomas precession relativistic disks spacetime minkowski spacetime world line spacetime diagrams light cone generalrelativity background introduction mathematical formulation resources fundamentalconcepts special relativity equivalence principle world line riemannian geometry minkowski diagram phenomena two-body problem lenses waves frame-dragging geodetic effect event horizon singularity black hole equations linearized gravity post-newtonian formalism einstein field equations geodesic equation friedmann equations adm formalism bssn formalism hamilton–jacobi–einstein equation advancedtheories kaluza–klein quantum gravity brans–dicke theory solutions schwarzschild reissner–nordström gödel kerr kerr–newman kasner taub–nut milne robertson–walker pp-wave van stockum dust scientists einstein lorentz hilbert poincaré schwarzschild de sitter reissner nordström weyl eddington friedmann milne zwicky lemaître gödel wheeler robertson bardeen walker kerr chandrasekhar ehlers penrose hawking taylor hulse stockum taub newman yau thorne weiss bondi misner others authority control world cat identities viaf 108188624 lccn n82139094 isni 0000 0000 8405 6757 gnd 120520567 sudoc 029955475 bnf cb12147090 x data mgp 36928 ndl 00515478

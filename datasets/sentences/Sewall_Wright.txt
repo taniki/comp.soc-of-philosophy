@@ -1,0 +1,394 @@
+sewall wright wright 1954 born 1889-12-16 december 16 1889 melrose massachusetts died march 3 19881988-03-03 aged 98 madison wisconsin nationality united states fields genetics institutions university chicago 1926-1954 university wisconsin 1955-1960 alma mater lombard college university illinois harvard university sc
+1915 doctoral advisor william ernest castle known population genetics notable awards daniel giraud elliot medal 1945 national medal science 1966 darwin medal 1980 thomas hunt morgan medal 1982 balzan prize 1984 fellow royal society sewall green wright december 16 1889 march 3 1988 american geneticist known influential work evolutionary theory also work path analysis
+founder population genetics alongside ronald fisher j
+haldane major step development modern evolutionary synthesis combining genetics evolution
+discovered inbreeding coefficient methods computing pedigree animals
+extended work populations computing amount inbreeding members populations result random genetic drift along fisher pioneered methods computing distribution gene frequencies among populations result interaction natural selection mutation migration genetic drift
+wright also made major contributions mammalian biochemical genetics
+contents biography 2 scientific achievements credits 2
+population genetics 2
+2 evolutionary theory 2
+3 path analysis 2
+4 plant animal breeding 2
+5 wright philosophy 3 legacy 4 bibliography 5 references 6 further reading 7 external links biography sewall wright born melrose massachusetts philip green wright elizabeth quincy sewall wright
+parents first cousins[citation needed] interesting fact light wright's later research inbreeding
+family moved three years later after philip accepted teaching job lombard college universalist college galesburg illinois
+child wright helped father brother print publish early book poems father's student carl sandburg
+oldest three gifted brothers—the others being aeronautical engineer theodore paul wright political scientist quincy wright
+early age wright love talent mathematics biology
+wright attended galesburg high school graduated 1906
+then enrolled lombard college father taught study mathematics
+influenced greatly professor wilhelmine entemann key first women receive ph
+wright received ph
+harvard university worked bussey institute pioneering mammalian geneticist william ernest castle investigating inheritance coat colors mammals
+worked u
+department agriculture until 1925 joined department zoology university chicago
+remained there until retirement 1955 moved university wisconsin–madison
+received many honors long career including national medal science 1966 balzan prize 1984 darwin medal royal society 1980
+member national academy sciences foreign member royal society
+american mathematical society selected josiah willards gibbs lecturer 1941
+work genetics evolutionary processes wright awarded daniel giraud elliot medal national academy sciences 1945
+wright married louise lane williams 1895–1975[citation needed] 1921
+three children richard robert elizabeth
+scientific achievements credits population genetics visualization fitness landscape
+x axes represent continuous phenotypic traits height each point represents corresponding organism's fitness
+arrows represent various mutational paths population follow while evolving fitness landscape
+papers inbreeding mating systems genetic drift make principal founder theoretical population genetics along r
+fisher j
+their theoretical work origin modern evolutionary synthesis neodarwinian synthesis
+wright inventor/discoverer inbreeding coefficient f-statistics standard tools population genetics
+chief developer mathematical theory genetic drift sometimes known sewall wright effect cumulative stochastic changes gene frequencies arise random births deaths mendelian segregations reproduction
+work also introduced concept effective population size
+wright convinced interaction genetic drift other evolutionary forces important process adaptation
+described relationship genotype phenotype fitness fitness surfaces evolutionary landscapes
+these landscapes mean population fitness height plotted against horizontal axes representing allele frequencies average phenotypes population
+natural selection lead population climbing nearest peak while genetic drift cause random wandering
+evolutionary theory wright's explanation stasis organisms come occupy adaptive peaks
+order evolve another higher peak species first pass through valley maladaptive intermediate stages
+happen genetic drift population small enough
+species divided small populations find higher peaks
+there gene flow populations these adaptations spread rest species
+wright's shifting balance theory evolution
+there much skepticism among evolutionary biologists whether these rather delicate conditions hold often natural populations
+wright long-standing bitter debate r
+fisher felt most populations nature too large these effects genetic drift important
+path analysis wright's statistical method path analysis invented 1921 first methods using graphical model still widely used social science
+hugely influential reviewer manuscripts most frequent reviewers genetics
+such reputation often credited reviews write
+plant animal breeding wright strongly influenced jay lush most influential figure introducing quantitative genetics animal plant breeding
+1915 1925 wright employed animal husbandry division u
+bureau animal husbandry
+main project investigate inbreeding occurred artificial selection resulted leading breeds livestock used american beef production
+also performed experiments 80000 guinea pigs study physiological genetics
+further analyzed characters 40000 guinea pigs 23 strains brother-sister matings against random-bred stock
+wright 1922 a-c
+concentrated study these two groups mammals eventually led shifting balance theory concept surfaces selective value 1932
+wright 1988 pg 122 american naturalist major work genetics guinea pigs many students became influential development mammalian genetics
+appreciated early 1917 genes acted controlling enzymes
+anecdote wright disclaimed wright himself describes lecture during wright tucked unruly guinea pig under armpit usually held chalkboard eraser according anecdote conclusion lecture wright absent-mindedly began erase blackboard using guinea pig
+wright philosophy wright few geneticists time venture philosophy
+found union concept charles hartshorne became lifelong friend philosophical collaborator
+wright endorsed form panpsychism
+believed birth consciousness due mysterious property increasing complexity rather inherent property therefore implying these properties most elementary particles
+legacy wright fisher along j
+haldane key figures modern synthesis brought genetics evolution together
+their work essential contributions dobzhansky mayr simpson julian huxley stebbins
+modern synthesis most important development evolutionary biology after darwin
+wright also major effect development mammalian genetics biochemical genetics
+interesting anecdote sewall wright barbara mc clintock linked here open mx icon representation wright's piebald guinea pig bibliography wright sewall 1984
+evolution genetics populations genetics biometric foundations v
+genetic & biometric foundations new edition
+university chicago press
+wright sewall 1984
+evolution genetics populations genetics biometric foundations v
+2 theory gene frequencies new edition
+university chicago press
+wright sewall 1984
+evolution genetics populations genetics biometric foundations v
+3 experimental results evolutionary deductions new edition
+university chicago press
+wright sewall 1984
+evolution genetics populations genetics biometric foundations v
+4 variability within among natural populations new edition
+university chicago press
+references fowler glenn
+sewall wright 98 formed mathematical basis evolution
+new york times
+new york times
+retrieved 6 september 2015
+com/ebchecked/topic/649555/sewall-wright hill w
+sewall wright
+21 december 1889-3 march 1988
+biographical memoirs fellows royal society 36 568–526
+crow j
+sewall wright 1889-1988
+genetics 119 1–4
+pmc 1203328
+pmid 3294096
+crow j
+dove w
+sewall wright physiological genetics
+genetics 115 1–2
+pmc 1203043
+pmid 3549442
+hill w
+sewall wright's systems mating
+genetics 143 4 1499–1506
+pmc 1207415
+pmid 8844140
+josiah willard gibbs lectures wright sewall 1942
+statistical genetics evolution
+48 4 223–246
+mr 0006700
+[/site/page server?pagename=awards_elliot%257 cpublisher%253 dnational academy sciences daniel giraud elliot medal] check |url= value help
+retrieved 15 february 2011
+structure evolutionary theory 2002 stephen jay gould chapter 7 sectionn synthesis hardening steffes david m
+panpsychic organicism sewall wright's philosophy understanding complex genetic systems
+journal history biology
+40 no
+html see anecdote #25 further reading ghiselin michael t
+1997 metaphysics origin species
+ny suny press
+provine william 1986
+sewall wright evolutionary biology
+university chicago press
+wright sewall 1932
+roles mutation inbreeding crossbreeding selection evolution
+6 th int
+genet 356–366
+wright sewall 1986
+evolution selected papers
+university chicago press
+external links sewall wright darwin's successor—evolutionary theorist edric lescouflair james f
+crow sewall wright papers american philosophical society o'connor john j
+robertson edmund f
+sewall wright mac tutor history mathematics archive university st andrews
+vte population genetics key concepts hardy-weinberg law genetic linkage identity descent linkage disequilibrium fisher's fundamental theorem neutral theory shifting balance theory price equation coefficient relationship fitness heritability selection natural sexual artificial ecological effects selectionon genomic variation genetic hitchhiking background selection genetic drift small population size population bottleneck founder effect coalescence balding–nichols model founders r
+fisher j
+haldane sewall wright related topics evolution microevolution evolutionary game theory fitness landscape genetic genealogy quantitative genetics list evolutionary biology topics vte united states national medal science laureates behavioral social science1960 s 1964 roger adams othmar h
+ammann theodosius dobzhansky neal elgar miller 1980 s 1986 herbert
+simon 1987 anne anastasi george j
+stigler 1988 milton friedman 1990 s 1990 leonid hurwicz patrick suppes robert w
+kates george
+miller 1992 eleanor j
+gibson 1994 robert k
+merton 1995 roger n
+shepard 1996 paul samuelson 1997 william k
+estes 1998 william julius wilson 1999 robert m
+solow 2000 s 2000 gary becker 2001 george bass 2003 r
+duncan luce 2004 kenneth arrow 2005 gordon h
+bower 2008 michael
+posner 2009 mortimer mishkin 2010 s 2011 anne treisman 2014 robert axelrod biological sciences1960 s 1963 c
+van niel 1964 marshall w
+nirenberg 1965 francis p
+rous george g
+simpson donald
+van slyke 1966 edward f
+knipling fritz albert lipmann william c
+rose sewall wright 1967 kenneth s
+cole harry f
+harlow michael heidelberger alfred h
+sturtevant 1968 horace barker bernard
+brodie detlev w
+bronk jay lush burrhus frederic skinner 1969 robert huebner ernst mayr 1970 s 1970 barbara mc clintock albert
+sabin 1973 daniel
+arnon earl w
+sutherland jr
+1974 britton chance erwin chargaff james v
+neel james augustine shannon 1975 hallowell davis paul gyorgy sterling
+hendricks orville lvin vogel 1976 roger guillemin keith roberts porter efraim racker e
+wilson 1979 robert h
+burris elizabeth c
+crosby arthur kornberg severo ochoa earl reece stadtman george ledyard stebbins paul alfred weiss 1980 s 1981 philip handler 1982 seymour benzer glenn w
+burton mildred cohn 1983 howard l
+bachrach paul berg wendell l
+roelofs berta scharrer 1986 stanley cohen donald
+henderson vernon
+mountcastle george emil palade joan
+steitz 1987 michael e
+de bakey theodor o
+diener harry eagle har gobind khorana rita levi-montalcini 1988 michael s
+brown stanley norman cohen joseph l
+goldstein maurice r
+hilleman eric r
+kandel rosalyn sussman yalow 1989 katherine esau viktor hamburger philip leder joshua lederberg roger w
+sperry harland g
+wood 1990 s 1990 baruj benacerraf herbert w
+boyer daniel e
+koshland jr
+lewis david g
+nathan e
+donnall thomas mary ellen avery g
+evelyn hutchinson elvin
+kabat salvador luria paul
+marks folke k
+skoog paul c
+zamecnik 1992 maxine singer howard martin temin 1993 daniel nathans salome g
+waelsch 1994 thomas eisner elizabeth f
+neufeld 1995 alexander rich 1996 ruth patrick 1997 james watson robert
+weinberg 1998 bruce ames janet rowley 1999 david baltimore jared diamond lynn margulis 2000 s 2000 nancy c
+andreasen peter h
+raven carl woese 2001 francisco j
+ayala mario r
+capecchi ann graybiel gene e
+likens victor
+mc kusick harold varmus 2002 james e
+darnell evelyn m
+witkin 2003 j
+michael bishop solomon h
+snyder charles yanofsky 2004 norman e
+borlaug phillip
+sharp thomas e
+starzl 2005 anthony s
+fauci torsten n
+wiesel 2006 rita r
+colwell nina fedoroff lubert stryer 2007 robert j
+lefkowitz bert w
+o'malley 2008 francis s
+collins elaine fuchs j
+craig venter 2009 susan l
+lindquist stanley
+prusiner 2010 s 2010 ralph l
+brinster shu chien rudolf jaenisch 2011 lucy shapiro leroy hood sallie chisholm 2014 may berenbaum bruce alberts chemistry1980 s 1982 f
+albert cotton gilbert stork 1983 roald hoffmann george c
+pimentel richard n
+zare 1986 harry
+gray yuan tseh lee carl s
+marvel frank h
+westheimer 1987 william s
+johnson walter h
+stockmayer max tishler 1988 william o
+baker konrad e
+bloch elias j
+corey 1989 richard
+bernstein melvin calvin rudolph
+marcus harden m
+mc connell 1990 s 1990 elkan blout karl folkers john
+roberts ronald breslow gertrude
+elion dudley r
+herschbach glenn t
+seaborg 1992 howard e
+simmons jr
+1993 donald j
+cram norman hackerman 1994 george s
+hammond 1995 thomas cech isabella l
+karle 1996 norman davidson 1997 darleane c
+hoffman harold s
+johnston 1998 john w
+cahn george m
+whitesides 1999 stuart
+rice john ross susan solomon 2000 s 2000 john
+baldeschwieler ralph f
+hirschmann 2001 ernest r
+davidson gábor
+somorjai 2002 john
+brauman 2004 stephen j
+lippard 2006 marvin h
+caruthers peter
+dervan 2007 mostafa
+el-sayed 2008 joanna fowler jo anne stubbe 2009 stephen j
+benkovic marye anne fox 2010 s 2010 jacqueline k
+barton peter j
+stang 2011 allen j
+bard m
+frederick hawthorne 2014 judith p
+klinman jerrold meinwald 2015 geraldine l
+richmond engineering sciences1960 s 1962 theodore von kármán 1963 vannevar bush john robinson pierce 1964 charles s
+draper 1965 hugh l
+dryden clarence l
+johnson warren k
+lewis 1966 claude e
+shannon 1967 edwin h
+land igor
+sikorsky 1968 j
+presper eckert nathan m
+newmark 1969 jack st
+clair kilby 1970 s 1970 george e
+mueller 1973 harold e
+edgerton richard t
+whitcomb 1974 rudolf kompfner ralph brazelton peck abel wolman 1975 manson benedict william hayward pickering frederick e
+terman wernher von braun 1976 morris cohen peter c
+goldmark erwin wilhelm müller 1979 emmett n
+leith raymond
+mindlin robert n
+noyce earl r
+parker simon ramo 1980 s 1982 edward h
+heinemann donald l
+katz 1983 william redington hewlett george m
+low john g
+trump 1986 hans wolfgang liepmann t
+lin bernard m
+oliver 1987 r
+byron bird h
+bolton seed ernst weber 1988 daniel c
+drucker willis m
+hawkins george w
+housner 1989 harry george drickamer herbert e
+grier 1990 s 1990 mildred dresselhaus nick holonyak jr
+george h
+heilmeier luna
+leopold h
+guyford stever 1992 calvin f
+quate john roy whinnery 1993 alfred
+cho 1994 ray w
+clough 1995 hermann
+haus 1996 james l
+flanagan c
+kumar n
+patel 1998 eli ruckenstein 1999 kenneth n
+stevens 2000 s 2000 yuan-cheng
+fung 2001 andreas acrivos 2002 leo beranek 2003 john m
+prausnitz 2004 edwin n
+lightfoot 2005 jan
+achenbach tobin j
+marks 2006 robert s
+langer 2007 david j
+wineland 2008 rudolf e
+kálmán 2009 amnon yariv 2010 s 2011 sidney drell sandra faber sylvester james gates john goodenough mathematical statistical computer sciences1960 s 1963 norbert wiener 1964 solomon lefschetz h
+marston morse 1965 oscar zariski 1966 john milnor 1967 paul cohen 1968 jerzy neyman 1969 william feller 1970 s 1970 richard brauer 1973 john tukey 1974 kurt gödel 1975 john w
+backus shiing-shen chern george dantzig 1976 kurt otto friedrichs hassler whitney 1979 joseph l
+doob donald e
+knuth 1980 s 1982 marshall harvey stone 1983 herman goldstine isadore singer 1986 peter lax antoni zygmund 1987 raoul bott michael freedman 1988 ralph e
+gomory joseph
+keller 1989 samuel karlin saunders mac lane donald c
+spencer 1990 s 1990 george f
+carrier stephen cole kleene john mc carthy alberto calderón 1992 allen newell 1993 martin david kruskal 1994 john cocke 1995 louis nirenberg 1996 richard karp stephen smale 1997 shing-tung yau 1998 cathleen synge morawetz 1999 felix browder ronald r
+coifman 2000 s 2000 john griggs thompson karen k
+uhlenbeck 2001 calyampudi r
+rao elias m
+stein 2002 james g
+glimm 2003 carl r
+de boor 2004 dennis p
+sullivan 2005 bradley efron 2006 hyman bass 2007 leonard kleinrock andrew j
+viterbi 2009 david
+mumford 2010 s 2010 richard
+tapia s
+srinivasa varadhan 2011 solomon golomb barry mazur 2014 alexandre chorin thomas kailath david blackwell physical sciences1960 s 1963 luis w
+alvarez 1964 julian schwinger harold clayton urey robert burns woodward 1965 john bardeen peter debye leon m
+lederman william rubey 1966 jacob bjerknes subrahmanyan chandrasekhar henry eyring john h
+van vleck vladimir k
+zworykin 1967 jesse beams francis birch gregory breit louis hammett george kistiakowsky 1968 paul bartlett herbert friedman lars onsager eugene wigner 1969 herbert c
+brown wolfgang panofsky 1970 s 1970 robert h
+dicke allan r
+sandage john c
+slater john
+wheeler saul winstein 1973 carl djerassi maurice ewing arie jan haagen-smit vladimir haensel frederick seitz robert rathbun wilson 1974 nicolaas bloembergen paul flory william alfred fowler linus carl pauling kenneth sanborn pitzer 1975 hans
+bethe joseph o
+hirschfelder lewis sarett edgar bright wilson chien-shiung wu 1976 samuel goudsmit herbert s
+gutowsky frederick rossini verner suomi henry taube george uhlenbeck 1979 richard p
+feynman herman mark edward m
+purcell john sinfelt lyman spitzer victor f
+weisskopf 1980 s 1982 philip w
+anderson yoichiro nambu edward teller charles h
+townes 1983 e
+margaret burbidge maurice goldhaber helmut landsberg walter munk frederick reines bruno
+rossi j
+robert schrieffer 1986 solomon j
+buchsbaum h
+richard crane herman feshbach robert hofstadter chen-ning yang 1987 philip abelson walter elsasser paul c
+lauterbur george pake james
+van allen 1988
+allan bromley paul ching-wu chu walter kohn norman f
+ramsey jack steinberger 1989 arnold o
+beckman eugene parker robert sharp henry stommel 1990 s 1990 allan m
+cormack edwin m
+mc millan robert pound roger revelle arthur l
+schawlow ed stone steven weinberg 1992 eugene m
+shoemaker 1993 val fitch vera rubin 1994 albert overhauser frank press 1995 hans dehmelt peter goldreich 1996 wallace s
+broecker 1997 marshall rosenbluth martin schwarzschild george wetherill 1998 don l
+anderson john n
+bahcall 1999 james cronin leo kadanoff 2000 s 2000 willis e
+lamb jeremiah p
+ostriker gilbert f
+white 2001 marvin l
+cohen raymond davis jr
+charles keeling 2002 richard garwin w
+jason morgan edward witten 2003 g
+brent dalrymple riccardo giacconi 2004 robert n
+clayton 2005 ralph
+alpher lonnie thompson 2006 daniel kleppner 2007 fay ajzenberg-selove charles p
+slichter 2008 berni alder james e
+gunn 2009 yakir aharonov esther m
+conwell warren m
+washington 2010 s 2011 sidney drell 2014 burton richter sean c
+solomon authority control world cat identities viaf 109902880 lccn n85130262 isni 0000 0001 1455 0167 gnd 124002587 sudoc 033005338 bnf cb123916508 data mgp 91602

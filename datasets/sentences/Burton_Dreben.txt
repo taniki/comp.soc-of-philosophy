@@ -1,0 +1,195 @@
+burton dreben born 1927-09-27 september 27 1927 boston massachusetts died july 19991999-07-11 aged 71 boston era 20 th-century philosophy region western philosophy school analytic philosophy main interests mathematical logic history analytic philosophy influences ludwig wittgenstein · j
+austin influenced w
+quine · john rawls · hilary putnam · t
+scanlon burton spencer dreben september 27 1927 july 1999 american philosopher specializing mathematical logic
+harvard graduate taught alma mater most career published little highly influential teacher critic work colleagues floyd & shieh 2001
+contents logician 2 philosophical thought 3 career 4 life 5 works 5
+book 5
+2 thesis 5
+3 articles 5
+4 review articles 5
+5 translation 5
+6 video 6 see also 7 references logician dreben rare combination expert logician careful historian ideas interpreter historical texts
+1950 s found copy jacques herbrand's ph
+thesis submitted university paris 1929 thought lost
+herbrand died 1931 before either marrying starting career
+dreben found number significant errors thesis well evidence haste carelessness preparation
+particular herbrand's proof crucial lemma fatally flawed dreben found another way proving essential conclusions thesis
+dreben's introduction translation herbrand's thesis van heijenoort 1967 includes concise description work herbrand's writings
+1970 s dreben warren goldfarb book decision problem
+philosophical thought 1978 onwards dreben gave series lectures harvard their primary topics works ludwig wittgenstein w
+dreben took wittgenstein lesson philosophers went wrong tried provide general accounts reality epistemology metaphysics
+agreement wittgenstein's later view philosophical problems mostly arise language goes holiday
+dreben took history philosophy itself proof wittgenstein's thesis much philosophizing nonsense dreben attempted show how history philosophy history people talking past another
+dreben interpreted quine attempting show philosophy does provide foundations science
+according dreben's interpretation quine philosophy best merely answers number general questions within science itself
+however dreben saw even quine tendency generalize most successfully resisted later wittgenstein whose unflagging alertness specifics dreben took model
+career harvard university awarded dreben
+1949 1955 respectively
+taught university chicago 1955–56 harvard 1956-90 boston university remainder life
+fulbright fellow oxford 1950-51 member harvard society fellows 1952-55 guggenheim fellow 1957–58 member american academy arts sciences 1963
+harvard dean graduate school arts sciences 1973-75 special assistant dean faculty arts sciences oversight over academic tenure process chair society fellows 1976-90 edgar pierce professor philosophy emeritus
+association symbolic logic twice treasurer editor journal isaacson
+dreben highly influential teacher philosophy
+harvard crimson described mathematical logician training writings set new standards clarity historical study 20 th-century philosophy
+lectures harvard later boston university taught until death famous their wit bravado intellectual excitement attracting students faculty alike shaping several generations philosophers
+mastery texts 20 th-century analytic philosophy unmatched
+dreben became known close reading detailed comments draft writings harvard colleagues w
+quine john rawls hilary putnam stanley cavell charles parsons warren goldfarb
+quine often thanked dreben print advice corrections dedicated pursuit truth dreben
+dreben also significant influence many students junior faculty harvard including warren goldfarb thomas ricketts james f
+conant michael friedman gary ebbs david h
+helman others
+later years dreben guest lecturer scandinavia israel europe giving seminars nature significance 20 th-century philosophy
+during student revolt late 1960 s dreben helped mediate conflicts disputes harvard students administration
+among students harry r
+life dreben first married massachusetts judge raya spiegel dreben whom two children
+later married philosopher juliet floyd
+works book 1979
+decision problem solvable classes quantificational formulas w
+goldfarb addison-wesley 1979
+x thesis 1949
+deductive completeness n-valued quantification theory
+thesis harvard university
+articles 1952
+completeness quantification theory proceedings national academy sciences united states america vol
+38 pp
+relation m-valued quantificational logic 2-valued quantificational logic summaries talks presented summer institute symbolic logic institute defense analysis communications research division princeton pp
+systematic treatment decision problem summaries talks presented summer institute symbolic logic institute defense analysis communications research division princeton p
+solvable surányi subclasses introduction herbrand theory proceedings harvard symposium digital computers their applications annals computation laboratory harvard university vol
+31 harvard university press pp
+classification aea formulas letter atoms
+kahr hao wang bulletin american mathematical society vol
+68 pp
+three solvable cases j
+denton jr
+notices american mathematical society vol
+10 p
+false lemmas herbrand s
+aanderaa p
+andrews bulletin american mathematical society vol
+69 pp
+herbrand analyzing function s
+aanderaa bulletin american mathematical society vol
+70 pp
+henry maurice sheffer h
+aiken w
+quine hao wang h
+wolfson harvard university gazette vol
+60 pp
+supplement herbrand j
+denton jr
+journal symbolic logic vol
+31 pp
+craig interpolation lemma h
+putnam notre dame journal formal logic vol
+herbrand-style consistency proofs j
+denton jr
+kino j
+myhill r
+vesley eds
+intuitionism proof theory north-holland pp
+notes e-i w
+goldfarb ed
+jacques herbrand logical writings
+reidel pp
+note j w
+goldfarb w
+goldfarb ed
+jacques herbrand logical writings
+reidel pp
+note n w
+goldfarb w
+goldfarb ed
+jacques herbrand logical writings
+reidel pp
+academic freedom tenure corporate funding academic research j
+thomson e
+kreiser academe vol
+69 pp
+introductory note 1929 1930 1930 j
+van heijenoort s
+feferman j
+dawson s
+kleene g
+moore r
+solovay j
+van heijenoort eds
+kurt gödel collected works volume publications 1929-1936 oxford university press pp
+quine r
+barrett r
+gibson eds
+perspectives quine blackwell pp
+tautology how use word juliet floyd synthese vol
+87 pp
+putnam quine — facts philosophical topics vol
+20 pp
+mediis rebus inquiry vol
+37 pp
+cohen’s carnap subjectivity eye beholder k
+gavroglu j
+stachel m
+wartofsky eds
+science politics social practice essays marxism science philosophy culture social sciences honor robert s
+cohen kluwer pp
+quine wittgenstein odd couple r
+arrington h
+glock eds
+wittgenstein quine routledge pp
+hilbert set theory
+kanamori synthese vol
+110 pp
+rawls political liberalism s
+freeman ed
+cambridge companion rawls cambridge university press pp
+quine quine r
+gibson jr
+cambridge companion quine cambridge university press pp
+review articles 1950
+review axiom schemes m-valued functional calculi first order
+definition axiom schemes proof plausibility j
+turquette journal symbolic logic vol
+14 pp
+review axiom schemes m-valued functional calculi first order
+part ii
+deductive completeness j
+turquette journal symbolic logic vol
+16 p
+review finitary metalanguage extended basic logic john myhill journal symbolic logic vol
+20 p
+2307/2268100 1955
+review simplification basic logic definition negation extended basic logic f
+fitch journal symbolic logic vol
+20 p
+2307/2268100 1959
+review linear reasoning
+new form herbrand-gentzen theorem three uses herbrand-gentzen theorem relating model theory proof theory william craig journal symbolic logic vol
+24 pp
+translation 2011
+frege-wittgenstein correspondence juliet floyd e
+de pellegrin ed
+interactive wittgenstein essays memory georg henrik von wright springer pp
+video 1994
+conversation w
+quine produced directed r
+fara centre philosophy natural social science london school economics
+see also american philosophy list american philosophers references floyd juliet shieh sanford eds
+2001 future pasts analytic tradition twentieth century philosophy oxford university press 0-19-513916-x
+van heijenoort jean 1967 frege godel source book mathematical logic 1879–1931 harvard university press
+isaacson daniel august 20 1999 obituary professor burton dreben independent london
+dreben former dean gsas dies harvard gazette july 15 1999 honan william 17 july 1999
+obituary burton s
+dreben 71 negotiator tense situation harvard
+ny times
+pursuit truth
+cambridge mass
+harvard university press 1992
+first ed
+rawls reminisces dreben editor floyd & shieh 2001
+burton s
+dreben mathematics genealogy project gurevich yuri 1982
+review decision problem solvable classes quantificational formulas burton dreben warren
+goldfarb unsolvable classes quantificational formulas harry l
+lewis pdf
+7 273–277
+authority control world cat identities viaf 72671517 lccn n79080442 isni 0000 0000 8262 9232 sudoc 129108162 mgp 13718

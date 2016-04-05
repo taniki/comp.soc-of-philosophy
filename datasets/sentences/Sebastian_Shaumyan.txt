@@ -1,0 +1,68 @@
+sebastian konstantinovich shaumyan sebastian shaumyan born 1916-02-27 february 27 1916 tbilisi russian empire present-day georgia died january 21 20072007-01-21 aged 90 new haven connecticut united states school structural linguistics semiotics main interests theoretical linguistics semiotics philosophy science influences ferdinand de saussure g
+hegel sebastian konstantinovich shaumyan armenian սեբաստյան շահումյան february 27 1916 january 21 2007 armenian american theoretician linguistics outspoken adherent structuralist analysis
+biography born tbilisi polyglot capital russian empire's territories transcaucasus february 14 1916 although shift gregorian calendar couple years later made birthday february 27
+sickly child mostly tutored home until took course chemistry vocational school
+having learnt german english addition armenian georgian russian shaumyan took degree philology tbilisi state university
+time late 1930 s came across ferdinand de saussure's course general linguistics 1916 captivated knew academic course set
+world war ii briefly interrupted scholarly aspirations became embroiled battles twice nazi-occupied kerch
+applied front-line posting instead sent main intelligence unit moscow gru permitted pursue studies
+party member post moscow state university used position help sometimes shelter those might accused various crimes formalism idealism
+shaumyan published structural linguistics 1965 founded section structural linguistics institute russian language moscow co-wrote many works polina arkadievana soboleva
+promoted work roman jakobson nikolai trubetzkoy both whom out favour émigré other prince
+also defended formalist noam chomsky whom later vigorously assailed fundamentals generative grammar russian 1958 applicational generative model transformational calculus russian 1963 both written soboleva
+1968 shaumyan spent year edinburgh 1975 able join wave jewish emigration permitted time joining yale’s faculty linguistics
+part procedure granting tenure department solicited opinions professor shaumyan’s strengths standing large number academic linguists around world
+brilliant world-famous linguist deserves tenure came admirably unambiguous cable belgrade
+others called work cornerstone modern linguistics supreme masters subject
+generous praise came universities eastern europe
+cold war scorekeepers russia's loss america's gain
+mit itself belly beast there generous words
+chomsky himself whose positions shaumyan deviate ever further writes “there should no question far see regard offering permanent appointment highest level
+roman jakobson praised genuine enthusiasm inspired research inspiring teaching while umberto eco shaumyan’s model alternative chomsky's
+shaumyan's paper two paradigms linguistics semiotic versus non-semiotic paradigm available online
+shaumyan's theory applicative grammar developed reinforced extended applicational grammar semiotic theory natural language 1977 semiotic theory language 1987 finally signs mind reality 2006 series advances consciousness research intriguing subtitle theory language folk model world
+chagrin superannuated yale 1986 maintained emeritus vigorous very productive retirement
+bibliography contains dozen books two hundred papers active conference circuit
+2005 approaching 90 returned moscow fulbright scholar refused visa longer stay
+shaumyan’s later work marked broad interest philosophy science foundational questions linguistics related separate studies consciousness theory neurolinguistics
+sharply critical chomsky shaumyan saw being unable properly delineate pertains study linguistics proper
+list languages cited last book gives evidence breadth interests include basque endangered australian language dyirbal extinct oregon indian takelma
+shaumyan's revival saussure's ideas reintroduction dialectic method linguistics found persuasive many linguists[weasel words] those sceptical chomskyan theory
+generosity simplicity s
+shaumyan helping students yale university break through mathematical-like philosophical analysis semiotic principles linguistics master art thinking put shoulder higher peers
+ever smiling never complaining even clear health issues shaumyan just rare genius linguistics human-being big heart
+blessed students! michael o
+applicative universal grammar aug core shaumyan's linguistic theory applicative universal grammar aug
+theory first introduced book strukturnaja lingvistika structural linguistics published moscow 1965
+aug based combinatorial logic grammatical categories built two primitive universal types called term t sentence s exist every language
+term represents noun noun phrase example dog dog big dog considered terms
+dog runs complete sentence
+verb runs operator acts upon operand term dog transforms complete sentence dog runs
+shaumyan's operator notation verb runs represented symbolically ots
+recently aug used computational linguistics development natural language parsing program using programming language haskell
+natural language parsing important applications machine translation sentences language another
+paper entitled using types parse natural language proceedings glasgow functional programming workshop ifip springer verlag 1995 mark p
+jones paul hudak shaumyan give brief introduction aug understand way aug works useful think words phrases atoms expressions respectively typed language combinators
+our simplified version aug there just two primitive types t representing terms example nouns such friend noun phrases such my friend s representing complete sentences such my friend runs
+non-primitive type form oxy denoting phrases transform phrases type x modified phrases type most important concept behind aug formalism
+example word my treated having type ott since applied term type t obtain modified term also type t every word pre-assigned types way
+thus construction noun phrase my friend described inference generally use following rule describe application phrase p type oxy another q type x clearly types form oxy correspond function types written x --> conventional notation while typing rule above standard method typing application function p argument value q
+o function types used descriptions aug cited above most part will continue use same notation here avoid any confusion type expressions haskell our program types natural language phrases represented data values haskell types
+another advantage prefix o notation avoids need parentheses allows compact notation types
+results parsing complete sentence described tree structure labelled types words phrases used construction
+following example produced directly program described later input string my friend lives boston
+results parsing complete sentence described tree structure labelled types words phrases used construction
+following example produced directly program described later input string my friend lives boston
+notice maintain original word order allowed both forward backward application functions arguments
+first these described rule above while second just example tree above used rule apply phrase boston intransitive verb lives function acts modifier turning action living specific action living boston
+sometimes useful rearrange trees produced parsing phrase functions written left arguments applied
+reveals applicative structure particular phrase helps us concentrate underlying grammatical structure without being distracted concerns word order -- vary considerably language another
+rewriting parse tree above way obtain situations types subphrases required use flattened curried form these trees such boston lives my friend describe result parsing phrase
+two different ways arranging parse tree shown here correspond concepts phenotype genotype grammar respectively aug will discussed any further detail here
+most important tasks application aug assign suitable types each word given lexicon dictionary
+type t obvious choice simple nouns like friend boston example above
+possessive pronouns like my treated same way adjectives using type ott
+similar way intransitive verbs like lives described type ots transforming subject term type t sentence phrase type s
+word type otootsots example above deserves special attention
+motivated diagram above think function combines place type t where? action type ots what? subject type t who? obtain sentence phrase type s
+authority control world cat identities viaf 108791882 lccn n50041173 isni 0000 0001 0931 9729 gnd 118794698 sudoc 029400066 bnf cb121035837 data

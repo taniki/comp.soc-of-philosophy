@@ -1,0 +1,373 @@
+jerry alan fodor born 1935 age 80–81 new york city new york united states alma mater columbia university princeton university awards jean nicod prize 1993 era 20 th / 21 st-century philosophy region western philosophy school analytic main interests philosophy mind philosophy language cognitive science rationalism cognitivism functionalism notable ideas modularity mind language thought influences hilary putnam · sydney morgenbesser · franz joseph gall · noam chomsky · david hume influenced ernest lepore · zenon pylyshyn · steven pinker jerry alan fodor /ˈfoʊdər/ born 1935 american philosopher cognitive scientist
+holds position state new jersey professor philosophy emeritus rutgers university author many works fields philosophy mind cognitive science laid groundwork modularity mind language thought hypotheses among other ideas
+known provocative sometimes polemical style argumentation principal philosophers mind late twentieth early twenty-first century
+addition having exerted enormous influence virtually every portion philosophy mind literature since 1960 fodor’s work significant impact development cognitive sciences
+fodor argues mental states such beliefs desires relations individuals mental representations
+maintains these representations correctly explained terms language thought lot mind
+furthermore language thought itself actually existing thing codified brain just useful explanatory tool
+fodor adheres species functionalism maintaining thinking other mental processes consist primarily computations operating syntax representations make up language thought
+fodor significant parts mind such perceptual linguistic processes structured terms modules organs defines their causal functional roles
+these modules relatively independent each other central processing part mind global less domain specific character
+fodor suggests character these modules permits possibility causal relations external objects
+turn makes possible mental states contents things world
+central processing part other hand takes care logical relations various contents inputs outputs
+although fodor originally rejected idea mental states must causal externally determined aspect recent years devoted much writing study philosophy language because problem meaning reference mental contents
+contributions area include so-called asymmetric causal theory reference many arguments against semantic holism
+fodor strongly opposes reductive accounts mind
+argues mental states multiply realizable there hierarchy explanatory levels science such generalizations laws higher-level theory psychology linguistics example cannot captured low-level explanations behavior neurons synapses
+also emerged prominent critic characterizes ill-grounded darwinian neo-darwinian theory natural selection
+contents biography 2 fodor nature mental states 3 functional architecture mind 4 intentional realism 4
+fodor's criticism dennett 4
+2 productivity systematicity thought 5 nature content 5
+anti-holism 5
+2 asymmetric causal theory 6 functionalism 7 evolution criticism 9 books 10 see also references 12 external links biography jerry fodor born new york city 1935 jewish descent
+degree summa cum laude columbia university 1956 studied sydney morgenbesser ph philosophy princeton university 1960 under direction hilary putnam
+1959 1986 fodor faculty massachusetts institute technology cambridge massachusetts
+1986 1988 full professor city university new york cuny
+since 1988 state new jersey professor philosophy cognitive science rutgers university new jersey
+besides interest philosophy fodor passionately follows opera regularly writes popular columns london review books other topics
+philosopher colin mc ginn taught fodor rutgers described these words fodor now close friend gentle man inside burly body prone even burlier style arguing
+shy voluble same time
+formidable polemicist burdened sensitive soul
+disagreeing jerry philosophical issue especially dear heart chastening experience
+quickness mind inventiveness sharp wit tangled before your first cup coffee morning
+adding jerry fodor faculty rutgers [university] instantly put map fodor being common consent leading philosopher mind world today
+met england seventies
+found genuine article intellectually speaking though see eye eye
+fodor member american academy arts sciences
+received numerous awards honors new york state regent's fellowship woodrow wilson fellowship princeton university chancellor greene fellow princeton university fulbright fellowship oxford university fellow center advanced study behavioral sciences guggenheim fellowship
+won first jean nicod prize philosophy mind cognitive philosophy 1993
+lecture series prize later published book mit press 1995 titled elm expert mentalese semantics
+1996–1997 fodor delivered prestigious john locke lectures university oxford titled concepts cognitive science went wrong went become 1998 oxford university press book same name
+also delivered patrick romanell lecture philosophical naturalism 2004 royce lecture philosophy mind 2002 american philosophical association whose eastern division served vice president 2004–2005 president 2005–2006
+2005 won mind & brain prize
+lives new york wife linguist janet dean fodor two grown children
+fodor nature mental states main article jerry fodor mental states article propositional attitudes 1978 fodor introduced idea mental states relations individuals mental representations
+despite changes many positions over years idea intentional attitudes relational remained unchanged original formulation up present time[update]
+article attempted show how mental representations specifically sentences language thought necessary explain relational nature mental states
+fodor considers two alternative hypotheses
+first completely denies relational character mental states second considers mental states two-place relations
+latter position further subdivided carnapian view such relations individuals sentences natural languages fregean view individuals propositions expressed such sentences
+fodor's own position instead properly account nature intentional attitudes necessary employ three-place relation individuals representations propositional contents
+considering mental states three-place relations way representative realism makes possible hold together elements necessary solution problem
+further mental representations objects beliefs desires also domain over mental processes operate
+considered ideal link syntactic notion mental content computational notion functional architecture
+these notions according fodor our best explanation mental processes
+functional architecture mind ideas modularity mind predecessors 19 th-century movement phrenology founded franz joseph gall
+main article jerry fodor mental architecture following path paved linguist noam chomsky fodor developed strong commitment idea psychological nativism
+nativism postulates innateness many cognitive functions concepts
+fodor position emerges naturally out criticism behaviourism associationism
+these criticisms also led formulation hypothesis modularity mind
+historically questions mental architecture divided[by whom?] two contrasting theories nature faculties
+first described horizontal view because sees mental processes interactions faculties domain specific
+example judgment remains judgment whether judgment perceptual experience judgment understanding language
+second described vertical view because claims our mental faculties domain specific genetically determined associated distinct neurological structures
+vertical vision traced back 19 th century movement called phrenology founder franz joseph gall
+gall claimed mental faculties associated[by whom?] specific physical areas brain
+hence someone's level intelligence example literally read off size particular bump posterior parietal lobe
+simplistic view modularity disproved over course last century
+fodor revived idea modularity without notion precise physical localizability 1980 s became most vocal proponents 1983 publication monograph modularity mind
+two properties modularity particular informational encapsulation domain specificity make possible tie together questions functional architecture those mental content
+ability elaborate information independently background beliefs individuals these two properties allow fodor give atomistic causal account notion mental content
+main idea other words properties contents mental states depend rather exclusively internal relations system part also their causal relations external world
+fodor's notions mental modularity informational encapsulation domain specificity taken up expanded much fodor's chagrin cognitive scientists such zenon pylyshyn evolutionary psychologists such steven pinker henry plotkin among many others
+fodor complains pinker plotkin other members sarcastically calls new synthesis taken modularity similar ideas way too far
+insists mind massively modular contrary these researchers us believe mind still very long way having explained computational any other model
+intentional realism theory content other essays 1990 fodor takes up another central notions question reality mental representations
+fodor needs justify representational realism justify idea contents mental states expressed symbolic structures such those lot
+fodor's criticism dennett fodor starts criticisms so-called standard realism
+view characterized according fodor two distinct assertions
+these regards internal structure mental states asserts such states non-relational
+other concerns semantic theory mental content asserts there isomorphism causal roles such contents inferential web beliefs
+among modern philosophers mind majority view seems first these two assertions false second true
+fodor departs view accepting truth first thesis rejecting strongly truth second
+particular fodor criticizes instrumentalism daniel dennett
+dennett maintains possible realist regard intentional states without having commit oneself reality mental representations
+now according fodor remains level analysis then there no possibility explaining why intentional strategy works there
+standard objection instrumentalism
+difficult explain why psychology beliefs/desires works well psychology beliefs/desires fact false
+putnam boyd others emphasized predictive successes theory truth theory there surely presumed inference even likely
+dealing theory play predictively crowned success
+why such presumption should militate favour realist conception
+interpretations beliefs/desires
+productivity systematicity thought fodor also positive arguments favour reality mental representations terms lot
+maintains language expression thoughts language systematic then thoughts must also systematic
+fodor draws work noam chomsky both model theory mind refute alternative architectures such connectionism
+systematicity natural languages explained chomsky terms two basic concepts productivity compositionality
+productivity refers representational system's unbounded ability generate new representations given set symbols
+john loves mary allow construction sentences john loves mary mary loves john
+fodor's language thought theorizes representations decomposable constituent parts these decomposed representations built new strings
+important productivity systematicity since does rely questionable idealizations human cognition
+argument states cognizer able understand sentence virtue understanding another
+example no understands john loves mary unable understand mary loves john no understands p q unable understand p
+systematicity itself rarely challenged property natural languages logics challenge thought systematic same way languages
+still others connectionist tradition tried build non-classical networks account apparent systematicity language
+fact systematicity productivity depend compositional structure language means language combinatorial semantics
+thought also such combinatorial semantics then there must language thought
+second argument fodor provides favour representational realism involves processes thought
+argument touches relation representational theory mind models architecture
+sentences mentalese require unique processes elaboration then require computational mechanism certain type
+syntactic notion mental representations goes hand hand idea mental processes calculations act form symbols elaborate
+computational theory mind
+consequently defence model architecture based classic artificial intelligence passes inevitably through defence reality mental representations
+fodor formal notion thought processes also advantage highlighting parallels causal role symbols contents express
+view syntax plays role mediation causal role symbols their contents
+semantic relations symbols imitated their syntactic relations
+inferential relations connect contents two symbols imitated formal syntax rules regulate derivation symbol another
+nature content beginning 1980 s fodor adhered causal notion mental content meaning
+idea content contrasts sharply inferential role semantics subscribed earlier career
+2010[update] fodor criticizes inferential role semantics irs because commitment extreme form holism excludes possibility true naturalization mental
+naturalization must include explanation content atomistic causal terms
+anti-holism fodor made many varied criticisms holism
+identifies central problem different notions holism idea determining factor semantic evaluation notion epistemic bond
+briefly p epistemic bond q meaning p considered someone relevant determination meaning q
+meaning holism strongly depends notion
+identity content mental state under holism determined totality epistemic bonds
+makes realism mental states impossibility people differ absolutely general way their estimations epistemic relevance follow holism meaning individuate intentional states way totality their epistemic bonds consequence will two people matter two temporal sections same person will never same intentional state
+therefore two people never subsumed under same intentional generalizations
+therefore intentional generalization never successful
+therefore again there no hope intentional psychology
+asymmetric causal theory having criticized idea semantic evaluation concerns internal relations units symbolic system fodor adopt externalist position respect mental content meaning
+fodor recent years problem naturalization mental tied possibility giving sufficient conditions piece world relative expresses represents true another piece non-intentional non-semantic terms
+goal achieved within representational theory mind then challenge devise causal theory establish interpretation primitive non-logical symbols lot
+fodor's initial proposal determines symbol water mentalese expresses property h2 o occurrences symbol certain causal relations water
+intuitive version causal theory fodor calls crude causal theory
+according theory occurrences symbols express properties causes their occurrence
+term horse example says horse horse
+order necessary sufficient certain properties occurrence symbol horse law-like relation certain properties determine something occurrence horse
+main problem theory erroneous representations
+there two unavoidable problems idea symbol expresses property
+necessary presences such property cause occurrences
+first horses cause occurrences horse
+second horses cause occurrences horse
+sometimes ahorses caused horses other times—when example because distance conditions low visibility confused cow horse—the horses caused cows
+case symbol doesn’t express just property disjunction properties
+crude causal theory therefore incapable distinguishing case content symbol disjunctive case isn’t
+gives rise fodor calls problem disjunction
+fodor responds problem defines slightly less crude causal theory
+according approach necessary break symmetry base crude causal theory
+fodor must find criterion distinguishing occurrences caused true those caused bs false
+point departure according fodor while false cases ontologically dependent true cases reverse true
+there asymmetry dependence other words true contents a= false ones =
+first subsist independently second second occur because existence first point view semantics errors must accidents extension horse there no cows then cannot required meaning horse cows called horses
+other hand horse mean means error horses never possible cow called horse
+putting two things together seen possibility falsely saying horse presupposes existence semantic basis saying truly vice versa
+put terms crude causal theory fact cows cause say horse depends fact horses cause say horse fact horses cause say horse does depend fact cows cause say horse
+functionalism during 1960 s various philosophers such donald davidson hilary putnam fodor tried resolve puzzle developing way preserve explanatory efficacy mental causation so-called folk psychology while adhering materialist vision world violate generality physics
+their proposal first reject then-dominant theories philosophy mind behaviorism type identity theory
+problem logical behaviorism failed account causation mental states such causation seems essential psychological explanation especially considers behavior effect single mental event/cause rather effect chain mental events/causes
+type-identity theory other hand failed explain fact radically different physical systems find themselves identical mental state
+besides being deeply anthropocentric why should humans thinking organisms universe? identity-type theory also failed deal accumulating evidence neurosciences every single human brain different others
+hence impossibility referring common mental states different physical systems manifests itself different species also organisms same species
+illustration multiple realizability
+m stands mental p stand physical
+diagram shows p instantiate m vice versa
+causal relations states represented arrows m1 goes m2 etc
+solve these problems according fodor functionalism hypothesis designed overcome failings both dualism reductionism
+important function mental state regardless physical substrate implements
+foundation view lies principle multiple realizability mental
+under view example computer both instantiate realize same functional state though made completely different material stuff see graphic right
+basis functionalism classified form token materialism
+evolution fodor co-written book biolinguist massimo piattelli-palmarini called darwin got wrong 2010 describes neo-darwinists being distressingly uncritical says darwin's theory evolution overestimates contribution environment makes shaping phenotype species correspondingly underestimates effects endogenous variables
+evolutionary biologist jerry coyne describes book profoundly misguided critique natural selection biologically uninformed strident
+moral philosopher anti-scientism author mary midgley praises darwin got wrong overdue valuable onslaught neo-darwinist simplicities book also received positive review mathematician intelligent design theorist william dembski
+criticism wide variety philosophers diverse orientations challenged many fodor's ideas
+example language thought hypothesis accused either falling prey infinite regress being superfluous
+specifically simon blackburn suggested article 1984 since fodor explains learning natural languages process formation confirmation hypotheses lot leaves open question why lot itself should considered just such language requires yet another fundamental representational substrate form confirm hypotheses lot itself learned
+natural language learning requires representational substrate lot order learned why shouldn't same lot itself then representational substrate representational substrate ad infinitum? other hand such representational substrate required lot then why should required learning natural languages? case lot superfluous
+fodor response argues lot unique does learned via antecedent language because innate
+1981 daniel dennett formulated another argument against lot
+dennett suggested seem basis evidence our behavior toward computers also regard our own unconscious behavior explicit representation necessary explanation propositional attitudes
+during game chess computer program often attribute such attitudes computer saying such things thinks queen should moved left
+attribute propositional attitudes computer helps us explain predict behavior various contexts
+yet no suggest computer actually thinking believing somewhere inside circuits equivalent propositional attitude believe kick guy's butt mentalese
+same obviously true suggests dennett many our everyday automatic behaviors such desiring breathe clear air stuffy environment
+linguists philosophers language criticized fodor's self-proclaimed extreme concept nativism
+kent bach example takes fodor task criticisms lexical semantics polysemy
+fodor claims there no lexical structure such verbs keep get make put
+suggests alternatively keep simply expresses concept keep fodor capitalizes concepts distinguish them properties names other such entities
+there straightforward one-to-one mapping individual words concepts keep your clothes keep your receipt keep washing your hands will share same concept keep under fodor's theory
+concept presumably locks unique external property keeping
+true then retain must pick out different property retain your receipt since can't retain one's clothes retain washing one's hands
+fodor's theory also problem explaining how concept fast contributes differently contents fast car fast driver fast track fast time
+whether differing interpretations fast these sentences specified semantics english result pragmatic inference matter debate
+fodor's own response kind criticism expressed bluntly concepts people sometimes used say exist must ambiguous because look difference 'chairs exist' 'numbers exist'
+familiar reply goes difference existence chairs existence numbers seems reflection strikingly like difference numbers chairs
+since you latter explain former you don't also need 'exist' polysemic
+critics find difficult accept fodor's insistence large perhaps implausible number concepts primitive undefinable
+example fodor considers such concepts effect island trapezoid week primitive innate unanalyzable because fall category calls lexical concepts those our language single word
+against view bach argues concept vixen almost certainly composed out concepts female fox bachelor out single male
+books darwin got wrong massimo piattelli-palmarini farrar straus giroux 2010
+lot 2 language thought revisited oxford university press 2008
+hume variations oxford university press 2003
+compositionality papers ernie lepore oxford university press 2002
+mind doesn't work way scope limits computational psychology mit press 2000
+critical condition mit press 1998 x
+concepts cognitive science went wrong 1996 john locke lectures oxford university press 1998
+elm expert mentalese semantics 1993 jean nicod lectures mit press 1994
+holism consumer update ernie lepore eds
+grazer philosophische studien vol 46
+rodopi amsterdam 1993
+holism shopper's guide ernie lepore eds
+blackwell 1992
+theory content other essays mit press 1990
+psychosemantics problem meaning philosophy mind mit press 1987
+modularity mind essay faculty psychology mit press 1983
+representations philosophical essays foundations cognitive science harvard press uk mit press us 1979
+language thought harvard university press 1975
+psychology language t
+bever m
+garrett mc graw hill 1974
+psychological explanation random house 1968
+structure language jerrold katz eds
+prentice hall 1964
+see also computational theory mind connectionism folk psychology functionalism philosophy mind list jean nicod prize laureates special sciences references http//www
+edu/fodor/ norfleet phil
+consciousness concepts jerry fodor
+academic studies human consciousness
+accessed march 2010
+lrb jerry fodor
+london review books
+accessed march 2010
+mc ginn colin 2002
+making philosopher
+new york harper collins
+fodor jerry
+curriculum vitae jerry alan fodor
+rutgers university
+accessed march 2010
+jean-nicod prize lectures
+jean nicod institute
+accessed march 2010
+elm expert mentalese semantics
+mit press
+accessed march 2010
+past lectures
+university oxford faculty philosophy
+accessed march 2010
+prizes awards
+american philosophical association
+accessed march 2010
+apa eastern division officers & committees 2005–2006
+american philosophical association
+accessed march 2010
+''edizione cogsci 2005''
+retrieved 2014-07-11
+c fodor jerry
+representations philosophical essays foundations cognitive science
+cambridge mass
+mit press
+carnap rudolf 1947
+meaning necessity
+chicago chicago university press
+field h
+mental representation
+erkenntnis 13 9–61
+harman g
+conceptual role semantics
+notre dame journal formal logic 23 2 242–256
+frege g
+über sinn und bedeutung
+zeitschrift für philosophie und philosophische kritik
+senso e denotatione
+bonomì struttura logica del linguaggio bompiani milan 1973 pp 9–32 francesco ferretti 2001
+fodor mente e linguaggio
+rome editori laterza
+c fodor jerry
+modularity mind essay faculty psychology
+mit press
+pearce j
+marie-jean-pierre flourens 1794-1867 cortical localization
+european neurology 61 5 311–4
+pmid 19295220
+retrieved 9 november 2014
+kerr pb caputy aj horwitz nh apr 15 2005
+history cerebral localization
+neurosurgical focus 18 4 e1
+pmid 15844861
+retrieved 9 november 2014
+pinker s 1997
+how mind works
+new york norton
+plotkin h
+evolution mind
+london alan lane
+pylyshyn z
+computation cognition
+cambridge mass
+mit press
+fodor j
+mind doesn't work way scope limits computational psychology
+mit press
+c e fodor jerry
+theory content other essays
+mit press
+dennett daniel c
+intentional stance
+mit press
+fodor jerry
+fodor's guide mental representations
+mind 94 76–100
+fodor jerry
+pylyshyn zenon w
+connectionism cognitive architecture critical analysis
+cognition 28 1–2 3–71
+pmid 2450716
+syntactic structures
+hague/paris mouton
+cummins 1996
+journal philosophy 93 591–614
+smolensky paul 1987
+constituent structure mental states reply fodor pylyshyn
+southern journal philosophy 137–160
+c fodor j 1978
+re presentations
+philosophical essays foundations cognitive science
+mit press
+fodor j
+holism shopper's guide e
+lepore blackwell 1992
+putnam hilary 1988
+mind language reality
+cambridge university press
+fodor jerry
+mind/body problem
+scientific american 244 124–132
+survival fittest theory darwinism's limits charles darwin get wrong?
+retrieved 2014-07-11
+darwin got wrong[dead link] worst science journalism year darwin completely wrong again @ why evolution true improbability pump review darwin got wrong richard dawkins's greatest show earth @ nation darwin got wrong jerry fodor massimo piattelli palmarini mary midgley guardian 6 february 2010 http//www
+com/evolution/what-darwin-got-wrong/ blackburn s
+spreading word
+oxford university press
+brainstorms philosophical essays mind psychology
+mit press
+bach kent
+review concepts cognitive science went wrong
+san diego review
+pustejovsky j
+generative lexicon
+mit press
+fodor j
+concepts cognitive science went wrong online pdf text
+oxford university press
+external links wikiquote quotations related jerry fodor jerry fodor's homepage jerry fodor london review books semantics interview jerry fodor re vel
+5 n
+march 2007
+blogging heads dialogue jerry fodor elliott sober vte analytic philosophy philosophers robert merrihew adams william p
+alston j
+ayer g
+anscombe david malet armstrong robert audi robert brandom c
+broad tyler burge john p
+burgess rudolf carnap roderick chisholm patricia churchland paul churchland david chalmers noam chomsky donald davidson daniel dennett michael dummett bas van fraassen gottlob frege jerry fodor philippa foot peter geach
+grayling paul grice alvin goldman peter hacker r
+hare gilbert harman john hawthorne ian hacking carl hempel jaakko hintikka peter van inwagen frank cameron jackson christine korsgaard saul kripke david lewis j
+mackie norman malcolm john mc dowell g
+moore thomas nagel robert nozick derek parfit
+phillips alvin plantinga
+prior hilary putnam w
+quine john rawls hans reichenbach bertrand russell gilbert ryle john searle moritz schlick wilfrid sellars peter singer peter strawson richard swinburne peter unger bernard williams timothy williamson john wisdom ludwig wittgenstein stephen yablo
+theories deflationism direct reference theory empiricism holism logical atomism logical positivism naturalism naturalized epistemology neopragmatism neutral monism particularism reductionism scientism skepticism verificationism
+concepts analysis analytic–synthetic distinction causal / deductive / epistemic closure concept counterfactual denotation / reference definite description factive family resemblance intuition meaning proposition modality natural kind / projectability necessary–sufficient conditions paradox analysis possible world reduction reflective equilibrium rigid–flaccid designators sense data supervenience thought experiment truth function truthmaker truth-bearer type–token distinction related articles australian realism ordinary language philosophy philosophical logic philosophy language philosophy science postanalytic philosophy
+category task force discussion philosophy stubs vte philosophy mind philosophers anscombe austin aquinas bain bergson bhattacharya block brentano broad burge chalmers churchland dennett dharmakirti davidson descartes goldman heidegger husserl fodor james kierkegaard leibniz lewis mc dowell merleau-ponty minsky moore nagel parfit putnam popper rorty ryle searle spinoza turing vasubandhu wittgenstein zhuangzi
+theories behaviorism biological naturalism dualism eliminative materialism emergent materialism epiphenomenalism functionalism idealism interactionism materialism monism naïve realism neutral monism phenomenalism phenomenology existential neurophenomenology physicalism identity theory pragmatism property dualism representational solipsism subjectivism substance dualism concepts abstract object artificial intelligence chinese room cognition cognitive closure concept concept object consciousness hard problem consciousness hypostatic abstraction idea identity ingenuity intelligence intentionality introspection intuition language thought materialism mental event mental image mental process mental property mental representation mind mind–body problem new mysterianism pain problem other minds propositional attitude qualia tabula rasa understanding zombie
+related topics metaphysics philosophy artificial intelligence / information / perception / self portal category task force discussion authority control world cat identities viaf 91461061 lccn n50003606 isni 0000 0001 0924 1300 gnd 119020122 sudoc 028738578 bnf cb12051292 r data ndl 00439767

@@ -1,0 +1,255 @@
+bernard bolzano born 1781-10-05 october 5 1781 prague kingdom bohemia died december 18 18481848-12-18 aged 67 prague kingdom bohemia alma mater university prague ph 1804 era 19 th-century philosophy region western philosophy school logical objectivism utilitarianism institutions university prague main interests logic epistemology theology notable ideas bolzano–weierstrass theorem influences gottfried wilhelm leibniz influenced carl stumpf edmund husserl kevin mulligan gottlob frege bernard bolzano thesis betrachtungen über einige gegenstände elementargeometrie considerations objects elementary geometry 1804 academic advisors františek josef gerstner bernhard placidus johann gonzal nepomuk bolzano bernard bolzano english 5 october 1781 18 december 1848 bohemian mathematician logician philosopher theologian catholic priest italian extraction also known antimilitarist views
+bolzano german mother tongue
+most part work came prominence posthumously
+contents family 2 career 3 works 4 wissenschaftslehre theory science 4
+introduction wissenschaftslehre 4
+2 metaphysics 4
+3 satz sich proposition itself 4
+4 ideas objects 4
+5 sensation simple ideas 4
+6 logic 4
+7 truth 4
+judgments cognitions 5 mathematics 6 philosophical legacy 7 writings 7
+translations compilations named after bolzano 9 see also 10 notes references 12 external links family bolzano son two pious catholics
+father bernard pompeius bolzano italian moved prague married maria cecilia maurer daughter italian merchant likewise moved prague
+two their twelve children lived adulthood
+career bolzano entered university prague 1796 studied mathematics philosophy physics
+starting 1800 also began studying theology becoming catholic priest 1804
+appointed then newly created chair philosophy religion prague university 1805
+proved popular lecturer just religion also philosophy elected dean philosophical faculty 1818
+bolzano alienated many faculty church leaders teachings social waste militarism needlessness war
+urged total reform educational social economic systems direct nation's interests toward peace rather toward armed conflict nations
+upon refusal recant beliefs bolzano dismissed university 1819
+political convictions inclined share others frequency eventually proved too liberal austrian authorities
+exiled countryside point devoted energies writings social religious philosophical mathematical matters
+although forbidden publish mainstream journals condition exile bolzano continued develop ideas publish them either own obscure eastern european journals
+1842 moved back prague died 1848
+works bolzano's posthumously published work paradoxien des unendlichen paradoxes infinite 1851 greatly admired many eminent logicians came after including charles sanders peirce georg cantor richard dedekind
+bolzano's main claim fame however 1837 wissenschaftslehre theory science work four volumes covered philosophy science modern sense also logic epistemology scientific pedagogy
+logical theory bolzano developed work come acknowledged ground-breaking
+other works four-volume lehrbuch religionswissenschaft textbook science religion metaphysical work athanasia defense immortality soul
+bolzano also valuable work mathematics remained virtually unknown until otto stolz rediscovered many lost journal articles republished them 1881
+wissenschaftslehre theory science 1837 wissenschaftslehre bolzano attempted provide logical foundations sciences building abstractions like part-relation abstract objects attributes sentence-shapes ideas propositions themselves sums sets collections substances adherences subjective ideas judgments sentence-occurrences
+these attempts basically extension earlier thoughts philosophy mathematics example 1810 beiträge emphasized distinction objective relationship logical consequences our subjective recognition these connections
+bolzano enough merely confirmation natural mathematical truths rather proper role sciences both pure applied seek out justification terms fundamental truths may may appear obvious our intuitions
+introduction wissenschaftslehre bolzano begins work explaining means theory science relation our knowledge truths sciences
+human knowledge states made truths true propositions men know known
+however very small fraction truths out there although still too much human being comprehend
+therefore our knowledge divided accessible parts
+such collection truths bolzano calls science wissenschaft
+important note true propositions science known men hence how make discoveries science
+better understand comprehend truths science men created textbooks lehrbuch course contain true propositions science known men
+how know divide our knowledge truths belong together? bolzano explains will ultimately know through reflection resulting rules how divide our knowledge sciences will science itself
+science tells us truths belong together should explained textbook theory science wissenschaftslehre
+metaphysics wissenschaftslehre bolzano mainly concerned three realms realm language consisting words sentences
+2 realm thought consisting subjective ideas judgements
+3 realm logic consisting objective ideas ideas themselves propositions themselves
+bolzano devotes great part wissenschaftslehre explanation these realms their relations
+two distinctions play prominent role system
+firstly distinction parts wholes
+instance words parts sentences subjective ideas parts judgments objective ideas parts propositions themselves
+secondly objects divide those exist means causally connected located time and/or space those exist
+bolzano's original claim logical realm populated objects latter kind
+satz sich proposition itself satz sich basic notion bolzano's wissenschaftslehre
+introduced very beginning section 19
+bolzano first introduces notions proposition spoken written thought itself idea spoken written thought itself
+grass green proposition satz connection words something asserted
+grass however idea vorstellung
+something represented does assert anything
+bolzano's notion proposition fairly broad rectangle round proposition — even though false virtue self-contradiction — because composed intelligible manner out intelligible parts
+bolzano does give complete definition satz sich
+proposition itself gives us just enough information understand means
+proposition itself no existence no position time place ii either true false independent anyone knowing thinking true false iii 'grasped' thinking beings
+written sentence 'socrates wisdom' grasps proposition itself namely proposition [socrates wisdom]
+written sentence does existence certain location certain time say your computer screen very moment expresses proposition itself realm itself
+bolzano's use term sich differs greatly kant kant's use term see sich
+every proposition itself composed out ideas themselves simplicity will use proposition mean proposition itself idea refer objective idea idea itself
+ideas negatively defined those parts proposition themselves propositions
+proposition consists least three ideas namely subject idea predicate idea copula
+'has' another form
+though there propositions contain propositions won't take them consideration right now
+bolzano identifies certain types ideas
+there simple ideas no parts example bolzano uses [something] there also complex ideas consist other ideas bolzano uses example [nothing] consists ideas [not] [something]
+complex ideas same content
+same parts without being same — because their components differently connected
+idea [a black pen blue ink] different idea [a blue pen black ink] though parts both ideas same
+ideas objects important understand idea does need object
+bolzano uses object denote something represented idea
+idea object represents object
+idea does object represents nothing
+don't get confused here terminology objectless idea idea without representation
+let's consider further explanation example used bolzano
+idea [a round square] does object because object ought represented self-contrary
+different example idea [nothing] certainly does object
+however proposition [the idea round square complexity] subject-idea [the idea round square]
+subject-idea does object namely idea [a round square]
+idea does object
+besides objectless ideas there ideas object e
+idea [the first man moon] represents object
+bolzano calls these ideas 'singular ideas'
+obviously there also ideas many objects e
+[the citizens amsterdam] even infinitely many objects e
+[a prime number]
+sensation simple ideas bolzano complex theory how able sense things
+explains sensation means term intuition german called anschauung
+intuition simple idea object einzelvorstellung besides also unique bolzano needs explain sensation
+intuitions anschauungen objective ideas belong sich realm means don’t existence
+bolzano’s argumentation intuitions explanation sensation
+happens you sense real existing object instance rose different aspects rose like scent color cause you change
+change means before after sensing rose your mind different state
+sensation fact change your mental state
+how related objects ideas? bolzano explains change your mind essentially simple idea vorstellung like ‘this smell’ particular rose
+idea represents object change
+besides being simple change must also unique
+because literally you can’t same experience twice nor two people smell same rose same time exactly same experience smell although will quite alike
+each single sensation causes single new unique simple idea particular change object
+now idea your mind subjective idea meaning you particular time
+subjective idea must correspond content objective idea
+bolzano brings intuitions anschauungen simple unique objective ideas correspond our subjective ideas changes caused sensation
+each single possible sensation there corresponding objective idea
+schematically whole process like whenever you smell rose scent causes change you
+change object your subjective idea particular smell
+subjective idea corresponds intuition anschauung
+logic according bolzano propositions composed out three simple complex elements subject predicate copula
+instead traditional copulative term 'is' bolzano prefers 'has'
+reason 'has' unlike 'is' connect concrete term such 'socrates' abstract term such 'baldness'
+socrates baldness according bolzano preferable socrates bald because latter form less basic 'bald' itself composed elements 'something' 'that' 'has' 'baldness'
+bolzano also reduces existential propositions form socrates exists simply become socrates existence dasein
+major role bolzano’s logical theory played notion variations various logical relations defined terms changes truth value propositions incur their non-logical parts replaced others
+logically analytical propositions instance those non-logical parts replaced without change truth value
+two propositions 'compatible' verträglich respect their component parts x there least term inserted make both true
+proposition q 'deducible' ableitbar proposition p respect certain their non-logical parts any replacement those parts makes p true also makes q true
+proposition deducible another respect non-logical parts 'logically deducible'
+besides relation deducibility bolzano also stricter relation 'consequentiality' abfolge
+asymmetric relation obtains true propositions propositions deducible also explained other
+truth bolzano distinguishes five meanings words true truth common usage bolzano takes unproblematic
+meanings listed order properness
+abstract objective meaning truth signifies attribute may apply proposition primarily proposition itself namely attribute basis proposition expresses something reality expressed
+antonyms falsity falseness falsehood
+concrete objective meaning truth signifies proposition attribute truth abstract objective meaning
+antonym falsehood
+subjective meaning truth signifies correct judgment
+antonym mistake
+collective meaning truth signifies body multiplicity true propositions judgments e
+biblical truth
+improper meaning true signifies object reality denomination states
+true god
+antonyms false unreal illusory
+bolzano's primary concern concrete objective meaning concrete objective truths truths themselves
+truths themselves kind propositions themselves
+spatiotemporally located thought spoken propositions
+however certain propositions attribute being truth itself
+being thought proposition part concept truth itself notwithstanding fact given god’s omniscience truths themselves also thought truths
+concepts ‘truth itself’ ‘thought truth’ interchangeable apply same objects identical
+bolzano offers correct definition abstract objective truth proposition true expresses something applies object
+correct definition concrete objective truth must thus truth proposition expresses something applies object
+definition applies truths themselves rather thought known truths none concepts figuring definition subordinate concept something mental known
+bolzano proves §§31-32 wissenschaftslehre three things there least truth itself concrete objective meaning
+there no true propositions assumption 2
+proposition obvious 3
+true assumed false because
+self-contradictory because 3
+false because 4
+there least true proposition because
+there truth itself 7
+there truth itself namely assumption
+truth itself because 7
+there no other truths themselves apart because 7
+true proposition/ truth itself because 7
+there two truths themselves because
+there truth itself because
+there infinitely many truths themselves 13
+there n truths themselves namely
+z assumption 14
+z n truths themselves because 13
+there no other truths apart
+z because 13
+true proposition/ truth itself because 13
+there n+1 truths themselves because 14
+steps 5 repeated n+1 results n+2 truths endlessly because n variable 19
+there infinitely many truths themselves because 18
+judgments cognitions known truth parts bestandteile truth itself judgment bolzano wissenschaftslehre §26
+judgment thought states true proposition
+judging least matter judgment true proposition idea object being connected certain way idea characteristic § 23
+true judgments relation idea object idea characteristic actual/existent relation §28
+every judgment matter proposition either true false
+every judgment exists ‘für sich’
+judgments namely contrast propositions themselves dependent subjective mental activity
+every mental activity though judgment recall judgments matter propositions hence judgments need either true false
+mere presentations thoughts examples mental activities necessarily need stated behaupten judgments § 34
+judgments matter true propositions called cognitions §36
+cognitions also dependent subject opposed truths themselves cognitions permit degrees proposition less known cannot less true
+every cognition implies necessarily judgment every judgment necessarily cognition because there also judgments true
+bolzano maintains there no such things false cognitions false judgments §34
+mathematics bolzano made several original contributions mathematics
+overall philosophical stance contrary much prevailing mathematics era better introduce intuitive ideas such time motion mathematics boyer 1959 pp
+end earliest mathematicians begin instilling rigor mathematical analysis three chief mathematical works beyträge zu einer begründeteren darstellung mathematik 1810 binomische lehrsatz 1816 rein analytischer beweis 1817
+these works presented
+sample new way developing analysis whose ultimate goal realized until fifty years later came attention karl weierstrass o'connor & robertson 2006
+foundations mathematical analysis contributed introduction fully rigorous ε-δ definition mathematical limit
+bolzano first recognize greatest lower bound property real numbers
+like several others day skeptical[dubious discuss] possibility gottfried leibniz's infinitesimals earliest putative foundation differential calculus
+bolzano's notion limit similar modern limit rather being relation among infinitesimals must instead cast terms how dependent variable approaches definite quantity independent variable approaches other definite quantity
+bolzano also gave first purely analytic proof fundamental theorem algebra originally proven gauss geometrical considerations
+also gave first purely analytic proof intermediate value theorem also known bolzano's theorem
+today mostly remembered bolzano–weierstrass theorem karl weierstrass developed independently published years after bolzano's first proof initially called weierstrass theorem until bolzano's earlier work rediscovered boyer & merzbach p
+philosophical legacy effect thought philosophy initially seemed destined slight work rediscovered however edmund husserl kazimierz twardowski both students franz brentano
+through them bolzano became formative influence both phenomenology analytic philosophy
+writings gesamtausgabe collected works critical edition edited eduard winter jan berg friedrich kambartel bob van rootselaar stuttgart fromman-holzboog 1969 ss
+89 volls
+published wissenschaftslehre 4 voll
+2 nd rev
+schultz leipzig i-ii 1929 iii 1980 iv 1931 critical edition edited jan berg bolzano's gesamtausgabe voll
+11-14 1985–2000
+bernard bolzano's grundlegung logik
+ausgewählte paragraphen aus wissenschaftslehre vol
+2 supplementary text summaries introduction indices edited f
+kambartel hamburg 1963 1978²
+bolzano bernard 1810 beyträge zu einer begründeteren darstellung mathematik
+erste lieferung contributions better grounded presentation mathematics ewald 1996 pp
+174–224 mathematical works bernard bolzano 2004 pp
+bolzano bernard 1817 rein analytischer beweis des lehrsatzes dass zwischen je zwey werthen die ein entgegengesetzes resultat gewähren wenigstens eine reele wurzel gleichung liege wilhelm engelmann purely analytic proof theorem any two values give results opposite sign there lies least real root equation ewald 1996 pp
+franz prihonsky 1850 neue anti-kant bautzen assessment critique pure reason bolzano published posthumously friend f
+*bolzano bernard 1851 paradoxien des unendlichen c
+reclam paradoxes infinite ewald 1996 pp
+249–92 excerpt
+translations compilations theory science selection edited translated rolf george berkeley los angeles university california press 1972
+theory science selection edited introduction jan berg
+translated german burnham terrell dordrecht boston
+reidel publishing company 1973
+theory science first complete english translation four volumes rolf george paul rusnock new york oxford university press 2014
+mathematical works bernard bolzano translated edited steve russ new york oxford university press 2004
+mathematical method correspondence exner translated rolf george paul rusnock amsterdam rodopi 2004
+selected writings ethics politics translated rolf george paul rusnock amsterdam rodopi 2007
+franz prihonsky new anti-kant edited sandra lapointe clinton tolley new york palgrave macmillan 2014
+named after bolzano bolzano's theorem intermediate value theorem theorem mathematical analysis bolzano–weierstrass theorem theorem concerning sequences real analysis see also list roman catholic scientist-clerics notes article includes list references sources remain unclear because insufficient inline citations
+please help improve article introducing precise citations
+january 2008 routledge encyclopedia philosophy 1998 ryle gilbert 1900-76
+bernard bolzano entry edgar morscher stanford encyclopedia philosophy sundholm
+why frege read bolzano? logica yearbook 1999 164-174 2000 chisholm hugh ed
+bolzano bernhard
+encyclopædia britannica th ed
+cambridge university press
+o'hear anthony 1999 german philosophy since kant royal institute philosophy supplements royal institute philosophy london cambridge university press p
+110 native language german
+bolzano “on mathematical method” §2 bolzano “on mathematical method” §3 bolzano “on mathematical method” §4 bolzano wissenschaftslehre §72 raman-sundström manya august–september 2015
+pedagogical history compactness
+american mathematical monthly 122 7 619–635
+retrieved december 7 2015
+references boyer carl
+1959 history calculus conceptual development new york dover publications mr 0124178
+boyer carl
+merzbach uta c
+history mathematics new york john wiley & sons 978-0-471-54397-8
+ewald william
+1996 kant hilbert source book foundations mathematics 2 volumes oxford university press
+künne wolfgang 1998 bolzano bernard routledge encyclopedia philosophy london routledge pp
+retrieved 2007-03-05 kamila veverková kleinere schriften des deutschen lehrers und priester anton krombholz 1790-1869
+homiletisch liturgisches korrespondenzblatt neue folge
+nr 107 jg 28/2011 str
+issn 0724-7680
+o'connor john j
+robertson edmund f
+2005 bolzano mac tutor history mathematics archive
+external links wikimedia commons media related bernard bolzano
+bernard bolzano entry edgar morscher stanford encyclopedia philosophy bolzano's logic entry jan sebestik stanford encyclopedia philosophy bolzano’s philosophy mathematical knowledge entry sandra lapointe internet encyclopedia philosophy philosophy bernard bolzano logic ontology bernard bolzano english translations selected texts annotated bibliography philosophical work bolzano first part - c annotated bibliography philosophical work bolzano second part - l annotated bibliography philosophical work bolzano third part m - z bernard bolzano mathematics genealogy project works bernard bolzano internet archive digitized bolzano's works volume 3 wissenschaftslehre gallica volume 4 wissenschaftslehre gallica authority control world cat identities viaf 24615537 lccn n50043118 isni 0000 0001 2277 5147 gnd 118513117 sudoc 028434307 bnf cb12027042 g data mgp 96330 nkc jk01012602

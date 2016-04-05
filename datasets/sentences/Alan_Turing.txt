@@ -1,0 +1,1091 @@
+turing redirects here
+other uses see turing disambiguation
+alan turing turing aged 16 born alan mathison turing1912-06-2323 june 1912 maida vale london england died 7 june 19541954-06-07 aged 41 wilmslow cheshire england residence wilmslow cheshire england nationality british fields mathematics cryptanalysis logic computer science mathematical theoretical biology institutions victoria university manchester government code cypher school national physical laboratory education sherborne school alma mater king's college cambridge princeton university thesis systems logic based ordinals 1938 doctoral advisor alonzo church doctoral students robin gandy known cryptanalysis enigma turing machine turing test lu decomposition notable awards smith's prize 1936 obe frs 1951 signature alan mathison turing obe frs /ˈtjʊərɪŋ/ 23 june 1912 7 june 1954 pioneering english computer scientist mathematician logician cryptanalyst theoretical biologist
+highly influential development theoretical computer science providing formalisation concepts algorithm computation turing machine considered model general purpose computer
+turing widely considered father theoretical computer science artificial intelligence
+during second world war turing worked government code cypher school gc&cs bletchley park britain's codebreaking centre
+time led hut section responsible german naval cryptanalysis
+devised number techniques breaking german ciphers including improvements pre-war polish bombe method electromechanical machine find settings enigma machine
+turing played pivotal role cracking intercepted coded messages enabled allies defeat nazis many crucial engagements including battle atlantic estimated work shortened war europe many two four years
+after war worked national physical laboratory designed ace among first designs stored-program computer
+1948 turing joined max newman's computing machine laboratory victoria university manchester helped develop manchester computers became interested mathematical biology
+paper chemical basis morphogenesis predicted oscillating chemical reactions such belousov–zhabotinsky reaction first observed 1960 s
+turing prosecuted 1952 homosexual acts such behaviour still criminal act uk
+accepted treatment des chemical castration alternative prison
+turing died 1954 16 days before 42 nd birthday cyanide poisoning
+inquest determined death suicide noted known evidence equally consistent accidental poisoning
+2009 following internet campaign british prime minister gordon brown made official public apology behalf british government appalling way treated
+queen elizabeth ii granted posthumous pardon 2013
+contents early life 2 education 2
+school 2
+2 christopher morcom 2
+3 university work computability 3 cryptanalysis 3
+bombe 3
+2 hut naval enigma 3
+3 turingery 3
+4 delilah 4 early computers turing test 5 pattern formation mathematical biology 6 conviction indecency 7 death 7
+alternative death theories recognition tributes
+tributes universities research institutions 9 government apology pardon 10 centenary celebrations 10
+uk celebrations portrayal adaptations
+2 literature
+3 music
+4 film 12 awards honours 13 notes 14 references 15 further reading 15
+papers 16 external links early life turing born maida vale london while father julius mathison turing 1873–1947 leave position indian civil service ics chhatrapur bihar orissa province british india
+turing's father son clergyman rev
+john robert turing scottish family merchants based netherlands included baronet
+turing's mother julius' wife ethel sara née stoney 1881–1976 daughter edward waller stoney chief engineer madras railways
+stoneys protestant anglo-irish gentry family both county tipperary county longford while ethel herself spent much her childhood county clare
+julius' work ics brought family british india grandfather general bengal army
+however both julius ethel wanted their children brought up britain moved maida vale london turing born 23 june 1912 recorded blue plaque outside house birth later colonnade hotel
+elder brother john father sir john dermot turing 12 th baronet turing baronets
+turing's father's civil service commission still active during turing's childhood years turing's parents travelled hastings england india leaving their two sons stay retired army couple
+hastings turing stayed baston lodge upper maze hill st leonards-on-sea now marked blue plaque
+very early life turing showed signs genius later display prominently
+parents purchased house guildford 1927 turing lived there during school holidays
+location also marked blue plaque
+education school turing's parents enrolled st michael's day school 20 charles road st leonards-on-sea age six
+headmistress recognised talent early many subsequent educators
+1926 age 13 went sherborne school independent school market town sherborne dorset
+first day term coincided 1926 general strike britain determined attend rode bicycle unaccompanied 60 miles 97 km southampton sherborne stopping overnight inn
+turing's natural inclination towards mathematics science earn respect teachers sherborne whose definition education placed emphasis classics
+headmaster parents hope will fall two stools
+stay public school must aim becoming educated
+solely scientific specialist wasting time public school
+despite turing continued show remarkable ability studies loved solving advanced problems 1927 without having studied even elementary calculus
+1928 aged 16 turing encountered albert einstein's work grasp possible managed deduce einstein's questioning newton's laws motion text never made explicit
+christopher morcom sherborne turing formed significant friendship fellow pupil christopher morcom described turing's first love
+their relationship provided inspiration turing's future endeavours cut short morcom's death february 1930 complications bovine tuberculosis contracted after drinking infected cow's milk years previously
+event caused turing great sorrow
+coped grief working much harder topics science mathematics shared morcom
+letter morcom's mother turing am sure found anywhere another companion brilliant yet charming unconceited
+regarded my interest my work such things astronomy introduced me something shared think felt little same me
+know must put much energy much interest my work alive because like me
+speculated morcom's death cause turing's atheism materialism seems unlikely
+apparently point life still believed such concepts spirit independent body surviving death
+later letter also written morcom's mother turing personally believe spirit really eternally connected matter certainly same kind body
+regards actual connection spirit body consider body [can] hold 'spirit' whilst body alive awake two firmly connected
+body asleep cannot guess happens body dies 'mechanism' body holding spirit gone spirit finds new body sooner later perhaps immediately
+university work computability after sherborne turing studied undergraduate 1931 1934 king's college cambridge whence gained first-class honours mathematics
+1935 age elected fellow king's strength dissertation proved central limit theorem despite fact committee failed identify already proven 1922 jarl waldemar lindeberg
+1928 german mathematician david hilbert called attention entscheidungsproblem decision problem
+paper computable numbers application entscheidungsproblem submitted 28 may 1936 delivered 12 november turing reformulated kurt gödel's 1931 results limits proof computation replacing gödel's universal arithmetic-based formal language formal simple hypothetical devices became known turing machines
+proved such machine capable performing any conceivable mathematical computation representable algorithm
+went prove there no solution entscheidungsproblem first showing halting problem turing machines undecidable general possible decide algorithmically whether given turing machine will ever halt
+king's college cambridge turing student 1931 became fellow 1935
+computer room named after
+although turing's proof published shortly after alonzo church's equivalent proof using lambda calculus turing's approach considerably accessible intuitive church's
+also included notion 'universal machine' now known universal turing machine idea such machine perform tasks any other computation machine indeed church's lambda calculus
+according church–turing thesis turing machines lambda calculus capable computing anything computable
+john von neumann acknowledged central concept modern computer due turing's paper
+day turing machines central object study theory computation
+september 1936 july 1938 turing spent most time studying under church princeton university
+addition purely mathematical work studied cryptology also built three four stages electro-mechanical binary multiplier
+june 1938 obtained ph princeton dissertation systems logic based ordinals introduced concept ordinal logic notion relative computing turing machines augmented so-called oracles allowing study problems cannot solved turing machines
+turing returned cambridge attended lectures given 1939 ludwig wittgenstein foundations mathematics
+remarkably lectures reconstructed verbatim including interjections turing other students students' notes
+turing wittgenstein argued disagreed turing defending formalism wittgenstein propounding view mathematics does discover any absolute truths rather invents them
+cryptanalysis during second world war turing leading participant breaking german ciphers bletchley park
+historian wartime codebreaker asa briggs you needed exceptional talent you needed genius bletchley turing's genius
+september 1938 turing working part-time gc&cs british code breaking organisation
+concentrated cryptanalysis enigma dilly knox senior gc&cs codebreaker
+soon after july 1939 warsaw meeting polish cipher bureau provided british french details wiring enigma rotors their method decrypting enigma code messages turing knox started work less fragile approach problem
+polish method relied insecure indicator procedure germans likely change may 1940
+turing's approach general using crib-based decryption produced functional specification bombe improvement polish bomba
+two cottages stable yard bletchley park
+turing worked here 1939 1940 before moving hut
+4 september 1939 day after uk declared war germany turing reported bletchley park wartime station gc&cs
+specifying bombe first five major cryptanalytical advances turing made during war
+others deducing indicator procedure used german navy developing statistical procedure making much efficient use bombes dubbed banburismus developing procedure working out cam settings wheels lorenz sz 40/42 tunny dubbed turingery towards end war development portable secure voice scrambler hanslope park codenamed delilah
+using statistical techniques optimise trial different possibilities code breaking process turing made innovative contribution subject
+two papers discussing mathematical approaches entitled applications probability cryptography paper statistics repetitions such value gc&cs successor gchq released uk national archives until april shortly before centenary birth
+gchq mathematician time fact contents restricted 70 years demonstrated their importance
+turing something reputation eccentricity bletchley park
+known colleagues 'prof' treatise enigma known 'the prof's book'
+jack good cryptanalyst worked quoted ronald lewin having turing first week june each year get bad attack hay fever cycle office wearing service gas mask keep pollen off
+bicycle fault chain come off regular intervals
+instead having mended count number times pedals went round get off bicycle time adjust chain hand
+another eccentricities chained mug radiator pipes prevent being stolen
+while working bletchley turing talented long-distance runner occasionally ran 40 miles 64 km london needed high-level meetings capable world-class marathon standards
+turing tried out 1948 british olympic team hampered injury
+tryout time marathon minutes slower british silver medalist thomas richards' olympic race time 2 hours 35 minutes
+walton athletic club's best runner fact discovered passed group while running alone
+1945 turing awarded obe king george vi wartime services work remained secret many years
+bombe within weeks arriving bletchley park turing specified electromechanical machine help break enigma effectively polish bomba kryptologiczna name derived
+bombe enhancement suggested mathematician gordon welchman became primary tools major automated used attack enigma-enciphered messages
+jack good opined turing's most important contribution think part design bombe cryptanalytic machine
+idea you use effect theorem logic sounds untrained ear rather absurd namely contradiction you deduce everything
+complete working replica bombe national codes centre bletchley park bombe searched possible correct settings used enigma message
+rotor order rotor settings plugboard settings using suitable crib fragment probable plaintext
+each possible setting rotors order 1019 states 1022 states four-rotor u-boat variant bombe performed chain logical deductions based crib implemented electrically
+bombe detected contradiction occurred ruled out setting moving next
+most possible settings cause contradictions discarded leaving few investigated detail
+first bombe installed 18 march 1940
+late 1941 turing fellow cryptanalysts gordon welchman hugh alexander stuart milner-barry frustrated
+building work poles set up good working system decrypting enigma signals few people few bombes time translate signals
+summer considerable success shipping losses fallen under 100000 tons month still knife-edge
+badly needed resources keep abreast german adjustments
+tried get people fund bombes through proper channels getting nowhere
+finally breaking rules 28 october directly winston churchill spelling out their difficulties turing first named
+emphasised how small their need compared vast expenditure men money forces compared level assistance offer forces
+andrew hodges biographer turing later letter electric effect
+churchill memo general ismay read action day
+make sure want extreme priority report me done
+18 november chief secret service reported every possible measure being taken
+cryptographers bletchley park know prime minister's response milner-barry later recalled notice almost day rough ways began miraculously made smooth
+two hundred bombes operation end war
+hut naval enigma turing stephen kettle bletchley park commissioned sidney frank built half million pieces welsh slate
+turing decided tackle particularly difficult problem german naval enigma because no else doing anything myself
+december 1939 turing solved essential part naval indicator system complex indicator systems used other services
+same night also conceived idea banburismus sequential statistical technique abraham wald later called sequential analysis assist breaking naval enigma though sure work practice fact sure until days actually broken
+invented measure weight evidence called ban
+banburismus rule out certain sequences enigma rotors substantially reducing time needed test settings bombes
+1941 turing proposed marriage hut colleague joan clarke fellow mathematician cryptanalyst their engagement short-lived
+after admitting homosexuality fiancée reportedly unfazed revelation turing decided go through marriage
+turing travelled united states november 1942 worked us navy cryptanalysts naval enigma bombe construction washington also visited their computing machine laboratory dayton ohio
+reaction american bombe design far enthusiastic seems pity them go out their way build machine stopping necessary
+am now converted extent thinking starting scratch design bombe method good our own
+american bombe program produce 336 bombes each wheel order
+used smile inwardly conception test commutators hardly considered conclusive testing bounce electronic stop finding devices
+— alan turing during trip also assisted bell labs development secure speech devices
+returned bletchley park march 1943
+during absence hugh alexander officially assumed position head hut although alexander de facto head time turing having little interest day-to-day running section
+turing became general consultant cryptanalysis bletchley park
+alexander follows contribution there should no question anyone's mind turing's work biggest factor hut 8's success
+early days cryptographer thought problem worth tackling primarily responsible main theoretical work within hut also shared welchman keen chief credit invention bombe
+difficult say anyone 'absolutely indispensable' anyone indispensable hut turing
+pioneer's work tends forgotten experience routine later make everything seem easy many us hut felt magnitude turing's contribution never fully realised outside world
+— hugh alexander turingery july 1942 turing devised technique termed turingery jokingly turingismus use against lorenz cipher messages produced germans' new geheimschreiber secret writer machine
+teleprinter rotor cipher attachment codenamed tunny bletchley park
+turingery method wheel-breaking
+procedure working out cam settings tunny's wheels
+also introduced tunny team tommy flowers under guidance max newman went build colossus computer world's first programmable digital electronic computer replaced simpler prior machine heath robinson whose superior speed allowed statistical decryption techniques applied usefully messages
+mistakenly turing key figure design colossus computer
+turingery statistical approach banburismus undoubtedly fed thinking cryptanalysis lorenz cipher directly involved colossus development
+delilah following work bell labs us turing pursued idea electronic enciphering speech telephone system latter part war moved work secret service's radio security service later hmgcc hanslope park
+there further developed knowledge electronics assistance engineer donald bayley
+together undertook design construction portable secure voice communications machine codenamed delilah
+intended different applications lacking capability use long-distance radio transmissions any case delilah completed too late used during war
+though system worked fully turing demonstrating officials encrypting decrypting recording winston churchill speech delilah adopted use
+turing also consulted bell labs development sigsaly secure voice system used later years war
+early computers turing test plaque 78 high street hampton 1945 1947 turing lived hampton london while worked design ace automatic computing engine national physical laboratory npl
+presented paper 19 february 1946 first detailed design stored-program computer
+von neumann's incomplete first draft report edvac predated turing's paper much less detailed according john r
+womersley superintendent npl mathematics division contains number ideas dr
+turing's own
+although ace feasible design secrecy surrounding wartime work bletchley park led delays starting project became disillusioned
+late 1947 returned cambridge sabbatical year during produced seminal work intelligent machinery published lifetime
+while cambridge pilot ace being built absence
+executed first program 10 may 1950 number later computers around world owe much including english electric deuce american bendix g-15
+full version turing's ace built until after death
+according memoirs german computer pioneer heinz billing max planck institute physics published genscher düsseldorf there meeting alan turing konrad zuse
+took place göttingen 1947
+interrogation form colloquium
+participants womersley turing porter england few german researchers like zuse walther billing
+details see herbert bruderer konrad zuse und die schweiz
+1948 turing appointed reader mathematics department victoria university manchester
+1949 became deputy director computing machine laboratory there working software earliest stored-programme computers—the manchester mark
+during time continued abstract work mathematics computing machinery intelligence mind october 1950 turing addressed problem artificial intelligence proposed experiment became known turing test attempt define standard machine called intelligent
+idea computer think human interrogator tell apart through conversation human being
+paper turing suggested rather building programme simulate adult mind better rather produce simpler simulate child's mind then subject course education
+reversed form turing test widely used internet captcha test intended determine whether user human computer
+1948 turing working former undergraduate colleague
+champernowne began writing chess program computer yet exist
+1950 programme completed dubbed turochamp
+1952 tried implement ferranti mark lacking enough power computer unable execute programme
+instead turing played game simulated computer taking half hour per move
+game recorded
+program lost turing's colleague alick glennie although won game against champernowne's wife
+turing test significant characteristically provocative lasting contribution debate regarding artificial intelligence continues after half century
+also invented lu decomposition method 1948 used today solving matrix equations
+pattern formation mathematical biology towards end life turing turned mathematical biology publishing chemical basis morphogenesis 1952
+interested morphogenesis development patterns shapes biological organisms
+central interest field understanding fibonacci phyllotaxis existence fibonacci numbers plant structures
+suggested system chemicals reacting each other diffusing across space termed reaction-diffusion system account main phenomena morphogenesis
+instability system partial differential equations used model system allows small random perturbations homogeneous initial state drive development patterns
+though published before even structure role dna understood turing's work morphogenesis remains relevant today considered seminal piece work mathematical biology
+experiments suggest turing's work partially explain growth feathers hair follicles branching pattern lungs even left-right asymmetry puts heart left side chest
+sheth et al
+found mice removal hox genes causes increase number digits without increase overall size limb suggesting hox genes control digit formation tuning wavelength turing-type mechanism
+later papers though promised available until collected works
+turing published 1992
+conviction indecency january 1952 turing then 39 started relationship arnold murray 19-year-old unemployed man
+turing met murray just before christmas outside regal cinema walking down manchester's oxford road invited lunch
+23 january turing's house burgled
+murray turing burglar acquaintance turing reported crime police
+during investigation acknowledged sexual relationship murray
+homosexual acts criminal offences united kingdom time both men charged gross indecency under section criminal law amendment act 1885
+initial committal proceedings trial held 27 february during turing's solicitor reserved defence
+later convinced advice brother own solicitor turing entered plea guilty
+case regina v
+turing murray brought trial 31 march 1952
+turing convicted given choice imprisonment probation conditional agreement undergo hormonal treatment designed reduce libido
+accepted option treatment via injections then called stilboestrol now known diethylstilbestrol des synthetic oestrogen treatment continued course year
+treatment rendered turing impotent caused gynaecomastia fulfilling literal sense turing's prediction no doubt shall emerge different man quite i've found out
+murray given conditional discharge
+turing's conviction led removal security clearance barred continuing cryptographic consultancy government communications headquarters gchq british signals intelligence agency evolved gc&cs 1946 though kept academic job
+denied entry united states after conviction 1952 free visit other european countries even though viewed security risk
+time there acute public anxiety homosexual entrapment spies soviet agents because recent exposure first two members cambridge five guy burgess donald maclean kgb double agents
+turing never accused espionage common worked bletchley park prevented official secrets act discussing war work
+death june 1954 turing's housekeeper found dead
+died previous day
+post-mortem examination established cause death cyanide poisoning
+body discovered apple lay half-eaten beside bed although apple tested cyanide speculated means fatal dose consumed
+inquest determined committed suicide cremated woking crematorium 12 june 1954
+turing's ashes scattered there just father's
+alternative death theories philosophy professor jack copeland questioned various aspects coroner's historical verdict
+suggests alternative explanation cause turing's death being accidental inhalation cyanide fumes apparatus gold electroplating spoons uses potassium cyanide dissolve gold
+turing such apparatus set up tiny spare room
+copeland notes autopsy findings consistent inhalation ingestion poison
+turing also habitually ate apple before bed unusual discarded half-eaten
+addition turing reportedly borne legal setbacks hormone treatment discontinued year previously good humour shown no sign despondency prior death setting down fact list tasks intended complete upon return office after holiday weekend
+time turing's mother believed ingestion accidental resulting her son's careless storage laboratory chemicals
+biographer andrew hodges suggests turing may arranged cyanide experiment deliberately give mother plausible deniability
+andrew hodges another biographer david leavitt both suggested turing re-enacting scene walt disney film snow white seven dwarfs 1937 favourite fairy tale both noting leavitt's words took especially keen pleasure scene wicked queen immerses her apple poisonous brew
+recognition tributes biography published royal society shortly after turing's death while wartime work still subject official secrets act recorded three remarkable papers written just before war three diverse mathematical subjects show quality work might produced settled down work big problem critical time
+work foreign office awarded obe
+since 1966 turing award given annually association computing machinery technical theoretical contributions computing community
+widely considered computing world's highest honour equivalent nobel prize
+blue plaque marking turing's home wilmslow cheshire 23 june 1998 turing's 86 th birthday biographer andrew hodges unveiled official english heritage blue plaque birthplace childhood home warrington crescent london later colonnade hotel
+mark 50 th anniversary death memorial plaque unveiled 7 june 2004 former residence hollymeade wilmslow cheshire
+13 march 2000 saint vincent grenadines issued set postage stamps celebrate greatest achievements 20 th century carries portrait turing against background repeated 0 s s captioned 1937 alan turing's theory digital computing
+april 2003 turing's work bletchley park named ieee milestone
+28 october 2004 bronze statue alan turing sculpted john w
+mills unveiled university surrey guildford marking 50 th anniversary turing's death portrays carrying books across campus
+2006 boston pride named turing their honorary grand marshal
+turing four mathematicians examined bbc documentary entitled dangerous knowledge 2008
+princeton alumni weekly named turing second most significant alumnus history princeton university second president james madison
+5-ton life-size statue turing unveiled 19 june 2007 bletchley park
+built approximately half million pieces welsh slate sculpted stephen kettle having commissioned american billionaire sidney frank
+turing honoured various ways manchester city worked towards end life
+1994 stretch a6010 road manchester city intermediate ring road named alan turing way
+bridge carrying road widened carries name alan turing bridge
+statue turing unveiled manchester 23 june 2001 sackville park university manchester building whitworth street canal street
+memorial statue depicts father computer science sitting bench central position park
+turing shown holding apple
+cast bronze bench carries relief text 'alan mathison turing 1912–1954' motto 'founder computer science' appear encoded enigma machine 'iekyf romsi adxuo kvkzc gubj'
+turing memorial statue plaque sackville park manchester plaque statue's feet reads 'father computer science mathematician logician wartime codebreaker victim prejudice'
+there also bertrand russell quotation mathematics rightly viewed possesses truth supreme beauty — beauty cold austere like sculpture
+sculptor buried own old amstrad computer under plinth tribute godfather modern computers
+1999 time magazine named turing 100 most important people 20 th century stated fact remains everyone taps keyboard opening spreadsheet word-processing program working incarnation turing machine
+2002 new building named after alan turing constructed malvern site qineti q
+houses 200 scientists engineers whom work big data computing
+2002 turing ranked twenty-first bbc nationwide poll 100 greatest britons
+2006 british writer mathematician ioan james chose turing twenty people feature book famous historical figures may traits asperger syndrome
+2010 actor/playwright jade esteban estrada portrayed turing solo musical icons lesbian gay history world vol
+2011 guardian's my hero series writer alan garner chose turing hero described how met whilst out jogging early 1950 s
+garner remembered turing funny witty talked endlessly
+2006 alan turing named online resources lgbt history month icon
+alan turing memorial statue sackville park manchester february 2011 turing's papers second world war bought nation th-hour bid national heritage memorial fund allowing them stay bletchley park
+logo apple inc
+often erroneously referred tribute alan turing bite mark reference death
+both designer logo company deny there any homage turing design
+stephen fry recounted asking steve jobs whether design intentional saying jobs' response god wish
+turing rainbow festival held madurai india celebrating lgbt genderqueer cause named honour alan turing gopi shankar srishti madurai
+also turing inducted legacy walk outdoor public display celebrates lgbt history people
+francophone singer-songwriter salvatore adamo made tribute turing song alan et pomme
+turing's life work featured bbc children's programme famous scientists absolute genius dick dom episode first broadcast 12 march 2014
+17 may 2014 world's first work public art recognise alan turing gay commissioned bletchley close bletchley park war-time work carried out
+commission announced owners milton keynes-based lgbt venue nightclub pink punters mark international day against homophobia transphobia
+work unveiled ceremony turing's birthday 23 june 2014 placed outside pink punter's alongside busy watling street old main road london turing himself passed many occasions
+october 2014 turing inducted nsa hall honor
+tributes universities research institutions computer room king's college cambridge alan turing's alma mater called turing room
+turing room university edinburgh's school informatics houses bust turing eduardo paolozzi set no
+42/50 turing prints 2000
+university surrey statue turing their main piazza buildings faculty engineering physical sciences named after
+istanbul bilgi university organises annual conference theory computation called turing days
+university texas austin honours computer science programme named turing scholars
+early 1960 s stanford university named sole lecture room polya hall mathematics building alan turing auditorium
+amphitheatres computer science department lifl university lille northern france named honour alan m
+turing other amphitheatre named after kurt gödel
+alan turing building university manchester department computer science pontifical catholic university chile university buenos aires polytechnic university puerto rico los andes university bogotá colombia king's college cambridge bangor university wales universities ghent mons belgium university turin università degli studi di torino university puerto rico humacao keele university university washington computer laboratories named after turing
+[citation needed] university manchester open university oxford brookes university aarhus university aarhus denmark buildings named after turing
+[citation needed] alan turing road surrey research park alan turing way part manchester inner ring road named after alan turing
+carnegie mellon university granite bench situated hornbostel mall name
+turing carved across top read down left leg write down other
+école internationale des sciences du traitement de l'information named third building turing
+[citation needed] university oregon bust turing side deschutes hall computer science building
+école polytechnique fédérale de lausanne road square named after alan turing chemin de alan turing place de alan turing
+faculty informatics information technologies slovak university technology bratislava slovakia lecture room named turing auditorium
+paris diderot university lecture room named amphithéâtre turing
+[citation needed] paul sabatier university lecture room named amphithéâtre turing bâtiment u4
+department computer science college engineering guindy named lecture hall turing hall
+[citation needed] faculty mathematics computer science university würzburg lecture hall named turing hörsaal
+largest conference hall amsterdam science park named turingzaal
+summer 2014 king's college london's school natural mathematical sciences awarded alan turing centenary prize student
+achieved outstanding academic performance also made significant contribution life [the department]
+[citation needed] university kent will open brand new college named turing college their canterbury campus provide 800 new rooms accommodate undergraduate postgraduate students keep up increased demand 'on campus living'
+scientist george mc vittie honorary professor kent 1972 1988 worked alan turing bletchley park
+[citation needed] campus école polytechnique building named after alan turing research centre whose premises shared école polytechnique inria microsoft
+university toronto developed turing programming language 1982 named after alan turing faculty exact sciences university buenos aires computer laboratory named after alan turing
+government apology pardon august 2009 john graham-cumming started petition urging british government apologise turing's prosecution homosexual
+petition received 30000 signatures
+prime minister gordon brown acknowledged petition releasing statement 10 september 2009 apologising describing treatment turing appalling thousands people come together demand justice alan turing recognition appalling way treated
+while turing dealt under law time can't put clock back treatment course utterly unfair am pleased chance say how deeply sorry happened
+behalf british government those live freely thanks alan's work am very proud say we're sorry you deserved much better
+december 2011 william jones created e-petition requesting british government pardon turing conviction gross indecency ask hm government grant pardon alan turing conviction gross indecency
+1952 convicted gross indecency another man forced undergo so-called organo-therapy chemical castration
+two years later killed himself cyanide aged just 41
+alan turing driven terrible despair early death nation he'd done much save
+remains shame british government british history
+pardon go way healing damage
+may act apology many other gay men well-known alan turing subjected these laws
+petition gathered over 37000 signatures request discouraged lord mc nally gave following opinion role justice minister posthumous pardon considered appropriate alan turing properly convicted time criminal offence
+known offence against law prosecuted
+tragic alan turing convicted offence now seems both cruel absurd—particularly poignant given outstanding contribution war effort
+however law time required prosecution such long-standing policy accept such convictions took place rather trying alter historical context put right cannot put right ensure instead never again return those times
+july bill introduced house lords grant statutory pardon turing offences under section criminal law amendment act 1885 convicted 31 march 1952
+late year letter daily telegraph physicist stephen hawking 10 other signatories including astronomer royal lord rees president royal society sir paul nurse lady trumpington worked turing during war lord sharkey bill's sponsor called prime minister david cameron act pardon request
+government indicated support bill passed third reading lords october
+wikinews related news alan turing given posthumous pardon before bill debated house commons government elected proceed under royal prerogative mercy
+24 december 2013 queen elizabeth ii signed pardon turing's conviction gross indecency immediate effect
+announcing pardon justice secretary chris grayling turing deserved remembered recognised fantastic contribution war effort later criminal conviction
+queen officially pronounced turing pardoned august 2014
+queen's action fourth royal pardon granted since conclusion second world war
+case unusual pardons normally granted person technically innocent request made family other interested party
+neither condition met regard turing's conviction
+letter prime minister david cameron after announcement pardon human rights advocate peter tatchell criticised decision single out turing due fame achievements thousands others convicted under same law received pardons
+tatchell also called new investigation turing's death new inquiry long overdue even dispel any doubts true cause death including speculation murdered security services others
+think murder state agents unlikely
+there no known evidence pointing any such act
+however major failing possibility never considered investigated
+centenary celebrations main article alan turing year david chalmers stage alan turing year conference de salle university manila 27 march mark 100 th anniversary turing's birth turing centenary advisory committee tcac co-ordinated alan turing year year-long programme events around world honouring turing's life achievements
+tcac chaired s
+barry cooper alan turing's nephew sir john dermot turing acting honorary president worked university manchester faculty members broad spectrum people cambridge university bletchley park
+23 june google featured interactive doodle visitors change instructions turing machine run symbols tape match provided sequence featuring google baudot-murray code
+bletchley park trust collaborated winning moves publish alan turing edition board game monopoly
+game's squares cards revised tell story alan turing's life birthplace maida vale hut bletchley park
+game also includes replica original hand-drawn board created william newman son turing's mentor max newman turing played 1950 s
+philippines department philosophy de salle university-manila hosted turing international conference philosophy artificial intelligence cognitive science 27 28 march commemorate centenary birth turing
+madurai india held celebrations conjunction asia's first gay pride festival programme attended 6000 students
+uk celebrations london olympic torch flame passed front turing's statue manchester 100 th birthday
+there three-day conference manchester june two-day conference san francisco organised acm birthday party turing centenary conference cambridge organised king's college cambridge university cambridge latter organised association computability europe
+science museum london launched free exhibition devoted turing's life achievements june run until july 2013
+february royal mail issued stamp featuring turing part britons distinction series
+london olympic torch flame passed front turing's statue sackville gardens manchester evening 23 june 100 th anniversary birth
+june manchester city council partnership lesbian gay foundation launched alan turing memorial award will recognise individuals groups made significant contribution fight against homophobia manchester
+university oxford new course computer science philosophy established coincide centenary turing's birth
+previous events included celebration turing's life achievements university manchester arranged british logic colloquium british society history mathematics 5 june 2004
+portrayal adaptations theatre benedict cumberbatch portrayed turing 2014 film imitation game breaking code 1986 play hugh whitemore alan turing
+play ran london's west end beginning november 1986 broadway 15 november 1987 10 april 1988
+there also 1996 bbc television production broadcast united states pbs
+three performances turing played derek jacobi
+broadway production nominated three tony awards including best actor play best featured actor play best direction play two drama desk awards best actor best featured actor
+turing again portrayed jacobi 1996 television film adaptation breaking code
+honour turing centennial american lyric theater commissioned operatic exploration life death alan turing composer justine f
+chen librettist david simpatico
+titled life deaths alan turing opera historical fantasia life brilliant scientist
+opera will receive concert performance october 2015 new york city
+november 2014 opera several other artistic works inspired turing's life featured studio 360
+literature turing featured neal stephenson novel cryptonomicon 1999
+2006 novel madman dreams turing machines contrasts fictionalised accounts lives ideas turing kurt gödel
+2015 novel speak written louisa hall includes series fictional letters written turing best friend's mother throughout life detailing research artificial intelligence
+music electronic music duo matmos released ep titled alan turing 2006 based material commissioned dr
+robert osserman david elsenbud mathematical sciences research institute
+tracks original enigma machine sampled
+spanish group hidrogenesse dedicated their lp un dígito binario dudoso
+recital para alan turing dubious binary digit
+concert alan turing memory mathematician
+musical work inspired turing's life written neil tennant chris lowe pet shop boys entitled man future announced late 2013
+performed pet shop boys juliet stevenson narrator bbc singers bbc concert orchestra conducted dominic wheeler bbc proms royal albert hall 23 july 2014
+codebreaker also title choral work composer james mc carthy
+includes settings texts poets wilfred owen sara teasdale walt whitman oscar wilde robert burns used illustrate aspects turing's life
+premiered april 2014 barbican centre london performed hertfordshire chorus commissioned work led david temple soprano soloist naomi harvey providing voice turing's mother
+film drama-documentary codebreaker turing's life aired uk's channel 4 november 2011 released us october
+also known britain's greatest codebreaker
+film features ed stoppard turing henry goodman franz greenbaum
+historical drama film imitation game directed morten tyldum starring benedict cumberbatch turing keira knightley joan clarke released uk 14 november 2014 released theatrically us 28 november 2014
+alan turing breaking enigma code other codebreakers bletchley park
+awards honours turing elected fellow royal society frs 1951
+addition several things named honour
+biography portal logic portal good–turing frequency estimation turing completeness turing degree turing institute turing lecture turing machine examples turing patterns turing reduction turing switch unorganised machine notes alan turing mathematics genealogy project c newman m
+alan mathison turing
+biographical memoirs fellows royal society 253–226
+jstor 769256
+gray paul 29 march 1999
+alan turing time 100 people century
+time magazine
+providing blueprint electronic digital computer
+fact remains everyone taps keyboard opening spreadsheet word-processing program working incarnation turing machine
+sipser 2006 p
+137 beavers 2013 p
+481 see copeland jack 18 june
+alan turing codebreaker saved 'millions lives'
+bbc news technology
+retrieved october 2014
+number sources state winston churchill turing made single biggest contribution allied victory war against nazi germany
+however both churchill centre turing's biographer andrew hodges know no documentary evidence support claim nor date context churchill supposedly churchill centre lists among their churchill 'myths'
+see schilling jonathan
+churchill turing made single biggest contribution allied victory
+churchill centre myths
+retrieved 9 january 2015
+hodges andrew
+part 4 relay race
+update alan turing enigma
+retrieved 9 january 2015
+bbc news profile piece repeated churchill claim subsequently amended say there no evidence
+see spencer clare september 2009
+profile alan turing
+bbc news
+update 13 february 2015 leavitt 2007 pp
+231–233 pease roland june
+alan turing inquest's suicide verdict 'not supportable'
+bbc news
+retrieved 25 december 2013
+royal pardon codebreaker alan turing
+bbc news
+24 december 2013
+retrieved 24 december 2013
+alan turing granted royal pardon queen
+c wright oliver 23 december 2013
+alan turing gets royal pardon 'gross indecency' 61 years after poisoned himself
+independent london
+hodges 1983 p
+5 alan turing internet scrapbook
+retrieved 2 january
+phil maguire irishman's diary page 5
+irish times 23 june
+london blue plaques
+english heritage
+archived original 13 september 2009
+retrieved 10 february 2007
+scientific tourist london #17 alan turing's birth place nature
+com london blog plaque #381 open plaques
+alan turing internet scrapbook
+retrieved september 2006
+hodges 1983 p
+6 baston lodge
+jones g
+james december 2001
+alan turing towards digital mind part
+system toolbox
+archived original 3 august 2007
+retrieved 27 july 2007
+guildford dragon news
+guildford dragon
+29 november
+retrieved 31 october 2013
+hofstadter douglas r
+metamagical themas questing essence mind pattern
+basic books
+oclc 230812136
+hodges 1983 p
+hodges 1983 p
+34 caryl christian 19 december 2014
+poor imitation alan turing
+new york review books
+rachel hassall 'the sherborne formula making alan turing' 'vivat!' 2012/13 teuscher christof ed
+alan turing life legacy great thinker
+oclc 53434737
+hodges 1983 p
+61 paul gray alan turing time magazine's most important people century p
+2 hodges 1983 pp
+82–83 see section 3 john aldrich england continental probability inter-war years journal electronique d'histoire des probabilités et de statistique vol
+5/2 decembre 2009 journal electronique d'histoire des probabilités et de statistique hodges 1983 pp
+8894 turing 1937 church 1936 grime james february
+turing us?
+university cambridge
+retrieved 28 february 2016
+von neumann
+firmly emphasised me others am sure fundamental conception owing turing—insofar anticipated babbage lovelace others
+letter stanley frankel brian randell 1972 quoted jack copeland 2004 essential turing p22
+hodges 1983 p
+138 turing
+systems logic based ordinals
+proceedings london mathematical society
+s2-45 161–228
+turing alan 1938
+systems logic based ordinals ph thesis
+princeton university
+systems logic based ordinals pdf
+hodges 1983 p
+152 cora diamond ed
+wittgenstein's lectures foundations mathematics university chicago press 1976 hodges 1983 pp
+153–154 briggs asa 21 november 2011
+britain's greatest codebreaker tv broadcast
+uk channel 4
+copeland jack colossus dawning computer age p
+352 action day 2001
+copeland 2004 p
+217 clark liat 18 june
+turing's achievements codebreaking ai birth computer science wired uk
+retrieved 31 october 2013
+copeland 2006 p
+turing alan c
+applications probability cryptography
+national archives united kingdom hw 25/37
+turing alan c
+paper statistics repetitions
+national archives united kingdom hw 25/38
+vallance chris 19 april
+alan turing papers code breaking released gchq
+bbc news
+retrieved 20 april
+hodges 1983 p
+208 lewin 1978 p
+57 brown anthony cave 1975
+bodyguard lies extraordinary true story behind d-day
+lyons press
+graham-cumming john 10 march 2010
+olympic honour alan turing
+london guardian
+butcher pat 14 september 2009
+praise great men
+globe runner
+hodges andrew
+alan turing short biography
+retrieved 12 june 2014
+graham-cumming john 10 march 2010
+alan turing short biography
+retrieved 12 june 2014
+external link |publisher= help butcher pat december 1999
+turing runner
+mac tutor history mathematics archive
+retrieved 12 june 2014
+alan turing colleagues share their memories
+bbc news
+23 june
+heroes world war ii tv series 2004–
+professor jack good men cracked enigma 2003 caveat my memory correct
+oakley 2006 p
+40/03 hodges 1983 p
+218 hodges 1983 p
+221 copeland essential turing pp
+copeland jack proudfoot diane may 2004
+alan turing codebreaker computer pioneer
+retrieved 27 july 2007
+bletchley park unveils statue commemorating alan turing
+retrieved 30 june 2007
+c mahon 1945 p
+14 leavitt 2007 pp
+184–186 leavitt 2007 pp
+176–178 hodges 1983 pp
+242–245 bombe project history may
+retrieved 2 may
+hodges 1983 pp
+245–253 alexander circa 1945 p
+42 copeland 2006 p
+380 copeland 2006 p
+381 copeland 2006 p
+72 gannon 2007 p
+230 hilton 2006 pp
+197–199 copeland 2006 pp
+382 383 hodges 1983 pp
+245–250 hodges 1983 p
+273 hodges 1983 p
+346 plaque #1619 open plaques
+copeland 2006 p
+108 randell 1980
+history computing twentieth century colossus pdf
+retrieved 27 january
+citing womersley j
+13 february 1946
+'ace' machine project
+executive committee national physical laboratory teddington middlesex
+see copeland 2004 pp
+410–432 turing npl
+bruderer herbert
+alan turing interrogate konrad zuse göttingen 1947? pdf
+retrieved 7 february 2013
+rounding-off errors matrix processes
+quarterly journal mechanics applied mathematics 287–308
+harnad stevan 2008 annotation game turing 1950 computing machinery intelligence
+epstein robert & peters grace eds
+parsing turing test philosophical methodological issues quest thinking computer
+springer clark liat
+turing's achievements codebreaking ai birth computer science
+retrieved november 2013
+alan turing vs alick glennie 1952 turing test chessgames
+com pinar saygin
+akman v
+turing test 50 years later
+minds machines 10 4 463–518
+spice 2 3 beyond
+intusoft newsletter august 2003
+16 august 2001
+archived original june 2011
+retrieved 29 may 2011
+clark liat ian steadman 18 june
+turing's achievements codebreaking ai birth computer science
+retrieved 12 february 2013
+turing alan m
+14 august 1952
+chemical basis morphogenesis
+philosophical transactions royal society london 237 641
+turing's last lost work wayback machine archived 23 august 2003 vogel g
+turing pattern fingered digit formation
+science 338 6113 1406
+pmid 23239707
+sheth r
+marcon l
+bastida m
+junco m
+quintana l
+dahn r
+kmita m
+sharpe j
+ros m
+hox genes regulate digit patterning controlling wavelength turing-type mechanism
+science 338 6113 1476–1480
+pmid 23239739
+andrew hodges
+alan turing bibliography
+retrieved 27 july 2015
+hodges 1983 p
+458 leavitt 2007 p
+268 hodges andrew 27 may
+alan turing enigma
+hodges andrew 27 may
+alan turing enigma
+hodges andrew
+alan turing enigma centenary edition
+princeton university
+turing alan 1952
+letters note yours distress alan
+archived original 16 december
+hodges andrew 27 may
+alan turing enigma
+hodges 1983 p
+473 leavitt 2007 p
+269 copeland 2006 p
+143 hodges 1983 p
+488 hodges 1983 p
+529 pease roland 23 june
+alan turing inquest's suicide verdict 'not supportable'
+bbc news online
+retrieved 23 june
+recreating narrative turing's life recreated unhappy young man committed suicide
+evidence there letter robin gandy 28 july 1954 http//www
+aspx hodges 1983 pp
+488 489 leavitt 2007 p
+140 hodges 1983 pp
+149 489 geringer steven 27 july 2007
+acm's turing award prize raised $250000
+acm press release
+retrieved 16 october 2008
+unveiling official blue plaque alan turing's birthplace
+retrieved september 2006
+plaque alan turing
+archived original 13 october 2007
+retrieved 25 september 2006
+plaque #3276 open plaques
+ieee history center 2003
+milestones code-breaking bletchley park during world war ii 1939–1945
+ieee global history network
+retrieved 29 march
+earl wessex unveils statue alan turing
+retrieved 10 february 2007
+boston pride honorary grand marshal wayback machine archived 19 june 2006 dangerous knowledge
+bbc four
+june 2008
+retrieved 25 september 2009
+bletchley park unveils statue commemorating alan turing bletchley park press release 20 june 2007
+computer buried tribute genius
+manchester evening news
+17 february 2007
+retrieved 7 december 2014
+100 great british heroes
+bbc news
+21 august 2002
+james ioan m
+asperger's syndrome high achievement
+jessica kingsley
+garner alan 12 november 2011
+my hero alan turing
+saturday guardian review london
+retrieved 23 november 2011
+alan turing
+lgbthistory month
+20 august 2011
+retrieved 15 january 2014
+halliday josh 25 february 2011
+turing papers stay uk after th-hour auction bid
+guardian uk
+retrieved 29 may 2011
+logos became legends icons world advertising
+independent uk
+4 january 2008
+archived original 3 october 2009
+retrieved 14 september 2009
+interview rob janoff designer apple logo
+retrieved 14 september 2009
+leavitt 2007 p
+280 turing apple logo
+25 july 2015
+retrieved 25 december 2015
+science & environment alan turing separating man myth
+retrieved 23 june
+30 july
+cities / madurai madurai comes out closet
+chennai india hindu
+retrieved 10 october
+salvo victor // legacy project
+retrieved november 2014
+photos 7 lgbt heroes honored plaques chicago's legacy walk
+retrieved november 2014
+kamiab farbod 20 november
+alan et pomme salvatore adamo video upload
+you tube
+google inc
+retrieved december 2013
+hall honor inductee alan turing nsa/css
+national security agency
+october 2014
+retrieved november 2014
+2014 press release five cryptologists added nsa/css cryptologic hall honor
+national security agency
+october 2014
+retrieved november 2014
+king's college cambridge
+retrieved 12 may 2014
+turing prints 2000
+24 september 2000
+retrieved 31 october 2013
+earl wessex unveils statue alan turing
+university surrey
+retrieved 24 december 2013
+celebration code breaker alan turing
+university surrey
+archived original 25 december 2013
+retrieved 24 december 2013
+imitation game 10 surprising facts bletchley park genius alan turing
+retrieved 17 april 2015
+turing scholars program university texas austin
+retrieved 17 may 2015
+polya hall stanford university pdf
+retrieved 14 june 2011
+laboratoire d'informatique fondamentale de lille
+retrieved 3 december 2010
+cooksey katie 24 december 2013
+alan turing manchester celebrates pardoned genius
+bbc news
+retrieved 24 december 2013
+turing bench carnegie mellon university pittsburgh pa usa
+turing university oregon
+retrieved november 2011
+turing epfl
+retrieved 6 january
+lecture rooms
+retrieved 28 february 2015
+paul sabatier university campus map turing hörsaal university würzburg
+retrieved 21 july 2014
+facilities / catering conference
+amsterdam science park
+retrieved january 2015
+thousands call turing apology
+bbc news
+31 august 2009
+retrieved 31 august 2009
+petition seeks apology enigma code-breaker turing
+september 2009
+archived original 5 october 2009
+retrieved september 2009
+c davies caroline september 2009
+pm's apology codebreaker alan turing inhumane
+guardian uk
+petition open uk citizens
+pm apology after turing petition
+bbc news
+september 2009
+full text prime minister's apology
+c grant pardon alan turing
+6 december 2011
+petition pardon computer pioneer alan turing started
+bbc news
+6 december 2011
+wainwright martin 7 february
+government rejects pardon computer genius alan turing
+2 february
+retrieved 31 october 2013
+pearse damian alan turing should pardoned argue stephen hawking top scientists guardian 13 december
+retrieved 15 december
+watt nicholas 19 july 2013
+enigma codebreaker alan turing given posthumous pardon
+guardian london
+worth dan 30 october 2013
+alan turing pardon sails through house lords
+retrieved 24 december 2013
+alan turing statutory pardon bill
+retrieved 20 july 2013
+roberts scott 2 december 2013
+lib dem mp john leech disappointed delay alan turing pardon bill
+pink news
+alan turing statutory pardon bill
+retrieved 24 december 2013
+queen's decree alan turing now officially pardoned
+retrieved november 2014
+pardoned alan turing computing patriarch
+time magazine vol
+183 no
+13 january 2014 p
+retrieved 6 january 2014
+davies caroline 24 december 2013
+codebreaker turing given posthumous royal pardon
+guardian london guardian news media
+tatchell peter g 24 december 2013
+alan turing murdered security services?
+retrieved 29 december 2013
+ward alex 29 december 2013
+daily mail 29 december 2013
+london dailymail
+retrieved 15 january 2014
+google doodle honors alan turing
+retrieved 23 june
+special monopoly edition celebrates alan turing's life
+bbc news technology
+10 september
+retrieved 10 september
+bletchley park launches special edition alan turing monopoly board
+retrieved 13 september
+dlsu host int'l summit philosophy
+24 march
+retrieved 18 december 2013
+layug-rosero regina 21 april
+thinking machine philosophical analysis singularity
+gma news online
+retrieved 18 december 2013
+shankar m
+gopi 5 july
+making themselves heard
+hindu chennai india
+retrieved 31 october 2013
+northerner alan turing computer pioneer centenary marked year celebrations
+23 february 2011
+retrieved 29 may 2011
+cellan-jones rory rooney curator david 18 june
+enigma? first look alan turing exhibition report video preview
+bbc news online
+retrieved 23 june
+cutlack gary 2 january
+codebreaker alan turing gets stamp approval
+retrieved 2 january
+anon june
+centenary award tribute enigma codebreaker alan turing
+manchester evening news manchester men media
+retrieved june
+computer science philosophy
+university oxford
+retrieved 23 june 2013
+new undergraduate degree course first students having started centenary alan turing's birth
+bshm meetings 1992–2007
+retrieved 24 december 2013
+alan turing multitude lives fiction
+23 june
+life deaths alan turing new opera american lyric theater
+alan turing man myth studio 360
+holt jim 3 september 2006 obsessive-genius disorder new york times
+review 'speak' louisa hall
+chicago tribune
+retrieved 31 january 2016
+waldman katy
+‘speak’ louisa hall
+ny times
+retrieved 31 january 2016
+[matmos release alan turing
+vague terrain
+retrieved 5 february 2015
+sheppard justin 7 september 2006
+track review matmos — enigma machine alan turing
+prefix mag
+retrieved 5 february 2015
+rodríguez ramos javier 29 may
+hidrogenesse 'un dígito binario dudoso'
+el país — cultura spanish
+grupo prisa
+retrieved 5 february 2015
+portwood jerry 13 september
+pet shop boys working alan turing project
+out magazine
+here media
+retrieved 29 december 2013
+bbc radio 3 bbc proms 2014 season prom pet shop boys
+retrieved november 2014
+hertfordshire chorus james mc carthy codebreaker life music
+bbc music magazine
+retrieved 14 november 2014
+codebreaker you tube codebreaker
+retrieved december 2013
+brooks brian
+'the imitation game' will stuff theaters holiday weekend specialty box office preview
+charles mc grath 30 october 2014
+riddle unlocked enigma 'the imitation game' dramatises story alan turing
+new york times
+retrieved 2 november 2014
+walters ben 9 october 2014
+imitation game queerest thing hit multiplexes years?
+retrieved 14 november 2014
+bradshaw peter 13 november 2014
+imitation game review cumberbatch cracks biopic code
+retrieved 14 november 2014
+references agar jon 2001
+turing universal machine
+duxford icon
+agar jon 2003
+government machine revolutionary history computer
+cambridge massachusetts mit press
+alexander c
+hugh o'd
+cryptographic history work german naval enigma
+national archives kew reference hw 25/1
+beavers anthony 2013
+alan turing mathematical mechanist
+cooper s
+barry van leeuwen jan
+alan turing work impact
+waltham elsevier
+beniger james 1986
+control revolution technological economic origins information society
+cambridge massachusetts harvard university press
+babbage charles 1864
+campbell-kelly martin ed
+passages life philosopher
+rough draft printing published 2008
+bodanis david 2005
+electric universe how electricity switched modern world
+new york three rivers press
+oclc 61684223
+bruderer herbert konrad zuse und die schweiz
+wer hat den computer erfunden? charles babbage alan turing und john von neumann oldenbourg verlag münchen xxvi 224 seiten campbell-kelly martin aspray william 1996
+computer history information machine
+new york basic books
+ceruzzi paul 1998
+history modern computing
+cambridge massachusetts london mit press
+chandler alfred 1977
+visible hand managerial revolution american business
+cambridge massachusetts belknap press
+church alonzo 1936
+unsolvable problem elementary number theory
+american journal mathematics 58 2 345
+issn 0002-9327
+jstor 2371045
+cooper s
+barry van leeuwen jan 2013
+alan turing work impact
+new york elsevier
+jack 2004
+colossus origins originators
+ieee annals history computing 4 38–45
+jack ed
+essential turing
+oxford oxford university press
+oclc 156728127
+copeland ed
+jack 2005
+alan turing's automatic computing engine
+oxford oxford university press
+oclc 224640979
+jack 2006
+colossus secrets bletchley park's code-breaking computers
+oxford university press
+hilton peter 2006
+living fish breaking tunny newmanry testery
+copeland 2006 pp
+189–203 edwards paul n 1996
+closed world computers politics discourse cold war america
+cambridge massachusetts mit press
+gannon paul 2007
+colossus bletchley park's greatest secret
+london atlantic books
+hodges andrew 1983
+alan turing enigma
+london burnett books
+hochhuth rolf 1988
+alan turing en berättelse
+leavitt david 2007
+man knew too much alan turing invention computer
+levin janna 2006
+madman dreams turing machines
+new york knopf
+lewin ronald 1978
+ultra goes war secret story
+classic military history classic penguin ed
+london england hutchinson & co published 2001
+lubar steven 1993
+boston massachusetts new york houghton mifflin
+history hut eight 1939–1945
+uk national archives reference hw 25/2
+retrieved 10 december 2009
+oakley brian ed
+bletchley park war diaries july 1939 — august 1945 2
+6 ed
+wynne press
+o'connell h fitzgerald m 2003
+alan turing asperger's syndrome?
+irish journal psychological medicine irish institute psychological medicine 20 28–31
+issn 0790-9667
+o'connor john j
+robertson edmund f
+alan mathison turing mac tutor history mathematics archive university st andrews
+petzold charles 2008
+annotated turing guided tour through alan turing's historic paper computability turing machine
+indianapolis wiley publishing
+smith roger 1997
+fontana history human sciences
+london fontana
+sipser michael 2006
+introduction theory computation
+pws publishing
+weizenbaum joseph 1976
+computer power human reason
+london w
+1937 [delivered society november 1936]
+computable numbers application entscheidungsproblem pdf
+proceedings london mathematical society
+2 42
+computable numbers application entscheidungsproblem correction
+proceedings london mathematical society
+2 43 1937
+turing sara stoney 1959
+alan m turing
+w heffer
+turing's mother survived many years 157-page biography her son glorifying life
+published 1959 cover war work
+scarcely 300 copies sold sara turing lyn newman 1967 library st john's college cambridge
+six-page foreword lyn irvine includes reminiscences frequently quoted
+re-published cambridge university press honour centenary birth included new foreword martin davis well never-before-published memoir turing's older brother john f
+whitemore hugh hodges andrew 1988
+breaking code
+1986 hugh whitemore play tells story turing's life death
+original west end broadway runs derek jacobi played turing recreated role 1997 television film based play made jointly bbc wgbh boston
+play published amber lane press oxford asin b000 b7 tm0 q williams michael r
+1985 history computing technology englewood cliffs new jersey prentice-hall yates david m
+turing's legacy history computing national physical laboratory 1945–1995
+london london science museum
+oclc 123794619
+further reading copeland
+jack ed
+mind computing machine alan turing others
+rutherford journal
+jack ed
+alan turing father modern computer
+rutherford journal
+hodges andrew 27 august 2007
+alan turing
+edward n
+zalta ed
+stanford encyclopedia philosophy winter 2009 ed
+stanford university
+retrieved 10 january 2011
+hodges andrew sayre david 1992
+review alan turing enigma
+physics today 37 107
+bibcode1984 ph t
+37 k
+107 h
+gray paul 29 march 1999
+computer scientist alan turing
+gleick james information history theory flood new york pantheon 2011 papers list publications microsoft academic search alan turing's publications indexed google scholar service provided google turing alan october 1950 computing machinery intelligence mind lix 236 433–460 doi10
+433 issn 0026-4423 retrieved 2008-08-18 oral history interview nicholas c
+metropolis charles babbage institute university minnesota
+metropolis first director computing services los alamos national laboratory topics include relationship alan turing john von neumann external links wikimedia commons media related alan turing
+wikiquote quotations related alan turing wikinews related news alan turing given posthumous pardon turing family house coonoor india podcast program turing made radio lab
+alan turing rkbexplorer alan turing year ci e turing centenary conference alan turing site maintained andrew hodges including short biography alan turing
+net turing archive history computing jack copeland turing archive contains scans unpublished documents material king's college cambridge archive jones g
+james december 2001
+alan turing towards digital mind part
+system toolbox binary freedom project
+happy 100 th birthday alan turing stephen wolfram
+sherborne school archives holds papers relating alan turing's time sherborne school alan turing plaques recorded openplaques
+org turing's treatise enigma prof's book codebreaker film official site turing codebreaker choral work you tube vte philosophy mind philosophers anscombe austin aquinas bain bergson bhattacharya block brentano broad burge chalmers churchland dennett dharmakirti davidson descartes goldman heidegger husserl fodor james kierkegaard leibniz lewis mc dowell merleau-ponty minsky moore nagel parfit putnam popper rorty ryle searle spinoza turing vasubandhu wittgenstein zhuangzi
+theories behaviorism biological naturalism dualism eliminative materialism emergent materialism epiphenomenalism functionalism idealism interactionism materialism monism naïve realism neutral monism phenomenalism phenomenology existential neurophenomenology physicalism identity theory pragmatism property dualism representational solipsism subjectivism substance dualism concepts abstract object artificial intelligence chinese room cognition cognitive closure concept concept object consciousness hard problem consciousness hypostatic abstraction idea identity ingenuity intelligence intentionality introspection intuition language thought materialism mental event mental image mental process mental property mental representation mind mind–body problem new mysterianism pain problem other minds propositional attitude qualia tabula rasa understanding zombie
+related topics metaphysics philosophy artificial intelligence / information / perception / self portal category task force discussion authority control world cat identities viaf 41887917 lccn n83171546 isni 0000 0001 1058 9902 gnd 118802976 selibr 254262 sudoc 030691621 bnf cb12205670 t data mgp 8014 ndl 00621580 nkc jn19990008646 bne xx945020

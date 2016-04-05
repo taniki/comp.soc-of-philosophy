@@ -1,0 +1,313 @@
+herbert paul grice born 1913-03-1313 march 1913 birmingham england ukdied 28 august 19881988-08-28 aged 75 berkeley california u
+alma mater corpus christi college oxford era 20 th-century philosophy region western philosophy school analytic philosophy main interests philosophy language semantics pragmatics metaphysics epistemology history philosophy notable ideas implicature · speaker meaning · gricean maxims · grice's paradox influences aristotle · peter strawson influenced peter strawson · john searle · stephen schiffer · dan sperber · deirdre wilson · stephen neale · jonathan bennett · kent bach · ernest lepore · stephen levinson herbert paul grice march 13 1913 august 28 1988 usually publishing under name h
+grice h
+paul grice paul grice british philosopher language spent final two decades career united states
+grice's work nature meaning influenced philosophical study semantics
+known theory implicature
+contents life 2 grice meaning 2
+natural vs
+non-natural meaning 2
+2 intention-based semantics 3 grice's theory implicature 3
+saying/implicating distinction 3
+2 conventional vs
+conversational implicature 3
+3 conversational implicature 3
+4 generalized vs
+particularlized conversational implicature 4 grice's paradox 5 criticisms examinations 6 notes 7 references further reading 9 external links life born raised harborne now suburb birmingham united kingdom educated clifton college then corpus christi college oxford
+after brief period teaching rossall school went back oxford taught st john's college until 1967
+year moved united states take up professorship university california berkeley taught until death 1988
+returned uk 1979 give john locke lectures aspects reason
+reprinted many essays papers valedictory book studies way words 1989
+married two children
+wife lived old spanish style house berkeley hills
+[citation needed] grice meaning grice's two most influential contributions study language communication theory meaning began develop article ‘meaning' written 1948 published 1957 prodding colleague p
+grice further developed theory meaning fifth sixth william james lectures logic conversation delivered harvard 1967
+these two lectures initially published ‘utterer's meaning intentions' 1969 ‘utterer's meaning sentence meaning word meaning' 1968 later collected other lectures first section studies way words 1989
+natural vs
+non-natural meaning grice begins ‘meaning' using techniques ordinary language philosophy distinguish calls natural meaning those spots mean meant measles
+calls non-natural meaning john means he'll late ‘schnee' means ‘snow'
+grice does attempt give definitions these two senses verb ‘to mean' nor does offer explicit theory distinguishes respective concepts they're used express
+instead relies five differences ordinary language usage show use word least two different ways
+intention-based semantics rest ‘meaning' discussions meaning ‘logic conversation' grice deals exclusively non-natural meaning
+overall approach study non-natural meaning later came called intention-based semantics because attempts explain non-natural meaning terms notion speakers' intentions
+grice distinguishes two kinds non-natural meaning utterer's meaning speaker means utterance
+grice wouldn't introduce label until logic conversation
+common label contemporary work speaker meaning although grice didn't use term
+timeless meaning kind meaning possessed type utterance such word sentence
+often called conventional meaning although grice didn't call
+two steps intention-based semantics define utterer's meaning terms speakers' overt audience-directed intentions then 2 define timeless meaning terms utterer's meaning
+net effect define linguistic notions meaning purely mental terms thus shed psychological light semantic realm
+grice tries accomplish first step means following definition meant nn something x roughly equivalent uttered x intention inducing belief means recognition intention
+definition ‘a' variable ranging over speakers ‘x' variable ranging over utterances
+grice generalizes definition speaker meaning later ‘meaning' applies commands questions argues differ assertions speaker intends induce intention rather belief
+grice's initial definition controversial seemingly gives rise variety counterexamples later adherents intention-based semantics—including grice himself stephen schiffer jonathan bennett dan sperber deirdre wilson stephen neale—have attempted improve various ways while keeping basic idea intact
+grice next turns second step program explaining notion timeless meaning terms notion utterer's meaning
+does very tentatively following definition x means nn timeless so-and-so might first shot equated statement disjunction statements people vague intend qualifications recognition effect x
+basic idea here meaning word sentence results regularity speakers use word sentence mean
+grice give much detailed theory timeless meaning sixth logic conversation lecture
+influential attempt expand component intention-based semantics given stephen schiffer
+grice's theory implicature grice's most influential contribution philosophy linguistics theory implicature first began developing 1961 article ‘the causal theory perception' most fully explored 1967 william james lectures logic conversation
+saying/implicating distinction according grice speaker means utterance divided speaker says speaker thereby implicates
+grice makes clear notion saying mind though related colloquial sense word somewhat technical referring favored notion ‘saying' must further elucidated
+nonetheless grice never settled full elucidation definition favored notion saying interpretation notion become contentious issue philosophy language
+point controversy surrounding grice's favored notion saying connection concept utterer's meaning
+grice makes clear takes saying kind meaning sense doing former entails doing latter want say u utterer p entails 2 u something x u meant p 87
+condition controversial grice argues apparent counterexamples—cases speaker apparently says something without meaning it—are actually examples calls making say thought kind mock saying play saying
+another point controversy surrounding grice's notion saying relationship speaker says expression expression's timeless meaning
+although attempts spell out connection detail several times most precise statement endorses following sense am using word say intend someone closely related conventional meaning words sentence uttered
+unfortunately grice never spelled out meant phrase closely related passage philosophers language continue debate over best interpretation
+‘the causal theory perception' grice contrasts saying there also calls stating implying logic conversation introduces technical term implicature cognates implicate implicatum
+grice justifies neologism saying ‘implicature' blanket word avoid having make choices words like ‘imply' ‘suggest' ‘indicate' ‘mean'
+grice sums up these notions suggesting implicate perform non-central speech act whereas say perform central speech act
+others commonly put same distinction saying kind direct speech act whereas implicating indirect speech act
+latter way drawing distinction important part john searle's influential theory speech acts
+conventional vs
+conversational implicature although grice best known theory conversational implicature also introduced notion conventional implicature
+difference two lies fact speaker conventionally implicates uttering sentence tied way timeless meaning part sentence whereas speaker conversationally implicates directly connected timeless meaning
+grice's best-known example conventional implicature involves word ‘but' argues differs meaning word ‘and' typically conventionally implicate something over above say former latter
+uttering sentence ‘she poor she honest' example say merely she poor she honest implicate poverty contrasts honesty her poverty contrasts her honesty
+grice makes clear speaker conventionally implicates uttering sentence part speaker means uttering also closely connected sentence means
+nonetheless speaker conventionally implicates part speaker says
+u's doing x might uttering sentence she poor she honest
+u meant sentence means will both contain something contributed word want contribution appear account my favored sense u rather conventional implicature
+grice elaborate much notion conventional implicature many other authors tried give extensive theories including lauri karttunen stanley peters kent bach stephen neale christopher potts
+conversational implicature conversationally implicate something speaking according grice mean something goes beyond says such way must inferred non-linguistic features conversational situation together general principles communication cooperation
+general principles grice proposed called cooperative principle maxims conversation
+according grice cooperative principle norm governing cooperative interactions among humans
+cooperative principle make your contribution such required stage occurs accepted purpose direction talk exchange you engaged
+grice 1989
+conversational maxims thought precisifications cooperative principle deal specifically communication
+maxim quantity information make your contribution informative required current purposes exchange
+make your contribution informative required
+maxim quality truth say you believe false
+say you lack adequate evidence
+maxim relation relevance relevant
+maxim manner clarity perspicuous avoid obscurity expression
+avoid ambiguity
+brief avoid unnecessary prolixity
+grice follows summary maxims suggesting might need others goes say there course sorts other maxims aesthetic social moral character such polite also normally observed participants exchanges these may also generate nonconventional implicatures
+conversational implicatures made possible according grice fact participants conversation assume each other behave according maxims
+speaker appears violated maxim saying making say something false uninformative too informative irrelevant unclear assumption speaker fact obeying maxims causes interpreter infer hypothesis speaker really meant
+interpreter will reliably allows speakers intentionally flout maxims—i
+create appearance breaking maxims way obvious both speaker interpreter—in order get their implicatures across
+perhaps grice's best-known example conversational implicature case reference letter quantity implicature
+because involves flouting first maxim quantity writing testimonial pupil candidate philosophy job letter reads follows dear sir mr
+x's command english excellent attendance tutorials regular
+yours etc
+gloss cannot opting out since wished uncooperative why write all? cannot unable through ignorance say since man pupil moreover knows information wanted
+must therefore wishing impart information reluctant write down
+supposition tenable thinks mr
+x no good philosophy
+then implicating
+given speaker means given proposition p given utterance grice suggests several features p must possess order count conversational implicature
+nondetachability implicature nondetachable insofar possible find another way saying same thing approximately same thing simply lacks implicature
+putative conversational implicature explicitly cancelable form words utterance putatively implicates p admissible add p mean imply p contextually cancelable find situations utterance form words simply carry implicature
+conversational implicata part meaning expressions employment attach
+calculability presence conversational implicature must capable being worked out even fact intuitively grasped unless intuition replaceable argument implicature present will count conversational implicature will conventional implicature
+generalized vs
+particularlized conversational implicature grice also distinguishes generalized particularized conversational implicature
+grice says particularized conversational implicatures such reference letter case quoted above arise cases implicature carried saying p particular occasion virtue special features context cases there no room idea implicature sort normally carried saying p
+generalized implicature contrast arise cases say use certain form words utterance normally absence special circumstances carry such-and-such implicature type implicature
+grice does offer full theory generalized conversational implicatures distinguishes them particularlized conversational implicatures hand conventional implicatures other hand later philosophers linguists attempted expand idea generalized conversational implicatures
+grice's paradox book studies way words presents calls grice's paradox
+supposes two chess players yog zog play 100 games under following conditions yog white nine ten times
+2 there no draws
+results yog white won 80 90 games
+2 yog black won zero ten games
+implies 8/9 times yog white yog won
+ii 1/2 time yog lost yog black
+iii 9/10 either yog wasn't white won
+these statements might appear make these deductions contraposition conditional disjunction [a] [ii] yog white then 1/2 time yog won
+[b] [iii] 9/10 times yog white then won
+both untrue—they contradict
+fact ii iii don't provide enough information use bayesian reasoning reach those conclusions
+might clearer i-iii instead stated like yog white yog won 8/9 times
+no information given yog black
+ii yog lost yog black 1/2 time
+no information given yog won
+iii 9/10 times either yog black won yog black lost yog white won
+no information provided how 9/10 divided among those three situations
+grice's paradox shows exact meaning statements involving conditionals probabilities complicated may obvious casual examination
+criticisms examinations relevance theory dan sperber deirdre wilson builds also challenges grice's theory meaning account pragmatic inference
+see relevance communication cognition oxford blackwell 1986
+grice's work examined detail stephen neale paul grice philosophy language linguistics philosophy 15 5 oct
+notes c richard grandy richard warner
+paul grice
+stanford encyclopedia philosophy
+pdf see discussion history russell dale theory meaning chapter endnote 31 p
+see chapter 2 theory meaning twentieth century background grice's ideas 1957 paper meaning
+grice 1989 pp
+schiffer 1982
+borg 2006
+russell dale theory meaning 1996
+grice 1989 p
+grice 1989 p
+schiffer 1972 pp
+grice 1968 1989
+schiffer 1972 ch
+bennett 1976 ch
+5 sperber wilson 1986 pp
+neale 1992 pp
+grice 1968
+schiffer 1972 chs
+4 5
+grice 1989 chs
+neale 1992 pp
+grice 1989 p
+grice 1989 p
+neale 1992 p
+grice 1989 pp
+grice 1989 p
+grice 1989 p
+grice 1989 p
+searle 1975
+neale 1992 p
+karttunen peters 1978
+bach 1999
+neale 1999
+potts 2005
+grice 1989 pp
+grice 1989 pp
+kordić pp
+grice 1989 pp
+grice 1989 p
+grice 1989 p
+grice 1989 pp
+see also grice 1981 p
+187 neale 1992 p527
+grice 1989 p
+prominent example see levinson 2000
+paul grice studies way words cambridge ma harvard university press pp
+references bach kent 1999
+myth conventional implicature linguistics philosophy pp
+bennett jonathan 1976
+linguistic behaviour
+cambridge university press
+borg emma 2006
+intention-based semantics oxford handbook philosophy language edited ernest lepore barry c
+oxford university press 2006 pp
+grice 1941
+personal identity mind 50 330-350 reprinted j
+perry ed
+personal identity university california press berkeley 1975 pp
+grice h
+meaning philosophical review 663
+reprinted ch
+14 grice 1989 pp
+grice 1961
+causal theory perception proceedings aristotelian society 35 suppl
+partially reprinted chapter 15 grice 1989 pp
+grice h
+utterer's meaning sentence meaning word meaning foundations language 4
+reprinted ch
+6 grice 1989 pp
+grice 1969
+vacuous names
+davidson j
+hintikka eds
+words objections
+reidel dordrecht pp
+grice h
+utterer's meaning intentions philosophical review 78
+reprinted ch
+5 grice 1989 pp
+grice h
+intention uncertainty proceedings british academy pp
+grice h
+method philosophical psychology banal bizarre proceedings addresses american philosophical association 1975 pp
+grice h
+logic conversation syntax semantics vol
+3 edited p
+cole j
+morgan academic press
+reprinted ch
+2 grice 1989 22–40
+grice h
+further notes logic conversation syntax semantics vol
+9 edited p
+cole academic press
+reprinted ch
+3 grice 1989 41–57
+grice 1981
+presupposition conversational implicature p
+cole ed
+radical pragmatics academic press new york pp
+reprinted ch
+17 grice 1989 269–282
+grice h
+studies way words
+harvard university press
+grice h
+conception value
+oxford university press
+1983 carus lectures
+grice h
+aspects reason richard warner ed
+oxford university press
+1979 john locke lectures mostly same 1977 immanuel kant lectures
+karttunen lauri stanley peters 1978
+conventional implicature syntax semantics vol
+edited p
+cole academic press
+kordić snježana
+konverzacijske implikature [conversational implicatures] pdf
+suvremena lingvistika serbo-croatian 17 31-32 87–96
+issn 0586-0296
+oclc 440780341
+archived original 2 september
+retrieved 6 march 2015
+levinson stephen 2000
+presumptive meanings theory generalized conversational implicature
+mit press
+neale stephen 1992
+paul grice philosophy language linguistics philosophy 15 pp
+neale stephen 1999
+colouring composition philosophy linguistics edited rob stainton
+westview press 1999
+potts christopher 2005
+logic conventional implicature
+oxford university press
+searle john 1975
+indirect speech acts syntax semantics vol
+3 edited p
+cole j
+morgan academic press
+schiffer stephen 1972
+oxford university press
+schiffer stephen 1982
+intention-based semantics notre dame journal formal logic 232 pp
+sperber dan dierdre wilson 1986
+relevance communication cognition
+second edition 1995
+further reading siobhan chapman paul grice philosopher linguist houndmills palgrave macmillan 2005
+external links stanford encyclopedia philosophy paul grice—by richard e
+grandy & richard warner
+mit encyclopedia cognitive sciences grice h
+paul—by kent bach
+dictionary philosophy mind paul grice—by christopher gauker
+list grice links meaning
+ch comunicación según grice spanish vte analytic philosophy philosophers robert merrihew adams william p
+alston j
+ayer g
+anscombe david malet armstrong robert audi robert brandom c
+broad tyler burge john p
+burgess rudolf carnap roderick chisholm patricia churchland paul churchland david chalmers noam chomsky donald davidson daniel dennett michael dummett bas van fraassen gottlob frege jerry fodor philippa foot peter geach
+grayling paul grice alvin goldman peter hacker r
+hare gilbert harman john hawthorne ian hacking carl hempel jaakko hintikka peter van inwagen frank cameron jackson christine korsgaard saul kripke david lewis j
+mackie norman malcolm john mc dowell g
+moore thomas nagel robert nozick derek parfit
+phillips alvin plantinga
+prior hilary putnam w
+quine john rawls hans reichenbach bertrand russell gilbert ryle john searle moritz schlick wilfrid sellars peter singer peter strawson richard swinburne peter unger bernard williams timothy williamson john wisdom ludwig wittgenstein stephen yablo
+theories deflationism direct reference theory empiricism holism logical atomism logical positivism naturalism naturalized epistemology neopragmatism neutral monism particularism reductionism scientism skepticism verificationism
+concepts analysis analytic–synthetic distinction causal / deductive / epistemic closure concept counterfactual denotation / reference definite description factive family resemblance intuition meaning proposition modality natural kind / projectability necessary–sufficient conditions paradox analysis possible world reduction reflective equilibrium rigid–flaccid designators sense data supervenience thought experiment truth function truthmaker truth-bearer type–token distinction related articles australian realism ordinary language philosophy philosophical logic philosophy language philosophy science postanalytic philosophy
+category task force discussion philosophy stubs vte epistemology epistemologists thomas aquinas augustine hippo william alston robert audi
+ayer george berkeley laurence bon jour rené descartes edmund gettier alvin goldman nelson goodman paul grice david hume immanuel kant søren kierkegaard saul kripke david lewis john locke g
+moore robert nozick alvin plantinga plato hilary putnam thomas reid gilbert ryle p
+strawson willard van orman quine bertrand russell timothy williamson ludwig wittgenstein nicholas wolterstorff vienna circle theories coherentism constructivist epistemology contextualism determinism empiricism evolutionary epistemology fallibilism feminist epistemology fideism foundationalism genetic epistemology holism infinitism innatism internalism externalism naïve realism naturalized epistemology phenomenalism positivism reductionism reliabilism representative realism rationalism skepticism theory forms transcendental idealism uniformitarianism concepts priori knowledge analysis analytic–synthetic distinction belief causality common sense descriptive knowledge exploratory thought gettier problem justification knowledge induction objectivity problem induction problem other minds perception proposition regress argument simplicity speculative reason truth
+related articles outline epistemology alethiology faith rationality formal epistemology meta-epistemology philosophy perception philosophy science social epistemology portal category task force stubs discussion vte philosophy language philosophers plato cratylus gorgias confucius xunzi aristotle stoics pyrrhonists scholasticism ibn rushd ibn khaldun thomas hobbes gottfried wilhelm leibniz johann herder ludwig noire wilhelm von humboldt fritz mauthner paul ricœur ferdinand de saussure gottlob frege franz boas paul tillich edward sapir leonard bloomfield zhuangzi henri bergson lev vygotsky ludwig wittgenstein philosophical investigations tractatus logico-philosophicus bertrand russell rudolf carnap jacques derrida grammatology limited inc benjamin lee whorf gustav bergmann j
+austin noam chomsky hans-georg gadamer saul kripke
+ayer g
+anscombe jaakko hintikka michael dummett donald davidson paul grice gilbert ryle p
+strawson willard van orman quine hilary putnam david lewis john searle joxe azurmendi scott soames stephen yablo john hawthorne stephen neale theories causal theory reference contrast theory meaning contrastivism conventionalism cratylism deconstruction descriptivist theory names direct reference theory dramatism expressivism linguistic determinism logical atomism logical positivism mediated reference theory nominalism non-cognitivism phallogocentrism quietism relevance theory semantic externalism semantic holism structuralism supposition theory symbiosism theological noncognitivism theory descriptions verification theory concepts ambiguity linguistic relativity meaning language truth-bearer proposition use–mention distinction concept categories set class intension logical form metalanguage mental representation principle compositionality property sign sense reference speech act symbol entity sentence statement
+related articles analytic philosophy philosophy information philosophical logic linguistics pragmatics rhetoric semantics formal semantics semiotics category task force discussion authority control world cat identities viaf 36888969 lccn n85008877 isni 0000 0001 0887 6507 gnd 118542117 sudoc 030040329 bnf cb121537338 data ndl 00689051

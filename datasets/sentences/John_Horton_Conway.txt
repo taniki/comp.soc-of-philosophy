@@ -1,0 +1,151 @@
+other persons name see john conway
+john conway born john horton conway 1937-12-26 december 1937 age 78 liverpool lancashire england residence united states nationality british fields mathematics institutions princeton university alma mater gonville caius college cambridge ba ma ph dthesis homogeneous ordered sets 1964 doctoral advisor harold davenport doctoral students richard borcherds simon norton robert wilson known conway's game life look-and-say sequence notable awards berwick prize 1971 frs 1981 pólya prize 1987 nemmers prize mathematics 1998 leroy p
+steele prize 2000 websitemath
+edu/directory/john-conway john horton conway frs /ˈkɒnweɪ/ born december 1937 english mathematician active theory finite groups knot theory number theory combinatorial game theory coding theory
+also contributed many branches recreational mathematics notably invention cellular automaton called game life
+conway currently professor emeritus mathematics princeton university new jersey
+contents biography 2 research 2
+combinatorial game theory 2
+2 geometry 2
+3 geometric topology 2
+4 group theory 2
+5 number theory 2
+6 algebra 2
+7 algorithmics 2
+theoretical physics 3 books 4 awards honours 5 references 6 further reading 7 external links biography conway born liverpool son cyril horton conway agnes boyce
+became interested mathematics very early age mother recalled recite powers two four years old
+age eleven ambition become mathematician
+after leaving secondary school conway entered gonville caius college cambridge study mathematics
+conway terribly introverted adolescent school interpreted admission cambridge opportunity transform himself new person extrovert
+awarded bachelor arts degree 1959 began undertake research number theory supervised harold davenport
+having solved open problem posed davenport writing numbers sums fifth powers conway began become interested infinite ordinals
+appears interest games began during years studying cambridge mathematical tripos became avid backgammon player spending hours playing game common room
+awarded doctorate 1964 appointed college fellow lecturer mathematics cambridge university
+left cambridge 1986 take up appointment john von neumann chair mathematics princeton university
+according 2015 biography conway thrice married twice divorced suffered two heart attacks two strokes depression
+resides current wife diana princeton
+research combinatorial game theory single gosper's glider gun creating gliders conway's game life among amateur mathematicians perhaps most widely known contributions combinatorial game theory cgt theory partisan games
+developed elwyn berlekamp richard guy them also co-authored book winning ways your mathematical plays
+also book numbers games onag lays out mathematical foundations cgt
+also inventors sprouts well philosopher's football
+developed detailed analyses many other games puzzles such soma cube peg solitaire conway's soldiers
+came up angel problem solved 2006
+invented new system numbers surreal numbers closely related certain games subject mathematical novel donald knuth
+also invented nomenclature exceedingly large numbers conway chained arrow notation
+much discussed 0 th part onag
+also known invention conway's game life early examples cellular automaton
+early experiments field done pen paper long before personal computers existed
+geometry mid-1960 s michael guy son richard guy established there sixty-four convex uniform polychora excluding two infinite sets prismatic forms
+discovered grand antiprism process non-wythoffian uniform polychoron
+conway also suggested system notation dedicated describing polyhedra called conway polyhedron notation
+extensively investigated lattices higher dimensions determined symmetry group leech lattice
+geometric topology conway's approach computing alexander polynomial knot theory involved skein relations variant now called alexander-conway polynomial
+after lying dormant decade concept became central work 1980 s novel knot polynomials
+conway further developed tangle theory invented system notation tabulating knots nowadays known conway notation while correcting number errors 19 th century knot tables extending them include four non-alternating primes crossings [topology proceedings 7 1982 118]
+group theory worked classification finite simple groups discovered conway groups
+primary author atlas finite groups giving properties many finite simple groups
+along collaborators constructed first concrete representations sporadic groups
+specifically discovered three sporadic groups based symmetry leech lattice designated conway groups
+simon p
+norton formulated complex conjectures relating monster group modular functions named monstrous moonshine them
+introduced mathieu groupoid extension mathieu group m12 13 points
+number theory graduate student proved conjecture edward waring every integer written sum 37 numbers each raised fifth power though chen jingrun solved problem independently before work published
+algebra also done work algebra particularly quaternions
+together neil sloane invented icosians
+algorithmics calculating day week invented doomsday algorithm
+algorithm simple enough anyone basic arithmetic ability calculations mentally
+conway usually give correct answer under two seconds
+improve speed practices calendrical calculations computer programmed quiz random dates every time logs
+early books finite state machines
+theoretical physics 2004 conway simon
+kochen another princeton mathematician proved free will theorem startling version 'no hidden variables' principle quantum mechanics
+states given certain conditions experimenter freely decide quantities measure particular experiment then elementary particles must free choose their spins make measurements consistent physical law
+conway's provocative wording experimenters free will then elementary particles
+books co-written several books including atlas finite groups regular algebra finite machines sphere packings lattices groups sensual quadratic form numbers games winning ways your mathematical plays book numbers quaternions octonions triangle book written steve sigur summer 2008 published symmetries things chaim goodman-strauss heidi burgiel
+awards honours conway received berwick prize 1971 elected fellow royal society 1981 first recipient pólya prize lms 1987 won nemmers prize mathematics 1998 received leroy p
+steele prize mathematical exposition 2000 american mathematical society
+nomination reads versatile mathematician combines deep combinatorial insight algebraic virtuosity particularly construction manipulation off-beat algebraic structures illuminate wide variety problems completely unexpected ways
+made distinguished contributions theory finite groups theory knots mathematical logic both set theory automata theory theory games also practice
+references conway prof
+john horton
+who's 2014 & c black imprint bloomsbury publishing plc 2014 online edn oxford university press
+subscription required john horton conway mathematics genealogy project c ec/1981/11 conway john horton
+london royal society
+archived original may 2014
+conway j
+hardin r
+sloane n
+packing lines planes etc
+packings grassmannian spaces
+experimental mathematics 5 2 139
+john horton conway's publications indexed scopus bibliographic database service provided elsevier
+conway j
+sloane n
+new upper bound minimal distance self-dual codes
+ieee transactions information theory 36 6 1319
+conway j
+sloane n
+self-dual codes over integers modulo 4
+journal combinatorial theory series 62 30
+conway j
+sloane n
+fast quantizing decoding algorithms lattice quantizers codes
+ieee transactions information theory 28 2 227
+conway j
+lagarias j
+tiling polyominoes combinatorial group theory
+journal combinatorial theory series 53 2 183
+o'connor john j
+robertson edmund f
+john horton conway mac tutor history mathematics archive university st andrews
+john conway
+retrieved 10 august 2010
+professor john conway ma ph frs roberts siobhan 23 july 2015
+john horton conway world’s most charismatic mathematician
+mark ronan 18 may 2006
+symmetry monster greatest quests mathematics
+oxford university press uk
+review genius play curious mind john horton conway siobhan roberts bloomsbury 2015 michael harris nature 523 406–407 23 july 2015 doi10
+1038/523406 breakfast john horton conway week's finds mathematical physics week 20 guy richard k
+review sphere packings lattices groups j
+conway n
+sloane pdf
+21 142–147
+baez john c
+review quaternions octonions their geometry arithmetic symmetry john h
+conway derek
+smith pdf
+42 2 229–243
+the_triangle_book lms prizewinners further reading j
+conway regular algebra finite machines chapman hall 1971 triangle book appear john h
+conway steve sigur symmetries things 2008 john h
+conway heidi burgiel chaim goodman-strass errata mind machine margaret boden oxford university press 2006 p
+1271 symmetry marcus du sautoy harper collins 2008 p
+308 quaternions octonions 2003 john horton conway derek
+smith guy richard k
+conway's prime producing machine mathematics magazine vol
+56 no
+1983 pp
+26–33 mathematical association america roberts siobhan genius play curious mind john horton conway 14 july 2015 bloomsbury usa new york http//www
+com/us/genius-at-play-9781620405932/ external links find john horton conwayat wikipedia's sister projects media commons quotations wikiquote charles seife impressions conway sciences mark alpert just fun games scientific american april 1999
+official online version registration-free online version jasvir nagra conway's proof free will theorem john conway free will determinism science philosophy video lectures conway john horton curtis robert turner norton simon phillips parker richard wilson robert arnott 1985
+atlas finite groups maximal subgroups ordinary characters simple groups
+oxford university press
+video conway leading tour brickwork patterns princeton lecturing ordinals lecturing sums powers bernoulli numbers
+photos john horton conway bibliography john h
+conway princeton university mathematics department conway john h
+does john conway hate game life? video
+brady haran
+retrieved 4 march 2014
+video commentary conway game
+conway john h
+inventing game life video
+brady haran
+retrieved 7 march 2014
+video commentary conway game
+conway john h
+look-and-say numbers video
+brady haran
+retrieved 14 august 2014
+video commentary conway look-and-say sequence
+vte conway's game life & related cellular automata structures breeder garden eden glider gun methuselah oscillator puffer train rake reflector sawtooth spacefiller spaceship spark still life life variants day night highlife life without death seeds concepts moore neighborhood speed light von neumann neighborhood implementations golly life genesis mirek's cellebration video life key people john conway martin gardner bill gosper richard guy popular culture bloom wake authority control world cat identities viaf 108718238 lccn n82119161 isni 0000 0001 2018 8504 gnd 119529289 sudoc 031841376 bnf cb12298169 t data mgp 18849 ndl 00863294

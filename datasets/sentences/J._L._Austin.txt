@@ -1,0 +1,381 @@
+austin born march 1911 lancaster died february 19601960-02-08 aged 48 oxford alma mater balliol college oxford era 20 th-century philosophy region western philosophy school ordinary language philosophy/linguistic philosophy analytic main interests philosophy language philosophy mind ethics philosophy perception notable ideas speech acts performative utterance influences gilbert ryle influenced john searle stanley cavell judith butler john langshaw j
+austin march 1911 february 1960 british philosopher language leading proponent ordinary language philosophy perhaps best known developing theory speech acts
+prior austin attention linguistic analytic philosophers directed almost exclusively statements assertions propositions — linguistic acts least theory truth-value
+led problems analyzing certain types statements example determining truth conditions such statements promise so-and-so
+austin pointed out use language things well assert things utterance statement like promise so-and-so best understood doing something — making promise — rather making assertion anything
+hence name best-known works how things words
+contents life 2 work 2
+how things words 2
+2 performative utterance 2
+3 sense sensibilia 2
+4 philosophical papers 2
+5 there priori concepts? 2
+6 meaning word 2
+7 other minds 2
+plea excuses 3 austin wittgenstein 4 quotes 5 see also 6 publications 6
+books 6
+2 papers articles 7 references further reading 9 external links life austin born lancaster england second son geoffrey langshaw austin 1884–1971 architect wife mary bowes-wilson 1883–1948
+1922 family moved scotland austin's father became secretary st leonards school st andrews
+austin educated shrewsbury school 1924 earning scholarship classics went study classics balliol college oxford 1929
+1933 received first literae humaniores classics philosophy well gaisford prize greek prose first class honours finals
+literae humaniores introduced serious philosophy gave lifelong interest aristotle
+undertook first teaching position 1935 fellow tutor magdalen college oxford
+austin's early interests included aristotle kant leibniz plato especially theaetetus
+contemporary influences included especially g
+moore john cook wilson h
+contemporary influences shaped their views general philosophical questions basis careful attention specific judgements make
+took our specific judgements secure general judgements
+it's plausible aspects austin's distinctive approach philosophical questions derived engagement last three
+during world war ii austin served british intelligence corps
+anybody responsible life-saving accuracy d-day intelligence reported warnock 1963 9
+austin left army rank lieutenant colonel honored intelligence work obe officer order british empire french croix de guerre u
+officer legion merit
+after war austin became white's professor moral philosophy oxford
+began holding famous austin's saturday mornings students colleagues discuss language usages sometimes books language over tea crumpets published little
+austin visited harvard berkeley mid-fifties 1955 delivering william james lectures harvard become how things words offering seminar excuses whose material find way plea excuses
+time met befriended noam chomsky
+president aristotelian society 1956 1957
+austin died age 48 lung cancer
+time developing semantic theory based sound symbolism using english gl-words data
+[citation needed] work how things words how things words perhaps austin's most influential work
+contrast positivist view argues sentences truth-values form small part range utterances
+after introducing several kinds sentences asserts neither true nor false turns particular these kinds sentences calls performative utterances just performatives
+these characterises two features again though may take form typical indicative sentence performative sentences used describe constate thus true false no truth-value
+second utter these sentences appropriate circumstances just say something rather perform certain kind action
+goes say something goes wrong connection performative utterance puts infelicitous unhappy rather false
+action performed 'performative utterance' issued belongs austin later calls speech-act particularly kind action austin mind subsequently terms illocutionary act
+example you say name ship queen elizabeth circumstances appropriate certain ways then you will done something special namely you will performed act naming ship
+other examples include take man my lawfully wedded husband used course marriage ceremony bequeath watch my brother occurring will
+three cases sentence being used describe state 'doing' being used actually 'do'
+after numerous attempts find characteristics performatives after having met many difficulties austin makes calls fresh start considers generally senses say something may something saying something something
+example john smith turns sue snub says ‘is jeff’s shirt red?’ sue replies ‘yes’
+john produced series bodily movements result production certain sound
+austin called such performance phonetic act called act phone
+john’s utterance also conforms lexical grammatical conventions english—that john produced english sentence
+austin called phatic act labels such utterances phemes
+john also referred jeff’s shirt colour red
+use pheme less definite sense reference utter rheme perform rhetic act
+note rhemes sub-class phemes turn sub-class phones
+cannot perform rheme without also performing pheme phone
+performance these three acts performance locution—it act saying something
+john therefore performed locutionary act
+also done least two other things
+asked question elicited answer sue
+asking question example austin called illocutionary act
+other examples making assertion giving order promising something
+perform illocutionary act use locution certain force
+act performed saying something contrast locution act saying something
+eliciting answer example austin calls perlocutionary act act performed saying something
+notice successfully performs perlocution also succeeds performing both illocution locution
+theory speech acts attention especially focused illocutionary act much less locutionary perlocutionary act rarely subdivision locution phone pheme rheme
+how things words based lectures given oxford 1951 1954 then harvard 1955
+performative utterance according j
+austin performative utterance refers truth-evaluable action performing doing certain action
+example people say promise generating action making promise
+case without any flaw promise flawlessly fulfilled performative utterance happy use j
+austin’s word felicitous other hand fails she promised unhappy infelicitous
+notice performative utterance truth-evaluable means nothing judged based truth falsity
+there four types performatives according austin explicit implicit primitive inexplicit
+how things words edited j
+urmson marina sbisa records austin's lectures topic
+book austin offers examples each type performative mentioned above
+explicit performatives mentioned apologize criticize page 83 explicit receivers make sense someone ask does really mean that?
+inexplicit performatives opposite receiver will understandable doubts
+primary performatives example austin gave shall there
+compared explicit performatives there uncertainty implicit performatives
+people might ask she promising there primary performatives however uncertainty strong enough inexplicit performatives
+most examples given explicit because easy identify observe identifying other performatives requires comparison contrast explicit performatives
+sense sensibilia posthumously published sense sensibilia austin criticizes claims put forward
+ayer's foundations empirical knowledge 1940 lesser extent h
+price’s perception 1932 g
+warnock’s berkley 1953 concerning sense-data theory
+states perceptual variation attributed physical causes does involve figurative disconnect sense reference due unreasonable separation parts perceived object
+central argument shows there no kind thing ‘perceive’ many different kinds number being reducible scientific investigation philosophy austin 1962 4
+austin argues ayer fails understand proper function such words illusion delusion hallucination looks appears seems uses them instead special way
+invented philosophers
+according austin normally these words allow us express reservations our commitment truth saying introduction sense-data adds nothing our understanding ability talk see
+example austin examines word ‘real’ contrasts ordinary meanings word based everyday language ways used sense-data theorists
+order determine meaning ‘real’ consider case case ways contexts used
+observing substantive-hungry word sometimes ii adjuster-word well iii dimension-word iv word whose negative use wears trousers austin highlights it’s complexities
+doing according austin avoid introducing false dichotomies
+philosophical papers austin's papers collected published posthumously philosophical papers j
+urmson geoffrey warnock
+book originally contained ten papers two being added second edition third
+paper excuses massive impact criminal law theory
+chapters 3 study how word may different related senses
+chapters 2 4 discuss nature knowledge focusing performative utterance
+chapters 5 6 study correspondence theory statement true corresponds fact
+chapters 6 10 concern doctrine speech acts
+chapters 9 12 reflect problems language encounters discussing actions considering cases excuses accusations freedom
+there priori concepts? early paper contains broad criticism idealism
+question set dealing existence priori concepts treated indirectly dismissing concept concept underpins
+first part paper takes form reply argument existence universals observing use words such grey circular use single term each case follows there must something named such terms—a universal
+furthermore since each case grey circular different follows universals themselves cannot sensed
+austin carefully dismantles argument process other transcendental arguments
+points out first universals something stumble across defined their relation particulars
+continues pointing out observation use grey circular names things simply does follow there something named
+process dismisses notion words essentially proper names asking
+why 'one identical' word used must there 'one identical object' present denotes
+second part article generalizes argument against universals address concepts whole
+points out facile treat concepts article property
+such questions possess such-and-such concept how come possess such-and-such concept meaningless because concepts sort thing possesses
+final part paper austin further extends discussion relations presenting series arguments reject idea there thing relation
+argument likely follows conjecture colleague s
+tezlaf questioned makes
+meaning word meaning word polemic against doing philosophy attempting pin down meaning words used arguing 'there no simple handy appendage word called meaning word x'
+austin warns us take care removing words their ordinary usage giving numerous examples how lead error
+other minds other minds most highly acclaimed pieces austin criticizes method philosophers used since descartes analyze verify statements form person s feels x
+method works following three assumptions know intuit directly feel feels
+2 impossible
+3 may possible find strong evidence belief our impressions
+although austin agrees 2 quipping should pretty predicament found false 3 therefore unnecessary
+background assumption austin claims say know x later find out x false know
+austin believes consistent way actually use language
+claims position normally say know x x should turn out false speechless rather self-corrective
+gives argument suggesting believing knowing intending promising— knowing promising speech-act versions believing intending respectively
+plea excuses plea excuses both demonstration example defense methods ordinary language philosophy proceeds conviction
+our common stock words embodies distinctions men found worth drawing connections found worth marking lifetime many generations these surely likely numerous sound since stood up long test survival fittest subtle least ordinary reasonable practical matters any you likely think up our armchair afternoon—the most favourite alternative method
+example such distinction austin describes footnote phrases mistake accident
+although their uses similar austin argues right examples see distinction exists other phrase appropriate
+austin proposes curious philosophical tools
+instance uses sort word game developing understanding key concept
+involves taking up dictionary finding selection terms relating key concept then looking up each words explanation their meaning
+process iterated until list words begins repeat closing family circle words relating key concept
+austin wittgenstein austin occupies place philosophy language alongside cantabrigian wittgenstein austin's fellow oxonian gilbert ryle staunchly advocating examination way words ordinarily used order elucidate meaning means avoid philosophical confusions
+unlike many ordinary language philosophers however austin disavowed any overt indebtedness wittgenstein's later philosophy
+quotes theory truth series truisms - proceedings aristotelian society vol
+xxiv 1950
+philosophical papers p
+121 oxford university press second edition 1970 sentences such either true false - sense sensibilia 1962 p
+111 going back history word very often latin come back pretty commonly pictures models how things happen done
+these models may fairly sophisticated recent perhaps case 'motive' 'impulse' commonest most primitive types model apt baffle us through very naturalness simplicity
+- plea excuses 1956 published proceedings aristotelian society 1956-7
+transcribed hypertext andrew chrucky 23 august 2004
+sentence made up words statement made words
+statements made words sentences used
+proceedings aristotelian society vol
+xxiv 1950 - philosophical papers p
+120 oxford university press second edition 1970 walk along cliff feel sudden impulse push you over promptly acted impulse yet certainly tended push you over may even devised little ruse achieve yet even then act deliberately stop ask myself whether
+- philosophical papers meaning word p
+195 oxford university press second edition 1970
+you entitled know word 'performative' means
+new word ugly word perhaps does mean anything very much
+any rate there thing favor profound word
+- performative utterances
+philosophical papers p
+233 oxford university press second edition 1970
+let us distinguish acting intentionally acting deliberately purpose far done attending language teach us
+- philosophical papers three ways spilling ink p
+273 oxford university press second edition 1970
+usually uses words words themselves properly called 'vague
+- sense sensibilia p
+126 oxford university press 1962
+then ask course class comprises
+given examples 'familiar objects'--chairs tables pictures books flowers pens cigarettes expression 'material thing' here anywhere else ayer's text further defined
+does ordinary man believe perceives something like furniture like these other 'familiar objects'—moderate-sized specimens dry goods? - sense sensibilia p
+oxford university press 1962
+during lecture columbia university attended american philosopher sidney morgenbesser austin made claim although double negative english implies positive meaning there no language double positive implies negative
+morgenbesser responded dismissive tone yeah yeah
+quoted yeah right
+see also linguistics performative turn pragmatics semantics adolf reinach word publications books sense sensibilia 1962 ed
+warnock oxford clarendon press
+how things words william james lectures delivered harvard university 1955 1962 eds
+urmson marina sbisà oxford clarendon press
+philosophical papers 1961 1970 1979 eds
+urmson g
+warnock oxford oxford university press
+= austin 1979 foundation arithmetic logico-mathematical enquiry concept number 1980 gottlob frege author j
+austin translator philosophy language central topics susana nuccetelli gary seay j
+austin anthony brueckner papers articles 1930 s–1940 s line cave plato's republic reconstructed notes j
+urmson austin 1979
+1939 ms/1967 agathon eudaimonia ethics aristotle j
+moravcsik ed
+aristotle new york doubleday
+reprinted austin 1979
+1939 there priori concepts proceedings aristotelian society supplementary volume 18 83–105
+reprinted austin 1979
+ms1940 meaning words austin 1979
+1946 other minds proceedings aristotelian society supplementary volume 20 148–187
+reprinted austin 1979
+1950 truth proceedings aristotelian society supplementary volume 24 111–128
+reprinted austin 1979
+1953 how talk—some simple ways proceedings aristotelian society 53 227–246
+reprinted austin 1979
+1954 ms unfair facts austin 1979
+1956 ifs cans proceedings british academy
+reprinted austin 1979
+1956 performative utterances corrected transcript unscripted radio talk delivered third programme bbc
+austin 1979
+1957 plea excuses presidential address proceedings aristotelian society 57 1–30
+reprinted austin 1979
+1958 pretending proceedings aristotelian society supplementary volume 261–278
+reprinted austin 1979
+1962 performatif-constatif cahiers de royaumont philosophie no
+iv philosophie analytique les editions de minuit
+translated 1963 performative-constative g
+warnock c
+caton ed
+philosophy ordinary language university illinois press
+1966 three ways spilling ink l
+forguson ed
+philosophical review 75 4 427–440
+reprinted austin 1979
+translation otras mentes
+austin ensayos filosóficos
+madrid revista de occidente 1975
+un alegato en pro de las excusas
+austin ensayos filosóficos
+madrid revista de occidente 1975
+quand dire c'est faire éditions du seuil paris
+traduction française de how things words par gilles lane 1970
+palabras acciones cómo hacer cosas con palabras
+buenos aires paidós 1971
+cómo hacer cosas con palabras
+palabras acciones
+barcelona paidós 1982
+gli atti linguistici
+aspetti e problemi di filosofia del linguagio
+milano feltrinelli 1978
+ensayos filosóficos
+madrid revista de occidente 1975
+quando dire è fare ed
+antonio pieretti
+marietti 1974
+come fare cose con le parole eds
+carlo penco & marina sbisà
+genova marietti 1987
+kako delovati rečima
+novi sad matica srpska 1994
+tetten ért szavak
+budapest akadémiai 1990
+saggi filosofici ed
+paolo leonardi
+milano guerini 1990
+ako niečo robiť slovami
+bratislava kalligram 2004
+references warnock g
+john langshaw austin biographical sketch
+symposium j
+austin ed
+new york humanities press 1969
+c hacker p
+'austin john langshaw 1911–1960' oxford dictionary national biography oxford university press 2004 online subscription site accessed 16 aug 2008 longworth guy
+john langshaw austin
+stanford university
+stanford university dec
+30 oct
+john langshaw austin
+stanford encyclopedia philosophy
+retrieved july 2014
+see john passmore hundred years philosophy new york basic books 1967 459 n
+proceedings aristotelian society 1956-57
+see stanley cavell claim reason wittegenstein skepticism morality tragedy new york oxford 1979 xv
+austin how things words second edition oxford oxford university press 1975 5
+how things words 14
+austin seems thought controversially performative utterance must infelicitous occurs poem
+robert maximilian de gaynesford argued austin intends comments poetry better usually thought offers poets considerably worse see 'the seriousness poetry' essays criticism 59 2009 1-21
+austin how things words second edition 1976 oxford university press
+pp40 notes j
+bodleian library oxford university
+urmson j
+o marina sbisa
+how things words j
+austin 2 nd
+cambridge harvard university press 1975
+austin lectured material book many times oxford 1947 1959 once university california berkeley
+see warnock's foreword
+title allusion novel sense sensibility jane austen
+sense sensibilia 102
+sense sensibilia 73
+sense sensibilia 71
+sense sensibilia 70
+passmore ibid
+463 plea excuses austin j
+philosophical papers p
+182 independent independent professor sidney morgenbesser philosopher celebrated withering new york jewish humour 6 august 2004 times sidney morgenbesser erudite influential american linguistic philosopher analytical acuity spinoza blunt wit groucho marx september 2004 further reading berlin
+et al
+1973 essays j
+austin oxford clarendon press
+cavell s
+1990 claim reason wittgenstein skepticism morality tragedy new york oxford university press
+major work austin's most prominent heirs
+takes ordinary language approaches issues skepticism also makes those approaches subject scrutiny
+fann k
+1969 symposium j
+austin new york humanities press
+friggieri joe 1993 linguaggio e azione
+saggio su j
+austin milano vita e pensiero friggieri joe actions speech actions philosophy j
+austin msida mireva publications garvey brian ed
+2004 j
+austin language palgrave houndmills uk
+includes remembering j
+austin austin's younger sister ann lendrum recollections j
+austin john searle
+gustafsson m
+sørli r
+2011 philosophy j
+oxford oxford university press
+new anthology philosophical essays austin's work
+kirkham r
+1992 reprinted 1995 theories truth critical introduction
+cambridge ma mit press
+chapter 4 contains detailed discussion austin's theory truth
+passmore j
+1966 hundred years philosophy rev
+new york basic books
+chapter 18 includes perceptive exposition austin's philosophical project
+pitcher g
+1973 austin personal memoir essays j
+austin ed
+et al
+oxford clarendon press
+putnam h
+1999 importance being austin need 'second näivetē' lecture two threefold cord mind body world new york columbia university press
+arguing naive realism putnam invokes austin's handling sense-data theories their reliance arguments perceptual illusion sense sensibilia putnam calls most unjustly neglected classics analytics philosophy
+searle j
+1969 speech acts essay philosophy language cambridge cambridge university press
+searle's most notable attempts extend adjust austin's conception speech acts
+searle j
+1979 expression meaning studies theory speech acts cambridge cambridge university press 1979
+soames s
+2005 philosophical analysis twentieth century volume ii age meaning
+princeton princeton up
+contains large section ordinary language philosophy chapter austin's treatment skepticism perception sense sensibilia
+warnock g
+1969 john langshaw austin biographical sketch symposium j
+austin k
+fann ed new york humanities press
+warnock g
+1979 philosophical papers oxford oup clarendon paperbacks x warnock g
+1973 saturday mornings essays j
+berlin et al
+ed oxford clarendon press
+warnock g
+1992 j
+austin london routledge
+external links wikiquote quotations related j
+austin j
+austin stanford encyclopedia philosophy john langshaw austin entry internet encyclopedia philosophy vte analytic philosophy philosophers robert merrihew adams william p
+alston j
+ayer g
+anscombe david malet armstrong robert audi robert brandom c
+broad tyler burge john p
+burgess rudolf carnap roderick chisholm patricia churchland paul churchland david chalmers noam chomsky donald davidson daniel dennett michael dummett bas van fraassen gottlob frege jerry fodor philippa foot peter geach
+grayling paul grice alvin goldman peter hacker r
+hare gilbert harman john hawthorne ian hacking carl hempel jaakko hintikka peter van inwagen frank cameron jackson christine korsgaard saul kripke david lewis j
+mackie norman malcolm john mc dowell g
+moore thomas nagel robert nozick derek parfit
+phillips alvin plantinga
+prior hilary putnam w
+quine john rawls hans reichenbach bertrand russell gilbert ryle john searle moritz schlick wilfrid sellars peter singer peter strawson richard swinburne peter unger bernard williams timothy williamson john wisdom ludwig wittgenstein stephen yablo
+theories deflationism direct reference theory empiricism holism logical atomism logical positivism naturalism naturalized epistemology neopragmatism neutral monism particularism reductionism scientism skepticism verificationism
+concepts analysis analytic–synthetic distinction causal / deductive / epistemic closure concept counterfactual denotation / reference definite description factive family resemblance intuition meaning proposition modality natural kind / projectability necessary–sufficient conditions paradox analysis possible world reduction reflective equilibrium rigid–flaccid designators sense data supervenience thought experiment truth function truthmaker truth-bearer type–token distinction related articles australian realism ordinary language philosophy philosophical logic philosophy language philosophy science postanalytic philosophy
+category task force discussion philosophy stubs vte philosophy language philosophers plato cratylus gorgias confucius xunzi aristotle stoics pyrrhonists scholasticism ibn rushd ibn khaldun thomas hobbes gottfried wilhelm leibniz johann herder ludwig noire wilhelm von humboldt fritz mauthner paul ricœur ferdinand de saussure gottlob frege franz boas paul tillich edward sapir leonard bloomfield zhuangzi henri bergson lev vygotsky ludwig wittgenstein philosophical investigations tractatus logico-philosophicus bertrand russell rudolf carnap jacques derrida grammatology limited inc benjamin lee whorf gustav bergmann j
+austin noam chomsky hans-georg gadamer saul kripke
+ayer g
+anscombe jaakko hintikka michael dummett donald davidson paul grice gilbert ryle p
+strawson willard van orman quine hilary putnam david lewis john searle joxe azurmendi scott soames stephen yablo john hawthorne stephen neale theories causal theory reference contrast theory meaning contrastivism conventionalism cratylism deconstruction descriptivist theory names direct reference theory dramatism expressivism linguistic determinism logical atomism logical positivism mediated reference theory nominalism non-cognitivism phallogocentrism quietism relevance theory semantic externalism semantic holism structuralism supposition theory symbiosism theological noncognitivism theory descriptions verification theory concepts ambiguity linguistic relativity meaning language truth-bearer proposition use–mention distinction concept categories set class intension logical form metalanguage mental representation principle compositionality property sign sense reference speech act symbol entity sentence statement
+related articles analytic philosophy philosophy information philosophical logic linguistics pragmatics rhetoric semantics formal semantics semiotics category task force discussion vte philosophy mind philosophers anscombe austin aquinas bain bergson bhattacharya block brentano broad burge chalmers churchland dennett dharmakirti davidson descartes goldman heidegger husserl fodor james kierkegaard leibniz lewis mc dowell merleau-ponty minsky moore nagel parfit putnam popper rorty ryle searle spinoza turing vasubandhu wittgenstein zhuangzi
+theories behaviorism biological naturalism dualism eliminative materialism emergent materialism epiphenomenalism functionalism idealism interactionism materialism monism naïve realism neutral monism phenomenalism phenomenology existential neurophenomenology physicalism identity theory pragmatism property dualism representational solipsism subjectivism substance dualism concepts abstract object artificial intelligence chinese room cognition cognitive closure concept concept object consciousness hard problem consciousness hypostatic abstraction idea identity ingenuity intelligence intentionality introspection intuition language thought materialism mental event mental image mental process mental property mental representation mind mind–body problem new mysterianism pain problem other minds propositional attitude qualia tabula rasa understanding zombie
+related topics metaphysics philosophy artificial intelligence / information / perception / self portal category task force discussion authority control world cat identities viaf 49253679 lccn n79003370 isni 0000 0001 2025 3687 gnd 11850519 x sudoc 029321115 bnf cb12097213 w data ndl 00431926 nkc jn19990000323

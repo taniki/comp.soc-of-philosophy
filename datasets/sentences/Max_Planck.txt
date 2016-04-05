@@ -1,0 +1,345 @@
+planck redirects here
+other uses see planck disambiguation
+max planck planck 1933 born max karl ernst ludwig planck1858-04-2323 april 1858 kiel duchy holstein died 4 october 19471947-10-04 aged 89 göttingen lower saxony germany nationality german fields physics institutions university kiel university göttingen kaiser wilhelm society alma mater ludwig maximilian university munich doctoral advisor alexander von brill gustav kirchhoff hermann von helmholtz doctoral students erich kretschmann gustav ludwig hertz julius edgar lilienfeld max abraham max von laue moritz schlick walter schottky walther bothe walther meissner other notable students lise meitner known planck constant planck postulate planck's law black body radiation notable awards nobel prize physics 1918 lorentz medal 1927 copley medal 1929 max planck medal 1929 goethe prize 1945 spouse marie merck 1887–1909 marga von hösslin 1911–1947 signature notes son erwin planck executed 1945 gestapo part assassination attempt adolf hitler
+max karl ernst ludwig planck frs /plɑːŋk/ 23 april 1858 4 october 1947 german theoretical physicist whose work quantum theory won nobel prize physics 1918
+planck made many contributions theoretical physics fame physicist rests primarily role originator quantum theory revolutionized human understanding atomic subatomic processes
+however name also known broader academic basis through renaming 1948 german scientific institution kaiser wilhelm society twice president max planck society mps
+mps now includes 83 institutions representing wide range scientific directions
+contents early life career
+academic career
+2 family
+3 professor berlin university
+4 black-body radiation
+5 einstein theory relativity
+6 world war
+7 post war weimar republic
+quantum mechanics
+9 nazi dictatorship world war ii 2 religious views 3 publications 4 see also 5 references 6 sources 7 external links early life career planck came traditional intellectual family
+paternal great-grandfather grandfather both theology professors göttingen father law professor kiel munich
+max planck's signature ten years age planck born kiel holstein johann julius wilhelm planck second wife emma patzig
+baptised name karl ernst ludwig marx planck given names marx now obsolete variant markus maybe simply error max actually short maximilian indicated primary name
+however age ten signed name max used rest life
+6 th child family though two siblings father's first marriage
+among earliest memories marching prussian austrian troops kiel during second schleswig war 1864
+1867 family moved munich planck enrolled maximilians gymnasium school came under tutelage hermann müller mathematician took interest youth taught astronomy mechanics well mathematics
+müller planck first learned principle conservation energy
+planck graduated early age 17
+how planck first came contact field physics
+planck gifted came music
+took singing lessons played piano organ cello composed songs operas
+however instead music chose study physics
+planck young man 1878 munich physics professor philipp von jolly advised planck against going physics saying field almost everything already discovered remains fill few holes
+planck replied wish discover new things understand known fundamentals field began studies 1874 university munich
+under jolly's supervision planck performed experiments scientific career studying diffusion hydrogen through heated platinum transferred theoretical physics
+1877 went friedrich wilhelms university berlin year study physicists hermann von helmholtz gustav kirchhoff mathematician karl weierstrass
+helmholtz never quite prepared spoke slowly miscalculated endlessly bored listeners while kirchhoff spoke carefully prepared lectures dry monotonous
+soon became close friends helmholtz
+while there undertook program mostly self-study clausius's writings led choose heat theory field
+october 1878 planck passed qualifying exams february 1879 defended dissertation über den zweiten hauptsatz mechanischen wärmetheorie second law thermodynamics
+briefly taught mathematics physics former school munich
+june 1880 presented habilitation thesis gleichgewichtszustände isotroper körper verschiedenen temperaturen equilibrium states isotropic bodies different temperatures
+academic career completion habilitation thesis planck became unpaid private lecturer privatdozent munich waiting until offered academic position
+although initially ignored academic community furthered work field heat theory discovered after another same thermodynamical formalism gibbs without realizing
+clausius's ideas entropy occupied central role work
+april 1885 university kiel appointed planck associate professor theoretical physics
+further work entropy treatment especially applied physical chemistry followed
+published treatise thermodynamics 1897
+proposed thermodynamic basis svante arrhenius's theory electrolytic dissociation
+within four years named successor kirchhoff's position friedrich-wilhelms-universität berlin presumably thanks helmholtz's intercession 1892 became full professor
+1907 planck offered boltzmann's position vienna turned down stay berlin
+during 1909 university berlin professor invited become ernest kempton adams lecturer theoretical physics columbia university new york city
+series lectures translated co-published columbia university professor
+retired berlin 10 january 1926 succeeded erwin schrödinger
+family march 1887 planck married marie merck 1861–1909 sister school fellow moved her sublet apartment kiel
+four children karl 1888–1916 twins emma 1889–1919 grete 1889–1917 erwin 1893–1945
+after apartment berlin planck family lived villa berlin-grunewald wangenheimstrasse 21
+several other professors berlin university lived nearby among them theologian adolf von harnack became close friend planck
+soon planck home became social cultural centre
+numerous well-known scientists such albert einstein otto hahn lise meitner frequent visitors
+tradition jointly performing music already established home helmholtz
+after several happy years july 1909 marie planck died possibly tuberculosis
+march 1911 planck married second wife marga von hoesslin 1882–1948 december fifth child hermann born
+during first world war planck's second son erwin taken prisoner french 1914 while oldest son karl killed action verdun
+grete died 1917 while giving birth her first child
+her sister died same way two years later after having married grete's widower
+both granddaughters survived named after their mothers
+planck endured these losses stoically
+january 1945 erwin whom particularly close sentenced death nazi volksgerichtshof because participation failed attempt assassinate hitler july 1944
+erwin executed 23 january 1945
+professor berlin university professor friedrich-wilhelms-universität berlin planck joined local physical society
+later time those days essentially theoretical physicist there whence things easy me because started mentioning entropy quite fashionable since regarded mathematical spook
+thanks initiative various local physical societies germany merged 1898 form german physical society deutsche physikalische gesellschaft dpg 1905 1909 planck president
+plaque humboldt university berlin max planck discoverer elementary quantum action h taught building 1889 1928
+planck started six-semester course lectures theoretical physics dry somewhat impersonal according lise meitner using no notes never making mistakes never faltering best lecturer ever heard according english participant james r
+partington continues there many standing around room
+lecture-room well heated rather close listeners time time drop floor disturb lecture
+planck establish actual school number graduate students 20 among them 1897 max abraham 1875–1922 1904 moritz schlick 1882–1936 1906 walther meissner 1882–1974 1906 max von laue 1879–1960 1907 fritz reiche 1883–1960 1912 walter schottky 1886–1976 1914 walther bothe 1891–1957 black-body radiation 1894 planck turned attention problem black-body radiation
+commissioned electric companies create maximum light lightbulbs minimum energy
+problem stated kirchhoff 1859 how does intensity electromagnetic radiation emitted black body perfect absorber also known cavity radiator depend frequency radiation
+color light temperature body?
+question explored experimentally no theoretical treatment agreed experimental values
+wilhelm wien proposed wien's law correctly predicted behaviour high frequencies failed low frequencies
+rayleigh–jeans law another approach problem created later known ultraviolet catastrophe contrary many textbooks motivation planck
+planck's first proposed solution problem 1899 followed planck called principle elementary disorder allowed derive wien's law number assumptions entropy ideal oscillator creating referred-to wien–planck law
+soon found experimental evidence confirm new law planck's frustration
+planck revised approach deriving first version famous planck black-body radiation law described experimentally observed black-body spectrum well
+first proposed meeting dpg 19 october 1900 published 1901
+first derivation include energy quantisation use statistical mechanics held aversion
+november 1900 planck revised first approach relying boltzmann's statistical interpretation second law thermodynamics way gaining fundamental understanding principles behind radiation law
+planck deeply suspicious philosophical physical implications such interpretation boltzmann's approach recourse them later put act despair
+ready sacrifice any my previous convictions physics
+central assumption behind new derivation presented dpg 14 december 1900 supposition now known planck postulate electromagnetic energy emitted quantized form other words energy multiple elementary unit planck's constant also known planck's action quantum introduced already 1899 greek letter nu roman letter v frequency radiation
+note elementary units energy discussed here represented simply
+physicists now call these quanta photons photon frequency will own specific unique energy
+total energy frequency then equal multiplied number photons frequency
+planck 1918 year received nobel prize physics work quantum theory first planck considered quantisation purely formal assumption
+actually think much
+nowadays assumption incompatible classical physics regarded birth quantum physics greatest intellectual accomplishment planck's career ludwig boltzmann discussing theoretical paper 1877 possibility energy states physical system discrete
+discovery planck's constant enabled define new universal set physical units such planck length planck mass based fundamental physical constants upon much quantum theory based
+recognition planck's fundamental contribution new branch physics awarded nobel prize physics 1918
+subsequently planck tried grasp meaning energy quanta no avail
+my unavailing attempts somehow reintegrate action quantum classical theory extended over several years caused me much trouble
+even several years later other physicists like rayleigh jeans lorentz set planck's constant zero order align classical physics planck knew well constant precise nonzero value
+am unable understand jeans' stubbornness example theoretician should never existing same hegel philosophy
+much worse facts don't fit
+max born planck nature conservative mind nothing revolutionary thoroughly skeptical speculations
+yet belief compelling force logical reasoning facts strong flinch announcing most revolutionary idea ever shaken physics
+einstein theory relativity 1905 three epochal papers hitherto completely unknown albert einstein published journal annalen physik
+planck among few immediately recognized significance special theory relativity
+thanks influence theory soon widely accepted germany
+planck also contributed considerably extend special theory relativity
+example recast theory terms classical action
+einstein's hypothesis light quanta photons based philipp lenard's 1902 discovery photoelectric effect initially rejected planck
+unwilling discard completely maxwell's theory electrodynamics
+theory light thrown back decades centuries age christian huygens dared fight against mighty emission theory isaac newton
+[citation needed] 1910 einstein pointed out anomalous behavior specific heat low temperatures another example phenomenon defies explanation classical physics
+planck nernst seeking clarify increasing number contradictions organized first solvay conference brussels 1911
+meeting einstein able convince planck
+meanwhile planck appointed dean berlin university whereby possible call einstein berlin establish new professorship 1914
+soon two scientists became close friends met frequently play music together
+world war onset first world war planck endorsed general excitement public writing besides much horrible there also much unexpectedly great beautiful smooth solution most difficult domestic political problems unification parties
+extolling everything good noble
+nonetheless planck refrained extremes nationalism
+1915 time italy join allied powers voted successfully scientific paper italy received prize prussian academy sciences planck four permanent presidents
+planck also signed infamous manifesto 93 intellectuals pamphlet polemic war propaganda while einstein retained strictly pacifistic attitude almost led imprisonment being spared swiss citizenship
+1915 planck after several meetings dutch physicist lorentz revoked parts manifesto
+then 1916 signed declaration against german annexationism
+post war weimar republic turbulent post-war years planck now highest authority german physics issued slogan persevere continue working colleagues
+october 1920 fritz haber established notgemeinschaft deutschen wissenschaft emergency organization german science aimed providing financial support scientific research
+considerable portion money organization distribute raised abroad
+planck also held leading positions berlin university prussian academy sciences german physical society kaiser wilhelm society 1948 became max planck society
+during time economic conditions germany such hardly able conduct research
+1926 planck became foreign member royal netherlands academy arts sciences
+during interwar period planck became member deutsche volks-partei german people's party party nobel peace prize laureate gustav stresemann aspired liberal aims domestic policy rather revisionistic aims politics around world
+planck disagreed introduction universal suffrage later expressed view nazi dictatorship resulted ascent rule crowds
+quantum mechanics left right w
+einstein m
+planck r
+millikan von laue dinner given von laue berlin november 1931 end 1920 s bohr heisenberg pauli worked out copenhagen interpretation quantum mechanics rejected planck schrödinger laue einstein well
+planck expected wave mechanics soon render quantum theory—his own child—unnecessary
+case however
+further work cemented quantum theory even against einstein's philosophical revulsions
+planck experienced truth own earlier observation struggle older views younger years new scientific truth does triumph convincing opponents making them see light rather because opponents eventually die new generation grows up familiar
+nazi dictatorship world war ii nazis seized power 1933 planck 74
+witnessed many jewish friends colleagues expelled their positions humiliated hundreds scientists emigrated nazi germany
+again tried persevere continue working asked scientists considering emigration remain germany
+hoped crisis abate soon political situation improve
+otto hahn asked planck gather well-known german professors order issue public proclamation against treatment jewish professors planck replied you able gather today 30 such gentlemen then tomorrow 150 others will come speak against because eager take over positions others
+under planck's leadership kaiser wilhelm society kwg avoided open conflict nazi regime except concerning fritz haber
+planck tried discuss issue adolf hitler unsuccessful
+following year 1934 haber died exile
+year later planck having president kwg since 1930 organized somewhat provocative style official commemorative meeting haber
+also succeeded secretly enabling number jewish scientists continue working institutes kwg several years
+1936 term president kwg ended nazi government pressured refrain seeking another term
+political climate germany gradually became hostile johannes stark prominent exponent deutsche physik german physics also called aryan physics attacked planck sommerfeld heisenberg continuing teach theories einstein calling them white jews
+hauptamt wissenschaft nazi government office science started investigation planck's ancestry claiming 1/16 jewish however planck himself denied
+max planck's grave göttingen 1938 planck celebrated 80 th birthday
+dpg held celebration during max-planck medal founded highest medal dpg 1928 awarded french physicist louis de broglie
+end 1938 prussian academy lost remaining independence taken over nazis gleichschaltung
+planck protested resigning presidency
+continued travel frequently giving numerous public talks such talk religion science five years later sufficiently fit climb 3000-meter peaks alps
+during second world war increasing number allied bombing missions against berlin forced planck wife temporarily leave city live countryside
+1942 me ardent desire grown persevere crisis live long enough able witness turning point beginning new rise
+february 1944 home berlin completely destroyed air raid annihilating scientific records correspondence
+rural retreat threatened rapid advance allied armies both sides
+after end war planck second wife son her brought relative göttingen planck died 4 october 1947
+grave situated old stadtfriedhof city cemetery göttingen
+1945 planck's younger son erwin arrested due attempted assassination hitler july 20 plot
+erwin consequently died hands gestapo death destroyed much max planck's will live
+religious views planck member lutheran church germany
+however planck very tolerant towards alternative views religions
+lecture 1937 entitled religion und naturwissenschaft suggested importance these symbols rituals related directly believer's ability worship god must mindful symbols provide imperfect illustration divinity
+criticized atheism being focused derision such symbols while same time warned over-estimation importance such symbols believers
+max planck 1944 man devoted whole life most clear headed science study matter tell you result my research atoms much there no matter such
+matter originates exists virtue force brings particle atom vibration holds most minute solar system atom together
+must assume behind force existence conscious intelligent mind
+mind matrix matter
+planck regarded scientist man imagination faith faith interpreted being similar having working hypothesis
+example causality principle isn't true false act faith
+thereby planck may indicated view points toward imre lakatos' research programs process descriptions falsification mostly tolerable faith future removal
+also both religion science require belief god
+believers god beginning physicists end considerations… former foundation latter crown edifice every generalized world view
+other hand planck
+'to believe' means 'to recognize truth' knowledge nature continually advancing incontestably safe tracks made utterly impossible person possessing training natural science recognize founded truth many reports extraordinary occurrences contradicting laws nature miracles still commonly regarded essential supports confirmations religious doctrines formerly used accepted facts pure simple without doubt criticism
+belief miracles must retreat step step before relentlessly reliably progressing science cannot doubt sooner later must vanish completely
+later life planck's views god deist
+example six months before death rumour started planck converted catholicism questioned brought make step declared although deeply religious believe personal god let alone christian god
+publications planck m
+über eine verbesserung wienschen spektralgleichung
+verhandlungen deutschen physikalischen gesellschaft 2 202–204
+translated ter haar
+improvement wien's equation spectrum
+old quantum theory pdf
+pergamon press
+lccn 66029628
+planck m
+zur theorie des gesetzes energieverteilung im normalspektrum
+verhandlungen deutschen physikalischen gesellschaft 2 237
+translated ter haar
+old quantum theory pdf
+pergamon press 82
+lccn 66029628
+|chapter= ignored help planck m
+1900 c
+entropie und temperatur strahlender wärme [entropy temperature radiant heat]
+annalen physik 306 4 719–737
+bibcode1900 p
+719 p
+planck m
+über irreversible strahlungsvorgänge [on irreversible radiation processes]
+annalen physik 306 69–122
+bibcode1900 p
+69 p
+planck m
+über das gesetz energieverteilung im normalspektrum
+annalen physik 309 3 553–563
+bibcode1901 p
+553 p
+translated ando k
+law distribution energy normal spectrum pdf
+retrieved 2011-10-13
+planck m
+treatise thermodynamics
+london longmans green & co
+ol 7246691 m
+planck m
+vorlesungen über die theorie wärmestrahlung
+leipzig j
+lccn 07004527
+planck m
+theory heat radiation
+masius m
+2 nd ed
+blakiston's son & co
+ol 7154661 m
+planck m
+eight lectures theoretical physics
+dover publications
+planck m
+zur geschichte auffindung des physikalischen wirkungsquantums
+naturwissenschaften 31 14–15 153–159
+bibcode1943 nw
+153 p
+see also list things named after max planck photon polarization german inventors discoverers references physics tree profile max planck born m
+max karl ernst ludwig planck
+obituary notices fellows royal society 6 17 161–126
+random house webster's unabridged dictionary
+nobel prize physics 1918
+retrieved 2011-07-05
+christoph seidler gestatten marx planck spiegel online 24 april 2008 press release max planck society max planck's name
+encyclopædia britannica max planck lightman alan p
+discoveries great breakthroughs twentieth-century science including original papers
+toronto alfred
+knopf canada
+planck max 1897
+vorlesungen über thermodynamik
+leipzig verlag von veit & company
+retrieved 27 june
+english translation planck max 1903
+treatise thermodynamics
+london longmans green company
+retrieved 27 june
+jacques hadamard 1915
+four lectures mathematics delivered columbia university 1911
+columbia university press
+retrieved 5 july 2011
+jürgen heideking christof mauch 5 october 1998
+american intelligence german resistance hitler documentary history
+westview press
+retrieved 5 july 2011
+verband deutscher elektrotechniker elektrotechnischer verein berlin germany 1948
+etz elektrotechnische zeitschrift ausg
+etz elektrotechnische zeitschrift german vde-verlag 69
+snipped extract solid approach complexity planck's intellectual motivations quantum reluctant acceptance implications see helge kragh max planck reluctant revolutionary physics world
+december 2000
+kragh helge december 2000 max planck reluctant revolutionary physics world
+com heilbron 2000 page einstein quantum
+douglas stone princeton university press princeton oxford chapter 9 tripping light heuristic 2013
+heilbron 2000 page 72 evans james thorndike alan s
+quantum mechanics crossroads new perspectives history philosophy physics
+extract page 31 max karl ernst ludwig planck 1858–1947
+royal netherlands academy arts sciences
+retrieved 4 august 2015
+scully robert j
+scully marlan o
+demon quantum pythagorean mystics maxwell's demon quantum mystery
+chapter 7 p 90 quoted thomas kuhn structure scientific revolutions 1970 ed
+slightly different translation hahn remembers planck saying you bring together 30 such men today then tomorrow 150 will come denounce them because want take their places
+translated quote found heilbron 2000 p
+heilbron end paragraph p
+151 cites following references hahn’s writings otto hahn einige persönliche erinnerungen max planck mpg mitteilungen 1957 p
+244 otto hahn my life herder herder 1970 p
+heilbron 2000 page 191 max planck's grave göttingen germany youtube retrieved 2016-01-04 max karl ernst ludwig planck wayback machine archived 12 may 2008 erich dinkler planck max die religion geschichte und gegenwart third edition volume v tübingen germany 1961 col
+404-405 religious affiliation physicist max planck
+retrieved 2011-07-05
+life max planck
+retrieved 2012-03-07
+das wesen materie [the nature matter] speech florence italy 1944 archiv zur geschichte max-planck-gesellschaft abt
+va rep
+planck nr
+1797 religion natural science lecture given 1937 scientific autobiography other papers trans
+gaynor new york 1949 pp
+184 http//en
+org/wiki/max_planck max planck scientific autobiography other papers j
+heilbron 1986
+dilemmas upright man max planck fortunes german science
+harvard university press
+other side church spokesmen scarcely become enthusiastic planck's deism omitted reference established religions no doctrinal content einstein's judaism
+seemed useful therefore paint lily improve lesson planck's life use proselytizers associate deanthropomorphizer science belief traditional godhead
+|access-date= requires |url= help heilbron 2000 page 198 sources aczel amir
+entanglement chapter 4
+penguin 2003 heilbron j
+dilemmas upright man max planck fortunes german science
+harvard university press
+pickover clifford
+archimedes hawking laws science great minds behind them oxford university press 2008 medawar jean pyke david
+hitler's gift true story scientists expelled nazi regime paperback
+new york arcade publishing
+rosenthal-schneider ilse reality scientific truth discussions einstein von laue planck wayne state university 1980 external links wikimedia commons media related max planck
+wikiquote quotations related max planck works max planck project gutenberg works max planck internet archive works max planck libri vox public domain audiobooks annotated bibliography max planck alsos digital library nuclear issues max planck encyclopædia britannica article max planck biography www
+com max planck institutes natural science astrophysics cinematic self-portrait max planck berlin-brandenburgische akademie wissenschaften 1942 nobel biography life–work–personality exhibition 50 th anniversary planck's death vte copley medallists 1901–1950 josiah willard gibbs 1901 joseph lister 1902 eduard suess 1903 william crookes 1904 dmitri mendeleev 1905 élie metchnikoff 1906 albert
+michelson 1907 alfred russel wallace 1908 george william hill 1909 francis galton 1910 george darwin 1911 felix klein 1912 ray lankester 1913 j
+thomson 1914 ivan pavlov 1915 james dewar 1916 pierre paul émile roux 1917 hendrik lorentz 1918 william bayliss 1919 horace tabberer brown 1920 joseph larmor 1921 ernest rutherford 1922 horace lamb 1923 edward albert sharpey-schafer 1924 albert einstein 1925 frederick gowland hopkins 1926 charles scott sherrington 1927 charles algernon parsons 1928 max planck 1929 william henry bragg 1930 arthur schuster 1931 george ellery hale 1932 theobald smith 1933 john scott haldane 1934 charles thomson rees wilson 1935 arthur evans 1936 henry hallett dale 1937 niels bohr 1938 thomas hunt morgan 1939 paul langevin 1940 thomas lewis 1941 robert robinson 1942 joseph barcroft 1943 geoffrey ingram taylor 1944 oswald avery 1945 edgar douglas adrian 1946 g
+hardy 1947 archibald hill 1948 george de hevesy 1949 james chadwick 1950 1731–1750 1751–1800 1801–1850 1851–1900 1901–1950 1951–2000 2001–present vte laureates nobel prize physics1901–1925 1901 röntgen 1902 lorentz / zeeman 1903 becquerel / p
+curie / m
+curie 1904 rayleigh 1905 lenard 1906 j
+thomson 1907 michelson 1908 lippmann 1909 marconi / braun 1910 van waals 1911 wien 1912 dalén 1913 kamerlingh onnes 1914 laue 1915 w
+bragg / w
+bragg 1916 1917 barkla 1918 planck 1919 stark 1920 guillaume 1921 einstein 1922 n
+bohr 1923 millikan 1924 m
+siegbahn 1925 franck / hertz 1926–1950 1926 perrin 1927 compton / c
+wilson 1928 o
+richardson 1929 de broglie 1930 raman 1931 1932 heisenberg 1933 schrödinger / dirac 1934 1935 chadwick 1936 hess / c
+anderson 1937 davisson / g
+thomson 1938 fermi 1939 lawrence 1940 1941 1942 1943 stern 1944 rabi 1945 pauli 1946 bridgman 1947 appleton 1948 blackett 1949 yukawa 1950 powell 1951–1975 1951 cockcroft / walton 1952 bloch / purcell 1953 zernike 1954 born / bothe 1955 lamb / kusch 1956 shockley / bardeen / brattain 1957 c
+yang / t
+lee 1958 cherenkov / frank / tamm 1959 segrè / chamberlain 1960 glaser 1961 hofstadter / mössbauer 1962 landau 1963 wigner / goeppert-mayer / jensen 1964 townes / basov / prokhorov 1965 tomonaga / schwinger / feynman 1966 kastler 1967 bethe 1968 alvarez 1969 gell-mann 1970 alfvén / néel 1971 gabor 1972 bardeen / cooper / schrieffer 1973 esaki / giaever / josephson 1974 ryle / hewish 1975
+bohr / mottelson / rainwater 1976–2000 1976 richter / ting 1977 p
+anderson / mott / van vleck 1978 kapitsa / penzias / r
+wilson 1979 glashow / salam / weinberg 1980 cronin / fitch 1981 bloembergen / schawlow / k
+siegbahn 1982 k
+wilson 1983 chandrasekhar / fowler 1984 rubbia / van meer 1985 von klitzing 1986 ruska / binnig / rohrer 1987 bednorz / müller 1988 lederman / schwartz / steinberger 1989 ramsey / dehmelt / paul 1990 friedman / kendall / r
+taylor de gennes 1992 charpak 1993 hulse / j
+taylor 1994 brockhouse / shull 1995 perl / reines 1996
+lee / osheroff / r
+richardson 1997 chu / cohen-tannoudji / phillips 1998 laughlin / störmer / tsui 1999 't hooft / veltman 2000 alferov / kroemer / kilby 2001–present 2001 cornell / ketterle / wieman 2002 davis / koshiba / giacconi 2003 abrikosov / ginzburg / leggett 2004 gross / politzer / wilczek 2005 glauber / hall / hänsch 2006 mather / smoot 2007 fert / grünberg 2008 nambu / kobayashi / maskawa 2009 kao / boyle / smith 2010 geim / novoselov 2011 perlmutter / riess / schmidt wineland / haroche 2013 englert / higgs 2014 akasaki / amano / nakamura 2015 kajita / mc donald vte scientists whose names used physical constants physical constants isaac newton gravitational constant charles-augustin de coulomb coulomb's constant amedeo avogadro avogadro constant michael faraday faraday constant johann josef loschmidt johann jakob balmer joseph stefan stefan–boltzmann constant ludwig boltzmann boltzmann constant stefan–boltzmann constant johannes rydberg rydberg constant joseph john thomson max planck planck constant reduced planck constant planck length planck time wilhelm wien otto sackur niels bohr bohr radius edwin hubble hubble constant hugo tetrode douglas hartree brian david josephson klaus von klitzing list scientists whose names used si units non si units vte planck's natural units planck's constant planck units base planck units planck time planck length planck mass planck charge planck temperature derived planck units planck energy planck force planck power planck density planck angular frequency planck pressure planck current planck voltage planck impedance planck momentum planck area planck volume biography portal physics portal authority control world cat identities viaf 34487615 lccn n80038130 isni 0000 0001 1024 5894 gnd 118594818 selibr 233104 sudoc 02888566 x bnf cb12108412 n data mgp 20750 nla 35424988 ndl 00452924 nkc jn20000604452

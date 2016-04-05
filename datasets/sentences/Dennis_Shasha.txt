@@ -1,0 +1,33 @@
+dennis elliot shasha professor computer science courant institute mathematical sciences division new york university
+current areas research include work done biologists pattern discovery microarrays combinatorial design network inference protein docking work done physicists musicians professionals finance algorithms time series work database applications untrusted environments
+other areas interest include database tuning well tree graph matching
+contents background 2 bibliography 2
+ecco mysteries 2
+2 computer science 2
+3 historical 3 references 4 external links background after graduating yale 1977 worked ibm designing circuits microcode ibm 3090
+while ibm earned m
+syracuse university 1980
+completed ph
+applied mathematics harvard 1984 thesis advisor nat goodman
+professor shasha prolific author researcher tango dancer climber public speaker
+written six books puzzles five center work mathematical detective name jacob ecco biography great computer scientists coauthored freelance journalist cathy lazere technical books relating various areas research
+non-academic writings perhaps greatest invention notion omniheuristics kind super-heuristics concerned ability solve any manner puzzles conundrums enigmas dilimmas
+owing their decidedly curious character given particular note puzzles start off easy apparently innocent variants particularly perplexing calls them 'upstarts'
+professor shasha written monthly puzzle columns scientific american dr
+dobb's journal
+lives new york wife karen
+2013 became fellow association computing machinery
+bibliography dr
+ecco mysteries puzzling adventures dr
+ecco - 1988 freeman republished 1998 dover codes puzzles conspiracy - 1992 freeman republished 2004 dover dr
+ecco mathematical detective dr
+ecco's cyberpuzzles - 2002 w
+norton puzzling adventures - 2005 w
+norton puzzler's elusion - 2006 avalon publishing computer science out their minds lives discoveries 15 great computer scientists - 1998 springer database tuning principles experiments troubleshooting techniques - 2002 morgan kauffmann puzzles programmers pros - 2007 wrox historical red blues voices last wave russian immigrants - holmes & meier 2002 iraq's last jews stories daily life upheaval escape modern babylon - 2008 palgrave macmillan references 2006 graduate programs engineering & applied sciences peterson's dennis shasha cv shasha dennis 1988 puzzling adventures dr
+ecco freeman london
+cipra barry 2004 tribute mathemagician ak peters acm names fellows computing advances transforming science society association computing machinery accessed 2013-12-10
+external links http//cs
+edu/~crispy/voronoi http//homepages
+edu/~yy497/projects/showcase/sudokill web game http//www
+edu/~ah203/snow walkers
+html authority control world cat identities viaf 85573081 isni 0000 0001 0859 0170 sudoc 032635435 bnf cb12362794 s data persondata name shasha dennis alternative names short description american computer scientist date birth place birth date death place death

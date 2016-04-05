@@ -1,0 +1,64 @@
+rodney brooks brooks 2005 born rodney allen brooks 1954-12-30 30 december 1954 age 61 adelaide australia residence usnationality australian fields robotics alma mater stanford university flinders university influenced andy clark notable awards ijcai computers thought award rodney allen brooks born 30 december 1954 australian roboticist fellow australian academy science author robotics entrepreneur most known popularizing actionist approach robotics
+panasonic professor robotics massachusetts institute technology former director mit computer science artificial intelligence laboratory
+founder former chief technical officer robot co-founder chairman chief technical officer rethink robotics formerly heartland robotics
+outside scientific community brooks also known appearance film featuring work fast cheap & out control
+contents life 2 work 2
+academic work 2
+2 industrial work 2
+3 robots 3 awards honors 4 film appearances 5 selected publications 6 references 7 external links life brooks received m
+pure mathematics flinders university south australia
+1981 received ph computer science stanford university under supervision thomas binford
+held research positions carnegie mellon university mit faculty position stanford university
+joined faculty mit 1984
+panasonic professor robotics massachusetts institute technology
+director mit computer science artificial intelligence laboratory 1997–2007 previously artificial intelligence laboratory
+brooks left mit 2008 found new company rethink robotics formerly heartland robotics serves chairman chief technical officer
+work academic work instead computation ultimate conceptual metaphor helped artificial intelligence become separate discipline scientific community proposed action behavior appropriate used robotics
+critical applying computational metaphor even fields action metaphor appropriate my colleagues managed recast pluto's orbital behavior body itself carrying out computations forces apply
+think perhaps better off using newtonian mechanics little einstein thrown understand predict orbits planets others
+much simpler
+1990 paper elephants don't play chess brooks argued order robots accomplish everyday tasks environment shared humans their higher cognitive abilities including abstract thinking emulated symbolic reasoning need based primarily sensory-motor coupling action environment complemented proprioceptive sense key component hand–eye coordination pointing out over time there's realization vision sound-processing early language maybe keys how our brain organized
+editor positions brooks also co-founding editor international journal computer vision editorial boards various journals including adaptive behavior artificial life mit press journal applied artificial intelligence autonomous robots journal new-generation computing memberships founding fellow american association artificial intelligence aaai fellow american association advancement science aaas member national academy engineering nae 2005 inducted fellow association computing machinery
+australian academy science corresponding member 2006 industrial work brooks entrepreneur before leaving academia found rethink robotics
+ten founders lucid lisp worked them until company's closure 1993
+before lucid closed brooks founded robot former students colin angle helen greiner
+robots robot rethink robotics 2013
+brooks right lineup behind robot
+left steve jurvetson photographer
+experimented off-the-shelf components such fischertechnik lego tried make robots self-replicate putting together clones themselves using components
+robots include mini-robots used oil wells explorations without cables robots searched survivors ground zero new york robots used medicine doing robotic surgery
+allen late 1980 s brooks team introduced allen robot using subsumption architecture
+2012[update] brooks' work focuses engineering intelligent robots operate unstructured environments understanding human intelligence through building humanoid robots
+baxter main article baxter robot introduced rethink robotics industrial robot named baxter intended robotic analogue early personal computer designed safely interact neighboring human workers programmable performance simple tasks
+robot stopped encountered human way robotic arm prominent off switch human partner push necessary
+costs projected equivalent worker making $4 hour
+awards honors computers thought award ijcai international joint conference artificial intelligence ieee ieee robotics automation award 2015 lectureships include cray lecturer university minnesota mellon lecturer dartmouth college hyland lecturer hughes forsythe lecturer stanford university film appearances being himself 1996 errol morris movie fast cheap & out control named after scientific papers cyborg insects foxnews rodney's robot revolution 2008 selected publications rodney brooks march 1986 robust layered control system mobile robot ieee journal robotics automation 2 14–23 rodney brooks 1989 robot walks emergent behaviors carefully evolved network pdf neural computation 2 253–262 doi10
+253 retrieved 24 august 2010 rodney brooks january intelligence without representation artificial intelligence 47 1–3 139–159 doi10
+1016/0004-37029190053-m steels luc & brooks rodney ed
+1995 artificial life route artificial intelligence building embodied situated agents hillsdale new jersey lawrence erlbaum associates 0-8058-1519-8 retrieved 24 august 2010 alternative x brooks rodney
+& maes pattie ed
+1996 artificial life proceedings fourth international workshop synthesis simulation living systems cambridge massachusetts mit press 0-262-52190-3 retrieved 24 august 2010 rodney brooks 1999 cambrian intelligence early history new ai mit press 0-262-52263-2 retrieved 24 august 2010 k
+warwick out shady age best robotics compilation review cambrian intelligence early history ai r brooks times higher educational supplement p
+15 september 2000
+thrun sebastian brooks rodney allen durrant-whyte hugh ed
+2007 robotics research results 12 th international symposium issr berlin & heidelberg springer-verlag retrieved 24 august 2010 relationship matter life nature 409 pp
+409–411 2001 flesh machines how robots will change us pantheon 2002 references companies csail people mit c beyond computation talk rodney brooks edge 2002 rodney allan brooks mathematics genealogy project
+computation ultimate metaphor you changed your mind about? edge 2008 brooks ra 1990
+elephants don't play chess pdf
+robotics autonomous systems 6 139–159
+rodney brooks
+acm fellows
+retrieved 2010-01-23
+contributions artificial intelligence robotics
+john markoff 18 september
+robot reassuring touch
+new york times
+retrieved 18 september
+com scientist military working cyborg spy moths
+fox news
+30 may 2007
+retrieved 2008-06-24
+external links media related rodney brooks wikimedia commons rethink robotics rodney brooks internet movie database rodney brooks ted rodney brooks why will rely robots ted2013 rodney brooks robots will invade our lives ted2003 home page deep question interview rodney brooks edge past future behavior based robotics podcast interview rodney brooks talking robots intelligence without reason seminal criticism von neumann computing architecture bbc article csail rodney
+brooks biography mit cog shop rodney
+brooks biography rodney
+brooks publications rodney's robot revolution 2008 authority control world cat identities viaf 91715820 lccn n82259958 isni 0000 0001 1577 8542 gnd 123717221 sudoc 053516699 bnf cb13602636 r data mgp 61090 ndl 00434493

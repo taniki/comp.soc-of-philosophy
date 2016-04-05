@@ -1,0 +1,498 @@
+saul kripke born 1940-11-13 november 13 1940 age 75 bay shore new york alma mater harvard university ba 1962 awards rolf schock prizes logic philosophy 2001 era contemporary philosophy region western philosophy school analytic institutions princeton university main interests logic particularly modal philosophy language metaphysics set theory epistemology philosophy mind history analytic philosophy notable ideas kripke–platek set theory causal theory reference kripkenstein admissible ordinal kripke structure rigid designator posteriori necessity kripke semantics influences david hume · frege · curry · lewis · russell · tarski · wittgenstein · dummett · quine · turing influenced burgess · boghossian · burge · chalmers · devitt · evans · field · kaplan · putnam · salmon · shoemaker · soames · weinstein · yablo saul aaron kripke /sɔːl ˈkrɪpki/ born november 13 1940 american philosopher logician
+distinguished professor philosophy city university new york emeritus professor princeton university
+since 1960 s kripke central figure number fields related mathematical logic philosophy language philosophy mathematics metaphysics epistemology set theory
+much work remains unpublished exists tape recordings privately circulated manuscripts
+kripke recipient 2001 schock prize logic philosophy
+2009 academic poll ranked kripke among top ten most important philosophers past 200 years
+kripke made influential original contributions logic especially modal logic
+work profoundly influenced analytic philosophy principal contribution being semantics modal logic involving possible worlds described system now called kripke semantics
+another most important contributions argument necessity 'metaphysical' notion should separated epistemic notion priori there necessary truths posteriori truths such water h2 o
+also contributed original reading wittgenstein referred kripkenstein
+most famous work naming necessity 1980
+contents biography 2 saul kripke center 3 work 4 modal logic 5 intuitionistic logic 6 naming necessity 7 puzzle belief wittgenstein 9 truth 10 religious views awards recognitions 12 works 12
+books 12
+2 abstracts articles 12
+3 unpublished manuscripts lectures 12
+4 interviews articles 13 see also 14 references 15 further reading 16 external links biography saul kripke oldest three children born dorothy k
+kripke rabbi myer s
+father leader beth el synagogue conservative congregation omaha nebraska while mother educational jewish books children
+saul two sisters madeline netta attended dundee grade school omaha central high school
+kripke labelled prodigy having taught himself ancient hebrew age six read complete works shakespeare nine mastered works descartes complex mathematical problems before finishing elementary school
+first completeness theorem modal logic age 17 published year later
+after graduating high school 1958 kripke attended harvard university graduated summa cum laude obtaining bachelor's degree mathematics
+during sophomore year harvard kripke taught graduate-level logic course nearby mit
+upon graduation 1962 received fulbright fellowship 1963 appointed society fellows
+after teaching briefly harvard moved rockefeller university new york city 1967 then received full-time position princeton university 1977
+1988 received university's behrman award distinguished achievement humanities
+2002 kripke began teaching cuny graduate center midtown manhattan appointed distinguished professor philosophy there 2003
+married philosopher margaret gilbert
+received honorary degrees university nebraska omaha 1977 johns hopkins university 1997 university haifa israel 1998 university pennsylvania 2005
+member american philosophical society elected fellow american academy arts sciences corresponding fellow british academy
+won schock prize logic philosophy 2001
+second cousin once removed television writer director producer eric kripke
+saul kripke center saul kripke center graduate center city university new york dedicated preserving promoting kripke's work
+saul kripke center directed gary ostertag
+skc hold events related kripke's work currently working create digital archive kripke's previously unpublished recordings lectures lecture notes correspondence dating back 1950 s
+favorable review kripke's philosophical troubles mark crimmins philosopher stanford four most admired discussed essays 1970 s philosophy here enough make first volume saul kripke's collected articles must-have
+reader's delight will grow hints dropped there great deal come series being prepared kripke ace team philosopher-editors saul kripke center graduate center city university new york
+work kripke models modal logic systems kripke's contributions philosophy include kripke semantics modal related logics published several essays beginning while still teens
+1970 princeton lectures naming necessity published 1972 1980 significantly restructured philosophy language
+interpretation wittgenstein
+theory truth
+also contributed set-theory see admissible ordinal kripke-platek set theory modal logic two kripke's earlier works completeness theorem modal logic semantical considerations modal logic former written while still teenager subject modal logic
+most familiar logics modal family constructed weak logic called k named after kripke contributions modal logic
+kripke introduced now-standard kripke semantics also known relational semantics frame semantics modal logics
+kripke semantics formal semantics non-classical logic systems
+first made modal logics later adapted intuitionistic logic other non-classical systems
+discovery kripke semantics breakthrough making non-classical logics because model theory such logics absent prior kripke
+kripke frame modal frame pair w non-empty set r binary relation w
+elements w called nodes worlds r known accessibility relation
+depending properties accessibility relation transitivity reflexivity etc
+corresponding frame described extension being transitive reflexive etc
+kripke model triple kripke frame relation nodes w modal formulas such implies
+read w satisfies satisfied w w forces
+relation called satisfaction relation evaluation forcing relation
+satisfaction relation uniquely determined value propositional variables
+formula valid model w ∈ w frame valid possible choices class c frames models valid every member c
+define thm c set formulas valid c
+conversely x set formulas let mod x class frames validate every formula x
+modal logic
+set formulas l sound respect class frames c l ⊆ thm c
+l complete respect c l ⊇ thm c
+semantics useful investigating logic
+derivation system semantical entailment relation reflects syntactical counterpart consequence relation derivability
+vital know modal logics sound complete respect class kripke frames them determine class
+any class c kripke frames thm c normal modal logic particular theorems minimal normal modal logic k valid every kripke model
+however converse does hold generally
+there kripke incomplete normal modal logics unproblematic because most modal systems studied complete classes frames described simple conditions
+normal modal logic l corresponds class frames c c = mod l
+other words c largest class frames such l sound wrt c
+follows l kripke complete complete corresponding class
+consider schema t
+t valid any reflexive frame then since w r w
+other hand frame validates t reflexive fix w ∈ w define satisfaction propositional variable p follows w r u
+then thus t means w r w using definition
+t corresponds class reflexive kripke frames
+often much easier characterize corresponding class l prove completeness thus correspondence serves guide completeness proofs
+correspondence also used show incompleteness modal logics suppose l1 ⊆ l2 normal modal logics correspond same class frames l1 does prove theorems l2
+then l1 kripke incomplete
+example schema generates incomplete logic corresponds same class frames gl viz
+transitive converse well-founded frames does prove gl-tautology
+any normal modal logic l kripke model called canonical model constructed validates precisely theorems l adaptation standard technique using maximal consistent sets models
+canonical kripke models play role similar lindenbaum–tarski algebra construction algebraic semantics
+set formulas l-consistent no contradiction derived them using axioms l modus ponens
+maximal l-consistent set l-mcs short l-consistent set no proper l-consistent superset
+canonical model l kripke model w set l-mcs relations r follows every formula then
+canonical model model l every l-mcs contains theorems l
+zorn's lemma each l-consistent set contained l-mcs particular every formula unprovable l counterexample canonical model
+main application canonical models completeness proofs
+properties canonical model k immediately imply completeness k respect class kripke frames
+argument does work arbitrary l because there no guarantee underlying frame canonical model satisfies frame conditions l
+say formula set x formulas canonical respect property p kripke frames x valid every frame satisfies p any normal modal logic l contains x underlying frame canonical model l satisfies p
+union canonical sets formulas itself canonical
+follows preceding discussion any logic axiomatized canonical set formulas kripke complete compact
+axioms t 4 5 h g thus any combination them canonical
+gl grz canonical because compact
+axiom m itself canonical goldblatt combined logic s4
+fact even k4
+general undecidable whether given axiom canonical
+know nice sufficient condition h
+sahlqvist identified broad class formulas now called sahlqvist formulas such sahlqvist formula canonical class frames corresponding sahlqvist formula first-order definable there algorithm computes corresponding frame condition given sahlqvist formula
+powerful criterion example axioms listed above canonical equivalent sahlqvist formulas
+logic finite model property fmp complete respect class finite frames
+application notion decidability question follows post's theorem recursively axiomatized modal logic l fmp decidable provided decidable whether given finite frame model l
+particular every finitely axiomatizable logic fmp decidable
+there various methods establishing fmp given logic
+refinements extensions canonical model construction often work using tools such filtration unravelling
+another possibility completeness proofs based cut-free sequent calculi usually produce finite models directly
+most modal systems used practice including listed above fmp
+cases use fmp prove kripke completeness logic every normal modal logic complete wrt class modal algebras finite modal algebra transformed kripke frame
+example robert bull proved using method every normal extension s4
+3 fmp kripke complete
+kripke semantics straightforward generalization logics modality
+kripke frame language set necessity operators consists non-empty set w equipped binary relations ri each ∈
+definition satisfaction relation modified follows simplified semantics discovered tim carlson often used polymodal provability logics
+carlson model structure single accessibility relation r subsets di ⊆ w each modality
+satisfaction defined carlson models easier visualize work usual polymodal kripke models there however kripke complete polymodal logics carlson incomplete
+semantical considerations modal logic published 1963 kripke responded difficulty classical quantification theory
+motivation world-relative approach represent possibility objects world may fail exist another
+standard quantifier rules used however every term must refer something exists possible worlds
+seems incompatible our ordinary practice using terms refer things exist contingently
+kripke's response difficulty eliminate terms
+gave example system uses world-relative interpretation preserves classical rules
+however costs severe
+first language artificially impoverished second rules propositional modal logic must weakened
+kripke's possible worlds theory used narratologists beginning pavel dolezel understand reader's manipulation alternative plot developments characters' planned fantasized alternative action series
+application become especially useful analysis hyperfiction
+intuitionistic logic kripke semantics intuitionistic logic follows same principles semantics modal logic uses different definition satisfaction
+intuitionistic kripke model triple partially ordered kripke frame satisfies following conditions p propositional variable then persistency condition implies
+intuitionistic logic sound complete respect kripke semantics finite model property
+intuitionistic first-order logic let l first-order language
+kripke model l triple intuitionistic kripke frame mw classical l-structure each node w ∈ w following compatibility conditions hold whenever u ≤ v domain mu included domain mv realizations function symbols mu mv agree elements mu each n-ary predicate p elements a1
+∈ mu pa1
+holds mu then holds mv
+given evaluation e variables elements mw define satisfaction relation holds mw implies there exists such every every
+here ex→a evaluation gives x value otherwise agrees e
+naming necessity main article naming necessity cover naming necessity three lectures form naming necessity constitute attack descriptivist theory names
+kripke attributes variants descriptivist theories frege russell ludwig wittgenstein john searle among others
+according descriptivist theories proper names either synonymous descriptions their reference determined virtue name's being associated description cluster descriptions object uniquely satisfies
+kripke rejects both these kinds descriptivism
+gives several examples purporting render descriptivism implausible theory how names get their references determined e
+surely aristotle died age two satisfied any descriptions associate name yet seem wrong deny aristotle
+alternative kripke outlined causal theory reference according name refers object virtue causal connection object mediated through communities speakers
+points out proper names contrast most descriptions rigid designators
+proper name refers named object every possible world object exists while most descriptions designate different objects different possible worlds
+example 'nixon' refers same person every possible world nixon exists while 'the person won united states presidential election 1968' refer nixon humphrey others different possible worlds
+kripke also raised prospect posteriori necessities — facts necessarily true though known through empirical investigation
+examples include hesperus phosphorus cicero tully water h2 o other identity claims two names refer same object
+finally kripke gave argument against identity materialism philosophy mind view every mental particular identical physical particular
+kripke argued way defend identity posteriori necessary identity such identity — e
+pain c-fibers firing — necessary given clearly conceivable possibility pain separate firing c-fibers firing c-fibers separate pain see philosophical zombie
+similar arguments proposed david chalmers
+any event psychophysical identity theorist according kripke incurs dialectical obligation explain apparent logical possibility these circumstances opinion such theorists should impossible
+kripke delivered john locke lectures philosophy oxford 1973
+titled reference existence many respects continuation naming necessity deal subjects fictional names perceptual error
+recently published oxford university press
+1995 paper philosopher quentin smith argued key concepts kripke's new theory reference originated work ruth barcan marcus decade earlier
+smith identified six significant ideas new theory claimed marcus developed idea proper names direct references don't consist contained definitions
+2 while single out single thing description description equivalent proper name thing
+3 modal argument proper names directly referential disguised descriptions
+4 formal modal logic proof necessity identity
+5 concept rigid designator though actual name concept coined kripke
+6 idea posteriori identity
+smith proceeded argue kripke failed understand marcus' theory time yet later adopted many key conceptual themes new theory reference
+other scholars subsequently offered detailed responses arguing no plagiarism occurred
+puzzle belief kripke's main propositions naming necessity concerning proper names meaning name simply object refers name's referent determined causal link sort baptism utterance name
+nevertheless acknowledges possibility propositions containing names may additional semantic properties properties explain why two names referring same person may give different truth values propositions beliefs
+example lois lane believes superman fly although she does believe clark kent fly
+accounted names superman clark kent though referring same person distinct semantic properties
+article puzzle belief kripke seems oppose even possibility
+argument reconstructed following way idea two names referring same object may different semantic properties supposed explain coreferring names behave differently propositions beliefs lois lane's case
+same phenomenon occurs even coreferring names obviously same semantic properties kripke invites us imagine french monolingual boy pierre believes following londres est joli
+london beautiful
+pierre moves london without realizing london = londres
+then learns english same way child learn language translating words french english
+pierre learns name london unattractive part city lives comes believe london beautiful
+kripke's account correct pierre now believes both londres joli london beautiful
+cannot explained coreferring names having different semantic properties
+according kripke demonstrates attributing additional semantic properties names does explain intended
+wittgenstein first published 1982 kripke's wittgenstein rules private language contends central argument wittgenstein's philosophical investigations centers devastating rule-following paradox undermines possibility our ever following rules our use language
+kripke writes paradox most radical original skeptical problem philosophy seen date
+60 kripke argues wittgenstein does reject argument leads rule-following paradox accepts offers 'skeptical solution' ameliorate paradox's destructive effects
+whilst most commentators[citation needed] accept philosophical investigations contains rule-following paradox kripke presents few concurred kripke attributes skeptical solution wittgenstein
+should noted kripke himself expresses doubts wittgenstein rules private language whether wittgenstein endorse interpretation philosophical investigations
+says work should read attempt give accurate statement wittgenstein's views rather account wittgenstein's argument struck kripke presented problem p
+portmanteau kripkenstein coined jesting nickname kripke's reading philosophical investigations
+real significance kripkenstein put forward clear statement new kind skepticism dubbed meaning skepticism idea isolated individual there no fact virtue he/she means thing rather another use word
+kripke's skeptical solution meaning skepticism ground meaning behavior community
+kripke's book generated large secondary literature[citation needed] divided those find skeptical problem interesting perceptive others such gordon baker peter hacker argue meaning skepticism pseudo-problem stems confused selective reading wittgenstein
+kripke's position however recently defended against these other attacks cambridge philosopher martin kusch 2006 wittgenstein scholar david g
+stern considers book most influential widely discussed work wittgenstein since 1980 s
+truth main article truth 1975 article outline theory truth kripke showed language consistently contain own truth predicate deemed impossible alfred tarski pioneer area formal theories truth
+approach involves letting truth partially defined property over set grammatically well-formed sentences language
+kripke showed how recursively starting set expressions language contain truth predicate defining truth predicate over just segment action adds new sentences language truth turn defined them
+unlike tarski's approach however kripke's lets truth union these definition-stages after denumerable infinity steps language reaches fixed point such using kripke's method expand truth-predicate does change language any further
+such fixed point then taken basic form natural language containing own truth predicate
+predicate undefined any sentences speak bottom out simpler sentences containing truth predicate
+'snow white' true well-defined snow white true' true forth neither sentence true nor sentence true receive truth-conditions kripke's terms ungrounded
+saul kripke gives lecture gödel university california santa barbara
+nevertheless shown gödel self-reference cannot avoided naively since propositions seemingly unrelated objects such integers informal self-referential meaning idea - manifested diagonal lemma - basis tarski's theorem truth cannot consistently defined
+thus claimed kripke's suggestion does lead contradiction while truth predicate partial does give truth value true/false propositions such built tarski's proof therefore inconsistent
+while there still debate whether tarski's proof implemented every variation such partial truth system none shown consistent acceptable proving methods used mathematical logic
+kripke's proposal also problematic sense while language contains truth predicate itself least partial sentences - such liar sentence sentence false - undefined truth value language does contain own undefined predicate
+fact cannot will create new version liar paradox called strengthened liar paradox sentence false undefined
+thus while liar sentence undefined language language cannot express undefined
+religious views kripke observant jew
+discussing how religious views influenced philosophical views interview andreas saugstad stated don't prejudices many today don't believe naturalist world view
+don't base my thinking prejudices worldview believe materialism
+awards recognitions fulbright scholar 1962–1963 society fellows harvard university 1963–1966
+doctor humane letters honorary degree university nebraska 1977
+fellow american academy arts sciences 1978–
+corresponding fellow british academy 1985–
+howard behrman award princeton university 1988
+fellow academia scientiarum et artium europaea 1993–
+doctor humane letters honorary degree johns hopkins university 1997
+doctor humane letters honorary degree university haifa israel 1998
+fellow norwegian academy sciences 2000–
+schock prize logic philosophy swedish academy sciences 2001
+doctor humane letters honorary degree university pennsylvania 2005
+fellow american philosophical society 2005–
+works books naming necessity
+cambridge mass
+harvard university press
+reprints 1972
+wittgenstein rules private language elementary exposition
+cambridge mass
+harvard university press 1982
+philosophical troubles
+collected papers vol
+new york oxford university press 2011
+reference existence
+john locke lectures
+new york oxford university press 2013
+abstracts articles 1959
+completeness theorem modal logic journal symbolic logic 2411–14
+distinguished constituents abstract journal symbolic logic 244323
+semantical analysis modal logic abstract journal symbolic logic 244323-324
+problem entailment abstract journal symbolic logic 244324
+'flexible' predicates formal number theory proceedings american mathematical society 134647-650
+undecidability monadic modal quantification theory zeitschrift für mathematische logik und grundlagen mathematik 8113–116 1963
+semantical considerations modal logic acta philosophica fennica 1683–94 1963
+semantical analysis modal logic normal modal propositional calculi zeitschrift für mathematische logik und grundlagen mathematik 967–96 1964
+transfinite recursions admissible ordinals abstract journal symbolic logic vol
+29 no
+3 p
+transfinite recursions admissible ordinals ii abstract journal symbolic logic vol
+29 no
+3 p
+admissible ordinals analytic hierarchy abstract journal symbolic logic vol
+29 no
+3 p
+semantical analysis intuitionistic logic formal systems recursive functions edited m
+dummett j
+amsterdam north-holland publishing co
+semantical analysis modal logic ii non-normal modal propositional calculi theory models edited j
+addison l
+amsterdam north-holland publishing co
+research announcement deduction-preserving 'recursive isomorphisms' theories marian boykan pour-el bulletin american mathematical society 73145-148
+extension theorem gaifman-hales-solovay fundamenta mathematicae 61 pp
+transfinite recursion constructible sets analogues cardinals summaries talks prepared connection summer institute axiomatic set theory american mathematical society u
+iv-0-1 - iv-0-12
+application boolean-valued models solutions problems boolean algebra summaries talks prepared connection summer institute axiomatic set theory american mathematical society u
+1967 pp
+iv-t-1 through iv-t-7
+deduction-preserving 'recursive isomorphisms' theories marian boykan pour-el fundamenta mathematicae 61 pp
+identity necessity identity individuation edited m
+new york new york university press
+reprinted philosophical troubles
+collected papers vol
+oxford university press
+1972 1980
+naming necessity semantics natural language edited
+davidson g
+dordrecht boston reidel
+sets out causal theory reference
+outline theory truth journal philosophy 72690–716
+reprinted philosophical troubles
+collected papers vol
+oxford university press
+sets theory truth against alfred tarski object language contain own truth predicate
+there problem substitutional quantification? truth meaning essays semantics edited gareth evans john mc dowell
+oxford oxford university press
+theory truth
+preliminary report abstract journal symbolic logic vol
+41 no
+2 pp
+theory truth ii
+preliminary report abstract journal symbolic logic vol
+41 no
+2 pp
+speaker's reference semantic reference midwest studies philosophy 2255–276
+reprinted philosophical troubles
+collected papers vol
+oxford university press
+puzzle belief meaning use edited
+dordrecht boston reidel
+reprinted philosophical troubles
+collected papers vol
+oxford university press
+nonstandard models peano arithmetic s
+kochen logic algorithmic international symposium held honor ernst specker h
+läuchli ed
+university geneva 277-295
+problem theory reference linguistic division labor social character naming philosophy culture proceedings xviith world congress philosophy montreal editions montmorency 241-247
+summary individual concepts their logic philosophy their uses
+proceedings addresses american philosophical association 66 70-73 2005
+russell's notion scope mind 1141005–1037
+reprinted philosophical troubles
+collected papers vol
+oxford university press
+frege's theory sense reference exegetical notes theoria 74181-218
+reprinted philosophical troubles
+collected papers vol
+oxford university press
+presupposition anaphora remarks formulation projection problem linguistic inquiry 403367-386
+reprinted philosophical troubles
+collected papers vol
+oxford university press
+collapse hilbert program abstract bulletin symbolic logic 152229-231
+first person philosophical troubles
+collected papers vol
+oxford university press
+videos first person questions answers paper based available here
+two paradoxes knowledge philosophical troubles
+collected papers vol
+oxford university press
+nozick knowledge philosophical troubles
+collected papers vol
+oxford university press
+puzzle time thought philosophical troubles
+collected papers vol
+oxford university press
+vacuous names fictional entities philosophical troubles
+collected papers vol
+oxford university press
+unrestricted exportation morals philosophy language philosophical troubles
+collected papers vol
+oxford university press
+podcast talk available here
+church-turing 'thesis' special corollary gödel's completeness theorem computability turing gödel church beyond copeland
+posy c
+shagrir o
+eds cambridge mass
+mit press
+unpublished manuscripts lectures 1963
+history idealism theory r
+three lectures truth
+princeton university
+discussed here
+completeness decidability intuitionistic propositional logic
+time identity
+seminar given princeton university 1978
+several versions material circulated
+ideas discussed ted sider book four-dimensionalism ontology persistence time 19- non-standard models godel's theorem model-theoretic proof godel's theorem
+summary hilary putnam
+lessons functionalism automata
+delivered international wittgenstein symposium 1984
+transcribed roderick chisholm
+proof gamma
+note zabludowski's critique goodman's theory projection
+rigid designation contingent priori meter stick revisited notre dame 1986
+seminars truth
+three-semester seminar princeton 1988-89 first two semesters transcribed jim cain
+see here
+19- semantical analysis intuitionistic logic ii
+undecidability monadic fragment undated manuscript
+19- semantical analysis intuitionistic logic iii undated manuscript
+no fool's red? considerations primary/secondary quality distinctionincludes comments david velleman
+university michigan 1989
+whitehead lectures logicism wittgenstein de re beliefs natural numbers
+delivered harvard university 1992
+individual concepts their logic philosophy their uses
+transcribed stephen webb
+ordered pair philosophical paradigm revisited
+elementary recursion theory applications formal systems
+transcribed mario gomez torrente john barker
+index available here
+road gödel
+read haifa university israel 1999
+several transcripts exist
+church's thesis first order algorithm theorem tel aviv university june 13 2006
+video available here abstract available here
+roundtable externalism hilary putnam tyler burge saul kripke michael devitt
+university college dublin ireland
+podcast available here
+collapse hilbert program
+indiana university presidential lecture
+video available here
+mathematical incompleteness results peano arithmetic revisionist view early history
+interviews articles new frontiers american philosophy taylor branch new york times magazine august 14 1977
+saul kripke genius logician
+interview andreas saugstad february 25 2001
+celebrating cuny's genius philosopher gary shapiro new york sun january 27 2006
+philosopher 65 lectures 'what am i?' 'what i?' charles mc grath new york times january 28 2006
+see also philosophy portal logic portal disquotational principle american philosophy list american philosophers barry kripke character big bang theory believed named after saul references brian leiter leiter reports philosophy blog *is* most important philosopher past 200 years? jerry fodor water's water everywhere london review books 21 october 2004 kripke saul 2011
+philosophical troubles collected papers volume
+oxford oxford university press
+charles mc grath 2006-01-28
+philosopher 65 lectures 'what am i?' 'what i?'
+new york times
+retrieved 2008-01-23
+companion analytic philosophy blackwell companions philosophy
+martinich editor e
+david sosa editor 38
+saul kripke 1940– http//kripkecenter
+edu/ most these recordings lecture notes created nathan salmon while student later colleague kripke's
+edu/news/43850-philosophical-troubles-collected-papers-volume-1/ fludernik monika
+histories narrative theory structuralism present
+companion narrative theory
+phelan rabinowitz
+blackwell publishing ma2005
+chalmers david
+conscious mind
+oxford university press pp
+smith quentin 2 august 2001
+marcus kripke origin new theory reference
+synthese 104 2 179–189
+archived original 2006-05-07
+retrieved 2007-05-28
+stephen neale 9 february 2001
+no plagiarism here
+times literary supplement 104 2 12–13
+retrieved 2009-11-13
+john burgess marcus kripke names philosophical studies international journal philosophy analytic tradition 84 pp
+kripke 1980 p
+20 stern david g
+wittgenstein's philosophical investigations introduction
+cambridge university press
+2 keith simmons universality liar essay truth diagonal argument cambridge university press cambridge 1993 stanford encyclopedia philosophy self-reference kripke jewish takes seriously
+nominal jew careful keeping sabbath instance doesn't use public transportation saturdays
+andreas saugstad saul kripke genius logician 25 february 2001
+andreas saugstad saul kripke genius logician 25 february 2001
+edward p
+stabler kripke functionalism automata synthese vol
+70 no
+further reading taylor branch 1977 new frontiers american philosophy saul kripke
+new york times magazine
+nathan salmon 1981 reference essence
+consuelo preti 2002 kripke
+scott soames 2002 beyond rigidity unfinished semantic agenda naming necessity
+christopher hughes 2004 kripke names necessity identity
+fitch 2005 saul kripke
+martin kusch 2006 sceptical guide meaning rules
+defending kripke's wittgenstein
+acumben publishing limited
+arif ahmed 2007 saul kripke
+new york ny london continuum
+christopher norris 2007 fiction philosophy literary theory will real saul kripke please stand up? london continuum external links wikiquote quotations related saul kripke cuny graduate center philosophy department faculty page saul kripke center cuny graduate center saul kripke's archive cuny philosophy commons second annual saul kripke lecture john burgess necessity origin cuny graduate center november 13 th saul kripke mathematics genealogy project saul kripke genius logician short non-technical interview andreas saugstad february 25 2001
+conference honor kripke's sixty-fifth birthday video speech first person january 25–26 2006 video talk church's thesis first order algorithm theorem june 13 2006
+podcast talk unrestricted exportation morals philosophy language may 21 2008
+london review books article jerry fodor discussing kripke's work celebrating cuny's genius philosopher gary shapiro january 27 2006 new york sun
+information 'wisdom supreme' website new york times article 65 th birthday roundtable kripke's critique mind-body identity scott soames main presenter may 2010
+vte analytic philosophy philosophers robert merrihew adams william p
+alston j
+ayer g
+anscombe david malet armstrong robert audi robert brandom c
+broad tyler burge john p
+burgess rudolf carnap roderick chisholm patricia churchland paul churchland david chalmers noam chomsky donald davidson daniel dennett michael dummett bas van fraassen gottlob frege jerry fodor philippa foot peter geach
+grayling paul grice alvin goldman peter hacker r
+hare gilbert harman john hawthorne ian hacking carl hempel jaakko hintikka peter van inwagen frank cameron jackson christine korsgaard saul kripke david lewis j
+mackie norman malcolm john mc dowell g
+moore thomas nagel robert nozick derek parfit
+phillips alvin plantinga
+prior hilary putnam w
+quine john rawls hans reichenbach bertrand russell gilbert ryle john searle moritz schlick wilfrid sellars peter singer peter strawson richard swinburne peter unger bernard williams timothy williamson john wisdom ludwig wittgenstein stephen yablo
+theories deflationism direct reference theory empiricism holism logical atomism logical positivism naturalism naturalized epistemology neopragmatism neutral monism particularism reductionism scientism skepticism verificationism
+concepts analysis analytic–synthetic distinction causal / deductive / epistemic closure concept counterfactual denotation / reference definite description factive family resemblance intuition meaning proposition modality natural kind / projectability necessary–sufficient conditions paradox analysis possible world reduction reflective equilibrium rigid–flaccid designators sense data supervenience thought experiment truth function truthmaker truth-bearer type–token distinction related articles australian realism ordinary language philosophy philosophical logic philosophy language philosophy science postanalytic philosophy
+category task force discussion philosophy stubs vte metaphysics metaphysicians parmenides plato aristotle plotinus duns scotus thomas aquinas francisco suárez nicolas malebranche rené descartes john locke david hume thomas reid immanuel kant isaac newton arthur schopenhauer baruch spinoza georg w
+hegel george berkeley gottfried wilhelm leibniz henri bergson friedrich nietzsche charles sanders peirce joseph maréchal ludwig wittgenstein martin heidegger alfred n
+whitehead bertrand russell dorothy emmet g
+moore jean-paul sartre gilbert ryle hilary putnam p
+strawson r
+collingwood adolph stöhr rudolf carnap saul kripke willard v
+quine g
+anscombe donald davidson michael dummett david malet armstrong david lewis alvin plantinga peter van inwagen derek parfit
+theories abstract object theory action theory anti-realism determinism dualism enactivism essentialism existentialism free will idealism libertarianism liberty materialism meaning life monism naturalism nihilism phenomenalism realism physicalism pirsig's metaphysics quality platonic idealism relativism scientific realism solipsism subjectivism substance theory type theory concepts abstract object anima mundi being category being causality choice cogito ergo sum concept embodied cognition entity essence existence experience hypostatic abstraction idea identity identity change information insight intelligence intention linguistic modality matter meaning memetics mental representation mind motion necessity notion object pattern perception physical body principle property qualia quality reality soul subject substantial form thought time truth type–token distinction universal unobservable value
+related topics axiology cosmology epistemology feminist metaphysics interpretations quantum mechanics meta- ontology philosophy mind philosophy psychology philosophy self philosophy space time teleology theoretical physics category portal wiki project vte epistemology epistemologists thomas aquinas augustine hippo william alston robert audi
+ayer george berkeley laurence bon jour rené descartes edmund gettier alvin goldman nelson goodman paul grice david hume immanuel kant søren kierkegaard saul kripke david lewis john locke g
+moore robert nozick alvin plantinga plato hilary putnam thomas reid gilbert ryle p
+strawson willard van orman quine bertrand russell timothy williamson ludwig wittgenstein nicholas wolterstorff vienna circle theories coherentism constructivist epistemology contextualism determinism empiricism evolutionary epistemology fallibilism feminist epistemology fideism foundationalism genetic epistemology holism infinitism innatism internalism externalism naïve realism naturalized epistemology phenomenalism positivism reductionism reliabilism representative realism rationalism skepticism theory forms transcendental idealism uniformitarianism concepts priori knowledge analysis analytic–synthetic distinction belief causality common sense descriptive knowledge exploratory thought gettier problem justification knowledge induction objectivity problem induction problem other minds perception proposition regress argument simplicity speculative reason truth
+related articles outline epistemology alethiology faith rationality formal epistemology meta-epistemology philosophy perception philosophy science social epistemology portal category task force stubs discussion vte philosophy language philosophers plato cratylus gorgias confucius xunzi aristotle stoics pyrrhonists scholasticism ibn rushd ibn khaldun thomas hobbes gottfried wilhelm leibniz johann herder ludwig noire wilhelm von humboldt fritz mauthner paul ricœur ferdinand de saussure gottlob frege franz boas paul tillich edward sapir leonard bloomfield zhuangzi henri bergson lev vygotsky ludwig wittgenstein philosophical investigations tractatus logico-philosophicus bertrand russell rudolf carnap jacques derrida grammatology limited inc benjamin lee whorf gustav bergmann j
+austin noam chomsky hans-georg gadamer saul kripke
+ayer g
+anscombe jaakko hintikka michael dummett donald davidson paul grice gilbert ryle p
+strawson willard van orman quine hilary putnam david lewis john searle joxe azurmendi scott soames stephen yablo john hawthorne stephen neale theories causal theory reference contrast theory meaning contrastivism conventionalism cratylism deconstruction descriptivist theory names direct reference theory dramatism expressivism linguistic determinism logical atomism logical positivism mediated reference theory nominalism non-cognitivism phallogocentrism quietism relevance theory semantic externalism semantic holism structuralism supposition theory symbiosism theological noncognitivism theory descriptions verification theory concepts ambiguity linguistic relativity meaning language truth-bearer proposition use–mention distinction concept categories set class intension logical form metalanguage mental representation principle compositionality property sign sense reference speech act symbol entity sentence statement
+related articles analytic philosophy philosophy information philosophical logic linguistics pragmatics rhetoric semantics formal semantics semiotics category task force discussion vte rolf schock prize laureates logic philosophy willard van orman quine 1993 michael dummett 1995 dana scott 1997 john rawls 1999 saul kripke 2001 solomon feferman 2003 jaakko hintikka 2005 thomas nagel 2008 hilary putnam 2011 derek parfit 2014 mathematics elias m
+stein 1993 andrew wiles 1995 mikio sato 1997 yuri
+manin 1999 elliott h
+lieb 2001 richard p
+stanley 2003 luis caffarelli 2005 endre szemerédi 2008 michael aschbacher 2011 yitang zhang 2014 musical arts ingvar lidholm 1993 györgy ligeti 1995 jorma panula 1997 kronos quartet 1999 kaija saariaho 2001 anne sofie von otter 2003 mauricio kagel 2005 gidon kremer 2008 andrew manze 2011 herbert blomstedt 2014 visual arts rafael moneo 1993 claes oldenburg 1995 torsten andersson 1997 herzog & de meuron 1999 giuseppe penone 2001 susan rothenberg 2003 sanaa / kazuyo sejima + ryue nishizawa 2005 mona hatoum 2008 marlene dumas 2011 anne lacaton / jean-philippe vassal 2014 vte ludwig wittgenstein family margaret stonborough-wittgenstein karl wittgenstein paul wittgenstein works associated paul wittgenstein early work picture theory language truth tables later work language-game private language argument family resemblance rule following form life wittgenstein's philosophy mathematics publications tractatus logico-philosophicus remarks logical form blue brown books philosophical remarks philosophical investigations certainty culture value remarks frazer's golden bough remarks foundations mathematics zettel remarks colour lectures conversations aesthetics psychology religious belief movements analytic philosophy linguistic turn ideal language philosophy logical atomism logical positivism ordinary language philosophy wittgensteinian fideism quietism friends g
+anscombe r
+braithwaite rudolf carnap paul engelmann john maynard keynes peter geach norman malcolm g
+moore david pinsent frank p
+ramsey rush rhees bertrand russell moritz schlick francis skinner piero sraffa vienna circle friedrich waismann peter winch g
+von wright biographers david edmonds ray monk william warren bartley secondary sources
+ayer gordon baker james f
+conant cora diamond terry eagleton peter hacker saul kripke anthony kenny warren goldfarb stanley cavell
+phillips colin mc ginn jaakko hintikka oswald hanfling
+grayling rupert read barry stroud stephen toulmin crispin wright fergus kerr miscellaneous cambridge apostles cambridge university moral sciences club haidbauer incident haus wittgenstein fritz mauthner film wittgenstein film authority control world cat identities viaf 108251834 lccn n79128358 isni 0000 0001 1080 8458 gnd 118813455 sudoc 026954079 bnf cb119101083 data mgp 13743 ndl 00446355

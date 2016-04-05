@@ -1,0 +1,85 @@
+persi diaconis persi diaconis 2010 born 1945-01-31 january 31 1945 age 71 new york city new york nationality american fields mathematics institutions harvard university stanford university alma mater city college new york
+1971 harvard university m
+1972 ph
+1974 doctoral advisor dennis arnold hejhal frederick mosteller doctoral students sourav chatterjee igor pak robin pemantle eric rains jeff rosenthal arif zaman persi warren diaconis born january 31 1945 american mathematician former professional magician
+mary v
+sunseri professor statistics mathematics stanford university
+particularly known tackling mathematical problems involving randomness randomization such coin flipping shuffling playing cards
+contents card shuffling 2 biography 2
+recognition 3 works 4 see also 5 references 6 external links card shuffling see also shuffling professor diaconis received mac arthur fellowship 1982
+1992 published dave bayer paper entitled trailing dovetail shuffle lair term coined magician charles jordan early 1900 s established rigorous results how many times deck playing cards must riffle shuffled before considered random according mathematical measure total variation distance
+diaconis often cited simplified proposition takes seven shuffles randomize deck
+precisely diaconis showed gilbert–shannon–reeds model how likely riffle results particular riffle shuffle permutation takes 5 riffles before total variation distance 52-card deck begins drop significantly maximum value
+0 7 riffles before drops below 0
+5 very quickly threshold phenomenon after reduced factor 2 every shuffle
+interestingly entropy viewed probabilistic distance riffle shuffling seems take less time mix threshold phenomenon goes away because entropy function subadditive
+diaconis coauthored several recent papers expanding 1992 results relating problem shuffling cards other problems mathematics
+among other things showed separation distance ordered blackjack deck aces top followed 2's followed 3's etc
+drops below
+5 after 7 shuffles
+separation distance upper bound variation distance
+biography diaconis left home 14 travel sleight-of-hand legend dai vernon dropped out high school promising himself return day learn math necessary read william feller's famous two-volume treatise probability theory introduction probability theory applications
+returned school city college new york undergraduate work graduating 1971 then ph
+mathematical statistics harvard university 1974 learned read feller became mathematical probabilist
+according martin gardner school diaconis supported himself playing poker ships new york south america
+gardner recalls diaconis fantastic second deal bottom deal
+diaconis married stanford statistics professor susan holmes
+recognition 1982 awarded rollo davidson prize
+1995 - elected national academy sciences 1997 gibbs lecturer american mathematical society
+2003 received honorary
+degree university chicago
+2006 awarded van wijngaarden award
+awarded levi l
+conant prize
+fellow american mathematical society 2013 received honorary degree university st andrews
+works diaconis persi 1988
+group representations probability statistics
+institute mathematical statistics
+theories data analysis magical thinking through classical statistics hoaglin
+c eds 1985
+exploring data tables trends shapes
+diaconis p
+statistical problems esp research
+science 201 4351 131–136
+pmid 663642
+see also freedman–diaconis rule patience sorting random walk mathemagician references persi diaconis mathematics genealogy project hoffman j
+q&a mathemagician
+nature 478 7370 457
+diaconis persi graham ron 2011 magical mathematics mathematical ideas animate great magic tricks princeton n
+j princeton university press 0-691-15164-4 stanford university - persi diaconis
+retrieved 2011-10-27
+it’s no coincidence stanford university mathematician statistician persi diaconis will serve patten lecturer indiana university bloomington
+retrieved 2011-10-27
+bayer dave diaconis persi 1992
+trailing dovetail shuffle lair
+annals applied probability 2 2 295–313
+trefethen l
+trefethen l
+how many shuffles randomize deck cards?
+proceedings royal society series mathematical physical engineering sciences 456 2002 2561–2568
+bibcode2000 rspsa
+2561 n
+shuffling cards math does trick
+science news
+november 7 2008
+retrieved 14 november 2008
+diaconis colleagues issuing update
+dealing many gambling games like blackjack four shuffles enough assaf s
+diaconis p
+soundararajan k
+rule thumb riffle shuffling
+annals applied probability 21 3 843
+lifelong debunker takes arbiter neutral choices jeffrey r
+young magical mind persi diaconis chronicle higher education october 16 2011 interview martin gardner notices ams june/july 2005
+diaconis persi 2003
+patterns eigenvalues 70 th josiah willard gibbs lecture
+40 2 155–178
+mr 1962294
+salsburg david 2001
+lady tasting tea how statistics revolutionized science twentieth century
+new york w
+freeman co
+224 http//www
+org/awards/jmm12 pb
+pdf list fellows american mathematical society retrieved 2012-11-10
+uk/600/events/celebration/graduationceremony/ external links interview persi diaconis discusses life magic mathematics 7 th avenue project radio show authority control world cat identities viaf 93119052 lccn n88606004 isni 0000 0001 0998 5457 gnd 1044123206 sudoc 057038961 mgp 18747

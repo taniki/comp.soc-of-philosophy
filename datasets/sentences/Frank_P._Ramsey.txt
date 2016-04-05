@@ -1,0 +1,196 @@
+frank p
+ramsey born 1903-02-2222 february 1903 cambridge died 19 january 19301930-01-19 aged alma mater trinity college cambridge ba 1923 school analytic philosophy institutions king's college cambridge main interests philosophy mathematics logic metaphysics epistemology notable ideas redundancy theory truth ramsey sentences ramsey–lewis method ramsey theory influences wittgenstein peirce bertrand russell influenced susan haack iván werning wittgenstein frank plumpton ramsey february 1903 19 january 1930 precocious british philosopher mathematician economist died age
+close friend ludwig wittgenstein instrumental translating wittgenstein's tractatus logico-philosophicus english well persuading wittgenstein return philosophy cambridge
+like wittgenstein member cambridge apostles intellectual secret society 1921
+contents life 2 ramsey wittgenstein 3 early death 4 work 4
+mathematical logic 4
+2 philosophy 4
+3 economics 4
+mathematical theory saving 4
+2 contribution theory taxation 4
+3 truth probability 5 legacy 5
+frank ramsey professorship 6 see also 7 notes references 9 further reading 10 external links life ramsey born february 1903 cambridge father arthur stanley ramsey 1867–1954 also mathematician president magdalene college
+mother mary agnes stanley 1875–1927
+eldest two brothers two sisters brother michael ramsey four siblings remain christian later became archbishop canterbury
+entered winchester college 1915 later returned cambridge study mathematics trinity college
+while studying mathematics trinity college ramsey became student john maynard keynes active member apostles cambridge discussion group
+1923 received bachelor's degree mathematics high honours
+easy-going simple modest ramsey many interests besides scientific work
+even teenager ramsey exhibited both profound ability attested brother extremely diverse range interests interested almost everything
+immensely widely read english literature enjoying classics though verge plunging being mathematical specialist very interested politics well-informed got political concern sort left-wing caring-for-the-underdog kind outlook politics
+— michael ramsey quoted mellor 1923 ramsey befriended geoffrey margaret pyke then point founding malting house school cambridge pykes took ramsey their family taking holiday asking godfather their young son
+margaret pyke found herself object affection ramsey recording diary afternoon went out alone her lake orta became filled desire came back lay two beds side side she reading pretending awful conflict my mind
+after hour she wearing her horn spectacles looking superlatively beautiful burne jones style ‘margaret will you fuck me?’ margaret wanted time consider proposition thus began uncomfortable dance them contributed ramsey's depressive moods early 1924 result travelled vienna psychoanalysis
+like many contemporaries including viennese flatmate fellow apostle lionel penrose also analysis siegfried bernfeld intellectually interested psychoanalysis
+ramsey's analyst theodor reik disciple freud
+justifications undertaking therapy asserted letter mother unconscious impulses might even affect work mathematician
+while vienna visited wittgenstein puchberg befriended wittgenstein family visited
+neill's experimental school four hours vienna sonntagsberg
+summer 1924 continued analysis joining reik dobbiaco south tyrol fellow analysand lewis namier
+ramsey returned england october 1924 john maynard keynes's support became fellow king's college cambridge
+joined psychoanalysis group cambridge fellow members arthur tansley lionel penrose harold jeffreys john rickman james strachey qualification membership completed psychoanalysis
+ramsey married lettice baker september 1925 wedding taking place register office since ramsey wife described ‘militant atheist'
+she subsequently ran photography practice cambridge many years [ramsey muspratt]
+marriage produced two daughters
+despite atheism ramsey quite tolerant towards brother latter decided become priest church england
+1926 became university lecturer mathematics later director studies mathematics king's college
+vienna circle manifesto 1929 lists three publications bibliography closely related authors
+ramsey wittgenstein
+richards c
+ogden both fellows magdalene first met ramsey expressed interest learning german
+according richards mastered language almost hardly over week although other sources show took before year german school
+ramsey then able age 19 make first draft translation german text wittgenstein's tractatus logico philosophicus
+ramsey impressed wittgenstein's work after graduating senior wrangler mathematical tripos 1923 made journey austria visit wittgenstein time teaching primary school small community puchberg am schneeberg
+two weeks ramsey discussed difficulties facing understanding tractatus
+wittgenstein made corrections english translation ramsey's copy annotations changes german text subsequently appeared second edition 1933
+ramsey john maynard keynes cooperated try bring ludwig wittgenstein back cambridge student there before world war
+once wittgenstein returned cambridge ramsey became nominal supervisor
+wittgenstein submitted tractatus logico-philosophicus doctoral thesis
+moore bertrand russell acted examiners
+later three them arranged financial aid wittgenstein help continue research work
+1929 ramsey wittgenstein regularly discussed issues mathematics philosophy piero sraffa italian economist brought cambridge keynes after sraffa aroused benito mussolini's ire publishing article critical fascist regime manchester guardian
+contributions ramsey these conversations acknowledged both sraffa wittgenstein their later work
+early death suffering chronic liver problems ramsey developed jaundice after abdominal operation died 19 january 1930 guy's hospital london age
+buried parish ascension burial ground cambridge parents buried same plot
+ramsey’s notes manuscripts acquired nicholas rescher archives scientific philosophy university pittsburgh
+ramsey collection contains few letters great many drafts papers book chapters still unpublished
+other papers including diary letters memoirs widow lettice ramsey father held modern archives king's college cambridge
+decision analysis society annually awards frank p
+ramsey medal recognise substantial contributions decision theory application important classes real decision problems
+work mathematical logic theorems proved ramsey 1928 paper problem formal logic now bears name ramsey's theorem
+while theorem work ramsey probably best remembered proved passing minor lemma along way true goal paper solving special case decision problem first-order logic namely decidability now called bernays–schönfinkel–ramsey class first-order logic well characterisation spectrum sentences fragment logic
+alonzo church go show general case decision problem first-order logic unsolvable see church's theorem
+great amount later work mathematics fruitfully developed out ostensibly minor lemma turned out important early result combinatorics supporting idea within sufficiently large systems however disordered there must order
+fruitful fact ramsey's theorem today there entire branch mathematics known ramsey theory dedicated studying similar results
+philosophy philosophical works included universals 1925 facts propositions 1927 proposed redundancy theory truth universals law fact 1928 knowledge 1929 theories 1929 truth 1929 general propositions causality 1929
+wittgenstein mentions introduction philosophical investigations influence
+economics keynes pigou encouraged ramsey work economics very early age sixteen think precocious mind intensely interested economic problems keynes 1933
+ramsey responded keynes's urging writing three papers economic theory fundamental importance though many years before received their proper recognition community economists
+ramsey's three papers described below detail subjective probability utility 1926 optimal taxation 1927 optimal one-sector economic growth 1928
+economist paul samuelson described them 1970 three great legacies legacies most part mere by-products major interest foundations mathematics knowledge
+mathematical theory saving significant paper published economic journal involved strategically beautiful application calculus variations paul samuelson[citation needed] determine optimal amount economy should invest save rather consume maximise future utility ramsey's words how much income should nation save? ramsey 1928
+keynes described article most remarkable contributions mathematical economics ever made both respect intrinsic importance difficulty subject power elegance technical methods employed clear purity illumination writer's mind felt reader play subject
+article terribly difficult reading economist difficult appreciate how scientific aesthetic qualities combined together keynes 1933[citation needed]
+ramsey model today acknowledged starting point optimal accumulation theory although importance recognised until many years after first publication
+main contributions model firstly initial question ramsey posed how much savings should secondly method analysis intertemporal maximisation optimisation collective individual utility applying techniques dynamic optimisation
+tjalling c
+koopmans david cass modified ramsey model incorporating dynamic features population growth steady rate harrod-neutral technical progress again steady rate giving birth model named ramsey–cass–koopmans model objective now maximise household's utility function
+contribution theory taxation paper ramsey's contribution economic theory elegant concept ramsey pricing
+applicable situations regulated monopolist wants maximise consumer surplus whilst same time ensuring costs adequately covered
+achieved setting price such markup over marginal cost inversely proportional price elasticity demand good
+like predecessor paper published economic journal 1927
+ramsey poses question solved beginning article given revenue raised proportionate taxes uses income taxes different uses being possibly different rates how much should these rates adjusted order decrement utility may minimum? ramsey 1927
+problem suggested economist arthur pigou paper ramsey's answer problem
+truth probability keynes treatise probability 1921 argued against subjective approach epistemic probabilities
+keynes subjectivity probabilities doesn't matter much there objective relationship knowledge probabilities knowledge disembodied personal
+ramsey article disagrees keynes's approach there difference notions probability physics logic
+ramsey probability related disembodied body knowledge related knowledge each individual possesses alone
+thus personal beliefs formulated individual knowledge govern probabilities leading notion subjective probability
+consequently subjective probabilities inferred observing actions reflect individuals' personal beliefs
+ramsey argued degree probability individual attaches particular outcome measured finding odds individual accept betting outcome
+ramsey suggested way deriving consistent theory choice under uncertainty isolate beliefs preferences while still maintaining subjective probabilities
+despite fact ramsey's work probabilities great importance again no paid any attention until publication theory games economic behavior john von neumann oskar morgenstern 1944 1947 2 nd ed
+legacy frank ramsey professorship howard raiffa made first frank p
+ramsey professor managerial economics harvard university
+now emeritus
+richard zeckhauser made frank p
+ramsey professor political economy harvard university 1971
+raiffa's chair joint harvard business kennedy schools
+zeckhauser's chair kennedy school
+partha dasgupta made frank ramsey professor economics 1994 frank ramsey professor emeritus economics 2010 university cambridge
+see also biography portal ramsey theory ramsey–lewis method ramsey–dvoretzky–milman phenomenon ramsey growth model frederick rowbottom notes ramsey frank p
+frank p
+ramsey's papers
+special collections department university pittsburgh
+retrieved 19 september 2013
+quoted ramsey's diary 13 january 1924 forrester 2004 certainly sorry went being religious sorry decided become priest church england sorry indeed quite tolerant
+quoted mellor ramsey p
+255 frank p
+ramsey 1925
+mind 34 401—417
+frank p
+ramsey 1926
+foundations mathematics
+london math soc
+25 338—384
+frank p
+ramsey 1927
+facts propositions
+7 153—170
+quoted mellor ramsey p
+245 see gabriele taylor galavotti 2006 1–18 duarte 2009 guide churchill college cambridge text dr
+mark goldie pages 62 63 2009 makes beautiful problem science?
+2307/1830631 inactive 2015-02-15
+jstor 1830631
+curriculum vitae pdf
+references arrow k
+1980 review foundations essays philosophy logic mathematics economics journal political economy vol
+88 no
+636–638 duarte pedro g
+2009 frank p
+ramsey cambridge economist history political economy vol
+41 no
+445–470 duarte pedro g
+2009 frank ramsey's notes saving taxation history political economy vol
+41 no
+471–489 forrester john 2004
+freud cambridge pdf
+critical quarterly 46 2 1–26
+retrieved july 2010
+galavotti m
+2006 cambridge vienna frank p
+ramsey vienna circle dordrecht netherlands springer
+grattan-guinness ivor 2000 search mathematical roots 1870–1940 princeton university press princeton nj
+keynes john maynard 1933 frank plumpton ramsey essays biography new york ny
+1995 cambridge philosophers f
+ramsey philosophy 70 pp
+243–262 newbery
+ramsey model new palgrave dictionary economics v
+4 pp
+46–48 newman p
+ramsey frank plumpton new palgrave dictionary economics v
+4 pp
+41–46 ramsey f
+1927 facts propositions aristotelian society supplementary volume 7 153–170
+reprinted pp
+34–51 ramsey f
+1928 mathematical theory saving economic journal vol
+38 no 152 pp
+543 559 ramsey f
+1927 contribution theory taxation economic journal vol
+37 no 145 pp
+47–61 ramsey f
+1929 problem formal logic proc
+london math
+30 pp
+264–286 ramsey f
+1931 foundations essays philosophy logic mathematics economics humanities press 287 pp 1977 lccn 77-26864 rescher nicholas ulrich majer eds
+ramsey truth dordrecht kluwer sahlin n
+1990 philosophy f
+ramsey cambridge university press cambridge sahlin n
+1996 “he no good my work” philosophical relations ramsey wittgenstein knowledge inquiry essays jaakko hintikkas epistemology philosophy science ed m
+sintonen poznan studies philosophy sciences humanities amsterdam 61–84 sahlin n
+2005 ramsey’s ontology special issue metaphysica no
+3 samuelson p
+1970 makes beautiful problem science? journal political economy vol
+78 no
+1372–1377 further reading margaret paul
+frank ramsey 1903–1930 sister's memoir
+karl sabbagh
+shooting star brief brilliant life frank ramsey
+amazon digital services inc
+75 pages
+external links frank p
+ramsey find grave o'connor john j
+robertson edmund f
+frank p
+ramsey mac tutor history mathematics archive university st andrews
+frank p
+ramsey mathematics genealogy project real audio bbc profile ramsey 1978 & transcript stanford encyclopedia philosophy interpretations probability
+see 3
+5 3
+2 ramsey's keynes's views probability
+frank p
+ramsey's papers frank plumpton ramsey papers 1920–1930 asp
+01 archives scientific philosophy special collections department university pittsburgh tim mc mynne frank ramsey's commitment ideology philosophia e-journal philosophy culture 3/2012
+authority control world cat identities viaf 44346777 lccn n80034084 isni 0000 0001 1025 8353 gnd 118787829 selibr 238241 sudoc 030712599 bnf cb122073369 data mgp 70156 nla 36110811 ndl 00515702 nkc jx20071008007

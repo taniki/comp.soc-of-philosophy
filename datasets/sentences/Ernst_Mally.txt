@@ -1,0 +1,66 @@
+article includes list references related reading external links sources remain unclear because lacks inline citations
+please improve article introducing precise citations
+january 2013 ernst mally german [ˈmali] october 1879 march 1944 austrian philosopher affiliated so-called graz school phenomenological psychology
+pupil alexius meinong founders deontic logic mainly known contributions field research
+contents life 2 work 2
+mally's deontic logic 2
+2 failure mally's deontic logic 2
+3 ontology 3 works selection 4 references life mally born town kranj german krainburg duchy carniola austria-hungary now slovenia
+father slovene origin identified himself austrian german culture also germanized orthography surname originally spelled mali common slovene surname upper carniola
+after death family moved carniolan capital ljubljana german laibach
+there ernst attended prestigious ljubljana german language gymnasium
+already young age mally became fervent supporter pan-german nationalist movement georg von schönerer
+same time developed interest philosophy
+1898 enrolled university graz studied philosophy under supervision alexius meinong well physics mathematics specializing formal logic
+graduated 1903 thesis entitled untersuchungen zur gegenstandstheorie des messens investigations object theory measurement
+1906 started teaching high school graz same time working meinong's assistant university
+also maintained close contacts laboratory experimental psychology founded meinong
+1912 faculty-rank habilitation thesis entitled gegenstandstheoretische grundlagen logik und logistik object-theoretic foundations logics logistics meinong supervisor
+1915 1918 served officer austro-hungarian army
+after end world war mally joined greater german people's party called unification german austria germany
+same period started teaching university 1925 took over meinong's chair
+1938 became member national socialist teachers' association two months after anschluss joined nsdap
+continued teaching during nazi administration austria until 1942 retired
+died 1944 schwanberg
+work mally's deontic logic mally first logician ever attempt axiomatisation ethics
+used five axioms given below
+form first-order theory quantifies over propositions there several predicates understand first
+!x means x ought case
+ux means x unconditionally obligatory
+!x necessarily true
+∩x means x unconditionally forbidden
+f binary relation requires
+materially implies !b
+entailment axioms material conditional
+defined axiom iii whereas other terms defined preliminary
+note implied universal quantifiers above axioms
+fourth axiom confused logicians because formulation expected since mally gave each axiom description words also axiom iv meant unconditionally obligatory obligatory
+many logicians insisted ua → !a
+meanwhile axiom 5 lacks object predicates apply typo
+however turns out these least mally's worries see below
+failure mally's deontic logic theorem axiomatisation deontic logic implies !x x true !x unsatisfiable
+makes useless deontic logicians
+proof using axiom iii axiom may rewritten !a → & → c → !a → c
+since → c holds whenever c holds immediate consequence !a → → c → !a → c
+other words requires requires any true statement
+special case tautology theorem consequence !b → c → !c
+thus least statement ought true every statement must materially entail ought true every true statement ought true
+statement ought true then statements ought true true consider following logic u → !a & → ∩ → u → !∩ special case axiom consequent contradicts axiom v ¬u → !a & → ∩
+result !a → shown follow since !a implies u → !a ¬a implies → ∩ since these both true know !a →
+mally thought axiom self-evident likely confused alternative implication → c logical indeed make axiom self-evident
+theorem above however then demonstrable
+theorem proven karl menger next deontic logician
+neither mally's original axioms nor modification avoids result remains popular today
+menger suggest own axioms
+see also deontic logic subsequent development subject
+ontology mally developed realistic approach ontology mally 1935 saw himself opposition vienna circle logical positivists
+works selection 1926 grundgesetze des sollens
+elemente logik des willens graz leuschner & lubensky
+reprinted ernst mally logische schriften
+großes logikfragment—grundgesetze des sollens k
+wolf p
+weingartner eds
+dordrecht reidel 1971 227–324
+1935 erlebnis und wirklichkeit
+einleitung zur philosophie natürlichen weltauffassung leipzig julius klinkhardt
+references ernst mally entry alexander hieke gerhard zecha stanford encyclopedia philosophy mally's deontic logic entry gert-jan lokhorst stanford encyclopedia philosophy authority control world cat identities viaf 18014325 lccn no99090869 isni 0000 0001 1021 9821 gnd 118576828 sudoc 052570606 bnf cb135649244 data

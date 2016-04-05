@@ -1,0 +1,293 @@
+george gamow born georgiy antonovich gamov1904-03-04 march 4 1904 o
+february 20 1904 odessa russian empire died august 19 19681968-08-19 aged 64 boulder colorado united states citizenship soviet union united states fields physicist science writer institutions university göttingen niels bohr institute cavendish laboratory george washington university university california berkeley university colorado boulder alma mater leningrad state university doctoral advisor alexander friedmann doctoral students ralph asher alpher vera rubin known gamow factor gamow–teller transition alpher–bethe–gamow paper alpha decay liquid drop modelquantum tunnelling big bang two three
+infinity notable awards kalinga prize 1956 part series physical cosmology big bang · universe age universe chronology universe early universe inflation · nucleosynthesis backgrounds gravitational wave gwb microwave cmb · neutrino cnb expansion · future hubble's law · redshift metric expansion space flrw metric · friedmann equations future expanding universe ultimate fate universe components · structure components lambda-cdm model dark energy · dark fluid · dark matter structure shape universe galaxy filament · galaxy formation large quasar group large-scale structure reionization · structure formation experiments boomeran g cosmic background explorer cobe illustris project planck space observatory sloan digital sky survey sdss 2 f galaxy redshift survey 2 f wilkinson microwave anisotropy probe wmap scientists aaronson alfvén alpher bharadwaj copernicus de sitter dicke ehlers einstein ellis friedman galileo gamow guth hawking hubble lemaître mather newton penrose penzias rubin schmidt smoot suntzeff sunyaev tolman wilson zel'dovich list cosmologists subject history discovery cosmic microwavebackground radiation history big bang theory religious interpretations ofthe big bang theory timeline cosmological theories category cosmology portal astronomy portalvte george gamow march 4 [o
+february 20] 1904 august 19 1968 born georgiy antonovich gamov russian гео́ргий анто́нович га́мов ipa [ɡʲɪˈorɡʲɪj ɐnˈtonəvʲɪtɕ ˈɡaməf] listen theoretical physicist cosmologist notably early advocate developer lemaître's big bang theory
+discovered theoretical explanation alpha decay via quantum tunneling worked radioactive decay atomic nucleus star formation stellar nucleosynthesis big bang nucleosynthesis collectively called nucleocosmogenesis molecular genetics
+middle late career gamow focused teaching became well known author popular books science including two three
+infinity mr
+series books 1939–1967
+books still print half-century after their original publication become classic still-relevant introductions fundamental principles mathematics science
+contents early life career 2 radioactive decay 3 defection 4 move america 5 big bang nucleosynthesis 6 dna rna 7 late career life writings 9 books 9
+popular 9
+tompkins series 9
+2 science textbooks 10 popular culture see also 12 references 13 further reading 14 external links early life career gamow born odessa russian empire
+father taught russian language literature high school mother taught geography history school girls
+addition russian gamow learned speak french mother german tutor
+gamow learned fluent english college years later
+most early publications german russian later switched writing english both technical papers lay audience
+educated novorossiya university odessa 1922–23 university leningrad 1923–1929
+gamow studied under alexander friedmann time leningrad until friedmann's early death 1925
+aspired doctoral thesis under friedmann change dissertation advisors
+university gamow made friends three other students theoretical physics lev landau dmitri ivanenko matvey bronshtein later arrested 1937 executed 1938 soviet regime
+four formed group known three musketeers met discuss analyze ground-breaking papers quantum mechanics published during those years
+later used same phrase describe alpher herman gamow group
+graduation worked quantum theory göttingen research atomic nucleus provided basis doctorate
+then worked theoretical physics institute university copenhagen 1928 1931 break work ernest rutherford cavendish laboratory cambridge
+continued study atomic nucleus proposing liquid drop model also worked stellar physics robert atkinson fritz houtermans
+1931 gamow elected corresponding member academy sciences ussr age 28 youngest history organization
+during period 1931–1933 george gamow worked physical department radium institute leningrad headed vitaly khlopin ru
+under guidance direct participation igor kurchatov lev mysovskii george gamow europe's first cyclotron designed
+1932 george gamow lev mysovskii submitted draft design consideration academic council radium institute approved
+cyclotron completed until 1937
+bragg laboratory staff 1931 w
+bragg sitting center physicist
+lebedev leftmost g
+gamow rightmost radioactive decay early 20 th century radioactive materials known characteristic exponential decay rates half lives
+same time radiation emissions known certain characteristic energies
+1928 gamow solved theory alpha decay nucleus via tunnelling mathematical help nikolai kochin
+problem also solved independently ronald w
+gurney edward u
+gurney condon however achieve quantitative results achieved gamow
+classically particle confined nucleus because high energy requirement escape very strong nuclear potential well
+also classically takes enormous amount energy pull apart nucleus event occur spontaneously
+quantum mechanics however there probability particle tunnel through wall potential well escape
+gamow solved model potential nucleus derived first principles relationship half-life alpha-decay event process energy emission previously discovered empirically known geiger–nuttall law
+years later name gamow factor gamow–sommerfeld factor applied probability incoming nuclear particles tunneling through electrostatic coulomb barrier undergoing nuclear reactions
+defection gamow worked number soviet establishments before deciding flee soviet union because increased oppression
+1931 officially denied permission attend scientific conference italy
+also 1931 married lyubov vokhmintseva russian любовь вохминцева another physicist soviet union whom nicknamed rho after greek letter
+gamow new wife spent much next two years trying leave soviet union without official permission
+niels bohr other friends invited gamow visit during period gamow get permission leave
+gamow later claimed first two attempts defect wife 1932 involved trying kayak first planned 250-kilometer paddle over black sea turkey another attempt murmansk norway
+poor weather foiled both attempts noticed authorities
+1933 gamow suddenly granted permission attend 7 th solvay conference physics brussels
+insisted having wife accompany even saying go alone
+eventually soviet authorities relented issued passports couple
+two attended arranged extend their stay help marie curie other physicists
+over next year gamow obtained temporary work curie institute university london university michigan
+move america 1934 gamow wife moved united states
+became professor george washington university gwu 1934 recruited physicist edward teller london join gwu
+1936 gamow teller published became known gamow–teller selection rule beta decay
+during time washington gamow also publish major scientific papers mário schoenberg ralph alpher
+late 1930 s gamow's interests turned towards astrophysics cosmology
+1935 gamow's son igor gamow born
+george gamow became naturalized american 1940
+retained formal association gwu until 1956
+during world war ii gamow work directly manhattan project producing atomic bomb spite knowledge radioactivity nuclear fusion
+continued teach physics gwu consulted us navy
+gamow interested processes stellar evolution early history solar system
+1945 co-authored paper supporting work german theoretical physicist carl friedrich von weizsäcker planetary formation early solar system
+gamow published another paper british journal nature 1948 developed equations mass radius primordial galaxy typically contains hundred billion stars each mass comparable sun
+[citation needed] big bang nucleosynthesis george gamow father hot big bang theory expanding universe
+earliest employ alexander friedmann's georges lemaître's non-static solutions einstein's gravitational equations describing universe uniform matter density constant spatial curvature
+gamow's crucial advance provide physical reification lemaître's idea unique primordial quantum
+gamow assuming early universe hot
+dominated radiation rather matter
+most later work cosmology founded gamow's theory
+applied model question creation chemical elements subsequent condensation matter galaxies whose mass diameter able calculate terms fundamental physical parameters such speed light c newton's gravitational constant g sommerfeld's fine-structure constant α planck's constant h
+gamow's interest cosmology arose earlier interest energy generation element production transformation stars work turn evolved fundamental discovery mechanism nuclear alpha decay quantum tunneling application theory inverse process calculate rates thermonuclear reaction
+first gamow believed elements might produced very high temperature density early stage universe
+later revised opinion strength compelling evidence advanced hoyle et al
+elements heavier lithium largely produced thermonuclear reactions stars supernovae
+gamow formulated set coupled differential equations describing proposed process assigned ph
+dissertation topic graduate student ralph alpher task solving equations numerically
+these results gamow alpher appeared 1948 co-authored hans bethe notorious αβγ paper
+bethe later referred paper being wrong presumably because authors failed take account helium nucleus' exiguous cross-section reaction other nucleotides — effectively halting primordial process element
+before interest turned question genetic code gamow published twenty papers cosmology
+earliest 1939 galaxy formation edward teller followed 1946 first description cosmic nucleosynthesis
+also many popular semi-popular articles well academic textbooks dealt contributions subject
+three papers particular interest
+first these dealt attenuated version coupled set equations describing production proton deuteron thermal neutrons
+characteristically ingenious simplification using observed ratio hydrogen heavier elements able obtain density matter onset nucleosynthesis mass diameter early galaxies
+second paper produced similar results time based another ingenious determination density matter radiation point became equal
+paper gamow determined density relict background radiation present temperature 7 k trivially predicted little twice presently accepted value
+last paper interest essentially reminder recapitulation work gamow well alpher robert herman both gamow also independently prompted discovery cosmic background radiation penzias wilson 1965 gamow alpher herman time receive credit deserved their prediction existence source
+today injustice largely redressed
+dna rna after discovery structure dna 1953 francis crick james
+watson maurice wilkins rosalind franklin gamow attempted solve problem how order four different kinds bases adenine cytosine thymine guanine dna chains control synthesis proteins amino acids
+crick gamow's suggestions helped own thinking problem
+related crick gamow suggested twenty combinations four dna bases taken three time corresponded twenty amino acids form proteins
+led crick watson enumerate twenty amino acids common proteins
+gamow's contribution solving problem genetic coding gave rise important models biological degeneracy
+specific system proposed gamow known gamow's diamonds incorrect triplets supposed overlapping sequence ggac example gga produce amino acid gac another non-degenerate meaning each amino acid correspond combination three bases any order
+later protein sequencing work proved case true genetic code non-overlapping degenerate changing order combination bases does change amino acid
+1954 gamow watson co-founded rna tie club discussion group leading scientists concerned problem genetic code
+own autobiographical writings watson later acknowledged gamow's ideas colorful personality zany card–trick playing limerick–singing booze–swilling practical–joking giant imp”
+late career life grave george gamow green mountain cemetery boulder colorado usa gamow worked george washington university 1934 until 1954 became visiting professor university california berkeley
+1956 moved university colorado boulder remained rest career
+1956 gamow became founding members physical science study committee pssc later reformed teaching high school physics post-sputnik years
+also 1956 divorced first wife
+gamow later married barbara perkins editor publishers 1958
+1959 gamow hans bethe victor weisskopf publicly supported re-entry frank oppenheimer teaching college physics university colorado red scare began fade j
+robert oppenheimer older brother frank oppenheimer both them worked manhattan project before their careers derailed mc carthyism
+130 while colorado frank oppenheimer became increasingly interested teaching science through simple hands-on experiments eventually moved san francisco found exploratorium
+130–152 sadly gamow live see colleague's opening innovative science museum late august 1969
+152 1961 book atom nucleus gamow proposed novel idea representing periodic system chemical elements continuous tape elements order atomic number wound round three-dimensional helix whose diameter increased stepwise corresponding longer rows conventional periodic table
+gamow atheist
+gamow continued teaching university colorado boulder focused increasingly writing textbooks books science general public
+after several months ill health surgeries circulatory system diabetes liver problems gamow dying liver failure called weak link withstand other stresses
+letter written ralph alpher august 18 written pain abdomen unbearable does stop
+prior there long exchange letters former student seeking fresh understanding concepts used earlier work paul dirac
+gamow relied alpher deeper understanding mathematics
+august 19 1968 gamow died age 64 boulder colorado buried there green mountain cemetery
+physics department tower university colorado boulder named
+george gamow tower university colorado boulder writings gamow highly successful science writer several books still print half-century after their initial publication
+educator gamow recognized emphasized fundamental principles unlikely become obsolete even pace science technology accelerated
+also conveyed sense excitement revolution physics other scientific topics interest common reader
+gamow himself sketched many illustrations books added new dimension complemented gamow intended convey text
+wherever essential unafraid introduce mathematics tried avoid scaring off potential readers too many equations illustrate essential points
+1956 awarded kalinga prize unesco work popularizing science mr
+series books 1939–1967 book two three
+infinity other works
+before death gamow working richard blade textbook basic theories modern physics work never completed published under title
+gamow also writing my world line informal autobiography published posthumously 1970
+collection gamow's writings donated george washington university 1996
+materials include correspondence articles manuscripts printed materials both george gamow
+collection currently under care gwu's special collections research center located estelle melvin gelman library
+books popular birth death sun 1940 revised 1952 biography earth 1941 two three
+infinity 1947 revised 1961 viking press copyright renewed barbara gamow 1974 dover publications illustrated author
+dedicated son igor gamow remains most well received ever popular science genre
+book winds mathematics biology physics crystallography
+moon 1953 gamow george stern marvin 1958
+viking press
+biography physics 1961 gravity 1962 dover publications
+profiles galileo newton einstein planet called earth 1963 star called sun 1964 thirty years shook physics story quantum theory 1966 dover publications x
+my world line informal autobiography 1970 viking press mr
+tompkins series throughout these books mr
+tompkins introduced c
+tompkins emphasize notion c għ physics
+tompkins wonderland 1940 originally published serial form discovery magazine uk 1938
+tompkins explores atom 1945 mr
+tompkins learns facts life 1953 biology mr
+tompkins paperback 1965 combines mr
+tompkins wonderland mr
+tompkins explores atom cambridge university press 1993 canto edition foreword roger penrose mr
+tompkins inside himself 1967 rewritten version mr
+tompkins learns facts life giving broader view biology including recent developments molecular biology
+coauthored m
+new world mr
+tompkins 1999 coauthor russell stannard updated mr
+tompkins paperback hardcover science textbooks constitution atomic nuclei radioactivity 1931 structure atomic nuclei nuclear transformations 1937 atomic energy cosmic human life 1947 theory atomic nucleus nuclear energy sources 1949 coauthor c
+critchfield creation universe 1952 matter earth sky 1958 physics foundations & frontiers 1960 coauthor john m
+cleveland atom nucleus 1961 mr
+tompkins gets serious essential george gamow 2005
+edited robert oerter pi press
+incorporates material matter earth sky atom nucleus
+notwithstanding title book part mr
+tompkins series
+popular culture george gamow inspiration professor gamma professor gamma series science fiction books geoffrey hoyle father astronomer sir fred hoyle
+see also urca process ylem references радиевый институт имени в
+для молодёжи radium institute named after v
+expelled academy 1938 membership restored posthumously 1990
+youngest corresponding member elected academy sciences ussr armenian mathematician sergey mergelyan elected age 24
+khlopin radium institute
+history / memorial history / chronology
+retrieved 25 february
+interview george gamow charles weiner professor gamow's home boulder colorado april 25 1968
+transcript kochin spelled kotshchin
+physik 51 204 1928 g
+gamow zur quantentheorie des atomkernes r
+gurney e
+condon quantum mechanics radioactive disintegration nature 122 439 1928 phys
+rev 33 127 1929 friedlander gerhart kennedy joseph e miller julian malcolm 1964
+nuclear radiochemistry 2 nd ed
+new york london sydney john wiley & sons
+gamow's derivation law my world line g
+gamow viking press 1970 chap
+5 crimean campaign gamow g
+hynek j
+march 1945
+new theory c
+von weizsacker origin planetary system
+astrophysical journal 101 249
+bibcode1945 ap j
+249 g
+1922 zeitschrift fur physik 10 377
+lemaître g
+1931 annales de societe scientifique de bruxelles xlvii lemaître g
+1931 nature 3210 127 p
+gamow g
+1946 october & 15 physical review
+see example gamow g
+1942 jour
+washington academy sciences vol
+gamow g
+1968 'on origin galaxies' properties matter under unusual conditions edward teller 60 th birthday volume
+new york john wiley & sons inc
+interscience publishers
+gamow g
+1935 ohio journal science 35 5
+chandrasekhar s
+gamow g
+tuve m
+1938 nature may 28
+gamow g
+schoenberg m
+1940 physical review december 15
+burbidge e
+burbidge g
+fowler w
+hoyle f
+1957 rev
+29 pp 547-660
+alpher r
+bethe h
+gamow g
+1948 phys
+2004 bethe interview british broadcasting corporation bbc gamow g
+teller e
+1939 nature january 21 march 4
+see reference gamow critchfield 1949 theory atomic nucleus energy sources clarendon press oxford gamow g
+1948 nature 162 october 30
+gamow g
+1953 kongelige danske videnskabernes selskab 39 alpher r
+gamow g
+herman r
+1967 proc
+acad sciences 57
+wilson r
+1967 astrophysical journal 142 pp
+segrè gino 2000-03-30
+big bang genetic code
+nature 404 6777 437
+pmid 10761891
+dna amateur makes real contribution
+retrieved 2007-07-11
+crick francis mad pursuit basic books 1998 chap
+genetic code twenty combinations a+c+g a+c+t a+g+t c+g+t 2 a+c 2 a+g 2 a+t 2 c+a 2 c+g 2 c+t 2 g+a 2 g+c 2 g+t 2 t+a 2 t+c 2 t+g 3 3 c 3 g 3 t
+mason p
+2010 degeneracy multiple levels complexity biological theory integrating development evolution cognition 53 277-288
+mason p
+2014 degeneracy demystifying destigmatizing core concept systems biology
+doi 10
+21534 watson j
+genes girls gamow after double helix
+new york random house
+oclc 47716375
+c cole k
+something incredibly wonderful happens frank oppenheimer world made up
+houghton mifflin harcourt
+anderson uh thing i’m fascinated course george gamow left university ’59 edward teller left 1946 went university chicago
+you any recollections maybe anything dr
+marvin dr
+gamow far just before left went colorado? naeser ah no don’t know any
+know gamow made no never hide fact atheist whether came picture don’t know
+story around university gamow mrs
+gamow divorced same social circles time thought better get out washington
+that’s why went ohio state
+george washington university foggy bottom historical encyclopedia gamow george edward teller october 23 1996
+grote reber
+big bang bunk pdf
+21 st century science associates
+retrieved 28 may
+after initial mathematical work relativity theory done big bang theory itself invented belgian priest georges lemaître improved upon avowed atheist george gamow now universally accepted those hold advanced degrees astronomy physical sciences despite obvious absurdity
+simon singh 2010
+big bang
+harper collins uk
+surprisingly atheist george gamow enjoyed papal attention given field research
+preliminary guide george gamow papers 1934-1955 special collections research center estelle melvin gelman library george washington university
+further reading interviews ralph
+alpher robert c
+herman conducted martin harwit august 1983 archives niels bohr library american institute physics college park maryland
+alpher robert c
+herman prediction cosmic microwave background radiation physics perspective 143 300–334 victor s
+external links wikiquote quotations related george gamow wikimedia commons media related george gamow
+memorial lecture series university colorado boulder biographic sketch pdf gamow books annotated bibliography george gamow alsos digital library nuclear issues gamow memorial george washington university oral history interview transcript george gamow lengthy interview few months before gamow died includes reminiscences family education career writing
+gamow 25 april 1968 american institute physics niels bohr library archives national academy sciences biographical memoir bowley roger merrifield michael padilla antonio tony
+αβγ alpha beta gamma paper
+sixty symbols
+brady haran university nottingham
+preliminary guide george gamow papers 1934-1955 special collections research center estelle melvin gelman library george washington university listen article info/dl sorry your browser either java script disabled does any supported player
+you download clip download player play clip your browser
+audio file created revision george gamow article dated 2016-23-01 does reflect subsequent edits article
+audio help spoken articles authority control world cat identities viaf 76443377 lccn n80028430 isni 0000 0001 2140 2998 gnd 11871628 x sudoc 056746342 bnf cb128465323 data ndl 00440480 nkc jn20000601695

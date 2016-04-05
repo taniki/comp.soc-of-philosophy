@@ -1,0 +1,58 @@
+ferdinand georg frobenius ferdinand georg frobenius born 1849-10-2626 october 1849 charlottenburg died 3 august 19171917-08-03 aged 67 berlin nationality german fields mathematics institutions university berlin eth zurich alma mater university göttingen university berlin doctoral advisor karl weierstrass ernst kummer doctoral students richard fuchs edmund landau issai schur konrad knopp walter schnee known differential equations group theory cayley–hamilton theorem frobenius method ferdinand georg frobenius october 1849 3 august 1917 german mathematician best known contributions theory elliptic functions differential equations group theory
+known famous determinantal identities known frobenius–stickelberger formulae governing elliptic functions developing theory biquadratic forms
+also first introduce notion rational approximations functions nowadays known padé approximants gave first full proof cayley–hamilton theorem
+also lent name certain differential-geometric objects modern mathematical physics known frobenius manifolds
+contents biography 2 contributions group theory 3 contributions number theory 4 see also 5 publications 6 references 7 external links biography ferdinand georg frobenius born october 1849 charlottenburg suburb berlin parents christian ferdinand frobenius protestant parson christine elizabeth friedrich
+entered joachimsthal gymnasium 1860 nearly eleven
+1867 after graduating went university göttingen began university studies studied there semester before returning berlin attended lectures kronecker kummer karl weierstrass
+received doctorate awarded distinction 1870 supervised weierstrass
+thesis supervised weierstrass solution differential equations
+1874 after having taught secondary school level first joachimsthal gymnasium then sophienrealschule appointed university berlin extraordinary professor mathematics
+frobenius berlin year before went zürich take up appointment ordinary professor eidgenössische polytechnikum
+seventeen years 1875 1892 frobenius worked zürich
+there married brought up family much important work widely differing areas mathematics
+last days december 1891 kronecker died therefore chair berlin became vacant
+weierstrass strongly believing frobenius right person keep berlin forefront mathematics used considerable influence frobenius appointed
+1893 returned berlin elected prussian academy sciences
+contributions group theory group theory frobenius' principal interests second half career
+first contributions proof sylow theorems abstract groups
+earlier proofs permutation groups
+proof first sylow theorem existence sylow groups those frequently used today
+frobenius also proved following fundamental theorem positive integer n divides order |g| finite group g then number solutions equation xn = g equal kn positive integer k
+also posed following problem above theorem k = then solutions equation xn = g form subgroup
+many years ago problem solved solvable groups
+after classification finite simple groups problem solved general
+important creation theory group characters group representations fundamental tools studying structure groups
+work led notion frobenius reciprocity definition now called frobenius groups
+group g frobenius group there subgroup h < g such
+case set together identity element g forms subgroup nilpotent john g
+thompson showed 1959
+known proofs theorem make use characters
+first paper characters 1896 frobenius constructed character table group order 1/2 p3 − p odd primes p group simple provided p > 3
+also made fundamental contributions representation theory symmetric alternating groups
+contributions number theory frobenius introduced canonical way turning primes conjugacy classes galois groups over q
+specifically k/q finite galois extension then each positive prime p does ramify k each prime ideal p lying over p k there unique element g gal k/q satisfying condition gx = xp mod p integers x k
+varying p over p changes g conjugate every conjugate g occurs way conjugacy class g galois group canonically associated p
+called frobenius conjugacy class p any element conjugacy class called frobenius element p
+take k mth cyclotomic field whose galois group over q units modulo m thus abelian conjugacy classes become elements then p dividing m frobenius class galois group p mod m
+point view distribution frobenius conjugacy classes galois groups over q generally galois groups over any number field generalizes dirichlet's classical result primes arithmetic progressions
+study galois groups infinite-degree extensions q depends crucially construction frobenius elements provides sense dense subset elements accessible detailed study
+see also list things named after ferdinand georg frobenius publications frobenius ferdinand georg 1968 serre j
+gesammelte abhandlungen
+bände ii iii berlin new york springer-verlag 978-3-540-04120-7 mr 0235974 references born berlin
+october 2010
+october 2010
+hall marshall jr
+theory groups 2 nd ed
+providence rhode island ams chelsea
+theorem 9
+145 google books thompson j
+normalp-complements finite groups
+mathematische zeitschrift 72 332
+curtis charles w
+2003 pioneers representation theory frobenius burnside schur brauer history mathematics providence r
+american mathematical society 978-0-8218-2677-5 mr 1715145 review external links o'connor john j
+robertson edmund f
+ferdinand georg frobenius mac tutor history mathematics archive university st andrews
+ferdinand georg frobenius mathematics genealogy project g
+frobenius theory hypercomplex quantities english translation authority control world cat identities viaf 56675988 lccn n84801120 isni 0000 0000 8384 6351 gnd 119045605 selibr 234888 sudoc 031922198 bnf cb12304771 c data hds 43117 mgp 4642 nla 35278486

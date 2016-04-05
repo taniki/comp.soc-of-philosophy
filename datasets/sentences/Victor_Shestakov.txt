@@ -1,0 +1,61 @@
+article includes list references related reading external links sources remain unclear because lacks inline citations
+please improve article introducing precise citations
+march 2015 victor shestakov born 1907 moscow died 1987 nationality soviet fields mathematics engineering alma mater moscow state university doctoral advisor valery glivenko victor ivanovich shestakov 1907 1987 russian/soviet logician theoretician electrical engineering
+1935 discovered possible interpretation boolean algebra logic electro-mechanical relay circuits
+graduated moscow state university 1934 worked there general physics department almost until death
+shestakov proposed theory electric switches based boolean logic earlier claude shannon according certification[clarification needed] soviet logicians mathematicians sofya yanovskaya m
+gaaze-rapoport roland dobrushin oleg lupanov yu
+gastev yu
+medvedev vladimir andreevich uspensky though shestakov shannon defended theses same year 1938[citation needed] first publication shestakov's result took place 1941 russian
+early 20 th century relay circuits began widely used automatics defense electric communications systems
+[clarification needed] every relay circuit schema practical use distinct invention because general principle simulation these systems known
+[citation needed] shestakov's credit independently later claude shannon's general theory logical simulation inspired rapidly increasing complexity technical demands
+logical simulation requires solid mathematical foundations
+namely these foundations originally established shestakov
+shestakov set forth algebraic logic model electrical two-pole switches later three- four-pole switches series parallel connections schematic elements resistors capacitors magnets inductive coils etc
+resistance these elements take arbitrary values real-number line upon two-element set {0 ∞} degenerates bivalent boolean algebra logic
+shestakov may considered forerunner combinatorial logic application hence boolean algebra logic well electric engineering 'language' broad enough simulate non-electrical objects any conceivable physical nature
+pioneer study merged continual algebraic logic parametrical topological structural models
+[citation needed] references shestakov v
+algebra two poles schemata algebra a-schemata
+automatics telemechanics 1941 n 2 p
+15 24 russian shestakov v
+algebra two poles schemata algebra a-schemata
+journal technical physics 1941 vol
+n 6
+532 549 russian bazhanov v
+volgin l
+shestakov c
+shannon fate brilliant idea
+scientific technical kaleidoscope 2001 n2 pp
+43 48
+russian bazhanov v
+shestakov c
+shannon different fates brilliant idea architects
+problems history science technology 2005 n 2 pp
+112– 121
+russian bazhanov v
+history logic russia ussr
+moscow kanon+ 2007
+russian gaaze-rapoport m
+making cybernetics ussr
+cybernetics past future
+moscow 1989 pp
+russian gastev yu
+medvedev yu
+problems electric circuits
+history russian mathematics
+kiev 1970 vol
+2 pp
+443 446
+russian dobrushin r
+lupanov o
+preface book shannon c
+works theory information cybernetics
+moscow 1963 pp
+russian yanovskaya s
+mathematical logic foundation mathematics
+mathematics ussr during last 40 years
+moscow 1959 vol
+13 120
+russian external links victor shestakov mathematics genealogy project persondata name shestakov victor ivanovich alternative names short description russian mathematician date birth 1907 place birth moscow date death 1987 place death

@@ -1,0 +1,59 @@
+david deutsch born 1953-05-18 18 may 1953 age 62 haifa israel fields theoretical physics quantum information science institutions university oxford clarendon laboratory alma mater clare college cambridge wolfson college oxford doctoral advisor dennis sciama doctoral students artur ekert known quantum computing quantum turing machine church-turing-deutsch principle deutsch-jozsa algorithm quantum logic gate quantum circuit quantum error correction qubit field theory constructor theory fabric reality beginning infinity influences karl popper jacob bronowski william godwin notable awards dirac prize 1998 david elieser deutsch frs born 18 may 1953 israeli-born british physicist university oxford
+non-stipendiary visiting professor department atomic laser physics centre quantum computation cqc clarendon laboratory university oxford
+pioneered field quantum computation formulating description quantum turing machine well specifying algorithm designed run quantum computer
+proponent many-worlds interpretation quantum mechanics
+contents early life education 2 career 3 popular science books 3
+fabric reality 3
+2 beginning infinity 4 views 5 see also 6 notes references 7 external links early life education deutsch born haifa israel 18 may 1953 son oskar tikva deutsch
+attended william ellis school london then voluntary aided grammar school before reading natural sciences clare college cambridge taking part iii mathematical tripos
+went wolfson college oxford doctorate theoretical physics thesis quantum field theory curved space-time
+career royal society london's announcement deutsch become fellow royal society frs 2008 society described deutsch's contributions thus david deutsch laid foundations quantum theory computation subsequently made participated many most important advances field including discovery first quantum algorithms theory quantum logic gates quantum computational networks first quantum error-correction scheme several fundamental quantum universality results
+set agenda worldwide research efforts new interdisciplinary field made progress understanding philosophical implications via variant many-universes interpretation made comprehensible general public notably book fabric reality
+currently working constructor theory attempt generalizing quantum theory computation cover just computation physical processes
+together chiara marletto published paper december 2014 entitled constructor theory information conjectures information expressed solely terms transformations physical systems possible impossible
+popular science books fabric reality main article fabric reality 1997 book fabric reality deutsch details theory everything
+aims reduction everything particle physics rather mutual support among multiversal computational epistemological evolutionary principles
+theory everything weakly emergentist rather reductive
+there four strands theory hugh everett's many-worlds interpretation quantum physics first most important four strands
+karl popper's epistemology especially anti-inductivism requiring realist non-instrumental interpretation scientific theories well emphasis taking seriously those bold conjectures resist falsification
+alan turing's theory computation especially developed deutsch's turing principle universal turing machine replaced deutsch's universal quantum computer
+theory computation now quantum theory computation
+richard dawkins's refinement darwinian evolutionary theory modern evolutionary synthesis especially ideas replicator meme integrate popperian problem-solving epistemological strand
+beginning infinity main article beginning infinity deutsch’s second book beginning infinity explanations transform world published 31 march 2011
+book deutsch views enlightenment 18 th century near beginning unending sequence purposeful knowledge creation
+examines nature memes how why creativity evolved humans
+views deutsch atheist
+also founding member parenting educational method known taking children seriously
+awarded dirac prize institute physics 1998 edge computation science prize 2005
+fabric reality shortlisted rhone-poulenc science book award 1998
+see also deutsch-jozsa algorithm church–turing–deutsch principle notes references deutsch prof
+david elieser
+who's 2014 april 2014 online ed
+& c black imprint bloomsbury publishing plc
+retrieved july 2014
+interview filiz peach published philosophy now 30 december 2000 deutsch david july 1985
+quantum theory church-turing principle universal quantum computer pdf
+proceedings royal society 400 1818 97–117
+bibcode1985 rspsa
+archived original pdf 15 september 2003
+also available here
+abstract available here
+new fellows 08 craik - kaiser royal society
+also available here
+mirror link
+constructor theory conversation david deutsch interview 'edge' october deutsch
+marletto c
+why need reconstruct universe new scientist 24 may 2014 pages 30-31
+constructor theory information david deutsch chiara marletto proc
+a2015471 20140540 doi 10
+published 17 december 2014 david deutsch entry celeb atheists website 30 march 2005
+accessed jan 2015 friedman dawn november–december 2003
+taking children seriously - new child-rearing movement believes parents should never coerce their kids
+utne reader
+utne reader editorial office
+retrieved july 2014
+dirac prize award edge computation science prize rhone-poulenc 1998 shortlist external links article's use external links may follow wikipedia's policies guidelines
+please improve article removing excessive inappropriate external links converting useful links appropriate footnote references
+october 2015 wikiquote quotations related david deutsch deutsch's official homepage qubit
+org profile page edge
+org new scientist interview david deutsch ted quantum cryptography interview david deutsch universality quantum computation implications authority control world cat identities viaf 56838172 lccn n97016768 isni 0000 0000 7842 1092 gnd 12175894 x sudoc 07419786 x bnf cb144862242 data ndl 00761745 nkc jx20091214004

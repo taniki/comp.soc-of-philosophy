@@ -1,0 +1,47 @@
+bruno de finetti born 1906-06-1313 june 1906 innsbruck austria-hungary died 20 july 19851985-07-20 aged 79 rome italy nationality italian fields mathematics alma mater politecnico di milano doctoral advisor giulio vivanti bruno de finetti 13 june 1906 20 july 1985 italian probabilist statistician actuary noted operational subjective conception probability
+classic exposition distinctive theory 1937 prévision ses lois logiques ses sources subjectives discussed probability founded coherence betting odds consequences exchangeability
+contents life 2 work 3 bibliography 3
+de finetti english 3
+2 discussions 4 see also 5 references 6 external links life de finetti born innsbruck austria studied mathematics politecnico di milano
+graduated 1927 writing thesis under supervision giulio vivanti
+after graduation worked actuary statistician istituto nazionale di statistica national institute statistics rome 1931 trieste insurance company assicurazioni generali
+published extensively 17 papers 1930 alone according lindley acquired international reputation small world probability mathematicians
+taught mathematical analysis padua then won chair financial mathematics trieste university 1939
+1954 moved sapienza university rome first another chair financial mathematics then 1961 1976 calculus probabilities
+de finetti developed ideas subjective probability 1920 s independently frank p
+still according preface theory probability drew ideas harold jeffreys
+became known anglo-american statistical world 1950 s l
+savage independently adopted subjectivism drew another great champion dennis lindley
+de finetti died rome
+work de finetti emphasized predictive inference approach statistics proposed thought experiment along following lines described greater detail coherence philosophical gambling strategy you must set price promise pay $1 there life mars billion years ago $0 there tomorrow answer will revealed
+you know your opponent will able choose either buy such promise you price you set require you buy such promise your opponent still same price
+other words you set odds your opponent decides side bet will yours
+price you set operational subjective probability you assign proposition you betting
+price obey probability axioms you face certain loss you you set price above $1 negative price
+considering bets event de finetti justify additivity
+prices equivalently odds expose you certain loss through dutch book called coherent
+de finetti also noted de finetti's theorem exchangeable sequences random variables
+de finetti first study exchangeability brought subject greater visibility
+started publishing exchangeability late 1920 s 1937 article most famous treatment
+1929 de finetti introduced concept infinitely divisible probability distributions
+also introduced de finetti diagrams graphing genotype frequencies
+1974 english translation book credited reviving interest predictive inference anglophone world bringing idea exchangeability attention
+de finetti award presented annually european association decision making named after
+bibliography see works bruno de finetti website de finetti english following translations works originally published italian french
+probabilism critical essay theory probability value science translation 1931 article erkenntnis volume 31 september 1989
+entire double issue devoted de finetti's philosophy probability
+1937 “la prévision ses lois logiques ses sources subjectives” annales de l'institut henri poincaré - foresight logical laws subjective sources translation 1937 article french h
+kyburg h
+smokler eds studies subjective probability new york wiley 1964
+theory probability translation machi afm smith 1970 book 2 volumes new york wiley 1974-5
+lindley bruno de finetti 1906-1985 obituary journal royal statistical society series 149 p
+252 1986
+following books chapter de finetti references further literature
+jan von plato creating modern probability mathematics physics philosophy historical perspective cambridge cambridge university press 1994 donald gillies philosophical theories probability london routledge 2000
+see also coherence philosophical gambling strategy de finetti diagram de finetti's theorem exchangeability infinitely divisible probability distributions predictive inference quasiconvex function references prévision ses lois logiques ses sources subjectives annales de l'institut henri poincaré 7 1-68 predictive inference introduction seymour geisser crc press 1993 external links probabilità e induzione bologna 1993
+italian bruno de finetti website generate finetti diagrams online mac tutor bruno de finetti bruno de finetti's papers bruno de finetti papers 1924-2000 asp
+01 archives scientific philosophy special collections department university pittsburgh de finetti portraits statisticians page
+interpretations probability stanford encyclopedia philosophy
+de finetti's views discussed section 3
+5 article
+bruno de finetti e geometria del benessere rosaria adriani italian authority control world cat identities viaf 52226638 lccn n82043203 isni 0000 0001 0901 4183 gnd 118887610 sudoc 031933033 bnf cb12305734 data iccu it\iccu\cfiv\074072

@@ -1,0 +1,369 @@
+willard van orman quine willard van orman quine born 1908-06-25 june 25 1908 akron ohio died december 25 20002000-12-25 aged 92 boston massachusetts alma mater oberlin college
+1930 harvard university ph
+1932 spouses naomi clayton marjorie boynton awards rolf schock prizes logic philosophy 1993 kyoto prize 1996 era 20 th-century philosophy region western philosophy school analytic institutions harvard university main interests logic ontology epistemology philosophy language philosophy mathematics philosophy science set theory notable ideas new foundations indeterminacy translation naturalized epistemology ontological relativity quine's paradox duhem–quine thesis quine–putnam indispensability thesis radical translation inscrutability reference confirmation holism quine–mc cluskey algorithm plato's beard influences rudolf carnap alfred tarski vienna circle c
+skinner pierre duhem influenced roger f
+gibson jr
+donald davidson daniel dennett david lewis hilary putnam dagfinn føllesdal gilbert harman hao wang stephen stich hilary kornblith willard van orman quine thesis logic sequences generalization principia mathematica 1932 doctoral advisor alfred north whitehead doctoral students donald davidson hubert dreyfus david lewis daniel dennett gilbert harman dagfinn føllesdal hao wang willard van orman quine /kwaɪn/ june 25 1908 december 25 2000 known intimates van american philosopher logician analytic tradition recognized most influential philosophers twentieth century
+1930 until death 70 years later quine continually affiliated harvard university way another first student then professor philosophy teacher logic set theory finally professor emeritus published revised several books retirement
+filled edgar pierce chair philosophy harvard 1956 1978
+2009 poll conducted among analytic philosophers named quine fifth most important philosopher past two centuries
+won first schock prize logic philosophy 1993 systematical penetrating discussions how learning language communication based socially available evidence consequences theories knowledge linguistic meaning
+1996 awarded kyoto prize arts philosophy outstanding contributions progress philosophy 20 th century proposing numerous theories based keen insights logic epistemology philosophy science philosophy language
+quine falls squarely analytic philosophy tradition while also being main proponent view philosophy conceptual analysis abstract branch empirical sciences
+major writings include two dogmas empiricism 1951 attacked distinction analytic synthetic propositions advocated form semantic holism word object 1960 further developed these positions introduced quine's famous indeterminacy translation thesis advocating behaviorist theory meaning
+also developed influential naturalized epistemology tried provide improved scientific explanation how developed elaborate scientific theories basis meager sensory input
+also important philosophy science systematic attempt understand science within resources science itself conception philosophy continuous science
+led famous quip philosophy science philosophy enough
+philosophy mathematics harvard colleague hilary putnam developed quine–putnam indispensability thesis argument reality mathematical entities
+contents biography
+political beliefs 2 work 2
+rejection analytic–synthetic distinction 2
+2 confirmation holism ontological relativity 2
+3 existence contrary 2
+4 logic 2
+5 set theory 2
+6 quine's epistemology 3 popular culture 4 bibliography 4
+selected books 4
+2 important articles 5 see also 6 notes 7 further reading external links biography according autobiography time my life 1986 quine grew up akron ohio lived parents older brother robert c
+father cloyd r
+manufacturing entrepreneur mother harriett e
+also known hattie according 1920 census schoolteacher later housewife
+mathematics oberlin college 1930 ph
+philosophy harvard university 1932
+thesis supervisor alfred north whitehead
+then appointed harvard junior fellow excused having teach four years
+during academic year 1932–33 travelled europe thanks sheldon fellowship meeting polish logicians including alfred tarski members vienna circle including rudolf carnap well logical positivist
+through quine's good offices alfred tarski invited attend september 1939 unity science congress cambridge
+attend congress tarski sailed usa last ship leave danzig before third reich invaded poland
+tarski survived war worked another years usa
+during world war ii quine lectured logic brazil portuguese served united states navy military intelligence role deciphering messages german submarines reaching rank lieutenant commander
+harvard quine helped supervise harvard theses among others donald davidson hubert dreyfus david lewis daniel dennett gilbert harman dagfinn føllesdal hao wang hugues le blanc henry hiz
+academic year 1964–1965 quine fellow faculty center advanced studies wesleyan university
+quine atheist
+four children two marriages
+guitarist robert quine nephew
+political beliefs quine politically conservative bulk writing technical areas philosophy removed direct political issues
+however write defense several conservative positions example quiddities intermittently philosophical dictionary defense moral censorship while autobiography made criticisms american postwar academic culture
+work quine's ph
+thesis early publications formal logic set theory
+after world war ii virtue seminal papers ontology epistemology language emerge major philosopher
+1960 s worked out naturalized epistemology whose aim answer substantive questions knowledge meaning using methods tools natural sciences
+quine roundly rejected notion there should first philosophy theoretical standpoint somehow prior natural science capable justifying
+these views intrinsic naturalism
+quine lecture french spanish portuguese german well native english
+like logical positivists evinced little interest philosophical canon once teach course history philosophy hume
+[clarification needed] rejection analytic–synthetic distinction see also two dogmas empiricism 1930 s 1940 s discussions rudolf carnap nelson goodman alfred tarski among others led quine doubt tenability distinction analytic statements—those true simply meanings their words such bachelors unmarried—and synthetic statements those true false virtue facts world such there cat mat
+distinction central logical positivism
+although quine normally associated verificationism philosophers believe tenet incompatible general philosophy language citing harvard colleague
+skinner analysis language verbal behavior
+like other analytic philosophers before quine accepted definition analytic true virtue meaning alone
+unlike them however concluded ultimately definition circular
+other words quine accepted analytic statements those true definition then argued notion truth definition unsatisfactory
+criticism kant's epistemology similar 18 th century writer johann gottfried herder both individuals found fault kantian system sufficiently accounting dependence reasoning language
+quine's chief objection analyticity notion synonymy sameness meaning sentence being analytic just case substitutes synonym black proposition like black things black any other logical truth
+objection synonymy hinges upon problem collateral information
+intuitively feel there distinction unmarried men bachelors there black dogs competent english speaker will assent both sentences under conditions since such speakers also access collateral information bearing historical existence black dogs
+quine maintains there no distinction universally known collateral information conceptual analytic truths
+another approach quine's objection analyticity synonymy emerges modal notion logical possibility
+traditional wittgensteinian view meaning held each meaningful sentence associated region space possible worlds
+[citation needed] quine finds notion such space problematic arguing there no distinction those truths universally confidently believed those necessarily true
+confirmation holism ontological relativity central theses underlying indeterminacy translation other extensions quine's work ontological relativity related doctrine confirmation holism
+premise confirmation holism theories propositions derived them under-determined empirical data data sensory-data evidence although theories justifiable failing fit data being unworkably complex there many equally justifiable alternatives
+while greeks' assumption unobservable homeric gods exist false our supposition unobservable electromagnetic waves true both justified solely their ability explain our observations
+quine concluded two dogmas empiricism follows empiricist continue think conceptual scheme science tool ultimately predicting future experience light past experience
+physical objects conceptually imported situation convenient intermediaries definition terms experience simply irreducible posits comparable epistemologically gods homer
+my part qua lay physicist believe physical objects homer's gods consider scientific error believe otherwise
+point epistemological footing physical objects gods differ degree kind
+both sorts entities enter our conceptions cultural posits
+quine's ontological relativism evident passage above led agree pierre duhem any collection empirical evidence there many theories able account
+however duhem's holism much restricted limited quine's
+duhem underdetermination applies physics possibly natural science while quine applies human knowledge
+thus while possible verify falsify whole theories possible verify falsify individual statements
+almost any particular statement saved given sufficiently radical modifications containing theory
+quine scientific thought forms coherent web any part altered light empirical evidence no empirical evidence force revision given part
+quine's writings led wide acceptance instrumentalism philosophy science
+existence contrary problem non-referring names old puzzle philosophy quine captured curious thing ontological problem simplicity
+put three anglo-saxon monosyllables 'what there?' answered moreover word—'everything'—and everyone will accept answer true
+directly controversy goes how talk pegasus? does word 'pegasus' refer? our answer 'something' then seem believe mystical entities our answer 'nothing' then seem talk nothing sense made this? certainly pegasus mythological winged horse make sense moreover speak truth! speak truth must truth something
+cannot speaking nothing
+quine resists temptation say non-referring terms meaningless reasons made clear above
+instead tells us must first determine whether our terms refer before know proper way understand them
+however czesław lejewski criticizes belief reducing matter empirical discovery seems should formal distinction referring non-referring terms elements our domain
+lejewski writes further state affairs does seem very satisfactory
+idea our rules inference should depend empirical information may forthcoming foreign character logical inquiry thorough re-examination two inferences [existential generalization universal instantiation] may prove worth our while
+lejewski then goes offer description free logic claims accommodates answer problem
+lejewski also points out free logic additionally handle problem empty set statements like
+quine considered problem empty set unrealistic left lejewski unsatisfied
+logic over course career quine published numerous technical expository papers formal logic reprinted selected logic papers ways paradox
+quine confined logic classical bivalent first-order logic hence truth falsity under any nonempty universe discourse
+hence following logic quine higher order logic set theory
+referred higher order logic set theory disguise much principia mathematica included logic logic quine
+formal systems involving intensional notions especially modality
+quine especially hostile modal logic quantification battle largely lost saul kripke's relational semantics became canonical modal logics
+quine three undergraduate texts formal logic elementary logic
+while teaching introductory course 1940 quine discovered extant texts philosophy students justice quantification theory first-order predicate logic
+quine book 6 weeks ad hoc solution teaching needs
+methods logic
+four editions book resulted advanced undergraduate course logic quine taught end world war ii until 1978 retirement
+philosophy logic
+concise witty undergraduate treatment number quinian themes such prevalence use-mention confusions dubiousness quantified modal logic non-logical character higher-order logic
+mathematical logic based quine's graduate teaching during 1930 s 40 s
+shows much principia mathematica took 1000 pages say 250 pages
+proofs concise even cryptic
+last chapter gödel's incompleteness theorem tarski's indefinability theorem along article quine 1946 became launching point raymond smullyan's later lucid exposition these related results
+quine's work logic gradually became dated respects
+techniques teach discuss include analytic tableaux recursive functions model theory
+treatment metalogic left something desired
+example mathematical logic does include any proofs soundness completeness
+early career notation writings logic often idiosyncratic
+later writings nearly employed now-dated notation principia mathematica
+set against simplicity preferred method exposited methods logic determining satisfiability quantified formulas richness philosophical linguistic insights fine prose expressed them
+most quine's original work formal logic 1960 onwards variants predicate functor logic several ways proposed doing logic without quantifiers
+comprehensive treatment predicate functor logic history see quine 1976
+introduction see chpt
+methods logic
+quine very warm possibility formal logic eventually applied outside philosophy mathematics
+several papers sort boolean algebra employed electrical engineering edward j
+mc cluskey devised quine–mc cluskey algorithm reducing boolean equations minimum covering sum prime implicants
+set theory while contributions logic include elegant expositions number technical results set theory quine most innovative
+maintained mathematics required set theory set theory quite distinct logic
+flirted nelson goodman's nominalism while backed away failed find nominalist grounding mathematics
+over course career quine proposed three variants axiomatic set theory each including axiom extensionality new foundations nf creates manipulates sets using single axiom schema set admissibility namely axiom schema stratified comprehension whereby individuals satisfying stratified formula compose set
+stratified formula type theory allow ontology include types
+however quine's set theory does feature types
+metamathematics nf curious
+nf allows many large sets now-canonical zfc set theory does allow even sets axiom choice does hold
+since axiom choice holds finite sets failure axiom nf proves nf includes infinite sets
+relative consistency nf open question
+modification nf nfu due r
+jensen admitting urelements entities members sets lack elements turns out consistent relative peano arithmetic thus vindicating intuition behind nf
+nf nfu quinian set theories following
+derivation foundational mathematics nf see rosser 1952 set theory mathematical logic nf augmented proper classes von neumann–bernays–gödel set theory except axiomatized much simpler way set theory set theory logic does away stratification almost entirely derived single axiom schema
+quine derived foundations mathematics once again
+book includes definitive exposition quine's theory virtual sets relations surveyed axiomatic set theory stood circa 1960
+however fraenkel bar-hillel levy 1973 better job surveying set theory stood mid-century
+three set theories admit universal class since free any hierarchy types no need distinct universal class each type level
+quine's set theory background logic driven desire minimize posits each innovation pushed far pushed before further innovations introduced
+quine there connective sheffer stroke quantifier universal quantifier
+polyadic predicates reduced dyadic predicate interpretable set membership
+rules proof limited modus ponens substitution
+preferred conjunction either disjunction conditional because conjunction least semantic ambiguity
+delighted discover early career first order logic set theory grounded mere two primitive notions abstraction inclusion
+elegant introduction parsimony quine's approach logic see new foundations mathematical logic ch
+5 logical point view
+quine's epistemology just challenged dominant analytic–synthetic distinction quine also took aim traditional normative epistemology
+according quine traditional epistemology tried justify sciences effort exemplified rudolf carnap failed should replace traditional epistemology empirical study sensory inputs produce theoretical outputs
+epistemology something like simply falls place chapter psychology hence natural science
+studies natural phenomenon viz
+physical human subject
+human subject accorded certain experimentally controlled input — certain patterns irradiation assorted frequencies instance — fullness time subject delivers output description three-dimensional external world history
+relation meager input torrential output relation prompted study somewhat same reasons prompted epistemology namely order see how evidence relates theory ways one's theory nature transcends any available evidence
+conspicuous difference old epistemology epistemological enterprise new psychological setting now make free use empirical psychology
+quine 1969 82–3 quine's proposal extremely controversial among contemporary philosophers several important critics jaegwon kim most prominent among them
+popular culture computer program whose output own source code called quine after w
+usage introduced douglas hofstadter 1979 book gödel escher bach eternal golden braid
+quine recurring character webcomic existential comics
+bibliography selected books 1934 system logistic
+harvard univ
+1951 1940
+mathematical logic
+harvard univ
+selected logic papers
+new york random house
+1970 2 nd ed
+web belief
+new york random house
+1980 1941
+elementary logic
+harvard univ
+1982 1950
+methods logic
+harvard univ
+1980 1953
+logical point view
+harvard univ
+contains two dogmas empiricism
+1960 word object
+mit press
+closest thing quine philosophical treatise
+2 sets out indeterminacy translation thesis
+1974 1971 roots reference
+open court publishing company developed quine's carus lectures 1976 1966
+ways paradox
+harvard univ
+1969 ontological relativity other essays
+columbia univ
+contains chapters ontological relativity naturalized epistemology natural kinds
+1969 1963
+set theory logic
+harvard univ
+1985 time my life autobiography
+cambridge mit press
+1986 harvard univ
+1986 1970
+philosophy logic
+harvard univ
+1987 quiddities intermittently philosophical dictionary
+harvard univ
+work essays many subtly humorous lay readers very revealing breadth interests
+1992 1990
+pursuit truth
+harvard univ
+short lively synthesis thought advanced students general readers fooled simplicity
+1995 stimulus science
+harvard univ
+important articles 1946 concatenation basis arithmetic
+reprinted selected logic papers
+harvard univ
+1948 there review metaphysics
+reprinted 1953 logical point view
+harvard university press
+1951 two dogmas empiricism philosophical review 60 20–43
+reprinted 1953 logical point view
+harvard university press
+1956 quantifiers propositional attitudes journal philosophy 53
+reprinted 1976 ways paradox
+harvard univ
+press 185–96
+1969 epistemology naturalized ontological relativity other essays
+new york columbia university press 69–90
+truth convention first published 1936
+reprinted book readings philosophical analysis edited herbert feigl wilfrid sellars pp
+250–273 appleton-century-crofts 1949
+see also philosophy portal logic portal eureka prose poem hold come may list american philosophers notes c e f g o'connor john j
+robertson edmund f
+october 2003 willard van orman quine mac tutor history mathematics archive university st andrews
+quine philosopher analyzed language reality dies 92 *is* most important philosopher past 200 years? leiter reports
+march 2009
+accessed march 2010
+poll results most important philosopher past 200 years? brian leiter
+march 2009
+accessed 24 oct 2014
+prize winner page
+royal swedish academy sciences
+retrieved 29 august 2010
+willard van orman quine
+inamori foundation
+retrieved 15 december
+quine's philosophy science
+internet encyclopedia philosophy
+27 july 2009
+accessed march 2010
+mr strawson logical theory
+wv quine
+mind vol
+62 no
+colyvan mark indispensability arguments philosophy mathematics stanford encyclopedia philosophy fall 2004 edition edward n
+zalta ed
+guide center advanced studies records 1958–1969
+weselyan university
+accessed march 2010
+quine willard van orman hahn lewis edwin 1986
+philosophy w
+open court
+my third year high school walked often my new jamaican friends fred harold cassidy trying convert them their episcopalian faith atheism
+wall street journal obituary w v quine jan 4 2001 quiddities intermittently philosophical dictionary entry tolerance pp
+206–8 paradoxes plenty theories things p
+197 time my life autobiography pp
+352–3 prawitz dag
+'quine verificationism
+inquiry stockholm 1994 pp 487–494 w
+quine there review metaphysics new haven 1948 2 21 czeslaw lejewski logic existence british journal philosophy science vol
+5 1954–5 pp
+104–119 naturalized epistemology
+naturalized epistemology
+stanford encyclopedia philosophy
+5 july 2001
+accessed march 2010
+existential comics
+accessed 24 november 2014 church alonzo 1935
+review system logistic willard van orman quine pdf
+41 9 598–603
+further reading roger f gibson ed
+cambridge companion quine
+cambridge university press
+———— 1988
+philosophy w
+quine expository essay
+tampa university south florida
+———— 1988
+enlightened empiricism examination w
+quine's theory knowledge tampa university south florida
+———— 2004
+quintessence basic readings philosophy w
+harvard univ
+———— barrett r
+perspectives quine
+oxford blackwell
+gochet paul 1978
+quine en perspective paris flammarion
+godfrey-smith peter 2003
+theory reality introduction philosophy science
+grattan-guinness ivor 2000
+search mathematical roots 1870–1940
+princeton university press
+grice paul peter strawson
+defense dogma
+philosophical review 65 1965
+hahn l
+schilpp p
+philosophy w
+quine library living philosophers
+open court
+köhler dieter 1999/2003
+sinnesreize sprache und erfahrung eine studie zur quineschen erkenntnistheorie
+thesis univ
+mac farlane alistair mar–apr 2013
+quine 1908-2000
+philosophy now 95 35–36
+murray murphey development quine's philosophy heidelberg springer boston studies philosophy science 291
+orenstein alex 2002
+princeton university press
+putnam hilary
+greatest logical positivist
+reprinted realism human face ed
+james conant
+cambridge ma harvard university press 1990
+rosser john barkley axiom infinity quine's new foundations journal symbolic logic 17 4238–242 1952
+valore paolo 2001
+questioni di ontologia quineana milano cusi
+external links wikiquote quotations related willard van orman quine wikisource original works written willard van orman quine willard van orman quine—philosopher mathematician willard van orman quine stanford encyclopedia philosophy quine's rejection analytic/synthetic distinction entry internet encyclopedia philosophy quine's philosophy science internet encyclopedia philosophy quine's new foundations stanford encyclopedia philosophy willard van orman quine mathematics genealogy project obituary guardian there two dogmas empiricism simple theories complex world quine's ontology? links related articlesvte analytic philosophy philosophers robert merrihew adams william p
+alston j
+ayer g
+anscombe david malet armstrong robert audi robert brandom c
+broad tyler burge john p
+burgess rudolf carnap roderick chisholm patricia churchland paul churchland david chalmers noam chomsky donald davidson daniel dennett michael dummett bas van fraassen gottlob frege jerry fodor philippa foot peter geach
+grayling paul grice alvin goldman peter hacker r
+hare gilbert harman john hawthorne ian hacking carl hempel jaakko hintikka peter van inwagen frank cameron jackson christine korsgaard saul kripke david lewis j
+mackie norman malcolm john mc dowell g
+moore thomas nagel robert nozick derek parfit
+phillips alvin plantinga
+prior hilary putnam w
+quine john rawls hans reichenbach bertrand russell gilbert ryle john searle moritz schlick wilfrid sellars peter singer peter strawson richard swinburne peter unger bernard williams timothy williamson john wisdom ludwig wittgenstein stephen yablo
+theories deflationism direct reference theory empiricism holism logical atomism logical positivism naturalism naturalized epistemology neopragmatism neutral monism particularism reductionism scientism skepticism verificationism
+concepts analysis analytic–synthetic distinction causal / deductive / epistemic closure concept counterfactual denotation / reference definite description factive family resemblance intuition meaning proposition modality natural kind / projectability necessary–sufficient conditions paradox analysis possible world reduction reflective equilibrium rigid–flaccid designators sense data supervenience thought experiment truth function truthmaker truth-bearer type–token distinction related articles australian realism ordinary language philosophy philosophical logic philosophy language philosophy science postanalytic philosophy
+category task force discussion philosophy stubs vte metaphysics metaphysicians parmenides plato aristotle plotinus duns scotus thomas aquinas francisco suárez nicolas malebranche rené descartes john locke david hume thomas reid immanuel kant isaac newton arthur schopenhauer baruch spinoza georg w
+hegel george berkeley gottfried wilhelm leibniz henri bergson friedrich nietzsche charles sanders peirce joseph maréchal ludwig wittgenstein martin heidegger alfred n
+whitehead bertrand russell dorothy emmet g
+moore jean-paul sartre gilbert ryle hilary putnam p
+strawson r
+collingwood adolph stöhr rudolf carnap saul kripke willard v
+quine g
+anscombe donald davidson michael dummett david malet armstrong david lewis alvin plantinga peter van inwagen derek parfit
+theories abstract object theory action theory anti-realism determinism dualism enactivism essentialism existentialism free will idealism libertarianism liberty materialism meaning life monism naturalism nihilism phenomenalism realism physicalism pirsig's metaphysics quality platonic idealism relativism scientific realism solipsism subjectivism substance theory type theory concepts abstract object anima mundi being category being causality choice cogito ergo sum concept embodied cognition entity essence existence experience hypostatic abstraction idea identity identity change information insight intelligence intention linguistic modality matter meaning memetics mental representation mind motion necessity notion object pattern perception physical body principle property qualia quality reality soul subject substantial form thought time truth type–token distinction universal unobservable value
+related topics axiology cosmology epistemology feminist metaphysics interpretations quantum mechanics meta- ontology philosophy mind philosophy psychology philosophy self philosophy space time teleology theoretical physics category portal wiki project vte epistemology epistemologists thomas aquinas augustine hippo william alston robert audi
+ayer george berkeley laurence bon jour rené descartes edmund gettier alvin goldman nelson goodman paul grice david hume immanuel kant søren kierkegaard saul kripke david lewis john locke g
+moore robert nozick alvin plantinga plato hilary putnam thomas reid gilbert ryle p
+strawson willard van orman quine bertrand russell timothy williamson ludwig wittgenstein nicholas wolterstorff vienna circle theories coherentism constructivist epistemology contextualism determinism empiricism evolutionary epistemology fallibilism feminist epistemology fideism foundationalism genetic epistemology holism infinitism innatism internalism externalism naïve realism naturalized epistemology phenomenalism positivism reductionism reliabilism representative realism rationalism skepticism theory forms transcendental idealism uniformitarianism concepts priori knowledge analysis analytic–synthetic distinction belief causality common sense descriptive knowledge exploratory thought gettier problem justification knowledge induction objectivity problem induction problem other minds perception proposition regress argument simplicity speculative reason truth
+related articles outline epistemology alethiology faith rationality formal epistemology meta-epistemology philosophy perception philosophy science social epistemology portal category task force stubs discussion vte philosophy language philosophers plato cratylus gorgias confucius xunzi aristotle stoics pyrrhonists scholasticism ibn rushd ibn khaldun thomas hobbes gottfried wilhelm leibniz johann herder ludwig noire wilhelm von humboldt fritz mauthner paul ricœur ferdinand de saussure gottlob frege franz boas paul tillich edward sapir leonard bloomfield zhuangzi henri bergson lev vygotsky ludwig wittgenstein philosophical investigations tractatus logico-philosophicus bertrand russell rudolf carnap jacques derrida grammatology limited inc benjamin lee whorf gustav bergmann j
+austin noam chomsky hans-georg gadamer saul kripke
+ayer g
+anscombe jaakko hintikka michael dummett donald davidson paul grice gilbert ryle p
+strawson willard van orman quine hilary putnam david lewis john searle joxe azurmendi scott soames stephen yablo john hawthorne stephen neale theories causal theory reference contrast theory meaning contrastivism conventionalism cratylism deconstruction descriptivist theory names direct reference theory dramatism expressivism linguistic determinism logical atomism logical positivism mediated reference theory nominalism non-cognitivism phallogocentrism quietism relevance theory semantic externalism semantic holism structuralism supposition theory symbiosism theological noncognitivism theory descriptions verification theory concepts ambiguity linguistic relativity meaning language truth-bearer proposition use–mention distinction concept categories set class intension logical form metalanguage mental representation principle compositionality property sign sense reference speech act symbol entity sentence statement
+related articles analytic philosophy philosophy information philosophical logic linguistics pragmatics rhetoric semantics formal semantics semiotics category task force discussion vte philosophy science concepts analysis analytic–synthetic distinction priori posteriori causality commensurability consilience construct creative synthesis demarcation problem empirical evidence explanatory power fact falsifiability feminist method ignoramus et ignorabimus inductive reasoning intertheoretic reduction inquiry nature objectivity observation paradigm problem induction scientific law scientific method scientific revolution scientific theory testability theory choice theory-ladenness underdetermination unity science metatheoryof science coherentism confirmation holism constructive empiricism constructive realism constructivist epistemology contextualism conventionalism {deductive-nomological model hypothetico-deductive model inductionism} epistemological anarchism fallibilism foundationalism instrumentalism pragmatism model-dependent realism naturalism physicalism positivism-reductionism-determinism rationalism / empiricism received view / semantic view theories scientific realism / anti-realism scientific essentialism scientific formalism scientific skepticism scientism structuralism uniformitarianism vitalism philosophy physics thermal statistical motion chemistry biology environment geography social science technology engineering artificial intelligence computer science information mind psychology perception space time related topics alchemy criticism science epistemology faith rationality history philosophy science history science history evolutionary thought logic metaphysics pseudoscience relationship religion science rhetoric science sociology scientific knowledge sociology scientific ignorance philosophers science era ancient plato aristotle stoicism epicurians medieval averroes avicenna roger bacon william ockham hugh saint victor dominicus gundissalinus robert kilwardby early modern francis bacon thomas hobbes rené descartes galileo galilei pierre gassendi isaac newton david hume classical modern immanuel kant friedrich schelling auguste comte william whewell wilhelm windelband john stuart mill herbert spencer pierre duhem henri poincaré wilhelm wundt late modern albert einstein bertrand russell alfred north whitehead rudolf carnap w
+quine bas van fraassen carl gustav hempel charles sanders peirce daniel dennett hans reichenbach ian hacking imre lakatos jürgen habermas karl pearson karl popper larry laudan michael polanyi otto neurath paul feyerabend thomas kuhn portal category vte set theory axioms choice countable dependent extensionality infinity pairing power set regularity union martin's axiom axiom schema replacement specification operations cartesian product complement de morgan's laws disjoint union intersection power set set difference symmetric difference union concepts methods cardinality cardinal number large class constructible universe continuum hypothesis diagonal argument element ordered pair tuple family forcing one-to-one correspondence ordinal number transfinite induction venn diagram set types countable empty finite hereditarily fuzzy infinite recursive subset · superset transitive uncountable universal theories alternative axiomatic naive cantor's theorem zermelo general principia mathematica new foundations zermelo–fraenkel von neumann–bernays–gödel morse–kelley kripke–platek tarski–grothendieck paradoxes problems russell's paradox suslin's problem set theorists abraham fraenkel bertrand russell ernst zermelo georg cantor john von neumann kurt gödel lotfi
+zadeh paul bernays paul cohen richard dedekind thomas jech willard quine vte rolf schock prize laureates logic philosophy willard van orman quine 1993 michael dummett 1995 dana scott 1997 john rawls 1999 saul kripke 2001 solomon feferman 2003 jaakko hintikka 2005 thomas nagel 2008 hilary putnam 2011 derek parfit 2014 mathematics elias m
+stein 1993 andrew wiles 1995 mikio sato 1997 yuri
+manin 1999 elliott h
+lieb 2001 richard p
+stanley 2003 luis caffarelli 2005 endre szemerédi 2008 michael aschbacher 2011 yitang zhang 2014 musical arts ingvar lidholm 1993 györgy ligeti 1995 jorma panula 1997 kronos quartet 1999 kaija saariaho 2001 anne sofie von otter 2003 mauricio kagel 2005 gidon kremer 2008 andrew manze 2011 herbert blomstedt 2014 visual arts rafael moneo 1993 claes oldenburg 1995 torsten andersson 1997 herzog & de meuron 1999 giuseppe penone 2001 susan rothenberg 2003 sanaa / kazuyo sejima + ryue nishizawa 2005 mona hatoum 2008 marlene dumas 2011 anne lacaton / jean-philippe vassal 2014 vte recipients kyoto prize arts philosophy field thought ethics paul thieme 1988 karl popper 1992 willard van orman quine 1996 paul ricœur 2000 jürgen habermas 2004 charles taylor 2008 gayatri chakravorty spivak authority control world cat identities viaf 27070554 lccn n80061808 isni 0000 0000 8366 4021 gnd 118641824 selibr 213253 sudoc 027086488 bnf cb119209013 data mgp 73831 nla 36242350 ndl 00453520

@@ -1,0 +1,55 @@
+article needs additional citations verification
+please help improve article adding citations reliable sources
+unsourced material may challenged removed
+march 2009 józef maria bocheński czuszów congress poland russian empire 30 august 1902 february 1995 fribourg switzerland polish dominican logician philosopher
+contents life 2 cracow circle 3 précis de logique mathématique 4 logical hexagon square opposition 5 works 6 see also 7 notes references life after taking part 1920 campaign against aggression soviet russia took up legal studies lwów then studied economics poznań
+bocheński earned doctorate philosophy studied freiburg 1928–31
+also alumnus pontifical university saint thomas aquinas angelicum rome studied sacred theology 1931 1934 earning doctorate sacred theology
+bocheński professor logic angelicum until 1940
+during world war ii served chaplain polish forces during 1939 invasion poland taken prisoner war escaped germans reached rome
+joined polish army served chaplain first france then england
+fought soldier 1944 italian campaign polish ii corps monte cassino
+1945 received chair history twentieth-century philosophy university fribourg rector 1964-66 founded ran institute eastern europe there published journal studies soviet thought book series concerned foundations marxist philosophy sovietica
+bocheński served consultant several governments west germany under konrad adenauer south africa united states argentina switzerland
+before 1989 none works published officially poland
+cracow circle bocheński perhaps most famous exponent cracow circle called most significant expression catholic thought two world wars
+circle founded group philosophers theologians distinction traditional neo-thomism embraced modern formal logic applied traditional thomist philosophy theology
+inspired logical clarity aquinas members circle held both philosophy theology contain propositions truth-values…a structured body propositions connected meaning subject matter linked logical relations compatibility incompatibility entailment etc
+cracow circle set investigating possible improving logical structure most advanced logical tools available time namely those modern mathematical logic then called ‘logistic’
+other members circle included jan salamucha jan f
+précis de logique mathématique bocheński's précis de logique mathématique uses notation style łukasiewicz tautology truth t t t tpq vpq opq f f f fpq contradiction falsity logical disjunction disjunction t t t fpq apq xpq f f f tpq logical nor joint denial converse conditional converse implication t t f tpq bpq mpq f f t fpq converse nonimplication material conditional material implication t f t tpq cpq lpq f t f fpq material nonimplication logical nand alternative denial f t t tpq dpq kpq t f f fpq logical conjunction conjunction logical biconditional equivalence t f f tpq epq jpq f t t fpq exclusive disjunction nonequivalence negation f f t tpq np fpq p ipq t t f fpq projection function negation f t f tpq nq gpq q hpq t f t fpq projection function logical hexagon square opposition robert blanché quoted passage bochenski’s formale logik structure intellectuelles 1966 39 hindu logic knows three logical propositions four western logic
+s p does signify s least p s p
+passage shows indian tradition explicitly speaks existence partial quantity third quantity considered along totality apprehended universal affirmative square zero quantity apprehended e universal negative square
+two universals e entertaining relationship contrariety should add third contrary constituted double negation first two
+subcontrary contradicts e subcontrary o contradicts logical proposition apprehending partial quantity represented conjunction o & o
+blanché’s logical hexagon conjunction symbolized letter
+many scholars[who?] think logical square opposition representing four values should replaced logical hexagon power express relations opposition
+works elementa logicae graecae 1937 rome anonima libraria catolica italiana
+manuale di filosofia bolscevica 1946 logique de théophraste 1947 1987 reprint new york garland publishing
+europäische philosophie gegenwart 1947 bern
+précis de logique mathématique 1948 bussum north holland f
+abc tomizmu 1950 london veritas
+sowjetrussische dialektische materialismus 1950 ancient formal logic 1951 szkice etyczne zebrał ułożył adam bocheński 1953 london veritas
+die zeitgenössischen denkmethoden 1954 die kommunistische ideologie und die würde freiheit und gleichheit menschen im sinne des grundgesetzes für die bundesrepublik deutschland vom 23
+1949 1956 [bonn] bundeszentrale für heimatdienst
+bibliographie sowietischen philosophie 1959 fribourg ost-europa institut
+formale logik 1956 translated english history formal logic 1961 sowjetrussische dialektische materialismus diamat 1962 co-edited gerhart niemayer handbook communism1962 new york praeger
+logic religion 1965 wege zum philosophischen denken 1967 guide marxist philosophy introductory bibliography 1972 chicago swallow press
+philosophy introduction 1972 new york harper & row
+wissenschaft oder glaube? 1973 münchen olzog
+ist autorität? einf
+autorität 1974 fribourg herder
+logic ontology 1974 sto zabobonów
+krótki filozoficzny słownik zabobonów hundred superstitions
+short philosophical dictionary superstitions 1987
+logika filosofia 1993 miedzy logika wiara 1994 szkice o nacionalizmie katolicyzmie polskim 1994 komorów wydawn
+antyk marcin dybowski
+wspomnienia 1994 kraków philed
+lewica religia sowietologica 1996 warsaw zakon ojców dominikanów
+road understanding
+dreamt your philosophy 1996 see also analytical thomism history philosophy poland list poles notes http//segr-did2
+html accessed 15 march 2013 http//segr-did2
+html accessed 15 march 2013 bocheński balance system history analytic philosophy peter simons studies east european thought 55 2003 281–297 reprinted edgar morscher otto neumaier peter simons ein philosoph mit bodenhaftung zu leben und werk von joseph m
+augustin academia 2011 61–79 józef maria bocheński 1948/1959 précis mathematical logic trans
+otto bird french german editions dordrecht south holland reidel passim
+references authority control world cat identities viaf 88344067 lccn n50009237 isni 0000 0001 0802 7898 gnd 119245426 selibr 326659 sudoc 026734214 bnf cb11892486 p data hds 41117 nla 36499625 ndl 00433650 nkc jn19990000900 iccu it\iccu\ravv\039431

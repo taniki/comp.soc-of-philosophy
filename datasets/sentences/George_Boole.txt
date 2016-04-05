@@ -1,0 +1,345 @@
+boole redirects here
+other uses see boole disambiguation
+george boole boole 1860 born 1815-11-022 november 1815 lincoln lincolnshire england died december 18641864-12-08 aged 49 ballintemple cork ireland nationality british religion unitarian era 19 th-century philosophy region western philosophy school mathematical foundations computing main interests mathematics logic philosophy mathematics notable ideas boolean algebra influences aristotle spinoza newton influenced modern computer scientists jevons de morgan keynes peirce johnson shannon shestakov george boole /ˈbuːl/ 2 november 1815 december 1864 english mathematician educator philosopher logician
+worked fields differential equations algebraic logic best known author laws thought 1854 contains boolean algebra
+boolean logic credited laying foundations information age
+boole maintained no general method solution questions theory probabilities established does explicitly recognise special numerical bases science also those universal laws thought basis reasoning whatever may their essence least mathematical their form
+contents early life 2 professor cork 3 honours awards 4 death 5 works 5
+differential equations 5
+2 analysis 5
+3 symbolic logic 5
+1854 definition universe discourse 5
+2 treatment addition logic 5
+4 probability theory 6 legacy 6
+19 th-century development 6
+2 20 th-century development 6
+3 21 st-century celebration 7 views family 9 see also 10 references notes 12 external links early life boole's house school 3 pottergate lincoln boole born lincoln lincolnshire england son john boole 1779–1848 shoemaker mary ann joyce
+primary school education received lessons father little further formal academic teaching
+william brooke bookseller lincoln may helped latin may also learned school thomas bainbridge
+self-taught modern languages
+age 16 boole became breadwinner parents three younger siblings taking up junior teaching position doncaster heigham's school
+taught briefly liverpool
+boole participated local mechanics institute lincoln mechanics' institution founded 1833
+edward bromhead knew john boole through institution helped george boole mathematics books given calculus text sylvestre françois lacroix rev
+george stevens dickson st swithin's lincoln
+without teacher took many years master calculus
+age 19 boole successfully established own school lincoln
+four years later took over hall's academy waddington outside lincoln following death robert hall
+1840 moved back lincoln ran boarding school
+boole became prominent local figure admirer john kaye bishop
+took part local campaign early closing
+larken others set up building society 1847
+associated also chartist thomas cooper whose wife relation
+plaque house lincoln 1838 onwards boole making contacts sympathetic british academic mathematicians reading widely
+studied algebra form symbolic methods far these understood time began publish research papers
+professor cork house 5 grenville place cork boole lived 1849 1855 laws thought boole's status mathematician recognised appointment 1849 first professor mathematics queen's college cork now university college cork ucc ireland
+met future wife mary everest there 1850 while she visiting her uncle john ryall professor greek
+married years later 1855
+maintained ties lincoln working there e
+larken campaign reduce prostitution
+honours awards boole awarded keith medal royal society edinburgh 1855 elected fellow royal society frs 1857
+received honorary degrees ll
+university dublin university oxford
+death late november 1864 boole walked heavy rain home lichfield cottage ballintemple university distance three miles lectured wearing wet clothes
+soon became ill developing severe cold high fever
+wife believed remedies should resemble their cause she put her husband bed poured buckets water over wet having brought illness
+boole's condition worsened december 1864 died fever-induced pleural effusion
+buried church ireland cemetery st michael's church road blackrock suburb cork
+there commemorative plaque inside adjoining church
+boole's gravestone blackrock cork ireland detail stained glass window lincoln cathedral dedicated boole plaque beneath boole's window lincoln cathedral works boole's first published paper researches theory analytical transformations special application reduction general equation second order printed cambridge mathematical journal february 1840 volume 2 no
+64–73 led friendship boole duncan farquharson gregory editor journal
+works 50 articles few separate publications
+1841 boole published influential paper early invariant theory
+received medal royal society memoir 1844 general method analysis
+contribution theory linear differential equations moving case constant coefficients already published variable coefficients
+innovation operational methods admit operations may commute
+1847 boole published mathematical analysis logic first works symbolic logic
+differential equations boole completed two systematic treatises mathematical subjects during lifetime
+treatise differential equations appeared 1859 followed next year treatise calculus finite differences sequel former work
+analysis 1857 boole published treatise comparison transcendents certain applications theory definite integrals studied sum residues rational function
+among other results proved now called boole's identity any real numbers ak > 0 bk t > 0
+generalisations identity play important role theory hilbert transform
+symbolic logic main article boolean algebra 1847 boole published pamphlet mathematical analysis logic
+later regarded flawed exposition logical system wanted investigation laws thought founded mathematical theories logic probabilities seen mature statement views
+contrary widespread belief boole never intended criticise disagree main principles aristotle's logic
+rather intended systematise provide foundation extend range applicability
+boole's initial involvement logic prompted current debate quantification sir william hamilton supported theory quantification predicate boole's supporter augustus de morgan advanced version de morgan duality now called
+boole's approach ultimately much further reaching either sides' controversy
+founded first known algebra logic tradition
+among many innovations principle wholistic reference later probably independently adopted gottlob frege logicians subscribe standard first-order logic
+2003 article provides systematic comparison critical evaluation aristotelian logic boolean logic also reveals centrality wholistic reference boole's philosophy logic
+1854 definition universe discourse every discourse whether mind conversing own thoughts individual intercourse others there assumed expressed limit within subjects operation confined
+most unfettered discourse words use understood widest possible application them limits discourse co-extensive those universe itself
+usually confine ourselves less spacious field
+sometimes discoursing men imply without expressing limitation men under certain circumstances conditions speak civilised men men vigour life men under other condition relation
+now whatever may extent field within objects our discourse found field may properly termed universe discourse
+furthermore universe discourse strictest sense ultimate subject discourse
+treatment addition logic boole conceived elective symbols kind algebraic structure
+general concept available segregation standard abstract algebra postulated axiomatic properties operations deduced properties
+work beginning algebra sets again concept available boole familiar model
+pioneering efforts encountered specific difficulties treatment addition obvious difficulty early days
+boole replaced operation multiplication word 'and' addition word 'or'
+boole's original system + partial operation language set theory correspond disjoint union subsets
+later authors changed interpretation commonly reading exclusive set theory terms symmetric difference step means addition defined
+fact there other possibility + should read disjunction other possibility extends disjoint union case exclusive non-exclusive both give same answer
+handling ambiguity early problem theory reflecting modern use both boolean rings boolean algebras simply different aspects type structure
+boole jevons struggled over just issue 1863 form correct evaluation x + x
+jevons argued result x correct + disjunction
+boole kept result something undefined
+argued against result 0 correct exclusive because saw equation x + x = 0 implying x = 0 false analogy ordinary algebra
+probability theory second part laws thought contained corresponding attempt discover general method probabilities
+here goal algorithmic given probabilities any system events determine consequent probability any other event logically connected those events
+legacy boolean algebra named after crater boole moon
+keyword bool represents boolean datatype many programming languages though pascal java among others both use full name boolean
+library underground lecture theatre complex boole centre research informatics university college cork named honour
+road called boole heights bracknell berkshire named after
+19 th-century development boole's work extended refined number writers beginning william stanley jevons
+augustus de morgan worked logic relations charles sanders peirce integrated work boole's during 1870 s
+other significant figures platon sergeevich poretskii william ernest johnson
+conception boolean algebra structure equivalent statements propositional calculus credited hugh mac coll 1877 work surveyed 15 years later johnson
+surveys these developments published ernst schröder louis couturat clarence irving lewis
+20 th-century development modern notation free boolean algebra basic propositions p q arranged hasse diagram
+boolean combinations make up 16 different propositions lines show logically related
+1921 economist john maynard keynes published book probability theory treatise probability
+keynes believed boole made fundamental error definition independence vitiated much analysis
+book last challenge problem david miller provides general method accord boole's system attempts solve problems recognised earlier keynes others
+theodore hailperin showed much earlier boole used correct mathematical definition independence worked out problems boole's work later logicians initially appeared no engineering uses
+claude shannon attended philosophy class university michigan introduced boole's studies
+shannon recognised boole's work form basis mechanisms processes real world therefore highly relevant
+1937 shannon went write master's thesis massachusetts institute technology showed how boolean algebra optimise design systems electromechanical relays then used telephone routing switches
+also proved circuits relays solve boolean algebra problems
+employing properties electrical switches process logic basic concept underlies modern electronic digital computers
+victor shestakov moscow state university 1907–1987 proposed theory electric switches based boolean logic even earlier claude shannon 1935 testimony soviet logicians mathematicians sofya yanovskaya gaaze-rapoport roland dobrushin lupanov medvedev uspensky though presented their academic theses same year 1938
+[clarification needed] first publication shestakov's result took place 1941 russian
+hence boolean algebra became foundation practical digital circuit design boole via shannon shestakov provided theoretical grounding information age
+21 st-century celebration boole's legacy surrounds us everywhere computers information storage retrieval electronic circuits controls support life learning communications 21 st century
+pivotal advances mathematics logic probability provided essential groundwork modern mathematics microelectronic engineering computer science
+—university college cork
+2015 saw 200 th anniversary george boole's birth
+mark bicentenary year university college cork joined admirers boole around world celebrate life legacy
+ucc's george boole 200 project featured events student outreach activities academic conferences boole's legacy digital age including new edition desmond mac hale's 1985 biography life work george boole prelude digital age cork university press 2014
+search engine google marked 200 th anniversary birth 2 november 2015 algebraic reimaging google doodle
+views boole's views given four published addresses genius sir isaac newton right use leisure claims science social aspect intellectual culture
+first these 1835 charles anderson-pelham st earl yarborough gave bust newton mechanics' institute lincoln
+second justified celebrated 1847 outcome successful campaign early closing lincoln headed alexander leslie-melville branston hall
+claims science given 1851 queen's college cork
+social aspect intellectual culture also given cork 1855 cuvierian society
+though biographer des mac hale describes boole agnostic deist boole read wide variety christian theology
+combining interests mathematics theology compared christian trinity father son holy ghost three dimensions space attracted hebrew conception god absolute unity
+boole considered converting judaism end chosen unitarianism
+boole came speak against saw prideful scepticism instead favoured belief supreme intelligent cause also declared firmly believe accomplishment purpose divine mind
+addition stated perceived teeming evidences surrounding design concluded course world abandoned chance inexorable fate
+two influences boole later claimed wife mary everest boole universal mysticism tempered jewish thought indian logic
+mary boole stated adolescent mystical experience provided life's work my husband me lad seventeen thought struck suddenly became foundation future discoveries
+flash psychological insight conditions under mind most readily accumulates knowledge [
+few years supposed himself convinced truth bible whole even intended take orders clergyman english church
+help learned jew lincoln found out true nature discovery dawned
+man's mind works means mechanism functions normally towards monism
+13 laws thought boole used examples propositions baruch spinoza samuel clarke
+work contains remarks relationship logic religion slight cryptic
+boole apparently disconcerted book's reception just mathematical toolset george afterwards learned great joy same conception basis logic held leibnitz contemporary newton
+de morgan course understood formula true sense boole's collaborator along
+herbert spencer jowett robert leslie ellis understood feel sure few others nearly logicians mathematicians ignored statement book meant throw light nature human mind treated formula entirely wonderful new method reducing logical order masses evidence external fact
+mary boole claimed there profound influence — via her uncle george everest — indian thought george boole well augustus de morgan charles babbage think must effect intense hinduizing three such men babbage de morgan george boole mathematical atmosphere 1830–65
+share generating vector analysis mathematics investigations physical science now conducted? family 1855 married mary everest niece george everest later several educational works her husband's principles
+booles five daughters mary ellen1856–1908 married mathematician author charles howard hinton four children george 1882–1943 eric *1884 william 1886–1909 sebastian 1887–1923 inventor jungle gym
+after sudden death her husband mary ellen committed suicide washington
+may 1908
+sebastian three children jean hinton married name rosner 1917–2002 peace activist
+william h
+hinton 1919–2004 visited china 1930 s 40 s influential account communist land reform
+joan hinton 1921–2010 worked manhattan project lived china 1948 until her death june 2010 she married sid engst
+margaret 1858 1935 married edward ingram taylor artist
+their elder son geoffrey ingram taylor became mathematician fellow royal society
+their younger son julian professor surgery
+alicia 1860–1940 made important contributions four-dimensional geometry
+lucy everest 1862–1904 first female professor chemistry england
+ethel lilian 1864–1960 married polish scientist revolutionary wilfrid michael voynich author novel gadfly
+see also logic portal mathematics portal biography portal boolean algebra logical calculus truth values set membership boolean algebra structure set operations resembling logical ones boolean circuit mathematical model digital logical circuits
+boolean data type data type having two values usually denoted true false boolean expression expression programming language produces boolean value evaluated boolean function function determines boolean values operators boolean model probability theory model stochastic geometry boolean network certain network consisting set boolean variables whose state determined other variables network boolean processor 1-bit variables computing unit boolean satisfiability problem boole's syllogistic logic invented 19 th-century british mathematician george boole attempts incorporate empty set
+list boolean algebra topics references university college cork george boole 200 bicentenary celebration george boole
+chisholm hugh ed
+boole george
+encyclopædia britannica th ed
+cambridge university press
+ivor grattan-guinness search mathematical roots 1870–1940
+princeton university press
+francis hill 1974 victorian lincoln google books
+des mac hale george boole life work
+boole press
+des mac hale life work george boole prelude digital age new edition
+cork university press
+2014 stephen hawking god created integers
+running press philadelphia
+notes c george boole mathematician behind google doodle
+sydney morning herald
+2 november 2015
+boole george [originally published watts & co
+london 1952]
+rhees rush ed
+studies logic probability reprint ed
+mineola ny dover publications
+retrieved 27 october 2015
+john boole
+lincoln boole foundation
+retrieved 6 november 2015
+chisholm hugh ed
+boole george
+encyclopædia britannica th ed
+cambridge university press
+c hill p
+149 google books
+rhees rush
+1954 george boole student teacher
+friends pupils proceedings royal irish academy
+section mathematical physical sciences
+royal irish academy c o'connor john j
+robertson edmund f
+george boole mac tutor history mathematics archive university st andrews
+society history astronomy lincolnshire
+bromhead sir edward thomas french
+oxford dictionary national biography online ed
+oxford university press
+subscription uk public library membership required
+c george boole entry stanley burris stanford encyclopedia philosophy hill p
+172 note 2 google books
+hill p
+130 note google books
+hill p
+148 google books
+ronald calinger vita mathematica historical research integration teaching 1996 p
+292 google books
+hill p
+138 note 4 google books
+keith awards 1827-1890
+canmbridge journals online
+retrieved 29 november 2014
+ivor grattan-guinness gérard bornet george boole selected manuscripts logic philosophy 1997 p
+google books
+barker tommy 13 june 2015
+look inside home ucc maths professor george boole
+irish examiner
+retrieved 6 november 2015
+plaque reads ‘to memory george boole lld dcl frs cork whom highest order intellect cultivated unwearied industry produced fruits deep humility childlike trust
+born lincoln 2 nov
+1815 died ballintemple dec
+ever o lord thy word settled heaven
+’ http//georgeboole
+com/boole/life/ucc/death/ list boole's memoirs papers catalogue scientific memoirs published royal society supplementary volume differential equations edited isaac todhunter
+cambridge mathematical journal successor cambridge dublin mathematical journal boole contributed articles
+third fourth series philosophical magazine found 16 papers
+royal society printed six memoirs philosophical transactions few other memoirs found transactions royal society edinburgh royal irish academy bulletin de l'académie de st-pétersbourg 1862 under name g
+boldt vol
+198–215 crelle's journal
+also included paper mathematical basis logic published mechanic's magazine 1848
+andrei nikolaevich kolmogorov adolf pavlovich yushkevich editors mathematics 19 th century function theory according chebyshev ordinary differential equations calculus variations theory finite differences 1998 pp
+130–2 google books
+jeremy gray karen hunger parshall episodes history modern algebra 1800–1950 2007 p
+66 google books
+george boole mathematical analysis logic being essay towards calculus deductive reasoning london england macmillan barclay & macmillan 1847
+george boole treatsie differential equations 1859 internet archive
+boole george 1857
+comparison transcendents certain applications theory definite integrals
+philosophical transactions royal society london 147 745–803
+jstor 108643
+cima joseph
+matheson alec ross william t
+cauchy transform
+quadrature domains their applications
+theory adv
+basel birkhäuser
+mr 2129737
+john corcoran aristotle's prior analytics boole's laws thought history philosophy logic vol
+24 2003 pp
+boole george
+oxford dictionary national biography online ed
+oxford university press
+subscription uk public library membership required
+witold marciszewski editor dictionary logic applied study language 1981 pp
+corcoran john 2003
+aristotle's prior analytics boole's laws thought
+history philosophy logic 24 261–288
+reviewed risto vilkko
+bulletin symbolic logic 112005 89–91
+also marcel guillaume mathematical reviews 2033867 2004 m03006
+george boole
+laws thought facsimile 1854 edition introduction john corcoran
+buffalo prometheus books 2003
+reviewed james van evra philosophy review
+24 2004 167–169
+andrei nikolaevich kolmogorov adolf pavlovich yushkevich mathematics 19 th century mathematical logic algebra number theory probability theory 2001 pp
+15 note 15–16 google books
+algebra logic tradition entry stanley burris stanford encyclopedia philosophy boole george 1854
+investigation laws thought
+london walton & maberly
+brown pascal basic addison-wesley 1982
+page 72 boole centre research informatics ivor grattan-guinness gérard bornet george boole selected manuscripts logic philosophy 1997 p
+xlvi google books
+chapter xvi p
+167 section 6 treatise probability volume 4 central error system probability arises out giving two inconsistent definitions 'independence' 2 first wins reader's acquiescence giving perfectly correct definition two events independent probability either them unaffected our expectation occurrence failure other
+3 moment later interprets term quite different sense according boole's second definition must regard events independent unless either must concur cannot concur
+say independent unless know certain there fact invariable connection them
+simple events x z will conditioned free occur every possible combination other words compound event depending upon them precluded occurring
+simple unconditioned events definition independent
+fact long xz possible x z independent
+plainly inconsistent boole's first definition makes no attempt reconcile
+consequences employing term independence double sense far-reaching
+uses method reduction valid arguments applied independent first sense assumes valid independent second sense
+while theorems true propositions events involved independent first sense true supposes them events independent second sense
+html dissertation since hailed most significant master's theses 20 th century
+intents purposes use binary code boolean algebra paved way digital circuitry crucial operation modern computers telecommunications equipment
+emerson andrew march 2001
+claude shannon
+united kingdom guardian
+1902 britannica article jevons online text
+james gasser boole anthology recent classical studies logic george boole 2000 p
+5 google books
+gasser p
+10 google books
+boole george 1851
+claims science especially founded relations human nature lecture
+retrieved 4 march
+boole george 1855
+social aspect intellectual culture address delivered cork athenæum may 29 th 1855 soirée cuvierian society
+george purcell & co
+retrieved 4 march
+international association semiotic studies international council philosophy humanistic studies international social science council 1995
+tale two amateurs
+semiotica volume 105
+mac hale's biography calls george boole 'an agnostic deist'
+both booles' classification 'religious philosophies' monistic dualistic trinitarian left little doubt their preference 'the unity religion' whether judaic unitarian
+|access-date= requires |url= help international association semiotic studies international council philosophy humanistic studies international social science council 1996
+semiotica volume 105
+mac hale does repress other evidence boole's nineteenth-century beliefs practices paranormal religious mysticism
+even concedes george boole's many distinguished contributions logic mathematics may motivated distinctive religious beliefs agnostic deist unusual personal sensitivity sufferings other people
+|access-date= requires |url= help boole george
+studies logic probability
+courier dover publications
+201-202 boole george
+studies logic probability
+courier dover publications
+451 some-side scientific mind 2013
+university magazine 1878
+london forgotten books
+original work published 1878 concluding remarks treatise clarke spinoza found boole george 2007
+investigation laws thought
+cosimo inc
+original work published 1854 boole george 1851
+claims science especially founded relations human nature lecture volume 15
+24 jonardon ganeri 2001 indian logic reader routledge p
+7 google books
+c boole mary everest indian thought western science nineteenth century boole mary everest collected works eds
+cobham e
+dummer london daniel 1931 pp
+947–967 grattan-guinness bornet p
+16 google books
+family genealogy - life george boole 200
+retrieved 7 march 2016
+smothers orchard los angeles times v
+27 february 1909
+`my right die´ woman kills self washington times v
+28 may 1908 pdf mrs
+mary hinton suicide new york times v
+29 may 1908 pdf
+external links find george booleat wikipedia's sister projects media commons quotations wikiquote source texts wikisource data wikidata roger parsons' article boole george boole 200-year view stephen wolfram
+works george boole project gutenberg works george boole internet archive george boole's work first professor mathematics university college cork ireland george boole website author profile database zb math authority control world cat identities viaf 49282014 lccn n83144364 isni 0000 0001 1061 4506 gnd 118661655 selibr 326365 sudoc 028119339 bnf cb122540641 data nla 35704306 ndl 00433839 nkc ola2002153861 bne xx1165696

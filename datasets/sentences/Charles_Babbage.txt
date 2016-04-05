@@ -1,0 +1,998 @@
+babbage redirects here
+other uses see babbage disambiguation
+charles babbage charles babbage 1860 born 1791-12-2626 december 1791 london england died 18 october 18711871-10-18 aged 79 marylebone london england nationality english fields mathematics engineering political economy computer science institutions trinity college cambridge alma mater peterhouse cambridge known mathematics computing influences robert woodhouse gaspard monge john herschel influenced karl marx john stuart mill ada lovelace signature charles babbage kh frs /ˈbæbɪdʒ/ december 1791 18 october 1871 english polymath
+mathematician philosopher inventor mechanical engineer babbage best remembered originating concept programmable computer
+considered father computer babbage credited inventing first mechanical computer eventually led complex designs
+varied work other fields led described pre-eminent among many polymaths century
+parts babbage's uncompleted mechanisms display london science museum
+perfectly functioning difference engine constructed babbage's original plans
+built tolerances achievable 19 th century success finished engine indicated babbage's machine worked
+contents early life 2 university cambridge 3 after cambridge 3
+astronomical society 3
+2 british lagrangian school 4 academic 4
+declinarians learned societies baas 4
+2 economy machinery manufactures 4
+babbage principle 4
+2 publishing 4
+3 influence 4
+3 natural theology 4
+4 religious views 5 later life 5
+metrology programme 5
+2 engineer inventor 5
+3 cryptography 5
+4 public nuisances 6 computing pioneer 6
+background mathematical tables 6
+2 difference engine 6
+completed models 6
+3 analytical engine 6
+4 ada lovelace italian followers 6
+5 swedish followers 6
+6 legacy 7 family death
+autopsy report 9 memorials 10 fiction film publications 12 see also 13 references 13
+citations 13
+2 bibliography 14 external links early life babbage's birthplace disputed according oxford dictionary national biography most likely born crosby row walworth road london england
+blue plaque junction larcom street walworth road commemorates event
+date birth given obituary times december 1792 then nephew say babbage born year earlier 1791
+parish register st
+mary's newington london shows babbage baptised 6 january 1792 supporting birth year 1791
+illustrated london news 4 november 1871
+babbage four children benjamin babbage betsy plumleigh teape
+father banking partner william praed founding praed's & co
+fleet street london 1801
+1808 babbage family moved old rowdens house east teignmouth
+around age eight babbage sent country school alphington near exeter recover life-threatening fever
+short time attended king edward vi grammar school totnes south devon health forced back private tutors time
+babbage then joined 30-student holmwood academy baker street enfield middlesex under reverend stephen freeman
+academy library prompted babbage's love mathematics
+studied two private tutors after leaving academy
+first clergyman near cambridge through babbage encountered charles simeon evangelical followers tuition needed
+brought home study totnes school age 16 17
+second oxford tutor under whom babbage reached level classics sufficient accepted cambridge
+university cambridge babbage arrived trinity college cambridge october 1810
+already self-taught parts contemporary mathematics read robert woodhouse joseph louis lagrange marie agnesi
+result disappointed standard mathematical instruction available cambridge
+babbage john herschel george peacock several other friends formed analytical society 1812 also close edward ryan
+student babbage also member other societies such ghost club concerned investigating supernatural phenomena extractors club dedicated liberating members madhouse should any committed
+1812 babbage transferred peterhouse cambridge
+top mathematician there graduate honours
+instead received degree without examination 1814
+defended thesis considered blasphemous preliminary public disputation known whether fact related sitting examination
+after cambridge considering reputation babbage quickly made progress
+lectured royal institution astronomy 1815 elected fellow royal society 1816
+after graduation other hand applied positions unsuccessfully little way career
+1816 candidate teaching job haileybury college recommendations james ivory john playfair lost out henry walter
+1819 babbage herschel visited paris society arcueil meeting leading french mathematicians physicists
+year babbage applied professor university edinburgh recommendation pierre simon laplace post went william wallace
+herschel babbage worked electrodynamics arago's rotations publishing 1825
+their explanations transitional being picked up broadened michael faraday
+phenomena now part theory eddy currents babbage herschel missed clues unification electromagnetic theory staying close ampère's force law
+babbage purchased actuarial tables george barrett died 1821 leaving unpublished work surveyed field 1826 comparative view various institutions assurance lives
+interest followed project set up insurance company prompted francis baily mooted 1824 carried out
+babbage calculate actuarial tables scheme using equitable society mortality data 1762 onwards
+during whole period babbage depended awkwardly father's support given father's attitude early marriage 1814 edward ryan wedded whitmore sisters
+made home marylebone london founded large family
+father's death 1827 babbage inherited large estate value around £100000 equivalent £7
+73 million today's pounds making independently wealthy
+after wife's death same year spent time travelling
+italy met leopold ii grand duke tuscany foreshadowing later visit piedmont
+april 1828 rome relying herschel manage difference engine project heard become professor cambridge position three times failed obtain 1820 1823 1826
+astronomical society babbage instrumental founding astronomical society 1820
+initial aims reduce astronomical calculations standard form circulate data
+these directions closely connected babbage's ideas computation 1824 won gold medal cited invention engine calculating mathematical astronomical tables
+babbage's motivation overcome errors tables mechanisation commonplace since dionysius lardner 1834 edinburgh review under babbage's guidance
+context these developments still debated
+babbage's own account origin difference engine begins astronomical society's wish improve nautical almanac
+babbage herschel asked oversee trial project recalculate part those tables
+results hand discrepancies found
+1821 1822 occasion babbage formulated idea mechanical computation
+issue nautical almanac now described legacy polarisation british science caused attitudes sir joseph banks died 1820
+portion difference engine babbage studied requirements establish modern postal system friend thomas frederick colby concluding there should uniform rate put effect introduction uniform fourpenny post supplanted uniform penny post 1839 1840
+colby another founding group society
+also charge survey ireland
+herschel babbage present celebrated operation survey remeasuring lough foyle baseline
+british lagrangian school analytical society initially no undergraduate provocation
+during period substantial achievements
+1816 babbage herschel peacock published translation french lectures sylvestre lacroix then state-of-the-art calculus textbook
+reference lagrange calculus terms marks out application now called formal power series
+british mathematicians used them 1730 1760
+re-introduced simply applied notations differential calculus
+opened up fields functional equations including difference equations fundamental difference engine operator d-module methods differential equations
+analogy difference differential equations notationally changing δ finite difference becomes infinitesimal
+these symbolic directions became popular operational calculus pushed point diminishing returns
+cauchy concept limit kept bay
+woodhouse already founded second british lagrangian school treatment taylor series formal
+context function composition complicated express because chain rule simply applied second higher derivatives
+matter known woodhouse 1803 took louis françois antoine arbogast now called faà di bruno's formula misnomer
+essence known abraham de moivre 1697
+herschel found method impressive babbage knew later noted ada lovelace compatible analytical engine
+period 1820 babbage worked intensively functional equations general resisted both conventional finite differences arbogast's approach δ related simple additive case exponential map
+via herschel influenced arbogast's ideas matter iteration
+composing function itself possibly many times
+writing major paper functional equations philosophical transactions 1815/6 babbage starting point work gaspard monge
+academic 1828 1839 babbage lucasian professor mathematics cambridge
+conventional resident don inattentive teaching three topical books during period life
+elected foreign honorary member american academy arts sciences 1832
+babbage out sympathy colleagues george biddell airy predecessor lucasian professor mathematics trinity college cambridge thought issue should made lack interest lecturing
+babbage planned lecture 1831 political economy
+babbage's reforming direction looked see university education inclusive universities doing research broader syllabus interest applications william whewell found programme unacceptable
+controversy babbage richard jones lasted six years
+never give lecture
+during period babbage tried enter politics
+simon schaffer writes views 1830 s included disestablishment church england broader political franchise inclusion manufacturers stakeholders
+twice stood parliament candidate borough finsbury
+1832 came third among five candidates missing out 500 votes two-member constituency two other reformist candidates thomas wakley christopher temple split vote
+memoirs babbage related how election brought friendship samuel rogers brother henry rogers wished support babbage again died within days
+1834 babbage finished last among four
+1832 babbage herschel ivory appointed knights royal guelphic order however subsequently made knights bachelor entitle them prefix sir often came appointments foreign order though herschel later created baronet
+declinarians learned societies baas letter sir humphry davy 1822 babbage now emerged polemicist
+biographers notes books contain campaigning element
+reflections decline science causes 1830 stands out however sharp attacks
+aimed improve british science particularly oust davies gilbert president royal society babbage wished reform
+written out pique babbage hoped become junior secretary royal society herschel senior failed because antagonism humphry davy
+michael faraday reply written gerrit moll alleged decline science england 1831
+front royal society babbage no impact bland election duke sussex succeed gilbert same year
+broad manifesto other hand decline led promptly formation 1831 british association advancement science baas
+mechanics' magazine 1831 identified declinarians followers babbage
+unsympathetic tone pointed out david brewster writing quarterly review another leader barb both babbage brewster received public money
+debate period statistics qua data collection now statistical inference baas statistical section owed something also whewell opted data collection
+section sixth established 1833 babbage chairman john elliot drinkwater secretary
+foundation statistical society followed
+babbage public face backed richard jones robert malthus
+economy machinery manufactures economy machinery manufactures 1835 babbage's notation machine parts explanation method expressing signs action machinery 1827 mechanical notation invented own use understanding work difference engine influence conception analytical engine babbage published economy machinery manufactures 1832 organisation industrial production
+influential early work operational research
+john rennie younger addressing institute civil engineers manufacturing 1846 mentioned mostly surveys encyclopaedias babbage's book first article encyclopædia metropolitana form rennie noted company related works john farey jr
+peter barlow andrew ure
+essay general principles regulate application machinery manufactures mechanical arts 1827 became encyclopædia metropolitana article 1829 babbage developed schematic classification machines combined discussion factories made up first part book
+second part considered domestic political economy manufactures
+book sold well quickly went fourth edition 1836
+babbage represented work largely result actual observations factories british abroad
+first edition intended address deeper questions political economy second late 1832 three further chapters including piece rate
+book also contained ideas rational design factories profit sharing
+babbage principle economy machinery described now called babbage principle
+pointed out commercial advantages available careful division labour
+babbage himself noted already appeared work melchiorre gioia 1815
+term introduced 1974 harry braverman
+related formulations principle multiples philip sargant florence balance processes
+babbage remarked skilled workers typically spend parts their time performing tasks below their skill level
+labour process divided among several workers labour costs may cut assigning high-skill tasks high-cost workers restricting other tasks lower-paid workers
+also pointed out training apprenticeship taken fixed costs returns scale available approach standardisation tasks therefore again favouring factory system
+view human capital restricted minimising time period recovery training costs
+publishing another aspect work detailed breakdown cost structure book publishing
+babbage took unpopular line publishers' perspective exposing trade's profitability
+went far name organisers trade's restrictive practices
+twenty years later attended meeting hosted john chapman campaign against booksellers association still cartel
+influence written arthur young agriculture charles babbage factory visit machinery
+babbage's theories influenced layout 1851 great exhibition views strong effect contemporary george julius poulett scrope
+karl marx argued source productivity factory system exactly combination division labour machinery building adam smith babbage ure
+marx picked up babbage disagreed smith motivation division labour manufacturer babbage sake profitability rather productivity identified impact concept trade
+john ruskin went further oppose completely manufacturing babbage's sense stood
+babbage also affected economic thinking john stuart mill
+george holyoake saw babbage's detailed discussion profit sharing substantive tradition robert owen charles fourier requiring attentions benevolent captain industry ignored time
+works babbage ure published french translation 1830 economy machinery translated 1833 french édouard biot german same year gottfried friedenberg
+french engineer writer industrial organisation léon lalanne influenced babbage also economist claude lucien bergery reducing issues technology
+william jevons connected babbage's economy labour own labour experiments 1870
+babbage principle inherent assumption frederick winslow taylor's scientific management
+natural theology 1837 responding series eight bridgewater treatises babbage published ninth bridgewater treatise under title power wisdom goodness god manifested creation
+work babbage weighed side uniformitarianism current debate
+preferred conception creation god-given natural law dominated removing need continuous contrivance
+book work natural theology incorporates extracts related correspondence herschel charles lyell
+babbage put forward thesis god omnipotence foresight create divine legislator
+book babbage dealt relating interpretations science religion hand insisted there exists no fatal collision words scripture facts nature hand book genesis meant read literally relation scientific terms
+against those these conflict contradiction imagined no real existence whilst testimony moses remains unimpeached may also permitted confide testimony our senses
+ninth bridgewater treatise quoted extensively vestiges natural history creation
+parallel babbage's computing machines made explicit allowing plausibility theory transmutation species pre-programmed
+plate ninth bridgewater treatise showing parametric family algebraic curves acquiring isolated real points jonar ganeri author indian logic believes babbage may influenced indian thought possible route through henry thomas colebrooke
+mary everest boole argues babbage introduced indian thought 1820 s her uncle george everest time 1825 [everest] came england two three years made fast lifelong friendship herschel babbage then quite young
+ask any fair-minded mathematician read babbage's ninth bridgewater treatise compare works contemporaries england then ask himself whence came peculiar conception nature miracle underlies babbage's ideas singular points curves chap viii european theology hindu metaphysic? oh! how english clergy day hated babbage's book! religious views babbage raised protestant form christian faith family having inculcated orthodox form worship
+explained my excellent mother taught me usual forms my daily nightly prayer neither my father nor my mother there any mixture bigotry intolerance hand nor other unbecoming familiar mode addressing almighty afterwards much disgusted me my youthful years
+— babbage 1864 rejecting athanasian creed direct contradiction terms youth looked samuel clarke's works religion being attributes god 1704 exerted particularly strong influence
+later life babbage concluded true value christian religion rested speculative theology those doctrines kindness benevolence religion claims enforces merely favour man himself every creature susceptible pain happiness
+autobiography passages life philosopher 1864 babbage whole chapter topic religion identified three sources divine knowledge priori mystical experience revelation examination works creator stated basis design argument studying works nature appealing evidence led actively profess existence god
+advocating natural theology works creator ever open our examination possess firm basis raise superstructure enlightened creed
+man inquires laws regulate material universe convinced varied forms arise action few simple principles
+works creator ever present our senses give living perpetual testimony power goodness far surpassing any evidence transmitted through human testimony
+testimony man becomes fainter every stage transmission whilst each new inquiry works almighty gives us exalted views wisdom goodness power
+— babbage 1864 like samuel vince babbage also defense belief divine miracles
+against objections previously posed david hume babbage advocated belief divine agency stating must measure credibility incredibility event narrow sphere our own experience nor forget there divine energy overrides familiarly call laws nature
+alluded limits human experience expressing see miracle effect new our observation whose cause concealed
+cause may beyond sphere our observation thus beyond familiar sphere nature does make event violation any law nature
+limits man's observation lie within very narrow boundaries arrogance suppose reach man's power form limits natural world
+later life british association consciously modelled deutsche naturforscher-versammlung founded 1822
+rejected romantic science well metaphysics started entrench divisions science literature professionals amateurs
+belonging wattite faction baas represented particular james watt younger babbage identified closely industrialists
+wanted go faster same directions little time gentlemanly component membership
+indeed subscribed version conjectural history placed industrial society culmination human development shared view herschel
+clash roderick murchison led 1838 withdrawal further involvement
+end same year sent resignation lucasian professor walking away also cambridge struggle whewell
+interests became focussed computation metrology international contacts
+metrology programme project announced babbage tabulate physical constants referred constants nature phrase itself neologism then compile encyclopaedic work numerical information
+pioneer field absolute measurement
+ideas followed those johann christian poggendorff mentioned brewster 1832
+there 19 categories constants ian hacking sees these reflecting part babbage's eccentric enthusiasms
+babbage's paper tables constants nature art reprinted smithsonian institution 1856 added note physical tables arnold henry guyot will form part important work proposed article
+exact measurement also key development machine tools
+here again babbage considered pioneer henry maudslay william sellers joseph whitworth
+engineer inventor through royal society babbage acquired friendship engineer marc brunel
+through brunel babbage knew joseph clement came encounter artisans whom observed work manufactures
+babbage provided introduction isambard kingdom brunel 1830 contact proposed bristol & birmingham railway
+carried out studies around 1838 show superiority broad gauge railways used brunel's great western railway
+1838 babbage invented pilot also called cow-catcher metal frame attached front locomotives clears tracks obstacles also constructed dynamometer car
+eldest son benjamin herschel babbage worked engineer brunel railways before emigrating australia 1850 s
+babbage also invented ophthalmoscope gave thomas wharton jones testing
+jones however ignored
+device came use after being independently invented hermann von helmholtz
+cryptography babbage achieved notable results cryptography though still known century after death
+letter frequency category 18 babbage's tabulation project
+joseph henry later defended interest absence facts relevant management movable type
+early 1845 babbage solved cipher posed challenge nephew henry hollier process made discovery ciphers based vigenère tables
+specifically realized enciphering plain text keyword rendered cipher text subject modular arithmetic
+during crimean war 1850 s babbage broke vigenère's autokey cipher well much weaker cipher called vigenère cipher today
+discovery kept military secret published
+credit result instead given friedrich kasiski prussian infantry officer made same discovery years later
+however 1854 babbage published solution vigenère cipher published previously journal society arts
+1855 babbage also published short letter cypher writing same journal
+nevertheless priority wasn't established until 1985
+public nuisances babbage involved himself well-publicised unpopular campaigns against public nuisances
+once counted broken panes glass factory publishing 1857 table relative frequency causes breakage plate glass windows 464 broken panes 14 caused drunken men women boys
+babbage's distaste commoners mob included writing observations street nuisances 1864 well tallying up 165 nuisances over period 80 days
+especially hated street music particular music organ grinders against whom railed various venues
+following quotation typical difficult estimate misery inflicted upon thousands persons absolute pecuniary penalty imposed upon multitudes intellectual workers loss their time destroyed organ-grinders other similar nuisances
+babbage alone campaign
+convert cause mp michael thomas bass
+1860 s babbage also took up anti-hoop-rolling campaign
+blamed hoop-rolling boys driving their iron hoops under horses' legs result rider thrown very often horse breaks leg
+babbage achieved certain notoriety matter being denounced debate commons 1864 commencing crusade against popular game tip-cat trundling hoops
+computing pioneer part charles babbage's difference engine #1 assembled after death son henry prevost babbage 1824–1918 using parts found charles' laboratory babbage's machines among first mechanical computers
+actually completed largely because funding problems clashes personality most notably airy astronomer royal
+babbage directed building steam-powered machines achieved modest success suggesting calculations mechanised
+ten years received government funding project amounted £17000 eventually treasury lost confidence
+while babbage's machines mechanical unwieldy their basic architecture similar modern computer
+data program memory separated operation instruction-based control unit make conditional jumps machine separate i/o unit
+john tucker professor computer science swansea university argues welsh mathematician robert recorde first laid down foundations these concepts
+background mathematical tables babbage's time printed mathematical tables calculated human computers other words hand
+central navigation science engineering well mathematics
+mistakes known occur transcription well calculation
+cambridge babbage saw fallibility process opportunity adding mechanisation management
+own account path towards mechanical computation references particular occasion 1812 sitting rooms analytical society looking table logarithms knew full mistakes idea occurred computing tabular functions machinery
+french government produced several tables new method
+three four their mathematicians decided how compute tables half dozen broke down operations simple stages work itself restricted addition subtraction done eighty computers knew these two arithmetical processes
+here first time mass production applied arithmetic babbage seized idea labours unskilled computers taken over completely machinery quicker reliable
+there another period seven years later interest aroused issues around computation mathematical tables
+french official initiative gaspard de prony problems implementation familiar
+after napoleonic wars came close scientific contacts renewed level personal contact 1819 charles blagden paris looking printing stalled de prony project lobbying support royal society
+works 1820 s 1830 s babbage referred detail de prony's project
+difference engine science museum's difference engine no
+2 built babbage's design main article difference engine babbage began 1822 called difference engine made compute values polynomial functions
+created calculate series values automatically
+using method finite differences possible avoid need multiplication division
+prototype difference engine babbage brought joseph clement implement design 1823
+clement worked high standards machine tools particularly elaborate
+under standard terms business time charge their construction also own them
+babbage fell out over costs around 1831
+parts prototype survive museum history science oxford
+prototype evolved first difference engine
+remained unfinished finished portion located science museum london
+first difference engine composed around 25000 parts weigh fifteen tons 13600 kg ft 2
+4 m tall
+although babbage received ample funding project never completed
+later 1847–1849 produced detailed drawings improved version difference engine no
+2 receive funding british government
+design finally constructed 1989–1991 using plans 19 th century manufacturing tolerances
+performed first calculation london science museum returning results 31 digits
+nine years later science museum completed printer babbage designed difference engine
+completed models london science museum constructed two difference engines according babbage's plans difference engine no 2
+owned museum
+other owned technology multimillionaire nathan myhrvold went exhibition computer history museum mountain view california 10 may 2008
+two models constructed replicas myhrvold's engine first design babbage london science museum's later model
+analytical engine main article analytical engine after attempt making first difference engine fell through babbage worked design complex machine called analytical engine
+hired c
+jarvis previously worked clement draughtsman
+analytical engine marks transition mechanised arithmetic fully-fledged general purpose computation
+largely babbage's standing computer pioneer rests
+major innovation analytical engine programmed using punched cards engine intended use loops jacquard's punched cards control mechanical calculator use input results preceding computations
+machine also intended employ several features subsequently used modern computers including sequential control branching looping
+first mechanical device principle turing-complete
+engine single physical machine rather succession designs babbage tinkered until death 1871
+part analytical engine display 1843 left centre engraving king george iii museum ada lovelace italian followers ada lovelace corresponded during development analytical engine
+she credited developing algorithm analytical engine calculate sequence bernoulli numbers
+although there disagreement over how much ideas lovelace's own she often described first computer programmer
+she also translated literature supporting project
+respect engine's programming punch cards she once may say most aptly analytical engine weaves algebraical patterns just jacquard-loom weaves flowers leaves
+babbage visited turin 1840 invitation giovanni plana
+1842 charles wheatstone approached lovelace translate paper luigi menabrea taken notes babbage's turin talks babbage asked her add something her own
+fortunato prandi acted interpreter turin italian exile follower giuseppe mazzini
+swedish followers per georg scheutz difference engine 1830 experimented automated computation
+after 1834 lardner's edinburgh review article set up project own doubting whether babbage's initial plan carried out
+pushed through son edvard scheutz
+another swedish engine martin wiberg 1860
+legacy 2011 researchers britain embarked multimillion-pound project plan 28 construct babbage's analytical engine
+since babbage's plans continually being refined never completed intended engage public project crowd-source analysis should built
+equivalent 675 bytes memory run clock speed 7 hz
+hope complete 150 th anniversary babbage's death 2021
+advances mems nanotechnology led recent high-tech experiments mechanical computation
+benefits suggested include operation high radiation high temperature environments
+these modern versions mechanical computation highlighted economist special end millennium black cover issue article entitled babbage's last laugh
+due association town babbage chosen 2007 appear 5 totnes pound note
+family babbage's grave kensal green cemetery london photographed 2014 25 july 1814 babbage married georgiana whitmore st
+michael's church teignmouth devon her sister louisa married edward ryan
+couple lived dudmaston hall shropshire babbage engineered central heating system before moving 5 devonshire street portland place london
+charles georgiana eight children four benjamin herschel georgiana whitmore dugald bromhead henry prevost survived childhood
+charles' wife georgiana died worcester september 1827 same year father their second son also named charles their newborn son alexander
+benjamin herschel babbage 1815-1878 charles whitmore babbage 1817-1827 georgiana whitmore babbage 1818-?? edward stewart babbage 1819-1821 francis moore babbage 1821-?? dugald bromhead bromheald? babbage 1823-1901 maj-gen henry prevost babbage 1824–1918 alexander forbes babbage 1827–1827 youngest son henry prevost babbage 1824–1918 went create six small demonstration pieces difference engine no
+based father's designs sent harvard university later discovered howard h
+aiken pioneer harvard mark
+henry prevost's 1910 analytical engine mill previously display dudmaston hall now display science museum
+death charles babbage's brain display science museum babbage lived worked over 40 years dorset street marylebone died age 79 18 october 1871 buried london's kensal green cemetery
+according horsley babbage died renal inadequacy secondary cystitis
+declined both knighthood baronetcy
+also argued against hereditary peerages favouring life peerages instead
+autopsy report 1983 autopsy report charles babbage discovered later published great-great-grandson
+copy original also available
+half babbage's brain preserved hunterian museum royal college surgeons london
+other half babbage's brain display science museum london
+memorials green plaque london there green plaque commemorating 40 years babbage spent dorset street london
+locations institutions other things named after babbage include moon crater babbage charles babbage institute information technology archive research center university minnesota british rail named locomotive after 1990 s babbage building university plymouth university's school computing based babbage programming language gec 4000 series minicomputers babbage economist's science technology blog
+former chain retail computer video-games store babbage's now game stop named after
+[citation needed] fiction film babbage frequently appears steampunk works called iconic figure genre
+other works babbage appears include great thinker 2008 strategy video game civilization revolution
+2008 short film babbage
+sydney padua created thrilling adventures lovelace babbage cartoon alternate history babbage lovelace succeed building analytic engine
+quotes heavily hilariously writings lovelace babbage their contemporaries
+kate beaton cartoonist webcomic hark! vagrant devoted her comic strips charles georgiana babbage
+publications wikisource original works written charles babbage wikiquote quotations related charles babbage babbage charles 1826
+comparative view various institutions assurance lives
+london j
+babbage charles 1830
+reflections decline science england causes
+babbage charles 1835
+economy machinery manufactures 4 th ed
+london charles knight
+babbage charles 1837
+ninth bridgewater treatise fragment
+london john murray
+reissued cambridge university press 2009
+babbage charles 1841
+table logarithms natural numbers 108000
+london william clowes sons
+locomat site contains reconstruction table
+babbage charles 1851
+exposition 1851
+london john murray
+babbage charles 1864
+passages life philosopher
+london longman
+babbage charles 1989
+hyman anthony ed
+science reform selected works charles babbage
+cambridge university press
+see also computer programming portal babbage's congruence references citations terence whalen 1999
+edgar allan poe masses political economy literature antebellum america
+princeton university press
+retrieved 18 april 2013
+halacy daniel stephen 1970
+charles babbage father computer
+crowell-collier press
+c swade doron
+babbage charles
+oxford dictionary national biography online ed
+oxford university press
+subscription uk public library membership required
+1140 plaque # 1140 open plaques
+hyman 1982 p
+5 moseley maboth 1964
+irascible genius life charles babbage
+chicago henry regnery
+late mr
+charles babbage f
+times uk
+hook diana h
+jeremy m
+norman michael r
+williams 2002
+origins cyberspace library history computing networking telecommunications
+norman publishing
+161 165
+members constituencies parliaments surveys
+''praed william 1747–1833 tyringham bucks
+trevethoe nr
+ives cornw
+retrieved 2014-06-07
+moseley 1964 p
+39 anthony hyman january 1985
+charles babbage pioneer computer
+princeton university press
+retrieved 18 april 2013
+bruce collier james mac lachlan 28 september 2000
+charles babbage engines perfection
+oxford university press
+retrieved 18 april 2013
+babbage charles bbg810 c
+cambridge alumni database
+university cambridge
+leedham-green september 1996
+concise history university cambridge
+cambridge university press
+retrieved 18 april 2013
+wilkes 2002 p
+355 hofstadter douglas r
+gödel escher bach eternal golden braid
+penguin books
+charles babbage's computer engines
+retrieved 13 march
+james essinger 2007
+jacquard's web
+oxford university press
+59 98
+raymond flood adrian rice robin wilson 29 september 2011
+mathematics victorian britain
+oxford university press
+retrieved 25 april 2013
+george green mathematician physicist 1793–1841 background life work
+255 note 19
+retrieved may 2013
+roger hahn 2005
+pierre simon laplace 1749 1827 determined scientist
+harvard university press
+295 note 34
+retrieved may 2013
+panteki maria
+wallace william
+oxford dictionary national biography online ed
+oxford university press
+subscription uk public library membership required
+edinburgh magazine literary miscellany new series scots magazine
+retrieved may 2013
+pearce williams 1965
+michael faraday
+da capo press
+brown robert
+barrett george
+oxford dictionary national biography online ed
+oxford university press
+subscription uk public library membership required
+bruce collier james mac lachlan 28 september 2000
+charles babbage engines perfection
+oxford university press
+retrieved 18 april 2013
+anthony hyman january 1985
+charles babbage pioneer computer
+princeton university press
+retrieved 18 april 2013
+remarkable engineers
+cambridge university press
+retrieved april 2013
+kevin c
+knox 6 november 2003
+newton hawking history cambridge university's lucasian professors mathematics
+cambridge university press
+242 258–72
+retrieved april 2013
+martin campbell-kelly 2 october 2003
+history mathematical tables sumer spreadsheets
+oxford university press
+retrieved 19 april 2013
+raymond flood adrian rice robin wilson 29 september 2011
+mathematics victorian britain
+oxford university press
+retrieved april 2013
+harro maas 4 april 2005
+william stanley jevons making modern economics
+cambridge university press
+retrieved 27 april 2013
+norton wise 17 march 1997
+values precision
+princeton university press
+retrieved 25 april 2013
+eleanor robson jacqueline stedall 18 december 2008
+oxford handbook history mathematics
+oxford university press
+retrieved 25 april 2013
+anthony hyman january 1985
+charles babbage pioneer computer
+princeton university press
+retrieved 18 april 2013
+anthony hyman january 1985
+charles babbage pioneer computer
+princeton university press
+retrieved april 2013
+royal institution great britain 1858
+retrieved april 2013
+constructing bridge exploration engineering culture design research nineteenth-century france america
+mit press
+retrieved april 2013
+niccolò guicciardini 13 november 2003
+development newtonian calculus britain 1700–1800
+cambridge university press
+retrieved april 2013
+dov m
+gabbay john woods 10 march 2008
+british logic nineteenth century
+retrieved april 2013
+craik pp
+jeremy j
+gray karen hunger parshall 31 august 2011
+episodes history modern algebra 1800–1950
+american mathematical soc
+retrieved april 2013
+book members 1780–2010 chapter pdf
+american academy arts sciences
+retrieved 28 april 2011
+george biddell airy#biography kevin c
+knox 6 november 2003
+newton hawking history cambridge university's lucasian professors mathematics
+cambridge university press
+retrieved 19 april 2013
+gavin budge et al
+editors dictionary nineteenth-century british philosophers 2002 thoemmes press two volumes article babbage charles p
+kevin c
+knox 6 november 2003
+newton hawking history cambridge university's lucasian professors mathematics
+cambridge university press
+retrieved 25 april 2013
+members constituencies parliaments surveys
+org ''middlesex county 1820–1832''
+retrieved 2014-06-07
+sylvanus urban 1838
+gentleman's magazine
+retrieved 25 april 2013
+charles babbage 1864
+passages life philosopher
+longman green longman roberts & green
+retrieved may 2013
+crowther j
+scientific types
+london barrie & rockliff
+hyman anthony 1982
+charles babbage pioneer computer
+princeton new jersey princeton university press
+moseley 1964 pp
+120–1- note confusion dates
+shaw william arthur 1906 knights england complete record earliest time present day knights orders chivalry england scotland ireland knights bachelors incorporating complete list knights bachelors dubbed ireland 2 london sherratt hughes anthony hyman january 1985
+charles babbage pioneer computer
+princeton university press
+retrieved 19 april 2013
+remarkable engineers
+cambridge university press
+retrieved 27 april 2013
+richard holmes 2008
+age wonder
+pantheon books
+mechanics' magazine museum register journal gazette
+retrieved 27 april 2013
+mary poovey 15 november 1998
+history modern fact problems knowledge sciences wealth society
+university chicago press
+retrieved april 2013
+dov m
+gabbay john woods 10 march 2008
+british logic nineteenth century
+retrieved april 2013
+patricia jones 1979
+population malthus
+routledge kegan paul
+0 7100 0266
+james p
+henderson 1996
+early mathematical economics william whewell british case
+rowman & littlefield
+retrieved april 2013
+michael lingren 1990
+glory failure difference engines johann müller charles babbage georg edvard scheutz
+mit press
+retrieved april 2013
+gavin budge et al
+editors dictionary nineteenth-century british philosophers 2002 thoemmes press two volumes article babbage charles p
+charles manby 1846
+minutes proceedings institute civil engineers
+retrieved april 2013
+lucertini ana millán gasca fernando nicolò 2004
+technological concepts mathematical models evolution modern engineering systems
+retrieved april 2013
+mauro f
+guillén 15 october 1994
+models management work authority organization comparative perspective
+university chicago press
+retrieved 18 april 2013
+maxine berg 4 february 1982
+machinery question making political economy 1815–1848
+cup archive
+retrieved april 2013
+bruce e
+kaufman 2004
+global evolution industrial relations events ideas iira
+academic foundation
+retrieved 18 april 2013
+julio segura carlos rodríguez braun 2004
+eponymous dictionary economics guide laws theorems named after economists
+edward elgar publishing
+retrieved 18 april 2013
+30 december 2011
+retrieved 27 april 2013
+sargant florence 1953
+logic british american industry realistic analysis economic structure government
+retrieved may 2013
+theory growth firm [electronic book]
+oxford university press
+retrieved may 2013
+giddens anthony held david 1982
+classes power conflict classical contemporary debates
+university california press
+retrieved 18 april 2013
+guang-zhen sun 2005
+readings economics division labor classical tradition
+world scientific
+retrieved april 2013
+pere mir artigues josep gonza ́lez calvet 2007
+funds flows time alternative approach microeconomic analysis productive activities
+72 note 15
+retrieved 27 april 2013
+secord 2000
+victorian sensation extraordinary publication reception secret authorship vestiges natural history creation
+university chicago press
+retrieved 19 april 2013
+mary poovey 15 november 1995
+making social body british cultural formation 1830–1864
+university chicago press
+193 note 43
+retrieved april 2013
+rosemary ashton 2000
+lewes unconventional victorian
+attributed richard romano
+william j
+ashworth memory efficiency symbolic analysis charles babbage john herschel industrial mind isis vol
+87 no
+4 dec
+1996 pp
+629–653 p
+published university chicago press behalf history science society peter h hoffenberg 2001
+empire display english indian australian exhibitions crystal palace great war
+university california press
+retrieved 18 april 2013
+maxine berg 4 february 1982
+machinery question making political economy 1815–1848
+cup archive
+retrieved 25 april 2013
+ákos róna-tas 1997
+great surprise small transformation demise communism rise private sector hungary
+university michigan press
+retrieved 27 april 2013
+ben fine alfredo saad-filho marco boffo
+elgar companion marxist economics
+edward elgar publishing
+retrieved 27 april 2013
+sympathy things ruskin ecology design
+v2_ publishing
+retrieved may 2013
+patrice l
+higonnet david saul landes rosovsky henry
+favorites fortune technology growth economic development since industrial revolution
+harvard university press
+retrieved 7 may 2013
+george jacob holyoake history co-operation england literature advocates vol
+2 1879 pp
+228–32 archive
+thierry pillon françois vatin 2003
+traité de sociologie du travail
+anthony hyman january 1985
+charles babbage pioneer computer
+princeton university press
+françois vatin may 2007
+morale industrielle et calcul économique dans le premier xixème siècle l'économie industrielle de claude-lucien bergery 1787–1863 french
+editions l'harmattan
+retrieved 7 may 2013
+philip mirowski 29 july 1994
+natural images economic thought markets read tooth claw
+cambridge university press
+retrieved 27 april 2013
+yeheskel hasenfeld andrew delano abbott april 1992
+human services complex organizations
+sage publications
+retrieved 18 april 2013
+genesis geology study relations scientific thought natural theology social opinion great britain 1790–1850
+harvard university press
+retrieved 19 april 2013
+john g
+trapani 2004
+truth matters essays honor jacques maritain
+cua press
+retrieved 19 april 2013
+note darwin-online
+uk babbage charles
+ninth bridgewater treatise
+2 edn
+london john murray
+babbage ninth bridgewater treatise
+chapter v
+further view same subject
+victorian web
+secord 2000
+victorian sensation extraordinary publication reception secret authorship vestiges natural history creation
+university chicago press
+retrieved 19 april 2013
+robert chambers 15 august 1994
+vestiges natural history creation other evolutionary writings
+university chicago press
+retrieved 19 april 2013
+dr jonar ganeri 2001
+indian logic reader
+retrieved 19 april 2013
+boole mary everest 1931
+indian thought western science nineteenth century
+cobham e
+dummer e
+boole mary everest collected works
+london daniel
+passages life philosopher 1864 p
+passages life philosopher 1864 basis virtue truth p
+404-405 [passages life philosopher https//archive
+org/stream/passagesfromlif00 babbgoog#page/n402/mode/2 up] 1864 p
+396 smithsonian institution
+annual report board regents smithsonian institution
+washington government printing office
+smithsonian institution passages life philosopher 1864 athanasian creed p
+403 course my inquiries met work upon trinity dr
+samuel clarke
+carefully examined although very far being satisfied ceased further inquiry
+change arose probably my having acquired much valuable work same author being attributes god
+studied felt doctrine much intelligible satisfactory former work
+may now state result long life spent studying works creator am satisfied afford far satisfactory convincing proofs existence supreme being any evidence transmitted through human testimony possibly supply
+passages life philosopher 1864 belief creator works p
+396-402 pickover clifford
+math book pythagoras 57 th dimension 250 milestones history mathematics
+sterling publishing company inc
+218 babbage charles
+1864 passages life philosopher appendix
+miracles p
+488 andrew ede lesley
+history science society scientific revolution present
+university toronto press
+retrieved may 2013
+daniel brown 31 january 2013
+poetry victorian scientists style science nonsense
+cambridge university press
+retrieved may 2013
+discovering water james watt henry cavendish nineteenth century 'water controversy'
+ashgate publishing ltd
+retrieved may 2013
+iwan rhys morus december 2002
+retrieved may 2013
+kevin c
+knox 6 november 2003
+newton hawking history cambridge university's lucasian professors mathematics
+cambridge university press
+retrieved april 2013
+mario biagioli 1999
+science studies reader
+routledge chapman & hall incorporated
+retrieved may 2013
+ian hacking 31 august 1990
+taming chance
+cambridge university press
+retrieved may 2013
+report board regents
+retrieved may 2013
+david f noble september 1979
+america design science technology rise corporate capitalism david f
+oxford university press
+retrieved may 2013
+bruce collier james mac lachlan 28 september 2000
+charles babbage engines perfection
+oxford university press
+retrieved 23 april 2013
+rolt 1982
+isambard kingdom brunel
+penguin books
+0 14 02 1195 0
+babbage 1864 pp
+317–8 george j
+stigler charles babbage 1791 + 200 = journal economic literature vol
+29 no
+3 sep
+1149–1152 p
+published american economic association lee john
+international biographical dictionary computer pioneers
+taylor & francis us
+babbage benjamin herschel
+bright sparcs biographical entry
+retrieved 15 may 2008
+bynum w
+jones thomas wharton
+oxford dictionary national biography online ed
+oxford university press
+subscription uk public library membership required
+medical discoveries ophthalmoscope
+retrieved 29 january 2009
+c ole immanuel franksen ray rushton november 1985 general notes studies society's history archives charles babbage society journal royal society arts 133 5352 880–883
+published royal society encouragement arts manufactures commerce introduction cryptography mathematical foundations computer implementations
+crc press
+retrieved 19 april 2013
+kahn david l
+codebreakers story secret writing
+new york scribner
+see j
+thwaites aug
+1854 secret cypher writing journal society arts 2 90 663-664
+charles babbage sept
+1854 mr
+thwaites's cypher journal society arts 2 93 707-708
+charles babbage passages life philosopher london england longman 1864 page 496
+charles babbage december 7 1855 cypher writing journal society arts 4 159 41–42
+see also ole immanuel franksen mr
+babbage's secret
+tale cypher — apl birkerød denmark strandbergs forlag 1984 reprinted prentice-hall englewood new jersey usa 1985 babbage charles 1857
+table relative frequency occurrence causes breaking plate glass windows
+mechanics magazine 66 82
+babbage charles 1989
+martin campbell-kelly ed
+works charles babbage v
+london william pickering
+insurance cyclopaedia
+google books
+retrieved february 2011
+campbell-kelly martin babbage charles 1994
+passages life philosopher
+pickering & chatto publishers
+karen chase michael levenson 15 august 2009
+spectacle intimacy public life victorian family
+princeton university press
+retrieved april 2013
+babbage 1864 p
+360 hansard's parliamentary debates
+third series commencing accession william iv
+27° & 28° victoria 1864
+comprising period twenty-first day june 1864 twenty-ninth day july 1864
+parliament thomas curson hansard street music metropolis bill v4 p471 swade
+clockwork brain
+london little brown company
+gleick j
+information history theory flood
+london fourth estate
+robert recorde editors proff
+gareth roberts fenny smith university wales press ean 9780708326824 published 15 sept 2013 chapter 9
+bowden faster thought pitman 1953 p
+martin campbell-kelly 2 october 2003
+history mathematical tables sumer spreadsheets
+oxford university press
+retrieved 19 april 2013
+charles coulston gillispie 10 january 2009
+science polity france end old regime
+princeton university press
+retrieved 19 april 2013
+mc connell anita
+clement joseph
+oxford dictionary national biography online ed
+oxford university press
+subscription uk public library membership required
+roegel denis april–june 2009
+prototype fragments babbage's first difference engine
+ieee annals history computing 31 2 70–5
+31 sci/tech | babbage printer finally runs
+bbc news
+13 april 2000
+retrieved 27 april
+overview babbage engine
+computer history museum
+retrieved 29 january 2009
+shiels maggie 10 may 2008
+victorian 'supercomputer' reborn
+bbc news
+retrieved may 2008
+bruce collier james mac lachlan 28 september 2000
+charles babbage engines perfection
+oxford university press
+retrieved 20 april 2013
+baggage engine
+computer history museum
+retrieved 6 march 2013
+ceruzzi paul
+computing concise history
+united states smithsonian institution
+gross benjamin fall 2015
+french connection
+distillations magazine 3 10–13
+retrieved 2 december 2015
+fuegi j francis j october–december 2003
+lovelace & babbage creation 1843 'notes'
+annals history computing 25 4 16–26
+see pages 19 25 benjamin woolley 1999
+bride science
+258–60 338
+michael lingren 1990
+glory failure difference engines johann müller charles babbage georg edvard scheutz
+mit press
+retrieved 27 april 2013
+grattan-guinness september 2003
+companion encyclopedia history philosophy mathematical sciences
+jhu press
+retrieved 27 april 2013
+started digital wheels turning
+new york times
+retrieved 10 november 2011
+babbage analytical engine designs digitised
+bbc news
+21 september 2011
+retrieved 19 march
+electronics times micro-machines fit space
+october 1999
+retrieved 29 january 2009
+babbage's last laugh
+9 september 1999
+html attraction information dudmaston hall
+visit britain
+retrieved 29 january 2009
+valerie bavidge-richardson
+babbage family tree 2005
+archived original 13 october 2007
+retrieved 9 february 2013
+also see charles babbage entry
+clan barker
+retrieved 9 february 2013
+henry prevost babbage babbage engine
+computer history museum
+retrieved 29 january 2009
+henry babbage's analytical engine mill 1910
+science museum
+16 january 2007
+retrieved 29 january 2009
+horsley victor 1909
+description brain mr
+charles babbage f
+philosophical transactions royal society 200 262–273 117–32
+retrieved 7 december 2007
+subscription required
+ioan james 2010
+remarkable engineers riquet shannon
+cambridge university press
+babbage neville june
+autopsy report body charles babbage father computer
+medical journal australia 154 758–9
+pmid 2046574
+williams michael r
+last word charles babbage
+ieee annals history computing 20 4 10–4
+subscription required postmortem report john gregory smith f
+science society
+retrieved 29 january 2009
+babbage's brain
+dan yey
+retrieved 29 january 2009
+visit museum galleries computing overview
+science museum
+archived original 20 september 2010
+retrieved 25 october 2010
+plaque #3061 open plaques
+stay informed today every day
+''economist'' babbage blog
+retrieved 2014-06-07
+justin edwards agnieszka soltysik monnet
+gothic contemporary literature popular culture pop goth
+retrieved 18 april 2013
+civilization revolution great people civ fanatics retrieved 3 september 2009
+20 july 2008
+retrieved february 2011
+redniss lauren june 5 2015
+‘the thrilling adventures lovelace babbage’ sydney padua
+new york times
+retrieved 2 december 2015
+padua sydney 2015
+thrilling adventures lovelace babbage
+pantheon graphic novels
+beaton kate
+charles georgiana babbage hark! vagrant
+accessed 3 december 2014
+bibliography charles babbage encyclopædia britannica 9 th ed
+iii new york charles scribner's sons 1878 p
+charles babbage encyclopædia britannica th ed
+iii cambridge cambridge university press 1911 p
+craik alex
+feb 2005
+prehistory faà di bruno's formula
+american mathematical monthly mathematical association america 112 2 119–130
+jstor 30037410
+external links media related charles babbage wikimedia commons babbage science museum london
+description babbage's calculating machine projects science museum's study babbage's works including modern reconstruction model-building projects babbage engine computer history museum mountain view ca usa
+multi-page account babbage engines associates including video museum's functioning replica difference engine no 2 action analytical engine museum john walker's auto cad fame comprehensive catalogue complete technical works relating babbage's machine
+charles babbage history school mathematics statistics university st andrews scotland
+charles babbage obituary times 1871 babbage pages works charles babbage project gutenberg works charles babbage internet archive charles babbage online books page university pennsylvania babbage difference engine overview how works method expressing signs action machinery 1826
+original edition archival material relating charles babbage listed uk national archives charles babbage institute pages charles babbage? including biographical note description difference engine no
+2 publications babbage archival published sources babbage sources babbage ada lovelace babbage's ballet ivor guest ballet magazine 1997 babbage's calculating machine 1872 - full digital facsimile linda hall library author profile database zb math vte lucasian professors mathematics isaac barrow 1664 isaac newton 1669 william whiston 1702 nicholas saunderson 1711 john colson 1739 edward waring 1760 isaac milner 1798 robert woodhouse 1820 thomas turton 1822 george biddell airy 1826 charles babbage 1828 joshua king 1839 george stokes 1849 joseph larmor 1903 paul dirac 1932 james lighthill 1969 stephen hawking 1979 michael green 2009 michael cates 2015 authority control world cat identities viaf 4963723 lccn n50031102 isni 0000 0001 0864 5872 gnd 118505459 selibr 176415 sudoc 030837960 bnf cb12124143 j data nla 35870821 ndl 01167863 nkc ola2002150481

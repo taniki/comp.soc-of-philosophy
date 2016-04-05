@@ -1,0 +1,136 @@
+primes named after marin mersenne see mersenne prime
+marin mersenne born 1588-09-088 september 1588 oizé maine died september 16481648-09-01 aged 59 paris nationality french known acoustics mersenne primes marin mersenne marin mersennus le père mersenne september 1588 september 1648 french theologian philosopher mathematician music theorist often referred father acoustics
+mersenne ordained priest many contacts scientific world called center world science mathematics during first half 1600 s
+contents life 2 works 2
+quaestiones celeberrimae genesim 1623 2
+2 l'harmonie universelle 1637 2
+3 other 3 battles occult mysticism 4 music 5 see also 6 references 7 bibliography 7
+works mersenne 7
+2 works mersenne 7
+3 other resources external links life marin mersenne pronounced mehr-senn born peasant parents near oizé maine present day sarthe france
+educated le mans jesuit college flèche
+17 july 1611 joined minim friars after studying theology hebrew paris ordained priest 1613
+1614 1618 taught theology philosophy nevers returned paris settled convent l'annonciade 1620
+there studied mathematics music met other kindred spirits such rené descartes étienne pascal pierre petit gilles de roberval nicolas-claude fabri de peiresc
+corresponded giovanni doni constantijn huygens galileo galilei other scholars italy england dutch republic
+staunch defender galileo assisting translations mechanical works
+four years mersenne devoted himself entirely philosophic theological writing published quaestiones celeberrimae genesim 1623 l'impieté des déistes 1624 vérité des sciences truth sciences against sceptics 1624
+sometimes incorrectly stated jesuit
+educated jesuits never joined society jesus
+taught theology philosophy nevers paris
+1635 set up informal académie parisienne academia parisiensis nearly 140 correspondents including astronomers philosophers well mathematicians precursor académie des sciences established colbert 1666
+afraid cause disputes among learned friends order compare their views notable among disputes descartes fermat beaugrand
+peter l
+bernstein book against gods remarkable story risk writes académie des sciences paris royal society london founded twenty years after mersenne's death direct descendants mersenne's activities
+1635 mersenne met tommaso campanella concluded teach nothing sciences
+still good memory fertile imagination
+mersenne asked rené descartes wanted campanella come holland meet descartes declined
+visited italy fifteen times 1640 1641 1645
+1643–1644 mersenne also corresponded german socinian marcin ruar concerning copernican ideas pierre gassendi finding ruar already supporter gassendi's position
+among correspondents josh dekar galilei roberval pascal beeckman other scientists
+died through complications arising lung abscess
+works quaestiones celeberrimae genesim 1623 written commentary book genesis comprises uneven sections headed verses first three chapters book
+first sight book appears collection treatises various miscellaneous topics
+however robert lenoble shown principle unity work polemic against magical divinatory arts cabalism animistic pantheistic philosophies
+mentions martin del rio's investigations magic criticises marsilio ficino claiming power images characters
+condemns astral magic astrology anima mundi concept popular amongst renaissance neo-platonists
+whilst allowing mystical interpretation cabala wholeheartedly condemned magical application—particularly angelology
+also criticises pico della mirandola cornelius agrippa francesco giorgio robert fludd main target
+fludd responded sophia cum moria certamen 1626 wherein fludd admits involvement rosicrucians
+anonymous summum bonum 1629 another critique mersenne openly rosicrucian text
+cabalist jacques gaffarel joined fludd's side while pierre gassendi defended mersenne
+l'harmonie universelle 1637 book consists mersenne's laws describe frequency oscillation stretched string
+frequency inversely proportional length string actually known ancients usually credited pythagoras himself
+proportional square root stretching force inversely proportional square root mass per unit length
+formula lowest frequency f frequency l length f force μ mass per unit length
+book mersenne also introduced several innovative concepts considered basis modern reflecting telescopes much earlier laurent cassegrain found fundamental arrangement two-mirror telescope combination concave primary mirror associated convex secondary mirror discovered telephoto effect critical reflecting telescopes although obvious far having understood implications discovery
+mersenne invented afocal telescope beam compressor useful many multiple-mirrors telescope designs
+recognized also correct spherical aberration telescope using aspherical mirrors particular case afocal arrangement correction using two parabolic mirrors though hyperboloid required
+because criticism encountered especially descartes mersenne made no attempt build telescope own
+other mersenne also remembered today thanks association mersenne primes
+mersenne twister named mersenne prime frequently used computer engineering related fields such cryptography
+however mersenne primarily mathematician music theory other subjects
+edited works euclid apollonius archimedes other greek mathematicians
+perhaps most important contribution advance learning extensive correspondence latin mathematicians other scientists many countries
+time scientific journal yet come being mersenne centre network exchange information
+argued mersenne used lack mathematical specialty ties print world legal acumen friendship french mathematician philosopher rené descartes 1596–1650 manifest international network mathematicians
+mersenne's philosophical works characterized wide scholarship narrowest theological orthodoxy
+greatest service philosophy enthusiastic defence descartes whose agent paris whom visited exile netherlands
+submitted various eminent parisian thinkers manuscript copy meditations first philosophy defended orthodoxy against numerous clerical critics
+later life gave up speculative thought turned scientific research especially mathematics physics astronomy
+connection best known work traité de l'harmonie universelle also referred harmonie universelle 1636 dealing theory music musical instruments
+regarded source information 17 th-century music especially french music musicians rival even works pietro cerone
+many contributions musical tuning theory suggestion ratio equally-tempered semitone
+accurate 0
+cents sharp vincenzo galilei's 18/17
+05 cents flat constructed using straightedge compass
+mersenne's description 1636 harmonie universelle first absolute determination frequency audible tone 84 hz implies already demonstrated absolute-frequency ratio two vibrating strings radiating musical tone octave 2
+perceived harmony consonance two such notes explained ratio air oscillation frequencies also 2 turn consistent source-air-motion-frequency-equivalence hypothesis
+also performed extensive experiments determine acceleration falling objects comparing them swing pendulums reported cogitata physico-mathematica 1644
+first measure length seconds pendulum pendulum whose swing takes second first observe pendulum's swings isochronous galileo thought large swings take longer small swings
+battles occult mysticism two german books circulated around europe 1614-15 fama fraternitatis confessio fraternitatis claimed manifestos highly select secret society alchemists sages called brotherhood rosicrucians
+books hoaxes obviously written small group reasonably knowledgeable sciences day their main theme promote educational reform anti-aristotolean
+however these books also promoted occult view science containing elements paracelsusain philosophy neo-platonism cabalism hermeticism
+effect sought establish new form scientific religion pre-christian elements
+mersenne led fight against acceptance these ideas particularly those rosicrucian-promoter robert fludd life-long battle words johannes kepler
+rosicrucian ideas defended many prominent men learning members european scholarly community boosted their own prestige claiming among selected members brotherhood
+however now generally agreed among historians there no evidence order rosicrucians ever existed
+during mid-1630 s mersenne gave up search physical causes aristotlian sense rejecting idea 'essences' still favoured scholastic philosophers taught true physics descriptive science motions mécanisme direction set galileo galilei
+mersenne regular correspondent galileo extended work vibrating strings originally developed father vincenzo galilei
+music air attributed mersenne used ottorino respighi second suite ancient airs dances
+see also catalan–mersenne number/catalan's mersenne conjecture equal temperament list roman catholic scientist-clerics references bohn dennis
+environmental effects speed sound pdf
+journal audio engineering society 36 4 223–231
+bernstein peter l
+against gods remarkable story risk
+john wiley & sons
+sergescu pierre 1948
+mersenne l'animateur
+revue de l'histoire des sciences et leur applications 2 2-1 5–12
+bernstein 1996 p
+59 murr sylvia ed
+1997 french gassendi et l'europe paris vrin
+wilson todd 2007 reflecting telescope optics basic design theory historical development springer p
+4 9783540765813
+pendergrast mark 2003
+mirror mirror history human love affair reflection
+basic books
+grosslight justin 2013
+small skills big networks marin mersenne mathematical intelligencer
+history science 51 337–374
+koyre alexander 1992
+metaphysics measurement
+taylor & francis
+debus allen g
+chemical philosophy heilbron j
+1979 electricity 17 th 18 th centuries study early modern physics bibliography works mersenne euclidis elementorum libri etc
+paris 1626 les mécaniques de galilée paris 1634 questions inouies ou récréation des savants 1634 questions théologiques physiques etc
+1634 harmonie universelle first edition line gallica
+paris 1636-7
+translation english roger e
+chapman hague 1957 nouvelles découvertes de galilée 1639 cogitata physico-mathematica 1644 universae geometriae synopsis 1644 works mersenne adrien baillet
+vie de descartes 1691 dear peter robert
+mersenne learning schools ithaca cornell university press 1988
+gehring f
+1922 mersennus marin le père mersenne grove's dictionary music musicians ed
+fuller maitland moreau roger
+marin mersenne et naissance de l'esprit scientifique éditions anagrammes perros guirec
+poté j
+éloge de mersenne le mans 1816
+grosslight justin
+small skills big networks marin mersenne mathematical intelligencer history science 51 2013 337–374
+other resources marin mersenne—the birth modern geometry uk open university tv documentary made 1986 transmitted bbc2 external links wikimedia commons media related marin mersenne
+imslp traité de l'harmonie universelle
+o'connor john j
+robertson edmund f
+marin mersenne mac tutor history mathematics archive university st andrews
+herbermann charles ed
+marin mersenne
+catholic encyclopedia
+new york robert appleton company
+marin mersenne mathematics genealogy project
+minimospedia marin mersenne especially bibliography article incorporates text publication now public domain chisholm hugh ed
+article name needed
+encyclopædia britannica th ed
+cambridge university press
+vte marin mersenne mersenne conjectures mersenne's laws mersenne prime double mersenne number great internet mersenne prime search mersenne twister authority control world cat identities viaf 41843933 lccn n84115241 isni 0000 0001 2129 6363 gnd 118581201 sudoc 027024717 bnf cb119157157 data mgp 125434 nla 35347925 nkc ola2004235381 iccu it\iccu\ufiv\057021 bne xx841183

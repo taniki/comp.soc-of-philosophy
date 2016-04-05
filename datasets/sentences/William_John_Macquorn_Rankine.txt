@@ -1,0 +1,102 @@
+article includes list references sources remain unclear because insufficient inline citations
+please help improve article introducing precise citations
+july 2009 william john macquorn rankine william john macquorn rankine born 1820-07-055 july 1820 edinburgh died 24 december 18721872-12-24 aged 52 glasgow nationality scottish fields physics engineering institutions university glasgow alma mater university edinburgh known thermodynamics civil engineering influenced pierre duhem notable awards keith medal 1854 william john macquorn rankine frse frs /ˈræŋkɪn/ 5 july 1820 24 december 1872 first place scottish mechanical engineer second place civil engineer physicist mathematician
+founding contributor rudolf clausius william thomson lord kelvin science thermodynamics particularly focusing first three thermodynamic laws
+rankine developed complete theory steam engine indeed heat engines
+manuals engineering science practice used many decades after their publication 1850 s 1860 s
+published several hundred papers notes science engineering topics 1840 onwards interests extremely varied including youth botany music theory number theory mature years most major branches science mathematics engineering
+enthusiastic amateur singer pianist cellist composed own humorous songs
+born edinburgh died glasgow bachelor
+contents early life 2 thermodynamics 3 fatigue studies 4 other work 4
+civil engineering 4
+2 naval architecture 5 honours 6 publications 7 see also references 9 external links early life born edinburgh british army lieutenant david rankine barbara grahame prominent legal banking family
+rankine initially educated home later attended ayr academy 1828-9 very briefly high school glasgow 1830
+around 1830 family moved edinburgh 1834 studied military naval academy mathematician george lees year already highly proficient mathematics received gift uncle newton's principia 1687 original latin
+1836 rankine began study spectrum scientific topics university edinburgh including natural history under robert jameson natural philosophy under james david forbes
+under forbes awarded prizes essays methods physical inquiry undulatory wave theory light
+during vacations assisted father 1830 manager later effective treasurer engineer edinburgh dalkeith railway brought coal growing city
+left university edinburgh 1838 without degree then unusual perhaps because straitened family finances became apprentice sir john benjamin macneill time surveyor irish railway commission
+during pupilage developed technique later known rankine's method laying out railway curves fully exploiting theodolite making substantial improvement accuracy productivity over existing methods
+fact technique simultaneously use other engineers 1860 s there minor dispute rankine's priority
+year 1842 also marked rankine's first attempt reduce phenomena heat mathematical form frustrated lack experimental data
+time queen victoria's visit scotland organised large bonfire situated arthur's seat constructed radiating air passages under fuel
+bonfire served beacon initiate chain other bonfires across scotland
+thermodynamics undaunted returned youthful fascination mechanics heat engine
+though theory circulating streams elastic vortices whose volumes spontaneously adapted their environment sounds fanciful scientists formed modern account 1849 succeeded finding relationship saturated vapour pressure temperature
+following year used theory establish relationships temperature pressure density gases expressions latent heat evaporation liquid
+accurately predicted surprising fact apparent specific heat saturated steam negative
+emboldened success 1851 set out calculate efficiency heat engines used theory basis deduce principle maximum efficiency possible any heat engine function two temperatures operates
+though similar result already derived rudolf clausius william thomson rankine claimed result rested upon hypothesis molecular vortices alone rather upon carnot's theory other additional assumption
+work marked first step rankine's journey develop complete theory heat
+rankine later recast results molecular theories terms macroscopic account energy transformations
+defined distinguished actual energy lost dynamic processes potential energy replaced
+assumed sum two energies constant idea already although surely very long familiar law conservation energy
+1854 made wide use thermodynamic function later realised identical entropy clausius
+1855 rankine formulated science energetics gave account dynamics terms energy transformations rather force motion
+theory very influential 1890 s
+1859 proposed rankine scale temperature absolute thermodynamic scale whose degree equal fahrenheit degree
+energetics offered rankine alternative rather mainstream approach science mid-1850 s made rather less use molecular vortices
+yet still claimed maxwell's work electromagnetics effectively extension model
+1864 contended microscopic theories heat proposed clausius james clerk maxwell based linear atomic motion inadequate
+1869 rankine admitted success these rival theories
+time own model atom become almost identical thomson
+constant aim especially teacher engineering used own theories develop number practical results elucidate their physical principles including rankine–hugoniot equation propagation shock waves governs behaviour shock waves normal oncoming flow
+named after physicists rankine french engineer pierre henri hugoniot rankine cycle analysis ideal heat-engine condensor
+like other thermodynamic cycles maximum efficiency rankine cycle given calculating maximum efficiency carnot cycle properties steam gases vapours
+history rotordynamics replete interplay theory practice
+rankine first performed analysis spinning shaft 1869 model adequate predicted supercritical speeds attained
+fatigue studies drawing fatigue failure axle 1843
+rankine first engineers recognise fatigue failures railway axles caused initiation growth brittle cracks
+early 1840 s examined many broken axles especially after versailles train crash 1842 locomotive axle suddenly fractured led death over 50 passengers
+showed axles failed progressive growth brittle crack shoulder other stress concentration source shaft such keyway
+supported similar direct analysis failed axles joseph glynn axles failed slow growth brittle crack process now known metal fatigue
+likely front axle locomotives involved versailles train crash failed similar way
+rankine presented conclusions paper delivered institution civil engineers
+work ignored however many engineers persisted believing stress cause re-crystallisation metal myth persisted even recent times
+theory recrystallisation quite wrong inhibited worthwhile research until work william fairbairn few years later showed weakening effect repeated flexure large beams
+nevertheless fatigue remained serious poorly understood phenomenon root cause many accidents railways elsewhere
+still serious problem least much better understood today prevented careful design
+section requires expansion
+june 2008 other work served regius professor civil engineering mechanics university glasgow november 1855 until death december 1872 pursuing engineering research along number lines civil mechanical engineering
+rankine instrumental formation forerunner glasgow university officer training corps 2 nd lanarkshire rifle volunteer corps glasgow university july 1859 becoming major 1860 after formed first company 2 nd battalion st lanarkshire rifle volunteer corps served until 1864 resigned due pressure work - much associated naval architecture
+civil engineering rankine lectures organised british geotechnical association named recognition significant contributions made forces frame structures soil mechanics most notably lateral earth pressure theory stabilization retaining walls
+rankine method earth pressure analysis named after
+section requires expansion
+june 2008 naval architecture rankine worked closely clyde shipbuilders especially friend lifelong collaborator james robert napier make naval architecture engineering science
+founding member first president institution engineers & shipbuilders scotland 1857
+early member royal institution naval architects founded 1860 attended many annual meetings
+william thomson others rankine member board enquiry controversial sinking hms captain
+section requires expansion
+june 2008 honours fellow royal scottish society arts associate institution civil engineers 1843 never full member fellow royal society edinburgh 1850 fellow royal society london 1853 keith medal royal society edinburgh 1854 founding president institution engineers shipbuilders scotland 1857 ll
+trinity college dublin 1857 foreign member royal swedish academy sciences 1868 rankine absolute fahrenheit scale named honour
+rankine small impact crater near eastern limb moon also named honour
+2013 four inductees scottish engineering hall fame
+publications books manual applied mechanics 1858 manual steam engine other prime movers 1859 manual civil engineering 1861 shipbuilding theoretical practical 1866 manual machinery millwork 1869 papers mechanical action heat especially gases vapours 1850 read royal society edinburgh 4 february 1850 general law transformation energy 1853 read glasgow philosophical society thermodynamic theory waves finite longitudinal disturbance 1869 outlines science energetics 1855 read glasgow philosophical society work influenced french physicist pierre duhem's traité de l'énergétique 1911 considered thermodynamics classical mechanics fundamental theory
+rankine rankine william john mac quorn 1881
+miscellaneous scientific papers
+london charles griffin company
+see also metal fatigue rankine body rankine cycle state function momentum theory references rankine william 1850
+mechanical action heat especially gases vapours
+transactions royal society edinburgh 20 147–190
+1017/s008045680003307 x
+past presidents iesis
+retrieved 6 may
+library archive catalogue
+royal society
+retrieved 4 october 2010
+html rankine w 1853
+general law transformation energy
+philosophical magazine
+4 5 30 106
+retrieved 17 march 2014
+external links wikimedia commons media related william john macquorn rankine
+wikiquote quotations related william john macquorn rankine wikisource original text related article outlines science energetics works william john macquorn rankine internet archive parkinson e
+william john macquorn rankine
+gillispie charles
+dictionary scientific biography
+new york scribner & american council learned societies
+macquorn rankine chisholm hugh ed
+rankine william john macquorn
+encyclopædia britannica th ed
+cambridge university press
+vte scientists whose names used non si units anders jonas ångström alexander graham bell marie curie pierre curie john dalton peter debye loránd eötvös daniel gabriel fahrenheit galileo galilei johann carl friedrich gauss william gilbert heinrich kayser johann heinrich lambert samuel pierpont langley heinrich mache james clerk maxwell john napier hans christian ørsted jean léonard marie poiseuille william john macquorn rankine rené antoine ferchault de réaumur wilhelm röntgen sir george stokes st baronet john strutt 3 rd baron rayleigh joseph john thomson evangelista torricelli scientists whose names used si units scientists whose names used chemical element names scientists whose names used physical constants authority control world cat identities viaf 64107906 lccn n87807314 isni 0000 0000 8143 4273 gnd 124302882 sudoc 156365804 bnf cb12487987 v data nla 36557356 ndl 00770063 nkc jo2004213787

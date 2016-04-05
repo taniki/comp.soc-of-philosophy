@@ -1,0 +1,41 @@
+article includes list references sources remain unclear because insufficient inline citations
+please help improve article introducing precise citations
+march 2013 henry maurice sheffer 1882 1964 american logician
+life career sheffer polish jew born western ukraine immigrated usa 1892 parents six siblings
+studied boston latin school before entering harvard university learning logic josiah royce completing undergraduate degree 1905 master's 1907 ph
+philosophy 1908
+after holding postdoctoral position harvard henry traveled europe fellowship
+upon returning united states became academic nomad spending year each university washington cornell university minnesota university missouri city college new york
+1916 returned harvard faculty member philosophy department
+remained harvard until retirement 1952
+scanlan 2000 study sheffer's life work
+sheffer proved 1913 boolean algebra defined using single primitive binary operation both
+now abbreviated nand dual nor sense neither
+likewise propositional calculus formulated using single connective having truth table either logical nand usually symbolized vertical line called sheffer stroke dual logical nor usually symbolized vertical arrow dagger symbol
+charles peirce also discovered these facts 1880 relevant paper published until 1933
+sheffer also proposed axioms formulated solely terms stroke
+sheffer introduced now known sheffer stroke 1913 became well known after use 1925 edition whitehead russell's principia mathematica
+sheffer's discovery won great praise bertrand russell used extensively simplify own logic second edition principia mathematica
+because comment sheffer something mystery man logicians especially because sheffer published little career never published details method describing mimeographed notes brief published abstract
+quine's mathematical logic also made much sheffer stroke
+sheffer connective subsequently any connective logical system functions analogously terms other possible connectives language expressed
+example developed quantificational modal logics well
+sheffer dedicated teacher mathematical logic
+liked classes small like auditors
+strangers appeared classroom sheffer order them leave even colleagues distinguished guests visiting harvard
+sheffer barely five feet tall noted wit vigor well nervousness irritability
+although widely liked quite lonely
+noted quip spoke retirement old professors never die just become emeriti
+sheffer also credited coining term boolean algebra
+sheffer briefly married lived most later life small rooms hotel packed logic books vast files slips paper used jot down ideas
+unfortunately sheffer suffered severe depression during last two decades life
+footnotes robert
+binary sheffer operator does work quantifiers sentential connectives
+notre dame j
+formal logic
+retrieved march 2013
+references scanlan michael 2000 known unknown h
+sheffer transactions c
+peirce society 36 193–224
+rosen kenneth 2005 discrete mathematics applications foundations logic proofs 28
+authority control world cat identities viaf 204817094 gnd 102024710 x sudoc 081923465 mgp 159328

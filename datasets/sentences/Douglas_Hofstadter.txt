@@ -1,0 +1,211 @@
+douglas hofstadter hofstadter bologna italy march 2002 born douglas richard hofstadter 1945-02-15 february 15 1945 age 71 new york city united states nationality united states fields cognitive science philosophy mind translation physics institutions indiana university stanford university university oregon university michigan alma mater stanford university bsc university oregon ph dthesis energy levels bloch electrons magnetic field 1974 doctoral advisor gregory wannier doctoral students david chalmers harry foundalis robert m
+french scott
+jones james marshall melanie mitchell known gödel escher bach am strange loop hofstadter's butterfly notable awards national book award pulitzer prize member american academy arts sciences spouse carol ann brush 1985–1993 her death 2 children baofen lin 2012–present websiteprelectur
+edu/lecturers/hofstadter notes son robert hofstadter
+douglas richard hofstadter born february 15 1945 american professor cognitive science whose research focuses sense consciousness analogy-making artistic creation literary translation discovery mathematics physics
+best known book gödel escher bach eternal golden braid first published 1979
+won both pulitzer prize general non-fiction national book award time called american book award science
+[a] 2007 book am strange loop won los angeles times book prize science technology
+contents early life education 2 academic career 2
+hofstadter's law 2
+2 students 3 public image 4 columnist 5 personal life 6 popular culture 7 published works 7
+books 7
+2 papers 7
+3 involvement other books see also 9 notes 10 references external links early life education hofstadter born new york city son nobel prize-winning physicist robert hofstadter
+grew up campus stanford university father professor attended international school geneva 1958–1959
+graduated distinction mathematics stanford university 1965
+continued education received ph
+physics university oregon 1975 study energy levels bloch electrons magnetic field led discovery fractal known hofstadter butterfly
+academic career since 1988 hofstadter college arts sciences distinguished professor cognitive science comparative literature indiana university bloomington directs center research concepts cognition consists himself graduate students forming fluid analogies research group farg
+initially appointed indiana university's computer science department faculty 1977 time launched research program computer modeling mental processes time called artificial intelligence research label since dropped favor cognitive science research
+1984 moved university michigan ann arbor hired professor psychology also appointed walgreen chair study human understanding
+1988 returned bloomington college arts sciences professor both cognitive science computer science also appointed adjunct professor history philosophy science philosophy comparative literature psychology states involvement most these departments nominal
+april 2009 hofstadter elected fellow american academy arts sciences member american philosophical society
+2010 elected member royal society sciences uppsala sweden
+hofstadter's many interests include music visual art mind creativity consciousness self-reference translation mathematics
+hofstadter giving presentation 2006 singularity summit university michigan indiana university co-authored melanie mitchell computational model high-level perception copycat several other models analogy-making cognition including tabletop project co-developed robert m
+hofstadter's doctoral student james marshall subsequently extended copycat project under name metacat
+letter spirit project implemented gary mc graw john rehling aims model act artistic creativity designing stylistically uniform gridfonts typefaces limited grid
+other recent models include phaeaco implemented harry foundalis seq see abhijit mahabal model high-level perception analogy-making microdomains bongard problems number sequences respectively well george francisco lara-dammer models processes perception discovery triangle geometry
+pursuit beauty driven hofstadter both inside outside professional work
+seeks beautiful mathematical patterns beautiful explanations beautiful typefaces beautiful sonic patterns poetry etc
+hofstadter himself i'm someone foot world humanities arts other foot world science
+several exhibitions artworks various university art galleries
+these shows featured large collections gridfonts ambigrams pieces calligraphy created two readings either usually obtained other rotating reflecting ambigram sometimes simply oscillation like necker cube rabbit/duck figure joseph jastrow whirly art music-inspired visual patterns realized using shapes based various alphabets india
+hofstadter invented term ambigram 1984 many ambigrammists over world since taken up concept
+hofstadter collects studies cognitive errors largely solely speech errors bon mots spontaneous humorous quips analogies sorts long-time observation these diverse products cognition theories mechanisms underlie them exerted powerful influence architectures computational models developed himself farg members
+farg computational models share certain key principles including human thinking carried out thousands independent small actions parallel biased concepts currently activated activation spreads activated concepts less activated neighbor concepts there mental temperature regulates degree randomness parallel activity promising avenues tend explored rapidly unpromising ones farg models also overarching philosophy cognition built making analogies
+computational architectures share these precepts called active symbols architectures
+hofstadter's thesis consciousness first expressed gödel escher bach geb also present several later books emergent consequence seething lower-level activity brain
+geb draws analogy social organization colony ants mind seen coherent colony neurons
+particular hofstadter claims our sense having being comes abstract pattern terms strange loop abstract cousin such concrete phenomena audio video feedback hofstadter defined level-crossing feedback loop
+prototypical example abstract notion self-referential structure core gödel's incompleteness theorems
+hofstadter's 2007 book am strange loop carries vision consciousness considerably further including idea each human distributed over numerous brains rather being limited precisely brain
+hofstadter's writing characterized intense interaction form content exemplified 20 dialogues geb many simultaneously talk imitate strict musical forms used bach such canons fugues
+most hofstadter's books feature kind structural alternation geb dialogues chapters mind's selections reflections metamagical themas chapters postscripts forth
+both writing teaching hofstadter stresses concrete constantly using examples analogies avoids abstract
+typical courses teaches seminar group theory galois theory visualized abstract mathematical ideas rendered concretely possible
+puts great effort making ideas clear visual asserts teaches students understand something never their fault own
+hofstadter passionate languages
+addition english mother tongue speaks french italian fluently language spoken home children italian
+various times life studied descending order level fluency reached german russian spanish swedish mandarin dutch polish hindi
+[citation needed] love sounds pushes strive minimize ideally get rid any foreign accent
+le ton beau de marot praise music language long book devoted language translation especially poetry translation leitmotifs set 88 translations ma mignonne highly constrained poem 16 th-century french poet clément marot
+book hofstadter jokingly describes himself pilingual meaning sum total varying degrees mastery languages he's studied comes 3
+well oligoglot someone speaks few languages
+1999 bicentennial year russian poet writer alexander pushkin hofstadter published verse translation pushkin's classic novel-in-verse eugene onegin
+hofstadter translated many other poems too respecting their formal constraints two novels prose chamade mad ache french writer françoise sagan scoperta dell'alba discovery dawn walter veltroni then head partito democratico italy
+discovery dawn published 2007 mad ache published 2009 bound together hofstadter's essay translator trader essay pleasantly pervasive paradoxes translation
+hofstadter's law main article hofstadter's law hofstadter's law states takes longer you expect even you take account hofstadter's law
+law outlined work gödel escher bach eternal golden braid
+students hofstadter's former ph
+students include dissertation title don byrd—music notation computer david chalmers—toward theory consciousness gray
+clossman—a model categorization learning connectionist broadcast system hamid ekbia—ai dreams discourse science engineering tension harry foundalis—phaeaco cognitive architecture inspired bongard's problems bob french—tabletop emergent stochastic model analogy-making francisco lara-dammer—modeling human discoverativity geometry abhijit mahabal—seq see concept-centered architecture sequence perception jim marshall—metacat self-watching cognitive architecture analogy-making high level perception gary mc graw—letter spirit part emergent high-level perception letters using fluid concepts marsha meredith—seek-whence model pattern perception eric nichols—musicat computer model musical listening analogy-making melanie mitchell—copycat computer model high-level perception conceptual slippage analogy-making john rehling—letter spirit part two modeling creativity visual domain wang pei pei wang—non-axiomatic reasoning system exploring essence intelligence public image hofstadter feels uncomfortable nerd culture centers computers
+admits large fraction [of audience] seems those fascinated technology suggested work inspired many students begin careers computing artificial intelligence replied pleased himself no interest computers
+interview also mentioned course twice given indiana university took skeptical look number highly-touted ai projects overall approaches
+example upon defeat garry kasparov deep blue commented watershed event doesn't computers becoming intelligent
+provoked predictions technological singularity hypothetical moment future humanity self-reinforcing runaway development artificial intelligence causes radical change technology culture hofstadter both organized participated several public discussions topic
+indiana university 1999 organized such symposium april 2000 organized larger symposium entitled spiritual robots stanford university moderated panel consisting ray kurzweil hans moravec kevin kelly ralph merkle bill joy frank drake john holland john koza
+hofstadter also invited panelist first singularity summit held stanford may 2006
+hofstadter expressed doubt likelihood singularity coming pass foreseeable future
+1988 dutch director piet hoenderdos created docudrama hofstadter ideas victim brain based mind's
+includes interviews hofstadter work
+columnist martin gardner retired writing mathematical games column scientific american magazine hofstadter succeeded 1981–1983 column entitled metamagical themas anagram mathematical games
+idea introduced these columns concept reviews book book containing nothing cross-referenced reviews itself online implementation
+hofstadter's columns scientific american concerned damaging effects sexist language two chapters book metamagical themas devoted topic biting analogy-based satire entitled person paper purity language 1985 reader's presumed revulsion racism racist language used lever motivate analogous revulsion sexism sexist language hofstadter published under pseudonym william satire allusion william safire
+another column reported discoveries made university michigan professor robert axelrod computer tournament pitting many iterated prisoner's dilemma strategies against each other follow-up column discussed similar tournament hofstadter graduate student marek lugowski organized
+[citation needed] metamagical themas columns ranged over many themes included name just three patterns frédéric chopin's piano music particularly études another concept superrationality choosing cooperate other party/adversary assumed equally intelligent oneself self-modifying game nomic based way legal system modifies itself developed philosopher peter suber
+personal life hofstadter married carol ann brush until her death
+met bloomington married ann arbor 1985
+two children danny monica
+carol died 1993 sudden onset brain tumor glioblastoma multiforme their children five two
+carol ann brush hofstadter memorial scholarship bologna-bound indiana university students established 1996 her name
+hofstadter's book le ton beau de marot dedicated their two children dedication reads m
+living sparks their mommy's soul
+fall 2010 hofstadter met baofen lin chacha class two married bloomington september
+hofstadter composed numerous pieces piano few piano voice
+created audio cd title drh/jj includes these compositions performed primarily pianist jane jackson few performed brian jones dafna barenboim gitanjali mathur himself
+dedication am strange loop my sister laura understand our sister molly cannot
+hofstadter explains preface younger sister molly never developed ability speak understand language
+consequence attitudes consciousness empathy hofstadter vegetarian roughly half life
+popular culture 1982 novel 2010 odyssey two arthur c
+clarke's first sequel 2001 space odyssey hal 9000 described dr
+chandra being caught hofstadter–möbius loop
+movie uses term h
+möbius loop
+1995 hofstadter's book fluid concepts & creative analogies computer models fundamental mechanisms thought first book ever sold amazon
+published works books books published hofstadter isbns refer paperback editions available gödel escher bach eternal golden braid 1979 metamagical themas collection scientific american columns other essays postscripts ambigrammi un microcosmo ideale per lo studio della creatività italian fluid concepts creative analogies rhapsody theme clement marot 1995 published 1996 volume 16 series grace
+tanner lecture human values le ton beau de marot praise music language eugene onegin novel versification am strange loop 2007 discovery dawn 2007 translation novel walter veltroni mad ache co-bound translator trader essay pleasantly pervasive paradoxes translation 2009 surfaces essences analogy fuel fire thinking co-authored emmanuel sander first published french l’analogie
+cœur de pensée published english us april 2013 papers hofstadter written among many others following papers energy levels wave functions bloch electrons rational irrational magnetic fields phys
+14 1976 2239
+non-deterministic approach analogy involving ising model ferromagnetism eduardo caianiello ed
+physics cognitive processes
+teaneck nj world scientific 1987
+err human study error-making cognitive science co-authored david j
+moser michigan quarterly review vol
+xxviii no
+2 1989 pp
+speechstuff thoughtstuff musings resonances created words phrases via subliminal perception their buried parts sture allen ed
+thoughts words relation language mind
+proceedings nobel symposium 92 london/new jersey world scientific publ
+1995 217–267
+seeing a's seeing stanford humanities review vol
+4 no
+2 1995 pp
+analogy core cognition dedre gentner keith holyoak boicho kokinov eds
+analogical mind perspectives cognitive science cambridge ma mit press/bradford book 2001 pp
+hofstadter also written over 50 papers published through center research concepts cognition
+involvement other books hofstadter written forewords edited following books mind's fantasies reflections self soul co-edited daniel dennett 1981 sparse distributed memory pentti kanerva bradford books/mit press 1988
+quanta real? galilean dialogue j
+jauch x 1989 indiana university press hofstadter foreword
+alan turing enigma andrew hodges
+preface gödel's proof 2002 revised edition ernest nagel james r
+newman edited hofstadter
+foreword hofstadter explains book originally published 1958 exerted profound influence young
+invented computer? legal battle changed computing history
+2003 alice rowe burks
+hofstadter foreword
+alan turing life legacy great thinker christof teuscher editor jason salavon brainstem still life 2004 introduction masters deception escher dalí & artists optical illusion 2004 al seckel
+hofstadter foreword
+king infinite space donald coxeter man saved geometry siobhan roberts walker company 2006
+hofstadter foreword
+see also american philosophy bloo p floo p egbert
+gebstadter hofstadter points hofstadter's butterfly hofstadter's law list american philosophers meta platonia dilemma notes geb won 1980 award hardcover science
+references hofstadter douglas richard 1974
+energy levels bloch electrons magnetic field ph thesis
+university oregon
+hofstadter douglas r
+am strange loop
+new york basic books
+shoves whom around inside careenium? meaning word ?i??
+synthese 53 2 189–218
+general nonfiction
+past winners finalists category
+pulitzer prizes
+retrieved 2012-03-17
+bedside book paradoxes new york times national book awards 1980
+national book foundation
+retrieved 2012-03-07
+book prizes los angeles times festival books» winners award
+com 1963-11-22
+retrieved 2013-10-06
+douglas hofstadter's publications indexed dblp bibliography server university trier douglas hofstadter's publications indexed scopus bibliographic database service provided elsevier
+hofstadter douglas 1976
+energy levels wave functions bloch electrons rational irrational magnetic fields
+physical review 14 6 2239
+1103/phys rev
+center research concepts cognition iu pages faculty iu distinguished faculty see announcement march 21 2007 speaker day life
+douglas hofstadter 2004 seminar ai hope hype 1999 american academy announces 2009 class fellows foreign honorary members american philosophical society members center research concepts cognition indiana university bloomington
+retrieved 2013-10-06
+overview metacat 2003 analogy talk most remarkable researcher artificial intelligence today douglas hofstadter author gödel escher bach wired magazine november 1995 analogy core cognition review stanford lecture feb 2 2006 center research concepts cognition sounds like bach hofstadter douglas err human study error-making cognitive science
+together david moser
+michigan quarterly review vol
+xxviii no
+2 1989 pp
+consciousness cosmos perspective mind douglas hofstadter hofstadter douglas r
+le ton beau de marot
+new york basic books 1997 pp
+hofstadter douglas r
+le ton beau de marot
+new york basic books 1997 p
+627 people crcc
+center research concepts cognition
+retrieved 18 feb 2014
+me my soul
+march 2007
+retrieved 2007-12-10
+mind reader new york times magazine april 2007 mean chess-playing computer tears meaning thought bruce weber february 19 1996 new york times will spiritual robots replace humanity 2100? april 2000 note 2007 videos seem missing
+moore's law artificial evolution fate humanity
+booker s
+forrest et al
+perspectives adaptation natural artificial systems
+new york oxford university press 2003
+singularity summit stanford 2006 trying muse rationally singularity scenario 35 minute video may 13 2006 quotes 2006 singularity summit presentation staring emi straight eye—and doing my best flinch
+david cope virtual music computer synthesis musical style cambridge ma mit press 2001
+victim brain 1988 docudrama ideas douglas hofstadter online implementation reviews book idea person paper purity language william satire alias douglas r
+hofstadter 1985 satirical piece subject sexist language metamagical themas douglas r
+hofstadter basic books new yoork 1985 see preface introduction contents listing
+french italian spring 1996 vol
+x http//www
+php?terms=hofstadter+baofen&x=0&y=0 piano music douglas hofstadter audio cd 2000 hofstadter douglas r
+am strange loop p
+basic books 2007
+hofstadter douglas r
+am strange loop p
+basic books 2007
+no knew molly wasn't able understand language speak nor she day never find out why
+gardner martin august 2007
+loops explain consciousness? review am strange loop pdf
+notices american mathematical society 54 7 853
+retrieved 2007-12-10
+com's company timeline july 1995 crcc publications offline external links wikiquote quotations related douglas hofstadter stanford university presidential lecture site dedicated hofstadter work douglas hofstadter's publications indexed dblp bibliography server university trier profile c2
+com profile resonance publications nf reviews bibliographic page reviews several hofstadter's books autoportrait constraint short autobiography form lipogram vte douglas hofstadter books gödel escher bach 1979 mind's 19811 metamagical themas 1985 fluid concepts creative analogies 19952 le ton beau de marot 1997 am strange loop 2007 surfaces essences 2013 concepts andprojects bloo p floo p copycat hofstadter's butterfly hofstadter's law hofstadter points mu puzzle platonia dilemma six nines pi strange loop superrationality related topics egbert
+gebstadter robert hofstadter indiana university bloomington victim brain edited hofstadter daniel c
+dennett 2 hofstadter fluid analogies research group vte pulitzer prize general non-fiction 1976–2000 why survive? being old america robert neil butler 1976 beautiful swimmers william w
+warner 1977 dragons eden carl sagan 1978 human nature edward o
+wilson 1979 gödel escher bach eternal golden braid douglas hofstadter 1980 fin-de-siècle vienna carl e
+schorske 1981 soul new machine tracy kidder 1982 there no place earth me? susan sheehan 1983 social transformation american medicine paul starr 1984 good war studs terkel 1985 common ground turbulent decade lives three american families j
+anthony lukas / move your shadow joseph lelyveld 1986 arab jew wounded spirits promised land david k
+shipler 1987 making atomic bomb richard rhodes 1988 bright shining lie neil sheehan 1989 their children after them dale maharidge michael williamson 1990 ants bert hölldobler edward o
+wilson prize epic quest oil money power daniel yergin 1992 lincoln gettysburg words remade america garry wills 1993 lenin's tomb last days soviet empire david remnick 1994 beak finch story evolution our time jonathan weiner 1995 haunted land facing europe's ghosts after communism tina rosenberg 1996 ashes ashes america's hundred-year cigarette war public health unabashed triumph philip morris richard kluger 1997 guns germs steel fates human societies jared diamond 1998 annals former world john mc phee 1999 embracing defeat john w
+dower 2000 complete list 1962–1975 1976–2000 2001–2025 authority control world cat identities viaf 19695103 lccn n79001579 isni 0000 0001 0876 2315 gnd 119440636 sudoc 060549157 bnf cb12040091 data mgp 136722 ndl 00443563 nkc mzk2004148497

@@ -1,0 +1,71 @@
+karl weierstrass karl theodor wilhelm weierstrass weierstraßborn 1815-10-3131 october 1815 ostenfelde province westphalia kingdom prussia died 19 february 18971897-02-19 aged 81 berlin province brandenburg kingdom prussia residence germany nationality german fields mathematics institutions gewerbeinstitut alma mater university bonn münster academy academic advisors christoph gudermann doctoral students nikolai bugaev georg cantor georg frobenius lazarus fuchs wilhelm killing leo königsberger sofia kovalevskaya mathias lerch hans von mangoldt eugen netto adolf piltz carl runge arthur schoenflies friedrich schottky hermann schwarz ludwig stickelberger ernst kötter known weierstrass functionε δ-definition limit weierstrass–erdmann condition weierstrass theorem notable awards copley medal 1895 karl theodor wilhelm weierstrass german weierstraß 31 october 1815 19 february 1897 german mathematician often cited father modern analysis
+despite leaving university without degree studied mathematics trained teacher eventually teaching mathematics physics botany gymnastics
+weierstrass formalized definition continuity function proved intermediate value theorem bolzano-weierstrass theorem used latter study properties continuous functions closed bounded intervals
+contents biography 2 mathematical contributions 2
+soundness calculus 2
+2 calculus variations 2
+3 other analytical theorems 3 selected works 4 students 5 honours awards 6 see also 7 references external links biography weierstrass born ostenfelde part ennigerloh province westphalia
+weierstrass son wilhelm weierstrass government official theodora vonderforst
+interest mathematics began while gymnasium student theodorianum paderborn
+sent university bonn upon graduation prepare government position
+because studies fields law economics finance immediately conflict hopes study mathematics
+resolved conflict paying little heed planned course study continued private study mathematics
+outcome leave university without degree
+after studied mathematics university münster even time very famous mathematics father able obtain place teacher training school münster
+later certified teacher city
+during period study weierstrass attended lectures christoph gudermann became interested elliptic functions
+1843 taught deutsch krone west prussia since 1848 taught lyceum hosianum braunsberg
+besides mathematics also taught physics botanics gymnastics
+weierstrass may illegitimate child named franz widow friend carl wilhelm borchardt
+after 1850 weierstrass suffered long period illness able publish papers brought fame distinction
+university königsberg conferred honorary doctor's degree 31 march 1854
+1856 took chair gewerbeinstitut later became technical university berlin
+1864 became professor friedrich-wilhelms-universität berlin later became humboldt universität zu berlin
+immobile last three years life died berlin pneumonia
+mathematical contributions soundness calculus weierstrass interested soundness calculus time there somewhat ambiguous definitions regarding foundations calculus hence important theorems proven sufficient rigour
+while bolzano developed reasonably rigorous definition limit early 1817 possibly even earlier work remained unknown most mathematical community until years later many mathematicians vague definitions limits continuity functions
+delta-epsilon proofs first found works cauchy 1820 s
+cauchy clearly distinguish continuity uniform continuity interval
+notably 1821 cours d'analyse cauchy argued pointwise limit pointwise continuous functions itself pointwise continuous statement interpreted being incorrect many scholars
+correct statement rather uniform limit continuous functions continuous also uniform limit uniformly continuous functions uniformly continuous
+required concept uniform convergence first observed weierstrass's advisor christoph gudermann 1838 paper gudermann noted phenomenon define elaborate
+weierstrass saw importance concept both formalized applied widely throughout foundations calculus
+formal definition continuity function formulated weierstrass follows continuous such every domain simple english continuous point each there exists such function lies
+using definition proved intermediate value theorem
+also proved bolzano-weierstrass theorem used study properties continuous functions closed bounded intervals
+calculus variations weierstrass also made significant advancements field calculus variations
+using apparatus analysis helped develop weierstrass able give complete reformulation theory paved way modern study calculus variations
+among several significant axioms weierstrass established necessary condition existence strong extrema variational problems
+also helped devise weierstrass–erdmann condition gives sufficient conditions extremal corner along given extrema allows find minimizing curve given integral
+other analytical theorems see also list things named after karl weierstrass
+stone–weierstrass theorem weierstrass–casorati theorem weierstrass's elliptic functions weierstrass function weierstrass m-test weierstrass preparation theorem lindemann–weierstrass theorem weierstrass factorization theorem enneper–weierstrass parameterization sokhatsky–weierstrass theorem selected works zur theorie abelschen funktionen 1854 theorie abelschen funktionen 1856 abhandlungen-1// math
+berlin 1894 abhandlungen-2// math
+berlin 1895 abhandlungen-3// math
+berlin 1903 vorl
+ueber die theorie abelschen transcendenten// math
+berlin 1902 vorl
+ueber variationsrechnung// math
+leipzig 1927 students edmund husserl sofia kovalevskaya gösta mittag-leffler hermann schwarz carl johannes thomae georg cantor honours awards lunar crater weierstrass asteroid 14100 weierstrass named after
+also there weierstrass institute applied analysis stochastics berlin
+see also list things named after karl weierstrass references o'connor j
+robertson e
+october 1998
+karl theodor wilhelm weierstrass
+school mathematics statistics university st andrews scotland
+retrieved 7 september 2014
+biermann kurt-r
+schubring gert 1996
+einige nachträge zur biographie von karl weierstraß
+german [some postscripts biography karl weierstrass]
+history mathematics
+san diego ca academic press
+grabiner judith v
+march 1983 gave you epsilon? cauchy origins rigorous calculus pdf american mathematical monthly 90 3 185–194 doi10
+2307/2975545 jstor 2975545 cauchy
+1823 septième leçon valeurs de quelques expressions qui se présentent sous les formes indéterminées relation qui existe entre le rapport aux différences finies et fonction dérivée résumé des leçons données à l’école royale polytechnique sur le calcul infinitésimal paris p
+delete character |chapter= position 98 help external links wikimedia commons media related karl weierstrass
+wikiquote quotations related karl weierstrass o'connor john j
+robertson edmund f
+karl weierstrass mac tutor history mathematics archive university st andrews
+karl weierstrass mathematics genealogy project digitalized versions weierstrass's original publications freely available online library berlin brandenburgische akademie wissenschaften
+works karl weierstrass project gutenberg works karl weierstrass internet archive vte copley medallists 1851–1900 richard owen 1851 alexander von humboldt 1852 heinrich wilhelm dove 1853 johannes peter müller 1854 léon foucault 1855 henri milne-edwards 1856 michel eugène chevreul 1857 charles lyell 1858 wilhelm eduard weber 1859 robert bunsen 1860 louis agassiz 1861 thomas graham 1862 adam sedgwick 1863 charles darwin 1864 michel chasles 1865 julius plücker 1866 karl ernst von baer 1867 charles wheatstone 1868 henri victor regnault 1869 james prescott joule 1870 julius robert von mayer 1871 friedrich wöhler 1872 hermann von helmholtz 1873 louis pasteur 1874 august wilhelm von hofmann 1875 claude bernard 1876 james dwight dana 1877 jean-baptiste boussingault 1878 rudolf clausius 1879 james joseph sylvester 1880 charles-adolphe wurtz 1881 arthur cayley 1882 william thomson 1883 carl ludwig 1884 friedrich august kekulé von stradonitz 1885 franz ernst neumann 1886 joseph dalton hooker 1887 thomas henry huxley 1888 george salmon 1889 simon newcomb 1890 stanislao cannizzaro 1891 rudolf virchow 1892 george gabriel stokes 1893 edward frankland 1894 karl weierstrass 1895 karl gegenbaur 1896 albert von kölliker 1897 william huggins 1898 john william strutt 1899 marcellin berthelot 1900 1731–1750 1751–1800 1801–1850 1851–1900 1901–1950 1951–2000 2001–present authority control world cat identities viaf 36999173 lccn n84806249 isni 0000 0001 0888 2405 gnd 11876618 x selibr 238824 sudoc 033951403 bnf cb12381741 c data mgp 7486 nla 36508857 nkc mzk2002148067

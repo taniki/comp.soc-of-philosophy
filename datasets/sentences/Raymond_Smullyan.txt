@@ -1,0 +1,74 @@
+article includes list references sources remain unclear because insufficient inline citations
+please help improve article introducing precise citations
+february 2008 raymond merrill smullyan born 1919-05-25 may 25 1919 age 96 far rockaway new york residence united states nationality american fields logic institutions indiana university alma mater university chicago princeton university thesis theory formal systems 1959 doctoral advisor alonzo church raymond merrill smullyan /ˈsmʌli
+ən/ born may 25 1919 american mathematician concert pianist logician taoist philosopher magician
+born far rockaway new york first career stage magic
+then earned bsc university chicago 1955 ph
+princeton university 1959
+many logicians studied under alonzo church
+contents life 2 logic problems 3 philosophy 4 selected publications 4
+logic puzzles 4
+2 philosophy/memoir 4
+3 academic 5 bibliography 6 see also 7 references external links life born far rockaway new york showed musical talent winning gold medal piano competition aged 12
+following year family moved manhattan attended theodore roosevelt high school bronx school offered courses suited musical talents left study own school offer similar courses mathematics
+attended several colleges studying mathematics music
+while ph
+student smullyan published paper 1957 journal symbolic logic showing gödelian incompleteness held formal systems considerably elementary gödel's 1931 landmark paper
+contemporary understanding gödel's theorem dates paper
+smullyan later made compelling case much fascination gödel's theorem should directed tarski's theorem much easier prove equally disturbing philosophically
+smullyan author many books recreational mathematics recreational logic
+most notably titled name book?
+professor philosophy lehman college graduate center city university new york indiana university
+also amateur astronomer using six inch reflecting telescope ground mirror
+logic problems many logic problems extensions classic puzzles
+knights knaves involves knights tell truth knaves lie
+based story two doors two guards lies tells truth
+door leads heaven hell puzzle find out door leads heaven asking guards question
+way ask door other guard say leads hell?
+idea famously used 1986 film labyrinth
+complex puzzles introduces characters may lie tell truth referred normals furthermore instead answering yes no use words mean yes no reader does know word means
+puzzle known hardest logic puzzle ever based these characters themes
+transylvania puzzles half inhabitants insane believe false things whereas other half sane believe true things
+addition humans tell truth vampires lie
+example insane vampire will believe false thing 2 + 2 4 will then lie say false
+sane vampire knows 2 + 2 4 will lie say
+mutatis mutandis humans
+thus everything sane human insane vampire true while everything insane human sane vampire false
+book forever undecided popularizes gödel's incompleteness theorems phrasing them terms reasoners their beliefs rather formal systems proved them
+example native knight/knave island says sufficiently self-aware reasoner you will never believe am knight reasoner cannot believe either native knight knave without becoming inconsistent
+holding two contradictory beliefs
+equivalent theorem any formal system s there exists mathematical statement interpreted statement provable formal system s
+system s consistent neither statement nor opposite will provable
+see also doxastic logic
+inspector craig frequent character smullyan's puzzle-novellas
+generally called scene crime solution mathematical nature
+then through series increasingly harder challenges reader begin understand principles question
+finally novella culminates inspector craig reader solving crime utilizing mathematical logical principles learned
+inspector craig generally does learn formal theory question smullyan usually reserves few chapters after inspector craig adventure illuminate analogy reader
+inspector craig gets name william craig
+book mock mockingbird 1985 recreational introduction subject combinatory logic
+apart writing teaching logic smullyan recently released recording favorite classical piano pieces composers such bach scarlatti schubert
+recordings available piano society website along video rambles reflections music readings
+also written autobiography titled interesting memories paradoxical life
+2001 documentary filmmaker tao ruspoli made film smullyan called film needs no title portrait raymond smullyan
+philosophy section requires expansion
+december 2009 smullyan written several books taoist philosophy believes neatly solves most traditional philosophical problems well integrating mathematics logic philosophy cohesive whole
+selected publications article may require cleanup meet wikipedia's quality standards
+specific problem misleading use links please help improve article you
+october logic puzzles 1978 name book? riddle dracula other logical puzzles - knights knaves other logic puzzles 1979 chess mysteries sherlock holmes - introducing retrograde analysis game chess
+1981 chess mysteries arabian knights - second book retrograde analysis chess problems
+1982 lady tiger? - ladies tigers logic puzzles 1982 alice puzzle-land 1985 mock mockingbird - puzzles based combinatory logic 1987 forever undecided - puzzles based undecidability formal systems 1992 satan cantor infinity 1997 riddle scheherazade 2007 magic garden george
+other logic puzzles polimetrica monza/italy 2009 logical labyrinths k peters 2010 king arthur search dog 2013 godelian puzzle book puzzles paradoxes proofs 2015 magic garden george other logic puzzles philosophy/memoir 1977 tao silent 1980 book needs no title 1983 5000
+other philosophical fantasies 2002 interesting memories paradoxical life 2003 knows? study religious consciousness 2009 rambles through my library praxis international 2015 reflections magic music mathematics raymond smullyan academic 1961 theory formal systems x 1968 first-order logic 1992 gödel's incompleteness theorems 1993 recursion theory metamathematics x 1994 diagonalization self-reference 1996 set theory continuum problem 2014 beginner's guide mathematical logic bibliography god taoist? raymond smullyan 1977
+planet without laughter raymond smullyan 1980
+epistemological nightmare raymond smullyan 1982
+see also mock mockingbird logic paradox lady tiger alice's adventures wonderland references c e f j j o'connor e f robertson april 2002
+smullyan biography
+school mathematical computational sciences university st andrews
+retrieved 5 october 2010
+smullyan r m 2001 gödel's incompleteness theorems goble lou ed
+blackwell guide philosophical logic
+external links wikiquote quotations related raymond smullyan raymond smullyan's website indiana university
+raymond smullyan mac tutor history mathematics archive
+raymond smullyan mathematics genealogy project
+raymond smullyan piano society authority control world cat identities viaf 108832636 lccn n80001012 isni 0000 0001 2147 1432 gnd 115668411 sudoc 02714223 x bnf cb11925051 c data mgp 8027 ndl 00457034 nkc jn19981002143 bne xx998911

@@ -1,0 +1,566 @@
+claude shannon claude elwood shannon 1916–2001 born 1916-04-30 april 30 1916 petoskey michigan u
+died february 24 20012001-02-24 aged 84 medford massachusetts u
+residence united states nationality american fields mathematics electronic engineering institutions bell labs mitinstitute advanced study alma mater university michigan mittheses symbolic analysis relay switching circuits 1940 algebra theoretical genetics 1940 doctoral advisor frank lauren hitchcock doctoral students danny hillis ivan sutherland bert sutherland heinrich arnold ernst known information theory mathematical theory communication symbolic analysis relay switching circuits beta distribution binary code block cipher boolean algebra channel capacity computer chess data compression digital electronics digital revolution digital subscriber line edge coloring entropy information theory entropy information theory entropy power inequality error-correcting codes feedback evaluation function financial signal processing information processing information-theoretic security innovation signal processing key size logic gate logic synthesis models communication n-gram noisy channel coding theorem nyquist–shannon sampling theorem one-time pad product cipher pulse-code modulation rate–distortion theory sampling shannon–fano coding shannon–hartley law shannon capacity shannon entropy shannon's expansion shannon index shannon's maxim shannon multigraph shannon number shannon security shannon's source coding theorem shannon switching game shannon-weaver model communication stream cipher switching circuit theory symbolic dynamics uncertainty coefficient units information useless machine wearable computer whittaker–shannon interpolation formula game notable awards stuart ballantine medal 1955 ieee medal honor 1966 national medal science 1966 harvey prize 1972 claude e
+shannon award 1972 harold pender award 1978 john fritz medal 1983 kyoto prize 1985 national inventors hall fame 2004 claude elwood shannon april 30 1916 february 24 2001 american mathematician electrical engineer cryptographer known father information theory
+shannon famous having founded information theory landmark paper published 1948
+perhaps equally well known founding both digital computer digital circuit design theory 1937 21-year-old master's degree student massachusetts institute technology mit thesis demonstrating electrical applications boolean algebra construct any logical numerical relationship
+shannon contributed field cryptanalysis national defense during world war ii including basic work codebreaking secure telecommunications
+contents biography
+boolean theory beyond
+2 wartime research
+3 postwar contributions
+4 hobbies inventions
+5 legacy tributes 2 other work 2
+shannon's mouse 2
+2 shannon's computer chess program 2
+3 las vegas connection information theory applications game theory 2
+4 shannon's maxim 3 commemorations 3
+shannon centenary 4 awards honors list 5 see also 6 references 7 further reading external links biography shannon born petoskey michigan grew up gaylord michigan
+father claude sr
+1862–1934 descendant early settlers new jersey self-made businessman while judge probate
+shannon's mother mabel wolf shannon 1890–1945 language teacher number years she principal gaylord high school
+most first 16 years shannon's life spent gaylord attended public school graduating gaylord high school 1932
+shannon showed inclination towards mechanical electrical things
+best subjects science mathematics home constructed such devices models planes radio-controlled model boat wireless telegraph system friend's house half-mile away
+while growing up also worked messenger western union company
+childhood hero thomas edison whom later learned distant cousin
+both descendants john ogden 1609–1682 colonial leader ancestor many distinguished people
+shannon apolitical atheist
+boolean theory beyond 1932 shannon entered university michigan took course introduced work george boole
+graduated 1936 two bachelor's degrees electrical engineering mathematics
+soon began graduate studies electrical engineering massachusetts institute technology mit worked vannevar bush's differential analyzer early analog computer
+while studying complicated ad hoc circuits differential analyzer shannon saw boole's concepts great utility
+paper drawn 1937 master's degree thesis symbolic analysis relay switching circuits published 1938 issue transactions american institute electrical engineers
+also earned shannon alfred noble american institute american engineers award 1939
+howard gardner called shannon's thesis possibly most important also most famous master's thesis century
+victor shestakov moscow state university proposed theory systems electrical switches based boolean logic earlier shannon 1935 first publication shestakov's result 1941 after publication shannon's thesis united states
+work shannon proved switching circuits used simplify arrangement electromechanical relays used then telephone call routing switches
+next expanded concept proving these circuits solve problems boolean algebra solve
+last chapter diagrams several circuits including 4-bit full adder
+central circuit digital computers
+using property electrical switches implement logic fundamental concept underlies electronic digital computers
+shannon's work became foundation digital circuit design became widely known electrical engineering community during after world war ii
+theoretical rigor shannon's work superseded ad hoc methods prevailed previously
+through carnegie institution vannevar bush suggested shannon emboldened master's thesis success should work dissertation cold spring harbor laboratory order develop similar mathematical relationships quantifying mendelian genetics
+research resulted shannon's doctor philosophy ph
+thesis mit 1940 called algebra theoretical genetics
+1940 shannon became national research fellow institute advanced study princeton new jersey
+princeton shannon opportunity discuss ideas influential scientists mathematicians such hermann weyl john von neumann also occasional encounters albert einstein kurt gödel
+shannon worked freely across disciplines ability may contributed later development mathematical information theory
+wartime research shannon then joined bell labs work fire-control systems cryptography during world war ii under contract section d-2 control systems section national defense research committee ndrc
+shannon met wife betty she numerical analyst bell labs
+married 1949
+shannon credited invention signal-flow graphs 1942
+discovered topological gain formula while investigating functional operation analog computer
+two months early 1943 shannon came contact leading british cryptanalyst mathematician alan turing
+turing posted washington share u
+navy's cryptanalytic service methods used british government code cypher school bletchley park break ciphers used kriegsmarine u-boats north atlantic ocean
+also interested encipherment speech end spent time bell labs
+shannon turing met teatime cafeteria
+turing showed shannon 1936 paper defined now known universal turing machine impressed shannon many ideas complemented own
+1945 war coming end ndrc issuing summary technical reports last step prior eventual closing down
+inside volume fire control special essay titled data smoothing prediction fire-control systems coauthored shannon ralph beebe blackman hendrik wade bode formally treated problem smoothing data fire-control analogy problem separating signal interfering noise communications systems
+other words modeled problem terms data signal processing thus heralded coming information age
+shannon's work cryptography even closely related later publications communication theory
+close war prepared classified memorandum bell telephone labs entitled mathematical theory cryptography dated september 1945
+declassified version paper published 1949 communication theory secrecy systems bell system technical journal
+paper incorporated many concepts mathematical formulations also appeared mathematical theory communication
+shannon wartime insights communication theory cryptography developed simultaneously close together you couldn’t separate them
+footnote near beginning classified report shannon announced intention develop these results
+forthcoming memorandum transmission information
+while bell labs shannon proved cryptographic one-time pad unbreakable classified research later published october 1949
+also proved any unbreakable system must essentially same characteristics one-time pad key must truly random large plaintext never reused whole part kept secret
+later american venona project supposed one-time pad system soviets partially broken national security agency because misuses one-time pads soviet cryptographic technicians united states canada
+soviet technicians made mistake using same pads once sometimes noticed american cryptanalysts
+postwar contributions 1948 promised memorandum appeared mathematical theory communication article two parts july october issues bell system technical journal
+work focuses problem how best encode information sender wants transmit
+fundamental work used tools probability theory developed norbert wiener their nascent stages being applied communication theory time
+shannon developed information entropy measure uncertainty message while essentially inventing field information theory
+book co-authored warren weaver mathematical theory communication reprints shannon's 1948 article weaver's popularization accessible non-specialist
+warren weaver pointed out word information communication theory related you say you say
+information measure one's freedom choice selects message
+shannon's concepts also popularized subject own proofreading john robinson pierce's symbols signals noise
+information theory's fundamental contribution natural language processing computational linguistics further established 1951 article prediction entropy printed english showing upper lower bounds entropy statistics english giving statistical foundation language analysis
+addition proved treating whitespace 27 th letter alphabet actually lowers uncertainty written language providing clear quantifiable link cultural practice probabilistic cognition
+another notable paper published 1949 communication theory secrecy systems declassified version wartime work mathematical theory cryptography proved theoretically unbreakable ciphers must same requirements one-time pad
+also credited introduction sampling theory concerned representing continuous-time signal uniform discrete set samples
+theory essential enabling telecommunications move analog digital transmissions systems 1960 s later
+returned mit hold endowed chair 1956
+hobbies inventions minivac 601 digital computer trainer designed shannon
+outside academic pursuits shannon interested juggling see robot juggling unicycling chess
+also invented many devices including rocket-powered flying discs motorized pogo stick flame-throwing trumpet science exhibition[citation needed]
+humorous devices box kept desk called ultimate machine based idea marvin minsky
+otherwise featureless box possessed single switch side
+switch flipped lid box opened mechanical hand reached out flipped off switch then retracted back inside box
+renewed interest ultimate machine emerged you tube thingiverse
+addition built device solve rubik's cube puzzle
+shannon designed minivac 601 digital computer trainer teach business people how computers functioned
+sold scientific development corp starting 1961
+also considered co-inventor first wearable computer along edward o
+device used improve odds playing roulette
+legacy tributes shannon came mit 1956 join faculty conduct work research laboratory electronics rle
+continued serve mit faculty until 1978
+commemorate achievements there celebrations work 2001 there currently six statues shannon sculpted eugene l
+daub university michigan mit laboratory information decision systems gaylord michigan university california san diego bell labs another at&t shannon labs
+after breakup bell system part bell labs remained at&t corporation named shannon labs honor
+according neil sloane at&t fellow co-edited shannon's large collection papers 1993 perspective introduced shannon's communication theory now called information theory foundation digital revolution every device containing microprocessor microcontroller conceptual descendant shannon's publication 1948 he's great men century
+without none things know today exist
+whole digital revolution started
+unit shannon named after claude shannon
+shannon three children robert james shannon andrew moore shannon margarita shannon
+oldest son robert shannon died years old 1998
+shannon developed alzheimer's disease eventually died 2001
+last few years spent nursing home massachusetts oblivious marvels digital revolution helped create
+survived wife mary elizabeth moore shannon son andrew moore shannon daughter margarita shannon sister catherine shannon kay two granddaughters
+wife stated obituary alzheimer's disease bemused
+other work shannon famous electromechanical mouse theseus named after theseus greek mythology tried solve maze first experiments artificial intelligence
+shannon's mouse theseus created 1950 magnetic mouse controlled relay circuit enabled move around maze 25 squares
+dimensions same those average mouse
+maze configuration flexible modified will
+mouse designed search through corridors until found target
+having travelled through maze mouse then placed anywhere before because prior experience go directly target
+placed unfamiliar territory programmed search until reached known location then proceed target adding new knowledge memory thus learning
+shannon's mouse appears first artificial learning device kind
+shannon's computer chess program 1950 shannon published paper computer chess entitled programming computer playing chess
+describes how machine computer made play reasonable game chess
+process having computer decide move make minimax procedure based evaluation function given chess position
+shannon gave rough example evaluation function value black position subtracted white position
+material counted according usual chess piece relative value point pawn 3 points knight bishop 5 points rook 9 points queen
+considered positional factors subtracting ½ point each doubled pawns backward pawn isolated pawn
+another positional factor evaluation function mobility adding 0
+point each legal move available
+finally considered checkmate capture king gave king artificial value 200 points
+quoting paper coefficients
+merely writer's rough estimate
+furthermore there many other terms should included
+formula given illustrative purposes
+checkmate artificially included here giving king large value 200 anything greater maximum other terms
+evaluation function clearly illustrative purposes shannon stated
+example according function pawns doubled well isolated no value clearly unrealistic
+las vegas connection information theory applications game theory shannon wife betty also used go weekends las vegas mit mathematician ed thorp made very successful forays blackjack using game theory type methods co-developed fellow bell labs associate john l
+kelly jr
+physicist based principles information theory
+method known high-low method level count methodology works adding 0 -1 depending cards appear
+shannon thorp also invented small concealable computer help them calculate odds while gambling
+made fortune detailed book fortune's formula william poundstone corroborated writings elwyn berlekamp kelly's research assistant 1960 1962
+shannon thorp also applied same theory later known kelly criterion stock market even better results
+claude shannon's card count techniques explained bringing down house best-selling book published 2003 mit blackjack team ben mezrich
+2008 book adapted drama film titled 21
+shannon's maxim shannon formulated version kerckhoffs' principle enemy knows system
+form known shannon's maxim
+commemorations shannon centenary claude shannon centenary shannon centenary 2016 marks life influence claude elwood shannon hundredth anniversary birth 30 april 1916
+inspired part alan turing year
+ad hoc committee ieee information theory society including christina fragouli rüdiger urbanke michelle effros lav varshney sergio verdú coordinating worldwide events
+initiative announced history panel 2015 ieee information theory workshop jerusalem ieee information theory society newsletter
+detailed listing confirmed events available website ieee information theory society
+planned activities include bell labs will host first shannon conference future information age april 28 29 2016 murray hill nj celebrate claude shannon continued impact legacy society
+event includes keynote speeches global luminaries visionaries information age will explore impact information theory society our digital future informal recollections leading technical presentations subsequent related work other areas such bioinformatics economic systems social networks
+there also student competition bell labs will launch web exhibit april 30 2016 chronicling shannon's hiring bell labs under ndrc contract us government subsequent work there 1942 through 1957 details mathematics department
+exhibit will also display bios colleagues managers during tenure well original versions technical memoranda subsequently became well known published form
+republic macedonia planning commemorative stamp
+usps commemorative stamp being proposed active petition
+documentary claude shannon impact information theory being produced sergio verdú mark levinson
+trans-atlantic celebration both george boole's bicentenary claude shannon's centenary being led university college cork massachusetts institute technology
+first event workshop cork boole meets shannon will continue exhibits boston museum science mit museum
+many organizations around world holding observance events including boston museum science heinz-nixdorf museum institute advanced study technische universität berlin university south australia uni sa unicamp universidade estadual de campinas university toronto chinese university hong kong cairo university telecom paris tech national technical university athens indian institute science indian institute technology bombay nanyang technological university university maryland university illinois chicago école polytechnique federale de lausanne pennsylvania state university penn state university california los angeles massachusetts institute technology university illinois urbana-champaign
+series geocaches dedicated work claude shannon going deployed munich germany
+first cache already placed
+logo appears page crowdsourced crowdspring
+awards honors list alfred noble prize 1939 award civil engineering societies us morris liebmann memorial prize institute radio engineers 1949 yale university master science 1954 stuart ballantine medal franklin institute 1955 research corporation award 1956 university michigan honorary doctorate 1961 rice university medal honor 1962 princeton university honorary doctorate 1962 marvin j
+kelly award 1962 university edinburgh honorary doctorate 1964 university pittsburgh honorary doctorate 1964 medal honor institute electrical electronics engineers 1966 national medal science 1966 presented president lyndon
+johnson golden plate award 1967 northwestern university honorary doctorate 1970 harvey prize technion haifa israel 1972 royal netherlands academy arts sciences knaw foreign member 1975 university oxford honorary doctorate 1978 joseph jacquard award 1978 harold pender award 1978 university east anglia honorary doctorate 1982 carnegie mellon university honorary doctorate 1984 audio engineering society gold medal 1985 kyoto prize 1985 tufts university honorary doctorate 1987 university pennsylvania honorary doctorate basic research award eduard rhein foundation germany national inventors hall fame inducted 2004 see also systems science portal channel capacity claude e
+shannon award confusion diffusion information entropy information theory noisy channel coding theorem nyquist–shannon sampling theorem one-time pad rate distortion theory shannon index shannon number shannon switching game shannon–fano coding shannon–hartley theorem shannon's expansion shannon's source coding theorem signal-flow graph references james
+claude elwood shannon 30 april 1916 -- 24 february 2001
+biographical memoirs fellows royal society 55 257–265
+c e bell labs advances intelligent networks
+archived original july
+poundstone william 2005
+fortune's formula untold story scientific betting system beat casinos wall street
+hill & wang
+claude shannon
+retrieved september 10 2014
+mit professor claude shannon dies founder digital communications mit — news office cambridge massachusetts february 27 2001 claude elwood shannon collected papers edited n
+sloane aaron
+wyner ieee press william poundstone 2010
+fortune's formula untold story scientific betting system
+shannon described himself atheist outwardly apolitical
+|access-date= requires |url= help robert price 1982
+claude e
+shannon oral history
+ieee global history network
+retrieved july 14 2011
+claude shannon symbolic analysis relay switching circuits unpublished ms thesis massachusetts institute technology august 10 1937
+shannon c
+symbolic analysis relay switching circuits
+aiee 57 12 713–723
+gardner howard 1987
+mind's new science history cognitive revolution
+basic books
+shannon algebra theoretical genetics ph
+thesis massachusetts institute technology 1940 mit-theses//1940–3 online text mit — contains biography p
+erico marui guizzo “the essential message claude shannon making information theory” m
+thesis massachusetts institute technology dept
+humanities program writing humanistic studies 2003 14
+shannon claude elwood 1916-2001 -- eric weisstein's world scientific biography
+okrent howard mc namee lawrence p
+3 flowgraph theory
+nasap-70 user's programmer's manual pdf
+los angeles california school engineering applied science university california los angeles
+retrieved 2016-03-04
+hodges andrew 1992 alan turing enigma london vintage pp
+243–252 978-0-09-911641-7 turing
+1936 computable numbers application entscheidungsproblem proceedings london mathematical society 2 1937 42 pp
+230–65 doi10
+230 turing
+1938 computable numbers application entscheidungsproblem correction proceedings london mathematical society 2 1937 43 6 pp
+544–6 doi10
+544 david
+mindell human machine feedback control computing before cybernetics baltimore johns hopkins university press 2004 pp
+david kahn codebreakers rev
+new york simon schuster 1996 pp
+quoted kahn codebreakers p
+quoted erico marui guizzo essential message claude shannon making information theory unpublished ms thesis massachusetts institute technology 2003 p
+archived may 28 2008 wayback machine
+shannon claude 1949
+communication theory secrecy systems
+bell system technical journal 28 4 656–715
+invention first wearable computer online paper edward o
+thorp edward o
+thorp & associates claude shannon statue dedications
+shannon mathematical theory communication
+bell system technical journal vol
+27 pp
+379–423 623–656 july october 1948 bell labs digital guru dead 84 — pioneer scientist led high-tech revolution star-ledger obituary kevin coughlin february 27 2001 claude shannon - computer science theory
+hamid reza ekbia 2008 artificial dreams quest non-biological intelligence cambridge university press p
+46 978-0-521-87867-8 american scientist online bettor math article book review elwyn berlekamp john kelly jr
+bennett william
+odds gambling
+retrieved april 21 2014
+vancura olaf 1998
+knock-out blackjack easiest card-counting system ever devised
+huntington press inc
+edward thorp - inventor card counting
+retrieved april 21 2014
+elwyn berlekamp kelly's research assistant bio details william poundstone - author site
+org/publications/newsletters/june-2015-issue/at_download/file videos
+sergio verdú
+org/publications/newsletters/september-2014-issue-1/at_download/file shannon centenary
+shannon's centenary us postal stamp
+-george boole 200-conferences
+compute communicate - boole/shannon celebration
+gc6 acqe shanniversary #1 information theory de/en traditional cache bayern germany created sigurd_fjoelskaldr
+crowd spring
+ieee morris n
+liebmann memorial award recipients pdf
+archived original pdf 2016-03-03
+retrieved february 27 2011
+ieee medal honor recipients pdf
+archived original pdf 2015-04-22
+retrieved february 27 2011
+shannon 1916 - 2001
+royal netherlands academy arts sciences
+retrieved 17 july 2015
+award winners chronological
+eduard rhein foundation
+retrieved february 20 2011
+further reading claude e
+shannon mathematical theory communication bell system technical journal vol
+27 pp
+379–423 623–656 1948
+claude e
+shannon warren weaver mathematical theory communication
+university illinois press urbana illinois 1949
+rethnakaran pulikkoonattu — eric w
+weisstein mathworld biography shannon claude elwood 1916–2001 claude e
+shannon programming computer playing chess philosophical magazine ser
+7 vol
+41 no
+314 march 1950
+available online under external links below david levy computer gamesmanship elements intelligent game design simon & schuster 1983
+mindell david
+automation's finest hour bell labs automatic control world war ii ieee control systems december 1995 pp
+david mindell jérôme segal slava gerovitch communications engineering communications science cybernetics information theory united states france soviet union walker mark ed
+science ideology comparative history routledge london 2003 pp
+poundstone william fortune's formula hill & wang 2005 gleick james information history theory flood pantheon 2011 external links wikiquote quotations related claude elwood shannon register papers library congress vte ieee medal honor1951–1975 vladimir zworykin 1951 walter r
+baker 1952 john m
+miller 1953 william l
+everitt 1954 harald t
+friis 1955 john v
+hogan 1956 julius adams stratton 1957 albert hull 1958 emory leon chaffee 1959 harry nyquist 1960 ernst
+guillemin 1961 edward victor appleton 1962 george c
+southworth 1963 john hays hammond jr
+1963 harold
+wheeler 1964 claude shannon 1966 charles h
+townes 1967 gordon k
+teal 1968 edward ginzton 1969 dennis gabor 1970 john bardeen 1971 jay w
+forester 1972 rudolf kompfner 1973 rudolf kalman 1974 john robinson pierce 1975 complete roster 1917–1925 1926–1950 1951–1975 1976–2000 2001–present vte claude e
+shannon award1972–1989 1972 claude e
+shannon 1973 1974 david s
+slepian 1975 1976 robert m
+fano 1977 peter elias 1978 mark semenovich pinsker 1979 jacob wolfowitz 1980 1981 w
+wesley peterson 1982 irving s
+reed 1983 robert g
+gallager 1984 1985 solomon w
+golomb 1986 william lucas root 1987 1988 james massey 1989 1990–1999 1990 thomas m
+cover andrew viterbi 1992 1993 elwyn berlekamp 1994 aaron
+wyner 1995 george david forney 1996 imre csiszár 1997 jacob ziv 1998 neil sloane 1999 tadao kasami 2000–2009 2000 thomas kailath 2001 jack keil wolf 2002 toby berger 2003 lloyd r
+welch 2004 robert mc eliece 2005 richard blahut 2006 rudolf ahlswede 2007 sergio verdú 2008 robert m
+gray 2009 jorma rissanen 2010–present 2010 te sun han 2011 shlomo shamai shitz abbas el gamal 2013 katalin marton 2014 jános körner 2015 robert calderbank 2016 alexander holevo vte subfields scientists involved cybernetics subfields polycontexturality second-order cybernetics catastrophe theory connectionism control theory decision theory information theory semiotics synergetics biological cybernetics biosemiotics biomedical cybernetics biorobotics computational neuroscience homeostasis management cybernetics medical cybernetics neurocybernetics sociocybernetics emergence artificial intelligence cyberneticists igor aleksander william ross ashby anthony stafford beer claude bernard ludwig von bertalanffy valentin braitenberg gordon s
+brown walter bradford cannon heinz von foerster charles françois jay wright forrester jacque fresco buckminster fuller ernst von glasersfeld pyotr grigorenko francis heylighen erich von holst cliff joslyn stuart kauffman sergei p
+kurdyumov niklas luhmann warren mc culloch humberto maturana talcott parsons gordon pask walter pitts alfred radcliffe-brown robert trappl valentin turchin jakob von uexküll francisco varela frederic vester charles geoffrey vickers stuart umpleby john n
+warfield william grey walter kevin warwick norbert wiener anthony wilden vte systems · systems science systemstypes anatomical art biological complex complex adaptive conceptual coupled human–environment database dynamical ecological economic formal global positioning holarchic information legal measurement metric multi-agent nervous nonlinear operating physical planetary political sensory social star writing theoreticalfields chaos theory complex systems control theory cybernetics earth system science living systems sociotechnical system systemics urban metabolism world-systems theory systems
+analysis biology dynamics ecology engineering neuroscience psychology science theory thinking systemsscientists russell l
+ackoff william ross ashby béla h
+bánáthy gregory bateson anthony stafford beer richard e
+bellman ludwig von bertalanffy kenneth e
+boulding murray bowen c
+west churchman george dantzig heinz von foerster jay wright forrester charles s hall james j
+kay george klir edward norton lorenz niklas luhmann humberto maturana margaret mead donella meadows mihajlo
+mesarovic james grier miller howard t
+odum talcott parsons ilya prigogine qian xuesen anatol rapoport peter senge claude shannon francisco varela kevin warwick norbert wiener anthony wilden categories systems conceptual physical social systems science systems science portal vte united states national medal science laureates behavioral social science1960 s 1964 roger adams othmar h
+ammann theodosius dobzhansky neal elgar miller 1980 s 1986 herbert
+simon 1987 anne anastasi george j
+stigler 1988 milton friedman 1990 s 1990 leonid hurwicz patrick suppes robert w
+kates george
+miller 1992 eleanor j
+gibson 1994 robert k
+merton 1995 roger n
+shepard 1996 paul samuelson 1997 william k
+estes 1998 william julius wilson 1999 robert m
+solow 2000 s 2000 gary becker 2001 george bass 2003 r
+duncan luce 2004 kenneth arrow 2005 gordon h
+bower 2008 michael
+posner 2009 mortimer mishkin 2010 s 2011 anne treisman 2014 robert axelrod biological sciences1960 s 1963 c
+van niel 1964 marshall w
+nirenberg 1965 francis p
+rous george g
+simpson donald
+van slyke 1966 edward f
+knipling fritz albert lipmann william c
+rose sewall wright 1967 kenneth s
+cole harry f
+harlow michael heidelberger alfred h
+sturtevant 1968 horace barker bernard
+brodie detlev w
+bronk jay lush burrhus frederic skinner 1969 robert huebner ernst mayr 1970 s 1970 barbara mc clintock albert
+sabin 1973 daniel
+arnon earl w
+sutherland jr
+1974 britton chance erwin chargaff james v
+neel james augustine shannon 1975 hallowell davis paul gyorgy sterling
+hendricks orville lvin vogel 1976 roger guillemin keith roberts porter efraim racker e
+wilson 1979 robert h
+burris elizabeth c
+crosby arthur kornberg severo ochoa earl reece stadtman george ledyard stebbins paul alfred weiss 1980 s 1981 philip handler 1982 seymour benzer glenn w
+burton mildred cohn 1983 howard l
+bachrach paul berg wendell l
+roelofs berta scharrer 1986 stanley cohen donald
+henderson vernon
+mountcastle george emil palade joan
+steitz 1987 michael e
+de bakey theodor o
+diener harry eagle har gobind khorana rita levi-montalcini 1988 michael s
+brown stanley norman cohen joseph l
+goldstein maurice r
+hilleman eric r
+kandel rosalyn sussman yalow 1989 katherine esau viktor hamburger philip leder joshua lederberg roger w
+sperry harland g
+wood 1990 s 1990 baruj benacerraf herbert w
+boyer daniel e
+koshland jr
+lewis david g
+nathan e
+donnall thomas mary ellen avery g
+evelyn hutchinson elvin
+kabat salvador luria paul
+marks folke k
+skoog paul c
+zamecnik 1992 maxine singer howard martin temin 1993 daniel nathans salome g
+waelsch 1994 thomas eisner elizabeth f
+neufeld 1995 alexander rich 1996 ruth patrick 1997 james watson robert
+weinberg 1998 bruce ames janet rowley 1999 david baltimore jared diamond lynn margulis 2000 s 2000 nancy c
+andreasen peter h
+raven carl woese 2001 francisco j
+ayala mario r
+capecchi ann graybiel gene e
+likens victor
+mc kusick harold varmus 2002 james e
+darnell evelyn m
+witkin 2003 j
+michael bishop solomon h
+snyder charles yanofsky 2004 norman e
+borlaug phillip
+sharp thomas e
+starzl 2005 anthony s
+fauci torsten n
+wiesel 2006 rita r
+colwell nina fedoroff lubert stryer 2007 robert j
+lefkowitz bert w
+o'malley 2008 francis s
+collins elaine fuchs j
+craig venter 2009 susan l
+lindquist stanley
+prusiner 2010 s 2010 ralph l
+brinster shu chien rudolf jaenisch 2011 lucy shapiro leroy hood sallie chisholm 2014 may berenbaum bruce alberts chemistry1980 s 1982 f
+albert cotton gilbert stork 1983 roald hoffmann george c
+pimentel richard n
+zare 1986 harry
+gray yuan tseh lee carl s
+marvel frank h
+westheimer 1987 william s
+johnson walter h
+stockmayer max tishler 1988 william o
+baker konrad e
+bloch elias j
+corey 1989 richard
+bernstein melvin calvin rudolph
+marcus harden m
+mc connell 1990 s 1990 elkan blout karl folkers john
+roberts ronald breslow gertrude
+elion dudley r
+herschbach glenn t
+seaborg 1992 howard e
+simmons jr
+1993 donald j
+cram norman hackerman 1994 george s
+hammond 1995 thomas cech isabella l
+karle 1996 norman davidson 1997 darleane c
+hoffman harold s
+johnston 1998 john w
+cahn george m
+whitesides 1999 stuart
+rice john ross susan solomon 2000 s 2000 john
+baldeschwieler ralph f
+hirschmann 2001 ernest r
+davidson gábor
+somorjai 2002 john
+brauman 2004 stephen j
+lippard 2006 marvin h
+caruthers peter
+dervan 2007 mostafa
+el-sayed 2008 joanna fowler jo anne stubbe 2009 stephen j
+benkovic marye anne fox 2010 s 2010 jacqueline k
+barton peter j
+stang 2011 allen j
+bard m
+frederick hawthorne 2014 judith p
+klinman jerrold meinwald 2015 geraldine l
+richmond engineering sciences1960 s 1962 theodore von kármán 1963 vannevar bush john robinson pierce 1964 charles s
+draper 1965 hugh l
+dryden clarence l
+johnson warren k
+lewis 1966 claude e
+shannon 1967 edwin h
+land igor
+sikorsky 1968 j
+presper eckert nathan m
+newmark 1969 jack st
+clair kilby 1970 s 1970 george e
+mueller 1973 harold e
+edgerton richard t
+whitcomb 1974 rudolf kompfner ralph brazelton peck abel wolman 1975 manson benedict william hayward pickering frederick e
+terman wernher von braun 1976 morris cohen peter c
+goldmark erwin wilhelm müller 1979 emmett n
+leith raymond
+mindlin robert n
+noyce earl r
+parker simon ramo 1980 s 1982 edward h
+heinemann donald l
+katz 1983 william redington hewlett george m
+low john g
+trump 1986 hans wolfgang liepmann t
+lin bernard m
+oliver 1987 r
+byron bird h
+bolton seed ernst weber 1988 daniel c
+drucker willis m
+hawkins george w
+housner 1989 harry george drickamer herbert e
+grier 1990 s 1990 mildred dresselhaus nick holonyak jr
+george h
+heilmeier luna
+leopold h
+guyford stever 1992 calvin f
+quate john roy whinnery 1993 alfred
+cho 1994 ray w
+clough 1995 hermann
+haus 1996 james l
+flanagan c
+kumar n
+patel 1998 eli ruckenstein 1999 kenneth n
+stevens 2000 s 2000 yuan-cheng
+fung 2001 andreas acrivos 2002 leo beranek 2003 john m
+prausnitz 2004 edwin n
+lightfoot 2005 jan
+achenbach tobin j
+marks 2006 robert s
+langer 2007 david j
+wineland 2008 rudolf e
+kálmán 2009 amnon yariv 2010 s 2011 sidney drell sandra faber sylvester james gates john goodenough mathematical statistical computer sciences1960 s 1963 norbert wiener 1964 solomon lefschetz h
+marston morse 1965 oscar zariski 1966 john milnor 1967 paul cohen 1968 jerzy neyman 1969 william feller 1970 s 1970 richard brauer 1973 john tukey 1974 kurt gödel 1975 john w
+backus shiing-shen chern george dantzig 1976 kurt otto friedrichs hassler whitney 1979 joseph l
+doob donald e
+knuth 1980 s 1982 marshall harvey stone 1983 herman goldstine isadore singer 1986 peter lax antoni zygmund 1987 raoul bott michael freedman 1988 ralph e
+gomory joseph
+keller 1989 samuel karlin saunders mac lane donald c
+spencer 1990 s 1990 george f
+carrier stephen cole kleene john mc carthy alberto calderón 1992 allen newell 1993 martin david kruskal 1994 john cocke 1995 louis nirenberg 1996 richard karp stephen smale 1997 shing-tung yau 1998 cathleen synge morawetz 1999 felix browder ronald r
+coifman 2000 s 2000 john griggs thompson karen k
+uhlenbeck 2001 calyampudi r
+rao elias m
+stein 2002 james g
+glimm 2003 carl r
+de boor 2004 dennis p
+sullivan 2005 bradley efron 2006 hyman bass 2007 leonard kleinrock andrew j
+viterbi 2009 david
+mumford 2010 s 2010 richard
+tapia s
+srinivasa varadhan 2011 solomon golomb barry mazur 2014 alexandre chorin thomas kailath david blackwell physical sciences1960 s 1963 luis w
+alvarez 1964 julian schwinger harold clayton urey robert burns woodward 1965 john bardeen peter debye leon m
+lederman william rubey 1966 jacob bjerknes subrahmanyan chandrasekhar henry eyring john h
+van vleck vladimir k
+zworykin 1967 jesse beams francis birch gregory breit louis hammett george kistiakowsky 1968 paul bartlett herbert friedman lars onsager eugene wigner 1969 herbert c
+brown wolfgang panofsky 1970 s 1970 robert h
+dicke allan r
+sandage john c
+slater john
+wheeler saul winstein 1973 carl djerassi maurice ewing arie jan haagen-smit vladimir haensel frederick seitz robert rathbun wilson 1974 nicolaas bloembergen paul flory william alfred fowler linus carl pauling kenneth sanborn pitzer 1975 hans
+bethe joseph o
+hirschfelder lewis sarett edgar bright wilson chien-shiung wu 1976 samuel goudsmit herbert s
+gutowsky frederick rossini verner suomi henry taube george uhlenbeck 1979 richard p
+feynman herman mark edward m
+purcell john sinfelt lyman spitzer victor f
+weisskopf 1980 s 1982 philip w
+anderson yoichiro nambu edward teller charles h
+townes 1983 e
+margaret burbidge maurice goldhaber helmut landsberg walter munk frederick reines bruno
+rossi j
+robert schrieffer 1986 solomon j
+buchsbaum h
+richard crane herman feshbach robert hofstadter chen-ning yang 1987 philip abelson walter elsasser paul c
+lauterbur george pake james
+van allen 1988
+allan bromley paul ching-wu chu walter kohn norman f
+ramsey jack steinberger 1989 arnold o
+beckman eugene parker robert sharp henry stommel 1990 s 1990 allan m
+cormack edwin m
+mc millan robert pound roger revelle arthur l
+schawlow ed stone steven weinberg 1992 eugene m
+shoemaker 1993 val fitch vera rubin 1994 albert overhauser frank press 1995 hans dehmelt peter goldreich 1996 wallace s
+broecker 1997 marshall rosenbluth martin schwarzschild george wetherill 1998 don l
+anderson john n
+bahcall 1999 james cronin leo kadanoff 2000 s 2000 willis e
+lamb jeremiah p
+ostriker gilbert f
+white 2001 marvin l
+cohen raymond davis jr
+charles keeling 2002 richard garwin w
+jason morgan edward witten 2003 g
+brent dalrymple riccardo giacconi 2004 robert n
+clayton 2005 ralph
+alpher lonnie thompson 2006 daniel kleppner 2007 fay ajzenberg-selove charles p
+slichter 2008 berni alder james e
+gunn 2009 yakir aharonov esther m
+conwell warren m
+washington 2010 s 2011 sidney drell 2014 burton richter sean c
+solomon authority control world cat identities viaf 41924253 lccn n92078142 isni 0000 0001 1442 6158 gnd 119110792 sudoc 079695612 bnf cb123963452 data mgp 42920 ndl 00456225 ci nii da01117965

@@ -1,0 +1,130 @@
+george pólya george pólya circa 1973 born 1887-12-13 december 13 1887 budapest austria-hungary died september 7 19851985-09-07 aged 97 palo alto california nationality hungarian –1918 swiss 1918–1947 american 1947–his death fields mathematics institutions eth zürich stanford university alma mater eötvös loránd university doctoral advisor lipót fejér doctoral students albert edrei hans einstein fritz gassmann albert pfluger walter saxer james j
+stoker known how solve multivariate pólya distribution pólya conjecture pólya enumeration theorem landau–kolmogorov inequality pólya–vinogradov inequality pólya inequality pólya–aeppli distribution pólya urn model fueter–pólya theorem george pólya /ˈpoʊl
+jə/ hungarian pólya györgy pronounced [ˈpoːjɒ ˈɟørɟ] december 13 1887 september 7 1985 hungarian mathematician
+professor mathematics 1914 1940 eth zürich 1940 1953 stanford university
+made fundamental contributions combinatorics number theory numerical analysis probability theory
+also noted work heuristics mathematics education
+contents life works 2 heuristics 3 legacy 4 selected publications 4
+books 4
+2 articles 5 see also 6 references 7 external links life works born pólya györgy budapest austria-hungary anna deutsch jakab pólya roman catholics converted judaism 1886
+although parents religious baptized roman catholic church george pólya grew up agnostic
+professor mathematics 1914 1940 eth zürich switzerland 1940 1953 stanford university
+remained stanford professor emeritus rest life career
+worked range mathematical topics including series number theory mathematical analysis geometry algebra combinatorics probability
+died palo alto california usa
+heuristics early career pólya gábor szegő two influential problem books problems theorems analysis series integral calculus theory functions ii theory functions
+number theory
+later career spent considerable effort identify systematic methods problem-solving further discovery invention mathematics students teachers researchers
+five books subject how solve mathematics plausible reasoning volume induction analogy mathematics volume ii patterns plausible inference mathematical discovery understanding learning teaching problem solving volumes 2
+how solve pólya provides general heuristics solving gamut problems including both mathematical non-mathematical problems
+book includes advice teaching students mathematics mini-encyclopedia heuristic terms
+translated several languages sold over million copies
+russian physicist zhores
+alfyorov nobel laureate 2000 praised noting fan
+american mathematician terry tao used book prepare imo
+book still used mathematical education
+douglas lenat's automated mathematician eurisko artificial intelligence programs inspired pólya's work
+addition works directly addressing problem solving pólya another short book called mathematical methods science based 1963 work supported national science foundation edited leon bowden published mathematical association america maa 1977
+pólya notes preface professor bowden carefully followed tape recording course pólya gave several times stanford order put book together
+pólya notes preface following pages will useful yet should regarded finished expression
+legacy there three prizes whose names confused another named after pólya
+1969 society industrial applied mathematics siam established george pólya prize given alternately two categories notable application combinatorial theory notable contribution another area interest george pólya
+1976 mathematical association america maa established george pólya award articles expository excellence published college mathematics journal
+1987 london mathematical society lms established pólya prize outstanding creativity imaginative exposition distinguished contribution mathematics within united kingdom
+mathematics center named pólya's honor university idaho moscow idaho
+mathematics center focuses mainly tutoring students subjects algebra calculus
+selected publications books aufgaben und lehrsätze aus analysis st edn
+problems theorems analysis“
+springer berlin 1975 gábor szegő
+1975 4 th edn
+funktionentheorie nullstellen polynome determinanten zahlentheorie
+1975 4 th edn
+mathematik und plausibles schliessen
+birkhäuser basel 1988 induktion und analogie mathematik 3 rd edn
+wissenschaft und kultur 14
+typen und strukturen plausibler folgerung 2 nd edn
+wissenschaft und kultur 15
+- english translation mathematics plausible reasoning princeton university press 1954 2 volumes vol
+induction analogy mathematics vol
+2 patterns plausible inference schule des denkens
+vom lösen mathematischer probleme how solve it“
+4 th edn
+francke verlag tübingen 1995 sammlung dalp
+- english translation how solve princeton university press 2004 foreword john horton conway added exercises vom lösen mathematischer aufgaben
+2 nd edn
+birkhäuser basel 1983 wissenschaft und kultur 21
+- english translation mathematical discovery understanding learning teaching problem solving 2 volumes wiley 1962 published vol
+1981 collected papers 4 volumes mit press 1974 ed
+ralph p
+singularities analytic functions vol
+2 location zeros vol
+3 analysis vol
+4 probability combinatorics r
+read combinatorial enumeration groups graphs chemical compounds springer verlag 1987 english translation kombinatorische anzahlbestimmungen für gruppen graphen und chemische verbindungen acta mathematica vol
+68 1937 pp
+145-254 godfrey harold hardy john edensor littlewood inequalities cambridge university press 1934 mathematical methods science maa washington
+1977 ed
+leon bowden gordon latta complex variables wiley 1974 robert e
+tarjan donald r
+woods notes introductory combinatorics birkhäuser 1983 jeremy kilpatrick stanford mathematics problem book hints solutions new york teachers college press 1974 several co-authors applied combinatorical mathematics wiley 1964 ed
+edwin f
+beckenbach gábor szegő isoperimetric inequalities mathematical physics princeton annals mathematical studies 27 1951 articles mean-value theorem corresponding given linear homogeneous differential equation
+soc 24 4 312–324
+mr 1501228
+functions whose derivatives vanish given interval
+proc natl acad sci u s 27 4 216–218
+pmc 1078308
+pmid 16578010
+sur l'existence de fonctions entières satisfaint à certaines conditions linéaires
+50 129–139
+mr 0004304
+ralph p
+boas jr
+generalizations completely convex functions
+proc natl acad sci u s 27 6 323–325
+pmc 1078330
+pmid 16588467
+converse gap theorems
+52 65–71
+mr 0006577
+norbert wiener oscillation derivatives periodic function
+52 2 249–256
+mr 0007169
+zeros derivative function analytic character
+49 part 3 178–191
+mr 0007781
+minimum problem motion solid through fluid
+proc natl acad sci u s 33 7 218–221
+pmc 1079030
+pmid 16588747
+remark weyl's note inequalities two kinds eigenvalues linear transformation
+proc natl acad sci u s 36 49–51
+pmc 1063130
+pmid 16588947
+see also landau–kolmogorov inequality multivariate pólya distribution pólya conjecture polya distribution pólya enumeration theorem pólya–vinogradov inequality pólya inequality polya urn model pólya's proof there no horse different color references george polya swiss historic lexicon
+alexanderson gerald l
+random walks george pólya
+washington dc mathematical association america
+html harold
+taylor loretta taylor 1993
+george pólya master discovery 1887-1985
+dale seymour publications
+plancherel military man colonel swiss army devout catholic pólya like military ceremonies activities agnostic objected hierarchical religions
+wayne 1995
+faces mathematics third edition
+new york ny usa harper collins college publishers
+schoenfeld alan h
+december 1987
+pólya problem solving education
+mathematics magazine mathematics magazine vol
+60 no
+5 60 5 283–291
+jstor 2690409
+society industrial applied mathematics george pólya prize mathematical association america george pólya award london mathematical society polya prize university idaho polya center tamarkin j
+review aufgaben und lehrsätze aus analysis vols
+& 2 george pólya gábor szegő pdf
+34 2 233–234
+external links wikiquote quotations related george pólya george pólya award o'connor john j
+robertson edmund f
+george pólya mac tutor history mathematics archive university st andrews
+george pólya mathematics genealogy project george pólya gábor szegö problems theorems analysis 1998 polya power—an introduction polya's heuristics wayback machine archived july 28 2009 george pólya uiuc's wik ed memorial resolution george pólya — biographical memoirs national academy sciences polya guessing vimeo authority control world cat identities viaf 120727470 lccn n80049669 gnd 118825321 sudoc 02957644 x bnf cb121173083 data hds 31613 mgp 13648 nkc jx20050425007

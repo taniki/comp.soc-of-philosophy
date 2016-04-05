@@ -1,0 +1,116 @@
+jan łukasiewicz 1935 born december 21 1878 lwów galicia austria-hungary died february 13 19561956-02-13 aged 77 dublin ireland nationality polish alma mater lwów university occupation philosopher logician professor known polish notation jan łukasiewicz polish [ˈjan wukaˈɕɛvʲitʂ] 21 december 1878 13 february 1956 polish logician philosopher born lwów before polish partitions poland galicia then austria-hungary
+work centred analytical philosophy mathematical logic history logic
+thought innovatively traditional propositional logic principle non-contradiction law excluded middle
+modern work aristotle's logic builds tradition started 1951 establishment łukasiewicz revolutionary paradigm
+łukasiewicz approach reinvigorated early 1970 s series papers john corcoran timothy smiley—which inform modern translations prior analytics robin smith 1989 gisela striker 2009
+łukasiewicz still regarded most important historians logic
+contents life 2 work 3 recognition 4 chronology 5 selected works 5
+books 5
+2 papers 6 see also 7 notes references 9 further reading 10 external links life grew up lwów child paweł łukasiewicz captain austrian army leopoldina née holtzer daughter civil servant
+family roman catholic
+finished gymnasium studies philology 1897 went lwów university before polish partitions poland studied philosophy mathematics
+philosophy pupil kazimierz twardowski
+1902 received doctor philosophy degree under patronage emperor franz joseph austria gave special doctor ring diamonds
+spent three years private teacher 1905 received scholarship complete philosophical studies university berlin university louvain belgium
+łukasiewicz continued studying habilitation qualification 1906 submitted thesis university lwów
+1906 appointed lecturer university lwów eventually appointed extraordinary professor emperor franz joseph
+taught there until first world war
+1915 invited lecture full professor university warsaw re-opened after being closed down tsarist government 19 th century
+1919 łukasiewicz left university serve polish minister religious denominations public education paderewski government until 1920
+łukasiewicz led development polish curriculum replacing russian german austrian curricula previously used partitioned poland
+łukasiewicz curriculum emphasized early acquisition logical mathematical concepts
+1928 married regina barwińska
+remained professor university warsaw 1920 until 1939 family house destroyed german bombs university closed under german occupation
+rector university twice
+period łukasiewicz stanisław leśniewski founded lwów–warsaw school logic later made internationally famous alfred tarski leśniewski's student
+beginning world war ii worked warsaw underground university part secret system education poland during world war ii
+wife wanted move switzerland couldn't get permission german authorities
+instead summer 1944 left poland help heinrich scholz spent last few months war münster germany hoping somehow go further perhaps switzerland
+following war emigrated ireland worked university college dublin ucd until death
+work number axiomatizations classical propositional logic due łukasiewicz
+particularly elegant axiomatization features mere three axioms still invoked down present day
+pioneer investigator multi-valued logics three-valued propositional calculus introduced 1917 first explicitly axiomatized non-classical logical calculus
+philosophy science approach making scientific theories similar thinking karl popper
+łukasiewicz invented polish notation named after nationality logical connectives around 1920
+there quotation paper remarks nicod's axiom generalizing deduction page 180 came upon idea parenthesis-free notation 1924
+used notation first time my article łukasiewicz1 p
+610 footnote
+reference cited łukasiewicz above apparently lithographed report polish
+referring paper łukasiewicz remarks nicod's axiom generalizing deduction originally published polish 1931 later reviewed h
+pogorzelski journal symbolic logic 1965
+łukasiewicz 1951 book aristotle's syllogistic standpoint modern formal logic mentions principle notation write functors before arguments avoid brackets employed notation logical papers since 1929
+then goes cite example 1930 paper alfred tarski sentential calculus
+notation root idea recursive stack last-in first-out computer memory store proposed several researchers including turing bauer hamblin first implemented 1957
+1960 łukasiewicz notation concepts stacks used basis burroughs b5000 computer designed robert s
+barton team burroughs corporation pasadena california
+concepts also led design english electric multi-programmed kdf9 computer system 1963 two such hardware register stacks
+similar concept underlies reverse polish notation rpn postfix notation friden ec-130 calculator successors many hewlett packard calculators forth programming language post script page description language
+recognition 2008 polish information processing society established jan łukasiewicz award presented most innovative polish companies
+1999 2004 department computer science building ucd called łukasiewicz building until campus buildings renamed after disciplines housed
+chronology 1878 born 1890–1902 studies kazimierz twardowski lemberg lwów l'viv 1902 doctorate mathematics philosophy university lemberg highest distinction possible 1906 habilitation thesis completed university lemberg 1906 becomes lecturer 1910 essays principle non-contradiction excluded middle 1911 extraordinary professor lemberg 1915 invited newly reopened university warsaw 1916 new kingdom poland declared 1917 develops three-valued propositional calculus 1919 polish minister education 1920–1939 professor warsaw university founds stanisław leśniewski lwów–warsaw school logic see also alfred tarski stefan banach hugo steinhaus zygmunt janiszewski stefan mazurkiewicz 1928 marries regina barwińska 1944 flees germany settles hembsen brought own safety
+1946 exile belgium 1946 offered chair royal irish academy held university college dublin 1953 writes autobiography 1956 dies dublin selected works books łukasiewicz jan 1951
+aristotle’s syllogistic standpoint modern formal logic
+oxford university press
+2 nd edition enlarged 1957
+reprinted garland publishing 1987
+łukasiewicz jan 1958
+elementy logiki matematycznej polish
+warsaw państwowe wydawnictwo naukowe
+oclc 11322101
+łukasiewicz jan 1964
+elements mathematical logic
+translated polish olgierd wojtasiewicz
+new york macmillan
+oclc 671498
+łukasiewicz jan 1970
+ludwik borkowski ed
+selected works
+north-holland pub
+oclc 115237
+łukasiewicz jan 1998
+jacek jadacki ed
+logika metafizyka
+miscellanea polish
+warsaw wfi s uw
+papers 1903 induction inversion deduction 1906 analysis construction concept cause 1910 aristotle's principle contradiction 1913 reversibility relation ground consequence 1920 three-valued logic 1921 two-valued logic 1922 numerical interpretation theory propositions 1928 concerning method philosophy 1929 elements mathematical logic 1929 importance requirements mathematical logic 1930 philosophical remarks many-valued systems propositional logic 1930 investigations sentential calculus [untersuchungen über den aussagenkalkül] alfred tarski 1931 comments nicod's axiom 'generalizing deduction' 1934 science 1934 importance logical analysis knowledge 1934 outlines history propositional logic 1936 logistic philosophy 1937 defense logistic 1938 descartes's philosophy 1943 shortest axiom implicational calculus propositions 1951 variable functors propositional arguments 1952 intuitionistic theory deduction 1953 system modal logic 1954 controversial problem aristotle's modal syllogistic see also łukasiewicz logic history philosophy poland stanisław leśniewski list poles 27114 lukasiewicz notes *review aristotle prior analytics book gisela striker translation commentary oxford up 2009 268 pp
+95 pbk
+notre dame philosophical reviews 2010
+łukasiewicz jan uwagi o aksjomacie nicoda 'dedukcji uogólniającej' remarks nicod's axiom generalizing deduction księga pamiątkowa polskiego towarzystwa filozoficznego lwów 1931
+pogorzelski h
+reviewed works remarks nicod's axiom generalizing deduction jan łukasiewicz jerzy słupecki państwowe wydawnictwo naukowe journal symbolic logic vol
+30 no
+3 sep
+1965 pp
+paper jan łukasiewicz re-published warsaw 1961 volume edited jerzy słupecki
+published originally 1931 polish
+łukasiewicz 1951 aristotle’s syllogistic standpoint modern formal logic chapter iv aristotle's system symbolic form section explanation symbolism p
+łukasiewicz jan tarski alfred untersuchungen über den aussagenkalkül [investigations sentential calculus] comptes rendus des séances de société des sciences et des lettres de varsovie vol
+23 1930 cl
+iii pp
+paper found translated english chapter iv investigations sentential calculus pp
+39-59 logic semantics metamathematics papers 1923 1938 alfred tarski translated english j
+woodger oxford university press 1956 2 nd edition hackett publishing company 1983 2009 international multiconference computer science information technology imcsit conference report references curriculum vitae jan łukasiewicz rome italy metalogicon journal 1994 vii 2 july–december issue
+craig edward general editor article jan łukasiewicz routledge encyclopedia philosophy 1998 volume 5 pp
+further reading borkowski l
+słupecki j
+logical works j
+łukasiewicz studia logica 1958 7–56
+kotarbiński t
+jan łukasiewicz's works history logic studia logica 1958 57–62
+kwiatkowski t
+jan łukasiewicz historian logic organon 16–17 1980–1981 169–188
+łukasiewicz leibniz arithmetization syllogism notre dame journal formal logic 18 2 1977 235–242
+seddon frederick 1996
+aristotle & łukasiewicz principle contradiction
+ames iowa modern logic pub
+oclc 37533856
+woleński jan 1994
+philosophical logic poland
+kluwer academic publishers
+oclc 27938071
+woleński jan jan łukasiewicz liar paradox logical consequence truth induction modern logic 4 1994 394–400
+external links jan lukasiewicz entry peter simons stanford encyclopedia philosophy o'connor john j
+robertson edmund f
+jan łukasiewicz mac tutor history mathematics archive university st andrews
+łukasiewicz entry polish philosophy page ed
+coniglione university catania jan łukasiewicz mathematics genealogy project authority control world cat identities viaf 12353616 lccn n83828306 isni 0000 0001 2120 9100 gnd 119268663 sudoc 030536669 bnf cb12193203 s data mgp 13346 ndl 00461953 nkc mzk2003183287 iccu it\iccu\sblv\035001 rls 000131539 bne xx1349012

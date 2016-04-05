@@ -1,0 +1,158 @@
+soul singer clarence lewis see c
+clarence irving lewis born april 12 1883 stoneham massachusetts died february 3 1964 cambridge massachusetts era 20 th-century philosophy region western philosophy school analytic main interests epistemology logic ethics aesthetics notable ideas conceptual pragmatism modal logic qualia influences josiah royce ralph barton perry influenced nelson goodman willard van orman quine roderick chisholm roderick firth w
+frankena robert paul wolff clarence irving lewis april 12 1883 february 3 1964 usually cited c
+lewis american academic philosopher founder conceptual pragmatism
+first noted logician later branched epistemology during last 20 years life much ethics
+new york times memorialized leading authority symbolic logic philosophic concepts knowledge value
+contents biography
+early years
+2 career
+2 pragmatist no positivist
+3 epistemology
+4 ethics aesthetics
+5 legacy
+3 personal life 2 bibliography 3 see also 4 notes 5 further reading 6 external links biography early years lewis born stoneham massachusetts
+father skilled worker shoe factory lewis grew up relatively humble circumstances
+discovered philosophy age 13 reading greek pre-socratics anaxagoras heraclitus particular
+first work philosophy lewis recalled studying short history greek philosophy marshall
+immanuel kant proved major lifelong influence lewis's thinking
+article logic pragmatism lewis nothing comparable importance happened [in my life] until became acquainted kant
+kant compelled me
+felt followed scepticism inevitable last stage laid foundations disturbed
+1905 harvard college awarded lewis
+cum laude after mere three years study during time supported himself part-time jobs
+then taught english year high school quincy massachusetts then two years university colorado
+1906 married mable maxwell graves
+1908 lewis returned harvard began ph
+philosophy completed mere two years
+then taught philosophy university california 1911–2190 after returned again harvard taught until 1953 retirement eventually filling edgar pierce chair philosophy
+1929 elected american academy arts sciences
+1933 presided over american philosophical association
+academic year 1959-1960 fellow center advanced studies wesleyan university
+career logic lewis studied logic under eventual ph
+thesis supervisor josiah royce principal architect modern philosophical logic
+1912 two years after publication first volume principia mathematica lewis began publishing articles taking exception principia' s pervasive use material implication specifically bertrand russell's reading a→b implies
+lewis restated criticism reviews both editions principia mathematica
+lewis's reputation promising young logician soon assured
+material implication allows true consequent follow false antecedent
+lewis proposed replace material implication strict implication such false antecedent never strictly imply true consequent
+strict implication primitive defined terms negation conjunction prefixed unary intensional modal operator
+let x formula classical bivalent truth value
+then x read x possibly true false case may
+lewis then defined strictly implies ab
+lewis's strict implication now historical curiosity formal modal logic grounded notion ancestor modern work subject
+lewis's notation still standard current practice usually takes dual necessity primitive defined case strictly implies simply written a→b
+first logic text survey symbolic logic 1918 went out print after selling several hundred copies
+time publication included discussion english logical writings charles peirce second after russell's monograph 1900 leibniz
+while modal logic survey soon proved inconsistent lewis went devise modal systems s1 s5 set these out symbolic logic 1932 possible formal analyses alethic modalities
+lewis mildly preferred s2 over others amended modal system survey s3 s4 s5 generated sustained interest mathematical well philosophical down present day
+s4 s5 beginning now called normal modal logic
+lewis's strict implication modal systems s1-s5 see hughes cresswell 1996 chapt
+pragmatist no positivist section follows dayton 2004 closely
+around 1930 american philosophy began experience turning point because arrival logical empiricism brought european philosophers fleeing nazi germany
+new doctrine challenged american philosophers naturalistic pragmatic bent such lewis
+any event logical empiricism emphasis scientific models knowledge logical analysis meaning soon emerged perhaps dominant tendency american philosophy
+while many saw lewis kin logical empiricists never truly comfortable such company because declined divorce experience cognition
+positivism rejected value lacking cognitive significance also rejecting analysis experience favor physicalism
+both rejections struck regrettable
+indeed growing awareness pragmatic tradition led opposite direction
+lewis within experience anything significance anything thus came see value way representing significance knowledge future conduct
+these convictions led reflect differences pragmatism positivism cognitive structure value experiences
+lewis agreed pragmatism committed peircean pragmatic test
+1930 essay pragmatism current thought maintained commitment taken either two directions
+direction emphasises subjectivity experience
+other direction took 'his 1929 began peirce's limitation meaning makes verifiable difference experience
+hence concepts abstractions immediate precisely element must left out
+claim must properly understood
+operational account concepts mainly eliminates ineffable your hours felt twice long mine your pounds twice heavy makes no difference tested our assignment physical properties things
+hence concept relational pattern
+does follow ought discard world experienced sense connotation concept strictly comprises nothing abstract configuration relations
+another sense denotation empirical application meaning vested process characteristically begins something given ends something done operation translates presented datum instrument prediction control
+thus knowledge begins ends experience keeping mind beginning ending experiences differ
+knowledge something requires verifying experience actually experienced
+thus pragmatist verifiability operational definition test empirical meaning statement requires speaker know how apply statement apply able trace consequences statement situations both real hypothetical
+lewis firmly objected positivist conception value statements devoid cognitive content merely expressive
+pragmatist judgements implicitly value judgements
+lewis 1946 sets out both conception sense meaning thesis valuation form empirical cognition
+essay logical positivism pragmatism lewis revealed disagreement verificationism comparing unfavorably preferred pragmatic conception empirical meaning
+outset saw both pragmatism logical positivism forms empiricism
+first glance seem pragmatic conception meaning despite different formulation focus action very much resembles logical positivist verification requirement
+nevertheless lewis argued there deep difference two pragmatism ultimately grounds meaning conceivable experience while positivism reduces relation meaning experience matter logical form
+lewis positivist conception meaning omits precisely pragmatist count empirical meaning
+specifying observation sentences follow given sentence helps us determine empirical meaning given sentence observation sentences themselves already understood meaning terms specific qualities experience predicates observation sentences refer
+thus lewis saw logical positivists failing distinguish linguistic meaning namely logical relations among terms empirical meaning namely relation expressions experience
+well-known terminology carnap charles w
+morris empirical meaning falls under pragmatics linguistic meaning under semantics
+lewis logical positivist shuts eyes precisely properly confirms sentence namely content experience
+epistemology section needs attention expert philosophy
+please add reason talk parameter template explain issue section
+wiki project philosophy portal may able help recruit expert
+november 2008 lewis 1929 mind world order now seen most important 20 th century works epistemology
+lewis now included among american pragmatists belated assessment major theme murphey 2005
+ethics aesthetics section needs attention expert philosophy
+please add reason talk parameter template explain issue section
+wiki project philosophy portal may able help recruit expert
+november 2008 lewis's late writings ethics include monographs lewis 1955 1957 posthumous collection lewis 1969
+1950 until death many drafts chapters proposed treatise ethics live complete
+these drafts included lewis papers held stanford university
+lewis 1947 contains two chapters aesthetics philosophy art
+first employ term qualia popularized student nelson goodman generally agreed modern sense
+legacy lewis's work relatively neglected recent years even though set out ideas length understood both late pragmatist early analytic philosopher students calibre brand blanshard nelson goodman roderick chisholm
+joel isaac contribution 2006 transactions c
+peirce society symposium referenced below believes neglect justified
+lewis's reputation benefiting growing interest historical aspects pragmatism american philosophy generally
+lewis's papers kept stanford university
+personal life lewis's life free trials
+daughter died 1930 suffered heart attack 1932
+nevertheless publications lewis 1929 lewis langford 1932 attest having highly productive period life
+harvard course kant's first critique among most famous undergraduate philosophy u
+until retired 1957
+lewis accepted visiting professorship stanford during 1957–1958 presented lectures last time
+move menlo park enabled wife spend final years near their grandchildren
+bibliography 1918
+survey symbolic logic
+internet archive eprint
+republished part dover 1960
+mind world order outline theory knowledge
+dover reprint 1956
+symbolic logic cooper h
+dover reprint 1959
+analysis knowledge valuation
+open court
+ground nature right
+columbia univ
+our social inheritance
+indiana univ
+1969 john lange ed
+values imperatives studies ethics
+stanford univ
+1970 goheen j
+mothershead j
+collected papers
+stanford univ
+see also american philosophy pragmatism modal logic interior algebra list american philosophers notes http//www
+html?_r=0 bertrand russell critical exposition philosophy leibniz cambridge university press 1900
+further reading dayton eric 2006 clarence irving lewis internet encyclopedia philosophy
+hunter bruce 2007 clarence irving lewis stanford encyclopedia philosophy
+ivor grattan-guinness 2000
+search mathematical roots 1870-1940
+princeton univ
+hughes g
+cresswell 1996 new introduction modal logic
+murphey murray g
+lewis last great pragmatist
+suny press
+2006 symposium m
+murphey's c
+lewis last great pragmatist transactions c
+peirce society 42 1-77
+contributions s
+barker john corcoran eric dayton john greco joel isaac murphey richard s
+robin naomi zack
+schilpp p
+philosophy c
+lewis library living philosophers vol
+open court
+includes autobiographical essay
+external links clarence irving lewis article internet encyclopedia philosophy online bibliography
+authority control world cat identities viaf 101021 lccn n81066133 isni 0000 0001 1019 7490 gnd 118779818 sudoc 033408661 bnf cb12427725 h data

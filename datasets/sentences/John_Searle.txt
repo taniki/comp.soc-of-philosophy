@@ -1,0 +1,343 @@
+john rogers searle searle 2005
+born 1932-07-31 july 31 1932 age 83 denver colorado usaalma mater university wisconsin christ church oxford spouses dagmar searle website homepage uc berkeley era contemporary philosophy region western philosophy school analytic main interests philosophy language philosophy mind intentionality · social reality notable ideas indirect speech acts chinese room biological naturalism influences anscombe austin chomsky frege grice hume russell strawson wittgenstein signature john rogers searle /sɜːrl/ born july 31 1932 american philosopher currently slusser professor philosophy university california berkeley
+widely noted contributions philosophy language philosophy mind social philosophy began teaching berkeley 1959
+received jean nicod prize 2000 national humanities medal 2004 mind & brain prize 2006
+among notable concepts chinese room argument against strong artificial intelligence
+contents biography
+politics 2 philosophy 2
+speech acts 2
+searle–derrida debate 2
+2 intentionality background 2
+3 consciousness 2
+ontological subjectivity 2
+2 artificial intelligence 2
+4 social reality 2
+5 rationality 3 bibliography 4 see also 5 references 6 further reading 7 external links biography searle's father g
+searle electrical engineer employed at&t corporation while mother hester beck searle physician
+searle began college education university wisconsin-madison subsequently became junior year rhodes scholar oxford university obtained university degrees
+first two faculty jobs oxford research lecturer lecturer tutor christ church
+five honorary doctorate degrees four different countries honorary visiting professor tsing hua university east china normal university
+politics while undergraduate university wisconsin searle secretary students against joseph mc carthy
+mc carthy then junior senator wisconsin
+1959 searle began teach berkeley first tenured professor join 1964–5 free speech movement
+1969 while serving chairman academic freedom committee academic senate university california supported university dispute students over people's park
+campus war sympathetic look university agony 1971 searle investigates causes behind campus protests era
+declares attacked both house un-american activities committee
+several radical polemicists
+stylistically attacks interestingly similar
+both rely heavily insinuation innuendo both display hatred might almost say terror close analysis dissection argument
+asserts my wife threatened other members administration assassinated violently attacked
+shortly after 9/11 searle article claiming 9/11 particular event long-term struggle against forces intractably opposed united states signalled support aggressive neoconservative interventionist foreign policy
+called realization us more-or-less permanent state war these forces
+moreover probable course action deny terrorists use foreign territory stage their attacks
+finally alluded long-term nature conflict blamed attacks lack american resolve deal forcefully america's enemies over past several decades
+philosophy speech acts searle's early work great deal establish reputation speech acts
+attempted synthesize ideas many colleagues including j
+austin illocutionary act how things words ludwig wittgenstein g
+midgley distinction regulative constitutive rules own thesis such acts constituted rules language
+also drew work h
+paul grice analysis meaning attempt being understood hare stenius distinction concerning meaning illocutionary force propositional content p
+strawson john rawls william p
+alston maintained sentence meaning consists sets regulative rules requiring speaker perform illocutionary act indicated sentence such acts involve utterance sentence indicates performs act means says c addresses audience vicinity
+1969 book speech acts searle sets out combine these elements give account illocutionary acts
+there provides analysis considers prototypical illocutionary act promising offers sets semantical rules intended represent linguistic meaning devices indicating further illocutionary act types
+among concepts presented book distinction illocutionary force propositional content utterance
+searle does precisely define former such rather introduces several possible illocutionary forces example
+according searle sentences
+sam smokes habitually
+does sam smoke habitually? sam smoke habitually! sam smoked habitually!
+each indicate same propositional content sam smoking habitually differ illocutionary force indicated respectively statement question command expression desire
+according later account searle presents intentionality 1983 differs important ways suggested speech acts illocutionary acts characterised their having conditions satisfaction idea adopted strawson's 1971 paper meaning truth direction fit idea adopted elizabeth anscombe
+example statement john bought two candy bars satisfied true
+john buy two candy bars
+contrast command john buy two candy bars! satisfied john carries out action purchasing two candy bars
+searle refers first having word-to-world direction fit since words supposed change accurately represent world second having world-to-word direction fit since world supposed change match words
+there also double direction fit relationship goes both ways null zero direction fit goes neither way because propositional content presupposed i'm sorry ate john's candy bars
+foundations illocutionary logic 1985 daniel vanderveken searle prominently uses notion illocutionary point
+searle's speech-act theory challenged several thinkers variety ways
+collections articles referring searle's account found burkhardt 1990 lepore / van gulick
+searle–derrida debate see also limited inc early 1970 s searle brief exchange jacques derrida regarding speech-act theory
+exchange characterized degree mutual hostility philosophers each whom accused other having misunderstood basic points
+[citation needed] searle particularly hostile derrida's deconstructionist framework much later refused let response derrida printed along derrida's papers 1988 collection limited inc
+searle consider derrida's approach legitimate philosophy even intelligible writing argued want legitimize deconstructionist point view dedicating any attention
+consequently critics considered exchange series elaborate misunderstandings rather debate while others seen either derrida searle gaining upper hand
+level hostility seen searle's statement mistake regard derrida's discussion austin confrontation two prominent philosophical traditions derrida replied sentence sentence reply subscribe
+commentators frequently interpreted exchange prominent example confrontation analytical continental philosophy
+debate began 1972 paper signature event context derrida analyzed j
+austin's theory illocutionary act
+while sympathetic austin's departure purely denotational account language includes force derrida sceptical framework normativity employed austin
+argued austin missed fact any speech event framed structure absence words left unsaid due contextual constraints iterability constraints given past
+derrida argued focus intentionality speech-act theory misguided because intentionality restricted already established possible intention
+also took issue way austin excluded study fiction non-serious parasitic speech wondering whether exclusion because austin considered these speech genres governed different structures meaning simply due lack interest
+brief reply derrida reiterating differences reply derrida searle argued derrida's critique unwarranted because assumed austin's theory attempted give full account language meaning aim much narrower
+searle considered omission parasitic discourse forms justified narrow scope austin's inquiry
+searle agreed derrida's proposal intentionality presupposes iterability apply same concept intentionality used derrida being unable unwilling engage continental conceptual apparatus
+turn caused derrida criticize searle being sufficiently familiar phenomenological perspectives intentionality
+searle also argued derrida's disagreement austin turned having misunderstood austin's type–token distinction failure understand austin's concept failure relation performativity
+critics suggested searle being grounded analytical tradition unable engage derrida's continental phenomenological tradition fault unsuccessful nature exchange
+derrida response searle c
+limited inc ridiculed searle's positions
+claiming clear sender searle's message established suggested searle formed austin société à responsabilité limitée limited liability company due ways ambiguities authorship within searle's reply circumvented very speech act reply
+searle reply
+later 1988 derrida tried review position critiques austin searle reiterating found constant appeal normality analytical tradition problematic
+debate derrida praises austin's work argues wrong banish austin calls infelicities normal operation language
+infelicity instance occurs cannot known whether given speech act sincere merely citational therefore possibly ironic etc
+derrida argues every iteration necessarily citational due graphematic nature speech writing language work without ever-present ineradicable possibility such alternate readings
+derrida takes searle task attempt get around issue grounding final authority speaker's inaccessible intention
+derrida argues intention cannot possibly govern how iteration signifies once becomes hearable readable
+speech acts borrow language whose significance determined historical-linguistic context alternate possibilities context makes possible
+significance derrida argues cannot altered governed whims intention
+1995 searle gave brief reply derrida construction social reality
+called derrida's conclusion preposterous stated derrida far tell does argument
+simply declares there nothing outside texts
+searle's reference here anything forwarded debate mistranslation phrase il n'y pas de hors-texte there no outside-text appears derrida's grammatology
+intentionality background searle defines intentionality power minds represent see correspondence theory truth stand things properties states affairs world
+nature intentionality important part discussions searle's philosophy mind
+searle emphasizes word ‘intentionality part mind directed to/from/about objects relations world independent mind should confused word ‘intensionality’ logical property sentences pass test 'extensinalidade'
+intentionality essay philosophy mind 1983 searle applies certain elements accounts illocutionary acts investigation intentionality
+searle also introduces technical term background according source much philosophical discussion though arguing thesis almost twenty years searle writes many people whose opinions respect still disagree me
+background calls set abilities capacities tendencies dispositions humans themselves intentional states
+thus someone asks us cut cake know use knife someone asks us cut grass know use lawnmower vice versa even though actual request include detail
+searle sometimes supplements reference background concept network one's network other beliefs desires other intentional states necessary any particular intentional state make sense
+searle argues concept background similar concepts provided several other thinkers including wittgenstein's private language argument work later wittgenstein large part background bourdieu's habitus
+give example two chess players might engaged bitter struggle board share sorts background presuppositions will take turns move no else will intervene both playing same rules fire alarm won't go off board won't suddenly disintegrate their opponent won't magically turn grapefruit indefinitely
+most these possibilities won't occurred either player searle thinks background must unconscious though elements called consciousness fire alarm does go off say
+debate derrida searle argued against derrida's notion statement disjoined original intentionality author example no longer connected original author while still being able produce meaning
+searle maintained even see written statement no knowledge authorship still impossible escape question intentionality because meaningful sentence just standing possibility intentional speech act
+searle ascribing intentionality statement basic requirement attributing any meaning
+consciousness building upon views intentionality searle presents view concerning consciousness book rediscovery mind 1992
+argues starting behaviorism early influential scientific view succeeded many later accounts searle also dismisses much modern philosophy tried deny existence consciousness little success
+intentionality parodies several alternative theories consciousness replacing their accounts intentionality comparable accounts hand no think saying example having hand just being disposed certain sorts behavior such grasping manual behaviorism hands defined entirely terms their causes effects manual functionalism system hand just certain computer state right sorts inputs outputs manual turing machine functionalism saying system hands just adopting certain stance toward manual stance
+263 searle argues philosophy trapped false dichotomy hand world consists nothing objective particles fields force yet other hand consciousness clearly subjective first-person experience
+searle says simply both true consciousness real subjective experience caused physical processes brain
+view suggests might called biological naturalism
+ontological subjectivity searle argued critics like daniel dennett claims insist discussing subjectivity unscientific because science presupposes objectivity making category error
+perhaps goal science establish validate statements epistemically objective
+whose truth discovered evaluated any interested party necessarily ontologically objective
+searle calls any value judgment epistemically subjective
+thus mc kinley prettier everest epistemically subjective whereas mc kinley higher everest epistemically objective
+other words latter statement evaluable fact falsifiable understood 'background' criterion mountain height like 'the summit many meters above sea level'
+no such criteria exist prettiness
+beyond distinction searle thinks there certain phenomena including conscious experiences ontologically subjective
+exist subjective experience
+example although might subjective objective epistemic sense doctor's note patient suffers back pain ontologically objective claim counts medical diagnosis because existence back pain objective fact medical science
+pain itself ontologically subjective experienced person having
+searle goes affirm consciousness concerned existence appearance reality
+view epistemic ontological senses objective/subjective cleanly separable crucial self-proclaimed biological naturalism
+artificial intelligence see also chinese room philosophy artificial intelligence consequence biological naturalism want create conscious being will duplicate whatever physical processes brain goes through cause consciousness
+searle thereby means contradict calls strong ai defined assumption soon certain kind software running computer conscious being thereby created
+1980 searle presented chinese room argument purports prove falsity strong ai
+familiarity turing test useful understanding issue
+assume you speak chinese imagine yourself room two slits book scratch paper
+someone slides you chinese characters through first slit you follow instructions book transcribing characters instructed onto scratch paper slide resulting sheet out second slit
+people outside world appears room speaks chinese—they slide chinese statements slit get valid responses return—yet you understand word chinese
+suggests according searle no computer ever understand chinese english because thought experiment suggests being able 'translate' chinese english does entail 'understanding' either chinese english person thought experiment hence computer able execute certain syntactic manipulations
+stevan harnad argues searle's strong ai really just another name functionalism computationalism these positions real targets critique
+functionalists claim consciousness defined set informational processes inside brain
+follows anything carries out same informational processes human also conscious
+thus computer program conscious run computer program say system ping-pong balls beer cups system equally conscious because running same information processes
+searle argues impossible since consciousness physical property like digestion fire
+no matter how good simulation digestion you build computer will digest anything no matter how well you simulate fire nothing will get burnt
+contrast informational processes observer-relative observers pick out certain patterns world consider them information processes information processes things-in-the-world themselves
+since exist physical level searle argues cannot causal efficacy thus cannot cause consciousness
+there no physical law searle insists see equivalence personal computer series ping-pong balls beer cans pipe-and-water system implementing same program
+social reality searle extended inquiries observer-relative phenomena trying understand social reality
+searle begins arguing collective intentionality e
+we're going walk distinct form intentionality simply reducible individual intentionality e
+i'm going walk think thinks he's going walk me thinks think i'm going walk
+searle's construction social reality 1995 addresses mystery how social constructs like baseball money exist world consisting physical particles fields force
+adapting idea elizabeth anscombe brute facts searle distinguishes brute facts like height mountain institutional facts like score baseball game
+aiming explanation social phenomena terms anscombe's notion argues society explained terms institutional facts institutional facts arise out collective intentionality through constitutive rules logical form x counts c
+thus instance filling out ballot counts vote polling place getting many votes counts victory election getting victory counts being elected president presidential race etc
+many sociologists however see searle's contributions social theory very significant
+neil gross example argues searle's views society less reconstitution emile durkheim's theories social facts social institutions collective representations like
+searle's ideas thus open same criticisms durkheim's
+searle responded saying durkheim's work worse originally believed admitting read much durkheim's work because durkheim’s account seemed impoverished read any further work
+stephen lukes however responded searle's response gross argues point point against allegations searle makes against durkheim essentially upholding argument gross searle's work bears great resemblance durkheim's
+lukes attributes searle's miscomprehension durkheim's work fact searle quite simply never read durkheim
+rationality rationality action 2001 searle argues standard notions rationality badly flawed
+according calls classical model rationality seen something like train track you get point your beliefs desires rules rationality compel you way conclusion
+searle doubts picture rationality holds generally
+searle briefly critiques particular set these rules those mathematical decision theory
+points out axioms require anyone valued quarter their life odds bet their life quarter
+searle insists never take such bet believes stance perfectly rational
+most attack directed against common conception rationality believes badly flawed
+first argues reasons don't cause you anything because having sufficient reason wills doesn't force you thing
+any decision situation experience gap our reasons our actions
+example decide vote simply determine care most economic policy prefer candidate jones's economic policy
+also make effort cast our vote
+similarly every time guilty smoker lights cigarette aware succumbing their craving merely acting automatically exhale
+gap makes us think freedom will
+searle thinks whether really free will open question considers absence highly unappealing because makes feeling freedom will epiphenomenon highly unlikely evolutionary point view given biological cost
+also says rational activity presupposes free will
+second searle believes rationally things don't result our own desires
+widely believed cannot derive ought
+facts how world never tell you you should 'hume's law'
+contrast far fact understood relating institution marriage promises commitments etc
+understood system constitutive rules then should understood following institutional fact done institutional fact then understood opposed brute facts related hume's law
+example searle believes fact you promised something means you should because making promise you participating constitutive rules arrange system promise making itself therefore understand shouldness implicit mere factual action promising
+furthermore believes provides desire-independent reason action—if you order drink bar you should pay even you no desire
+argument first made paper how derive 'ought' 'is' 1964 remains highly controversial even three decades later searle continued defend view
+traditional metaphysical distinction fact value cannot captured linguistic distinction 'evaluative' 'descriptive' because such speech act notions already normative
+third searle argues much rational deliberation involves adjusting our often inconsistent patterns desires decide outcomes other way around
+while classical model start desire go paris greater saving money calculate cheapest way get there reality people balance niceness paris against costs travel decide desire visiting paris saving money value
+hence believes rationality system rules adverb
+see certain behavior rational no matter source our system rules derives finding patterns see rational
+bibliography speech acts essay philosophy language 1969 campus war sympathetic look university agony political commentary 1971 expression meaning studies theory speech acts essay collection 1979 intentionality essay philosophy mind 1983 minds brains science 1984 reith lectures lecture collection 1984 foundations illocutionary logic john searle & daniel vanderveken 1985 john searle critics ernest lepore robert van gulick eds
+rediscovery mind 1992 construction social reality 1995 mystery consciousness review collection 1997 mind language society philosophy real world summary earlier work 1998 rationality action 2001 consciousness language essay collection 2002 freedom neurobiology lecture collection 2004 mind brief introduction summary work philosophy mind 2004 intentional acts institutional facts essay collection 2007 philosophy new century selected essays 2008 making social world structure human civilization 2010 seeing things theory perception 2015 see also american philosophy collective intentionality consciousness language/action perspective list american philosophers list jean nicod prize laureates performative turn practical reason pragmatics unconscious mind references introduction john searle czech context http//www
+html http//www
+gov/news/press-release/2004-11-17 http//www
+html http//socrates
+edu/~jsearle/free%20 speech%20 movement-1
+htm http//www
+html campus war
+retrieved 2012-03-24
+pdf john r
+searle 1969
+speech acts essay philosophy language
+cambridge university press
+john r
+searle daniel vanderveken 1985
+foundations illocutionary logic
+cambridge university press
+although searle does mention earlier uses concept originates alexander sesonske's article performatives
+burkhardt armin ed
+speech acts meaning intentions critical approaches philosophy john r
+berlin / new york 1990
+lepore ernest / van gulick robert eds john searle critics
+oxford basil blackwell
+derrida jacques
+limited inc
+northwestern university press 1988
+read [searle's] work any case seems read mine maclean ian
+un dialogue de sourds? implications austin–searle–derrida debate jacques derrida critical thought
+ian maclachlan ed
+ashgate publishing 2004 c another look derrida-searle debate
+mark alfino
+philosophy & rhetoric vol
+24 no
+2 pp
+143-152 simon glendinning
+arguing derrida
+18 gregor campbell
+john r
+searle irene rima makaryk ed
+encyclopedia contemporary literary theory approaches scholars terms
+university toronto press 1993 john searle reiterating différences reply derrida glyph 2 baltimore md johns hopkins university press 1977
+marian hobson
+jacques derrida opening lines
+psychology press
+95-97 jacques derrida afterwords limited inc
+northwestern university press 1988 p
+133 farrell f
+iterability meaning searle–derrida debate
+metaphilosophy 19 53–64
+compliments author reflections austin derrida
+stanley e
+critical inquiry vol
+4 summer 1982 pp
+derrida searle contexts games riddles
+edmond wright
+new literary history vol
+13 no
+3 theory parodies puzzles paradigms spring 1982 pp
+convention meaning derrida austin
+jonathan culler
+new literary history vol
+13 no
+convention autumn 1981 pp
+kenaan hagi
+language philosophy risk failure rereading debate searle derrida
+continental philosophy review 35 2 117–133
+raffel stanley
+understanding each other case derrida-searle debate pdf
+human studies 34 3 277–292
+searle construction social reality 1995 p
+gayatri chakravorty spivak
+johns hopkins university press
+baltimore 1976 158-59 searle intentionality 1983 searle making social world structure human civilization 2010 p
+48-62 searle intentionality 1983 rediscovery mind 1992 ch
+literary theory discontents new literary history 640 searle rediscovery mind 1992 p
+177 searle rediscovery mind 1992 p
+185 john searle reiterating différences reply derrida'' glyph 2 baltimore md johns hopkins university press 1977 p
+202 gerald graff
+summary reiterating differences
+derrida jacques
+limited inc
+searle j r mystery consciousness 1997 p
+95-131 searle j r mystery consciousness 1997 p
+122 searle j r mystery consciousness 1997 p
+call view there having mind having program strong ai
+rediscovery mind p
+201 minds brains programs behavioral brain sciences
+3 pp
+1980 interview john r
+searle | http//globetrotter
+html harnad stevan 2001 what's wrong right searle's chinese room argument m
+preston j
+essays searle's chinese room argument oxford university press
+searle 1980 gross neil
+comment searle anthropological theory vol
+6 45-56
+com/doc/22379828/gross-comment-on-searle searle john
+durkheim versus searle waves thought anthropological theory vol
+6 57-69
+com/doc/22379838/searle-reply-to-gross lukes steven
+durkheim versus searle intentional acts institutional facts essays john searle's social ontology theory ed
+savas tsohatzidis springer dordrecht netherlands 2007
+com/doc/17634357/intentional-acts-and-institutional-facts-essays-on-john-searles-social-ontology-theory-and-decision-library-a rationality action john r
+searle 2003 john searle how derive 'ought' 'is' philosophical review 731 january 1964 43-58 john searle thomas mautner dictionary philosophy penguin 1996
+further reading papers history speech act theory barry smith minds brains programs behavioral brain sciences
+3 pp
+1980 brain digital computer? 1990 presidential address american philosophical association collective intentions actions 1990 intentions communication j
+cohen & m
+cambridge mass
+mit press 401-416
+problem consciousness social research vol
+60 no
+spring 1993
+consciousness annu
+2000 23557-78
+koepsell ed
+moss ed
+searle smith dialogue john searle's ideas social reality extensions criticisms reconstructions 2003 blackwell dualism revisited j physiol paris
+2007 jul-nov1014-6169-78
+epub 2008 jan 19
+dennett p
+hacker j
+searle neuroscience philosophy brain mind language 2007 columbia university press storm over university doerge 2006 friedrich christoph illocutionary acts austin's account searle made out
+tuebingen tuebingen university
+pdf koblizek tomas how make concepts clear searle's discussion derrida
+organon f suppl
+issue 2 pp
+searle's reply koblizek ibid
+pdf external links find john searleat wikipedia's sister projects media commons quotations wikiquote textbooks wikibooks learning resources wikiversity john searle mind matter consciousness theory perception - interview 7 th avenue project radio show john searle's machines like us interview conversations searle
+interview conversations history series
+available webcast podcast
+coversations conversations history john r
+searle you tube video transcript interview john searle language writing mind consciousness john searle internet movie database webcast philosophy society lectures philosophy language interview john searle re vel vol
+5 n
+moscow center consciousness studies video interview john searle 2011-06-13 bbc reith audio lectures - john searle minds brain & science 1984 searle's may 2013 ted talk our shared condition -- consciousness vte analytic philosophy philosophers robert merrihew adams william p
+alston j
+ayer g
+anscombe david malet armstrong robert audi robert brandom c
+broad tyler burge john p
+burgess rudolf carnap roderick chisholm patricia churchland paul churchland david chalmers noam chomsky donald davidson daniel dennett michael dummett bas van fraassen gottlob frege jerry fodor philippa foot peter geach
+grayling paul grice alvin goldman peter hacker r
+hare gilbert harman john hawthorne ian hacking carl hempel jaakko hintikka peter van inwagen frank cameron jackson christine korsgaard saul kripke david lewis j
+mackie norman malcolm john mc dowell g
+moore thomas nagel robert nozick derek parfit
+phillips alvin plantinga
+prior hilary putnam w
+quine john rawls hans reichenbach bertrand russell gilbert ryle john searle moritz schlick wilfrid sellars peter singer peter strawson richard swinburne peter unger bernard williams timothy williamson john wisdom ludwig wittgenstein stephen yablo
+theories deflationism direct reference theory empiricism holism logical atomism logical positivism naturalism naturalized epistemology neopragmatism neutral monism particularism reductionism scientism skepticism verificationism
+concepts analysis analytic–synthetic distinction causal / deductive / epistemic closure concept counterfactual denotation / reference definite description factive family resemblance intuition meaning proposition modality natural kind / projectability necessary–sufficient conditions paradox analysis possible world reduction reflective equilibrium rigid–flaccid designators sense data supervenience thought experiment truth function truthmaker truth-bearer type–token distinction related articles australian realism ordinary language philosophy philosophical logic philosophy language philosophy science postanalytic philosophy
+category task force discussion philosophy stubs vte philosophy language philosophers plato cratylus gorgias confucius xunzi aristotle stoics pyrrhonists scholasticism ibn rushd ibn khaldun thomas hobbes gottfried wilhelm leibniz johann herder ludwig noire wilhelm von humboldt fritz mauthner paul ricœur ferdinand de saussure gottlob frege franz boas paul tillich edward sapir leonard bloomfield zhuangzi henri bergson lev vygotsky ludwig wittgenstein philosophical investigations tractatus logico-philosophicus bertrand russell rudolf carnap jacques derrida grammatology limited inc benjamin lee whorf gustav bergmann j
+austin noam chomsky hans-georg gadamer saul kripke
+ayer g
+anscombe jaakko hintikka michael dummett donald davidson paul grice gilbert ryle p
+strawson willard van orman quine hilary putnam david lewis john searle joxe azurmendi scott soames stephen yablo john hawthorne stephen neale theories causal theory reference contrast theory meaning contrastivism conventionalism cratylism deconstruction descriptivist theory names direct reference theory dramatism expressivism linguistic determinism logical atomism logical positivism mediated reference theory nominalism non-cognitivism phallogocentrism quietism relevance theory semantic externalism semantic holism structuralism supposition theory symbiosism theological noncognitivism theory descriptions verification theory concepts ambiguity linguistic relativity meaning language truth-bearer proposition use–mention distinction concept categories set class intension logical form metalanguage mental representation principle compositionality property sign sense reference speech act symbol entity sentence statement
+related articles analytic philosophy philosophy information philosophical logic linguistics pragmatics rhetoric semantics formal semantics semiotics category task force discussion vte philosophy mind philosophers anscombe austin aquinas bain bergson bhattacharya block brentano broad burge chalmers churchland dennett dharmakirti davidson descartes goldman heidegger husserl fodor james kierkegaard leibniz lewis mc dowell merleau-ponty minsky moore nagel parfit putnam popper rorty ryle searle spinoza turing vasubandhu wittgenstein zhuangzi
+theories behaviorism biological naturalism dualism eliminative materialism emergent materialism epiphenomenalism functionalism idealism interactionism materialism monism naïve realism neutral monism phenomenalism phenomenology existential neurophenomenology physicalism identity theory pragmatism property dualism representational solipsism subjectivism substance dualism concepts abstract object artificial intelligence chinese room cognition cognitive closure concept concept object consciousness hard problem consciousness hypostatic abstraction idea identity ingenuity intelligence intentionality introspection intuition language thought materialism mental event mental image mental process mental property mental representation mind mind–body problem new mysterianism pain problem other minds propositional attitude qualia tabula rasa understanding zombie
+related topics metaphysics philosophy artificial intelligence / information / perception / self portal category task force discussion vte social political philosophy philosophers alinsky aristotle augustine aurobindo aquinas averroes azurmendi badiou bakunin baudrillard benoist bentham berlin bonald bosanquet burke camus chanakya chomsky cicero comte confucius debord đilas durkheim engels foucault fourier gandhi gehlen gentile al-ghazali gramsci grotius habermas han fei hobbes hume kant kirk kropotkin le bon le play leibniz locke luxemburg machiavelli maistre malebranche marcuse maritain marsilius marx mencius michels mill montesquieu möser mozi muhammad negri nietzsche nozick oakeshott ortega pareto pettit plamenatz plato polanyi popper rand rawls renan rothbard rousseau royce russell santayana sarkar sartre schmitt searle shang smith sombart spann spencer spirito stirner strauss taine taylor thoreau vivekananda walzer žižek social theories vaisheshika anarchism authoritarianism collectivism communism communitarianism conflict theories confucianism consensus theory conservatism contractualism culturalism fascism feminist political theory gandhism individualism legalism liberalism libertarianism mohism national liberalism republicanism social constructionism social constructivism social darwinism social determinism socialism utilitarianism social concepts civil disobedience democracy four occupations justice law mandate heaven peace property revolution rights social contract society war
+related articles jurisprudence philosophy economics philosophy education philosophy history philosophy love philosophy sex philosophy social science social epistemology category portal task force authority control world cat identities viaf 108187093 lccn n79055656 isni 0000 0001 2283 9219 gnd 118612484 sudoc 027129748 bnf cb11924241 c data ndl 00455970 nkc jn20000703277

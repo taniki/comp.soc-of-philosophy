@@ -1,0 +1,513 @@
+georg cantor born georg ferdinand ludwig philipp cantor1845-03-03 march 3 1845 saint petersburg russian empire died january 6 19181918-01-06 aged 72 halle province saxony german empire residence russian empire 1845–56 german empire 1856–1918 nationality german fields mathematics institutions university halle alma mater eth zurich university berlin thesis de aequationibus secundi gradus indeterminatis 1867 doctoral advisor ernst kummer karl weierstrass doctoral students alfred barneck known set theory notable awards sylvester medal 1904 georg ferdinand ludwig philipp cantor /ˈkæntɔːr/ kan-tor german [ˈɡeɔʁk ˈfɛʁdinant ˈluːtvɪç ˈfɪlɪp ˈkantɔʁ] march 3 [o
+february 19] 1845 january 6 1918 german mathematician
+invented set theory become fundamental theory mathematics
+cantor established importance one-to-one correspondence members two sets defined infinite well-ordered sets proved real numbers numerous natural numbers
+fact cantor's method proof theorem implies existence infinity infinities
+defined cardinal ordinal numbers their arithmetic
+cantor's work great philosophical interest fact well aware
+cantor's theory transfinite numbers originally regarded counter-intuitive even shocking encountered resistance mathematical contemporaries such leopold kronecker henri poincaré later hermann weyl l
+brouwer while ludwig wittgenstein raised philosophical objections
+cantor devout lutheran believed theory communicated god
+christian theologians particularly neo-scholastics saw cantor's work challenge uniqueness absolute infinity nature god occasion equating theory transfinite numbers pantheism proposition cantor vigorously rejected
+objections cantor's work occasionally fierce henri poincaré referred ideas grave disease infecting discipline mathematics leopold kronecker's public opposition personal attacks included describing cantor scientific charlatan renegade corrupter youth
+kronecker objected cantor's proofs algebraic numbers countable transcendental numbers uncountable results now included standard mathematics curriculum
+writing decades after cantor's death wittgenstein lamented mathematics ridden through through pernicious idioms set theory dismissed utter nonsense laughable wrong
+cantor's recurring bouts depression 1884 end life blamed hostile attitude many contemporaries though explained these episodes probable manifestations bipolar disorder
+harsh criticism matched later accolades
+1904 royal society awarded cantor sylvester medal highest honor confer work mathematics
+david hilbert defended critics declaring no shall expel us paradise cantor created
+contents life
+youth studies
+2 teacher researcher
+3 late years 2 mathematical work 2
+number theory trigonometric series ordinals 2
+2 set theory 2
+one-to-one correspondence 2
+2 continuum hypothesis 2
+3 paradoxes set theory 3 philosophy religion cantor's mathematics 4 cantor's ancestry 5 historiography 6 see also 7 notes references 9 bibliography 10 external links life youth studies cantor ca
+georg cantor born western merchant colony saint petersburg russia brought up city until eleven
+georg oldest six children regarded outstanding violinist
+grandfather franz böhm 1788–1846 violinist joseph böhm's brother well-known musician soloist russian imperial orchestra
+cantor's father member saint petersburg stock exchange became ill family moved germany 1856 first wiesbaden then frankfurt seeking winters milder those saint petersburg
+1860 cantor graduated distinction realschule darmstadt exceptional skills mathematics trigonometry particular noted
+1862 cantor entered university zürich
+after receiving substantial inheritance upon father's death 1863 cantor shifted studies university berlin attending lectures leopold kronecker karl weierstrass ernst kummer
+spent summer 1866 university göttingen then later center mathematical research
+teacher researcher cantor submitted dissertation number theory university berlin 1867
+after teaching briefly berlin girls' school cantor took up position university halle spent entire career
+awarded requisite habilitation thesis also number theory presented 1869 upon appointment halle
+1874 cantor married vally guttmann
+six children last rudolph born 1886
+cantor able support family despite modest academic pay thanks inheritance father
+during honeymoon harz mountains cantor spent much time mathematical discussions richard dedekind whom met two years earlier while swiss holiday
+cantor promoted extraordinary professor 1872 made full professor 1879
+attain latter rank age 34 notable accomplishment cantor desired chair prestigious university particular berlin time leading german university
+however work encountered too much opposition possible
+kronecker headed mathematics berlin until death 1891 became increasingly uncomfortable prospect having cantor colleague perceiving corrupter youth teaching ideas younger generation mathematicians
+worse yet kronecker well-established figure within mathematical community cantor's former professor disagreed fundamentally thrust cantor's work
+kronecker now seen founders constructive viewpoint mathematics disliked much cantor's set theory because asserted existence sets satisfying certain properties without giving specific examples sets whose members indeed satisfy those properties
+cantor came believe kronecker's stance make impossible ever leave halle
+1881 cantor's halle colleague eduard heine died creating vacant chair
+halle accepted cantor's suggestion offered dedekind heinrich m
+weber franz mertens order each declined chair after being offered
+friedrich wangerin eventually appointed never close cantor
+1882 mathematical correspondence cantor richard dedekind came end apparently result dedekind's declining chair halle
+cantor also began another important correspondence gösta mittag-leffler sweden soon began publish mittag-leffler's journal acta mathematica
+1885 mittag-leffler concerned philosophical nature new terminology paper cantor submitted acta
+asked cantor withdraw paper acta while proof writing
+hundred years too soon
+cantor complied then curtailed relationship correspondence mittag-leffler writing third party mittag-leffler way should wait until year 1984 me seemed too great demand!
+course never want know anything again acta mathematica
+cantor suffered first known bout depression 1884
+criticism work weighed mind every fifty-two letters mittag-leffler 1884 mentioned kronecker
+passage these letters revealing damage cantor's self-confidence
+don't know shall return continuation my scientific work
+moment absolutely nothing limit myself most necessary duty my lectures how much happier scientifically active necessary mental freshness
+crisis led apply lecture philosophy rather mathematics
+also began intense study elizabethan literature thinking there might evidence francis bacon plays attributed shakespeare see shakespearean authorship question ultimately resulted two pamphlets published 1896 1897
+cantor recovered soon thereafter subsequently made further important contributions including diagonal argument theorem
+however never again attained high level remarkable papers 1874–84
+eventually sought achieved reconciliation kronecker
+nevertheless philosophical disagreements difficulties dividing them persisted
+1890 cantor instrumental founding deutsche mathematiker-vereinigung chaired first meeting halle 1891 first introduced diagonal argument reputation strong enough despite kronecker's opposition work ensure elected first president society
+setting aside animosity kronecker displayed towards cantor invited address meeting kronecker unable because wife dying injuries sustained skiing accident time
+late years after cantor's 1884 hospitalization there no record any sanatorium again until 1899
+soon after second hospitalization cantor's youngest son rudolph died suddenly while cantor delivering lecture views baconian theory william shakespeare tragedy drained cantor much passion mathematics
+cantor again hospitalized 1903
+year later outraged agitated paper presented julius könig third international congress mathematicians
+paper attempted prove basic tenets transfinite set theory false
+since paper read front daughters colleagues cantor perceived himself having publicly humiliated
+although ernst zermelo demonstrated less day later könig's proof failed cantor remained shaken momentarily questioning god
+cantor suffered chronic depression rest life excused teaching several occasions repeatedly confined various sanatoria
+events 1904 preceded series hospitalizations intervals two three years
+abandon mathematics completely however lecturing paradoxes set theory burali-forti paradox cantor's paradox russell's paradox meeting deutsche mathematiker–vereinigung 1903 attending international congress mathematicians heidelberg 1904
+1911 cantor distinguished foreign scholars invited attend 500 th anniversary founding university st
+andrews scotland
+cantor attended hoping meet bertrand russell whose newly published principia mathematica repeatedly cited cantor's work come
+following year st
+andrews awarded cantor honorary doctorate illness precluded receiving degree person
+cantor retired 1913 living poverty suffering malnourishment during world war
+public celebration 70 th birthday canceled because war
+died january 6 1918 sanatorium spent final year life
+mathematical work cantor's work 1874 1884 origin set theory
+prior work concept set rather elementary used implicitly since beginning mathematics dating back ideas aristotle
+no realized set theory any nontrivial content
+before cantor there finite sets easy understand infinite considered topic philosophical rather mathematical discussion
+proving there infinitely many possible sizes infinite sets cantor established set theory trivial needed studied
+set theory come play role foundational theory modern mathematics sense interprets propositions mathematical objects example numbers functions traditional areas mathematics such algebra analysis topology single theory provides standard set axioms prove disprove them
+basic concepts set theory now used throughout mathematics
+earliest papers cantor proved set real numbers numerous set natural numbers showed first time there exist infinite sets different sizes
+also first appreciate importance one-to-one correspondences hereinafter denoted 1-to-1 correspondence set theory
+used concept define finite infinite sets subdividing latter denumerable countably infinite sets uncountable sets nondenumerable infinite sets
+cantor developed important concepts topology their relation cardinality
+example showed cantor set nowhere dense same cardinality set real numbers whereas rationals everywhere dense countable
+cantor introduced fundamental constructions set theory such power set set set possible subsets
+later proved size power set strictly larger size even infinite set result soon became known cantor's theorem
+cantor developed entire theory arithmetic infinite sets called cardinals ordinals extended arithmetic natural numbers
+notation cardinal numbers hebrew letter aleph natural number subscript ordinals employed greek letter ω omega
+notation still use today
+continuum hypothesis introduced cantor presented david hilbert first twenty-three open problems address 1900 international congress mathematicians paris
+cantor's work also attracted favorable notice beyond hilbert's celebrated encomium
+us philosopher charles sanders peirce praised cantor's set theory following public lectures delivered cantor first international congress mathematicians held zurich 1897 hurwitz hadamard also both expressed their admiration
+congress cantor renewed friendship correspondence dedekind
+1905 cantor corresponded british admirer translator philip jourdain history set theory cantor's religious ideas
+later published several expository works
+number theory trigonometric series ordinals cantor's first ten papers number theory thesis topic
+suggestion eduard heine professor halle cantor turned analysis
+heine proposed cantor solve open problem eluded peter gustav lejeune dirichlet rudolf lipschitz bernhard riemann heine himself uniqueness representation function trigonometric series
+cantor solved difficult problem 1869
+while working problem discovered transfinite ordinals occurred indices n nth derived set sn set s zeros trigonometric series
+given trigonometric series fx s set zeros cantor discovered procedure produced another trigonometric series s1 set zeros s1 set limit points s
+sk+1 set limit points sk then construct trigonometric series whose zeros sk+1
+because sets sk closed contained their limit points intersection infinite decreasing sequence sets s s1 s2 s3
+formed limit set now call sω then noticed sω also set limit points sω+1
+examples went forever here naturally occurring infinite sequence infinite numbers ω ω + ω + 2
+1870 1872 cantor published papers trigonometric series also paper defining irrational numbers convergent sequences rational numbers
+dedekind whom cantor befriended 1872 cited paper later year paper first set out celebrated definition real numbers dedekind cuts
+while extending notion number means revolutionary concept infinite cardinality cantor paradoxically opposed theories infinitesimals contemporaries otto stolz paul du bois-reymond describing them both abomination cholera bacillus mathematics
+cantor also published erroneous proof inconsistency infinitesimals
+set theory illustration cantor's diagonal argument existence uncountable sets
+sequence bottom cannot occur anywhere infinite list sequences above
+beginning set theory branch mathematics often marked publication cantor's 1874 article über eine eigenschaft des inbegriffes aller reellen algebraischen zahlen property collection real algebraic numbers
+article first provide rigorous proof there kind infinity
+previously infinite collections implicitly assumed equinumerous same size having same number elements
+cantor proved collection real numbers collection positive integers equinumerous
+other words real numbers countable
+proof differs diagonal argument gave 1891
+cantor's article also contains new method constructing transcendental numbers
+transcendental numbers first constructed joseph liouville 1844
+cantor established these results using two constructions
+first construction shows how write real algebraic numbers sequence a1 a2 a3
+other words real algebraic numbers countable
+cantor starts second construction any sequence real numbers
+using sequence constructs nested intervals whose intersection contains real number sequence
+since every sequence real numbers used construct real sequence real numbers cannot written sequence real numbers countable
+applying construction sequence real algebraic numbers cantor produces transcendental number
+cantor points out constructions prove namely provide new proof liouville's theorem every interval contains infinitely many transcendental numbers
+cantor's next article contains construction proves set transcendental numbers same power see below set real numbers
+passage georg cantor's article set definition 1879 1884 cantor published series six articles mathematische annalen together formed introduction set theory
+same time there growing opposition cantor's ideas led kronecker admitted mathematical concepts constructed finite number steps natural numbers took intuitively given
+kronecker cantor's hierarchy infinities inadmissible since accepting concept actual infinity open door paradoxes challenge validity mathematics whole
+cantor also introduced cantor set during period
+fifth paper series grundlagen einer allgemeinen mannigfaltigkeitslehre foundations general theory aggregates published 1883 most important six also published separate monograph
+contained cantor's reply critics showed how transfinite numbers systematic extension natural numbers
+begins defining well-ordered sets
+ordinal numbers then introduced order types well-ordered sets
+cantor then defines addition multiplication cardinal ordinal numbers
+1885 cantor extended theory order types ordinal numbers simply became special case order types
+1891 published paper containing elegant diagonal argument existence uncountable set
+applied same idea prove cantor's theorem cardinality power set set strictly larger cardinality
+established richness hierarchy infinite sets cardinal ordinal arithmetic cantor defined
+argument fundamental solution halting problem proof gödel's first incompleteness theorem
+cantor goldbach conjecture 1894
+1895 1897 cantor published two-part paper mathematische annalen under felix klein's editorship these last significant papers set theory
+first paper begins defining set subset etc
+ways largely acceptable now
+cardinal ordinal arithmetic reviewed
+cantor wanted second paper include proof continuum hypothesis settle expositing theory well-ordered sets ordinal numbers
+cantor attempts prove sets equivalent subset equivalent subset then equivalent
+ernst schröder stated theorem bit earlier proof well cantor's flawed
+felix bernstein supplied correct proof 1898 ph thesis hence name cantor–bernstein–schroeder theorem
+one-to-one correspondence main article bijection bijective function
+cantor's 1874 crelle paper first invoke notion 1-to-1 correspondence though use phrase
+then began looking 1-to-1 correspondence points unit square points unit line segment
+1877 letter richard dedekind cantor proved far stronger result any positive integer n there exists 1-to-1 correspondence points unit line segment points n-dimensional space
+discovery cantor dedekind je le vois mais je ne le crois pas! see don't believe it! result found astonishing implications geometry notion dimension
+1878 cantor submitted another paper crelle's journal defined precisely concept 1-to-1 correspondence introduced notion power term took jakob steiner equivalence sets two sets equivalent same power there exists 1-to-1 correspondence them
+cantor defined countable sets denumerable sets sets put 1-to-1 correspondence natural numbers proved rational numbers denumerable
+also proved n-dimensional euclidean space rn same power real numbers r does countably infinite product copies r
+while made free use countability concept write word countable until 1883
+cantor also discussed thinking dimension stressing mapping unit interval unit square continuous
+paper displeased kronecker cantor wanted withdraw however dedekind persuaded weierstrass supported publication
+nevertheless cantor never again submitted anything crelle
+continuum hypothesis main article continuum hypothesis cantor first formulate later came known continuum hypothesis ch there exists no set whose power greater naturals less reals equivalently cardinality reals exactly aleph-one rather just least aleph-one
+cantor believed continuum hypothesis true tried many years prove vain
+inability prove continuum hypothesis caused considerable anxiety
+difficulty cantor proving continuum hypothesis underscored later developments field mathematics 1940 result gödel 1963 paul cohen together imply continuum hypothesis neither proved nor disproved using standard zermelo–fraenkel set theory plus axiom choice combination referred zfc
+paradoxes set theory discussions set-theoretic paradoxes began appear around end nineteenth century
+these implied fundamental problems cantor's set theory program
+1897 paper unrelated topic cesare burali-forti set out first such paradox burali-forti paradox ordinal number set ordinals must ordinal leads contradiction
+cantor discovered paradox 1895 described 1896 letter hilbert
+criticism mounted point cantor launched counter-arguments 1903 intended defend basic tenets set theory
+1899 cantor discovered eponymous paradox cardinal number set sets? clearly must greatest possible cardinal
+yet any set cardinal number power set strictly larger cardinal number fact now known cantor's theorem
+paradox together burali-forti paradox led cantor formulate concept called limitation size according collection ordinals sets inconsistent multiplicity too large set
+such collections later became known proper classes
+common view among mathematicians these paradoxes together russell's paradox demonstrate possible take naive non-axiomatic approach set theory without risking contradiction certain among motivations zermelo others produce axiomatizations set theory
+others note however paradoxes obtain informal view motivated iterative hierarchy seen explaining idea limitation size
+also question whether fregean formulation naive set theory system directly refuted russell paradox really faithful interpretation cantorian conception
+philosophy religion cantor's mathematics concept existence actual infinity important shared concern within realms mathematics philosophy religion
+preserving orthodoxy relationship god mathematics although same form held critics long concern cantor's
+directly addressed intersection these disciplines introduction grundlagen einer allgemeinen mannigfaltigkeitslehre stressed connection view infinite philosophical
+cantor mathematical views intrinsically linked their philosophical theological implications identified absolute infinite god considered work transfinite numbers directly communicated god chosen cantor reveal them world
+debate among mathematicians grew out opposing views philosophy mathematics regarding nature actual infinity
+held view infinity abstraction mathematically legitimate denied existence
+mathematicians three major schools thought constructivism two offshoots intuitionism finitism opposed cantor's theories matter
+constructivists such kronecker rejection actual infinity stems fundamental disagreement idea nonconstructive proofs such cantor's diagonal argument sufficient proof something exists holding instead constructive proofs required
+intuitionism also rejects idea actual infinity expression any sort reality arrive decision via different route constructivism
+firstly cantor's argument rests logic prove existence transfinite numbers actual mathematical entity whereas intuitionists hold mathematical entities cannot reduced logical propositions originating instead intuitions mind
+secondly notion infinity expression reality itself disallowed intuitionism since human mind cannot intuitively construct infinite set
+mathematicians such brouwer especially poincaré adopted intuitionist stance against cantor's work
+citing paradoxes set theory example fundamentally flawed nature poincaré held most ideas cantorian set theory should banished mathematics once
+finally wittgenstein's attacks finitist believed cantor's diagonal argument conflated intension set cardinal real numbers extension thus conflating concept rules generating set actual set
+christian theologians saw cantor's work challenge uniqueness absolute infinity nature god
+particular neo-thomist thinkers saw existence actual infinity consisted something other god jeopardizing god's exclusive claim supreme infinity
+cantor strongly believed view misinterpretation infinity convinced set theory help correct mistake
+transfinite species just much disposal intentions creator absolute boundless will finite numbers
+cantor also believed theory transfinite numbers ran counter both materialism determinism shocked realized faculty member halle hold deterministic philosophical beliefs
+1888 cantor published correspondence several philosophers philosophical implications set theory
+extensive attempt persuade other christian thinkers authorities adopt views cantor corresponded christian philosophers such tilman pesch joseph hontheim well theologians such cardinal johannes franzelin once replied equating theory transfinite numbers pantheism
+cantor even sent letter directly pope leo xiii himself addressed several pamphlets
+cantor's philosophy nature numbers led affirm belief freedom mathematics posit prove concepts apart realm physical phenomena expressions within internal reality
+restrictions metaphysical system mathematical concepts must devoid internal contradiction follow existing definitions axioms theorems
+belief summarized assertion essence mathematics freedom
+these ideas parallel those edmund husserl whom cantor met halle
+meanwhile cantor himself fiercely opposed infinitesimals describing them both abomination cholera bacillus mathematics
+cantor's 1883 paper reveals well aware opposition ideas encountering
+realize undertaking place myself certain opposition views widely held concerning mathematical infinite opinions frequently defended nature numbers
+hence devotes much space justifying earlier work asserting mathematical concepts may freely introduced long free contradiction defined terms previously accepted concepts
+also cites aristotle descartes berkeley leibniz bolzano infinity
+cantor's ancestry title memorial plaque russian building born lived 1845 till 1854 great mathematician creator set theory georg cantor vasilievsky island saint-petersburg
+cantor's paternal grandparents copenhagen fled russia disruption napoleonic wars
+there very little direct information grandparents
+cantor sometimes called jewish lifetime also variously called russian german danish well
+jakob cantor cantor's grandfather gave children christian saints' names
+further several grandmother's relatives czarist civil service welcome jews unless converted christianity
+cantor's father georg waldemar cantor educated lutheran mission saint petersburg correspondence son shows both them devout lutherans
+very little known sure george woldemar's origin education
+mother maria anna böhm austro-hungarian born saint petersburg baptized roman catholic she converted protestantism upon marriage
+however there letter cantor's brother louis their mother stating mögen wir zehnmal von juden abstammen und ich im princip noch sehr für gleichberechtigung hebräer sein im socialen leben sind mir christen lieber
+even descended jews ten times over even though may principle completely favour equal rights hebrews social life prefer christians
+read imply she jewish ancestry
+there documented statements during 1930 s called jewish ancestry question often [i
+ancestry mother] question discussed whether georg cantor jewish origin
+reported notice danish genealogical institute copenhagen year 1937 concerning father hereby testified georg woldemar cantor born 1809 1814 present registers jewish community completely without doubt jew
+also later same document also efforts long time librarian josef fischer best experts jewish genealogy denmark charged identifying jewish professors georg cantor jewish descent finished without result
+[something seems wrong sentence meaning seems clear enough
+cantor's published works also nachlass there no statements himself relate jewish origin ancestors
+there sure nachlass copy letter brother ludwig 18 november 1869 their mother unpleasant antisemitic statements among other things
+rest quote finished very first quote above
+men mathematics eric temple bell described cantor being pure jewish descent both sides although both parents baptized
+1971 article entitled towards biography georg cantor british historian mathematics ivor grattan-guinness mentions annals science 27 pp
+345–391 1971 unable find evidence jewish ancestry
+also states cantor's wife vally guttmann jewish
+letter written georg cantor paul tannery 1896 paul tannery memoires scientifique 13 correspondence gauthier-villars paris 1934 p
+306 cantor states paternal grandparents members sephardic jewish community copenhagen
+specifically cantor states describing father er ist aber kopenhagen geboren von israelitischen eltern die dortigen portugisischen judengemeinde
+born copenhagen jewish lit israelite parents local portuguese-jewish community
+addition cantor's maternal great uncle hungarian violinist josef böhm described jewish may imply cantor's mother least partly descended hungarian jewish community
+letter bertrand russell cantor described ancestry self-perception follows neither my father nor my mother german blood first being dane borne kopenhagen my mother austrian hungar descension
+you must know sir am regular just germain am born 3 march 1845 saint peterborough capital russia went my father mother brothers sister eleven years old year 1856 germany
+historiography until 1970 s chief academic publications cantor two short monographs schönflies 1927 largely correspondence mittag-leffler fraenkel 1930
+both second third hand neither much personal life
+gap largely filled eric temple bell's men mathematics 1937 cantor's modern biographers describes perhaps most widely read modern book history mathematics worst
+bell presents cantor's relationship father oedipal cantor's differences kronecker quarrel two jews cantor's madness romantic despair over failure win acceptance mathematics fills picture stereotypes
+grattan-guinness 1971 found none these claims true may found many books intervening period owing absence any other narrative
+there other legends independent bell including labels cantor's father foundling shipped saint petersburg unknown parents
+critique bell's book contained joseph dauben's biography
+writes dauben cantor devoted most vituperative correspondence well portion beiträge attacking described point 'infinitesimal cholera bacillus mathematics' spread germany through work thomae du bois reymond stolz infect italian mathematics
+any acceptance infinitesimals necessarily meant own theory number incomplete
+thus accept work thomae du bois-reymond stolz veronese deny perfection cantor's own creation
+understandably cantor launched thorough campaign discredit veronese's work every way possible
+see also set theory portal logic portal cantor algebra cantor cube cantor function cantor medal award deutsche mathematiker-vereinigung honor georg cantor
+cantor set cantor space cantor's back-and-forth method cantor–bernstein theorem controversy over cantor's theory heine–cantor theorem infinity list german inventors discoverers pairing function notes grattan-guinness 2000 p
+351 biographical material article mostly drawn dauben 1979
+grattan-guinness 1971 purkert ilgauds 1985 useful additional sources
+dauben 2004 p
+dauben joseph warren 1979
+georg cantor mathematics philosophy infinite
+princeton university press
+dauben 2004 pp
+dauben 1977 p
+86 dauben 1979 pp
+120 143
+dauben 1977 p
+c dauben 1979 p
+dauben 2004 p
+dauben 1977 p
+89 15 n
+rodych 2007
+dauben 1979 p
+tradition made popular arthur moritz schönflies blamed kronecker's persistent criticism cantor's inability confirm continuum hypothesis cantor's recurring bouts depression
+dauben 2004 p
+text includes 1964 quote psychiatrist karl pollitt cantor's examining physicians halle nervenklinik referring cantor's mental illness cyclic manic-depression
+c dauben 1979 p
+hilbert 1926 p
+170 aus dem paradies das cantor uns geschaffen soll uns niemand vertreiben können
+literally out paradise cantor created us no must able expel us
+reid constance 1996 hilbert new york springer-verlag p
+177 0-387-04999-1
+ru musical encyclopedia музыкальная энциклопедия o'connor john j robertson edmund f 1998
+georg ferdinand ludwig philipp cantor
+mac tutor history mathematics
+dauben 1979 p
+dauben 1979 p
+dauben 1977 p
+89 15 n
+dauben 1979 pp
+2–3 grattan-guinness 1971 pp
+dauben 1979 p
+dauben 1979 p
+dauben 1979 p
+dauben 1979 p
+136 grattan-guinness 1971 pp
+letter dated june 21 1884
+dauben 1979 pp
+dauben 1979 p
+discussion könig's paper see dauben 1979 pp
+cantor's reaction see dauben 1979 pp
+248 283
+dauben 1979 pp
+dauben 1979 p
+johnson phillip e
+1972 genesis development set theory two-year college mathematics journal 3 55 doi10
+2307/3026799 jstor 3026799
+suppes patrick 1972 axiomatic set theory dover p
+9780486616308 few rare exceptions entities studied analyzed mathematics may regarded certain particular sets classes objects
+consequence many fundamental questions nature mathematics may reduced questions set theory
+cantor 1874 countable set set either finite denumerable denumerable sets therefore infinite countable sets
+however terminology universally followed sometimes denumerable used synonym countable
+cooke roger 1993 uniqueness trigonometric series descriptive set theory 1870–1985 archive history exact sciences 4 281 doi10
+katz karin usadi katz mikhail g
+burgessian critique nominalistic tendencies contemporary mathematics historiography foundations science 17 51–89 doi10
+1007/s10699-011-9223-1 ehrlich p
+2006 rise non-archimedean mathematics roots misconception
+emergence non-archimedean systems magnitudes pdf arch
+exact sci
+60 1–121 doi10
+follows closely first part cantor's 1891 paper
+cantor 1874
+english translation ewald 1996 pp
+example geometric problems posed galileo john duns scotus suggested infinite sets equinumerous see moore
+april 1995 brief history infinity pdf scientific american 272 4 112–116 114 doi10
+information mathematical importance cantor's work set theory see e
+suppes 1972
+liouville joseph 13 may 1844
+propos de l'existence des nombres transcendants
+real algebraic numbers real roots polynomial equations integer coefficients
+details cantor's article see cantor's first uncountability proof gray robert 1994 georg cantor transcendental numbers pdf american mathematical monthly 101 819–832 doi10
+gray pp
+821–822 describes computer program uses cantor's constructions generate transcendental number
+cantor's construction starts set transcendentals t removes countable subset {tn} example tn = e / n
+call set t’
+then t = t’ ∪ {tn} = t’ ∪ {t2 n-1} ∪ {t2 n}
+set reals r = t ∪ {an} = t’ ∪ {tn} ∪ {an} sequence real algebraic numbers
+both t r union three pairwise disjoint sets t’ two countable sets
+one-to-one correspondence t r given function ft = t t ∈ t’ ft2 n-1 = tn ft2 n =
+cantor actually applies construction irrationals rather transcendentals knew applies any set formed removing countably many numbers set reals cantor 1879 p
+dauben 1977 p
+cantor 1883
+cantor 1895 cantor 1897
+english translation cantor 1955
+wallace david foster 2003 everything compact history infinity new york w
+norton company p
+259 0-393-00338-8
+dauben 1979 pp
+69 324 63 n
+paper submitted july 1877
+dedekind supported delayed publication due kronecker's opposition
+weierstrass actively supported
+mathematicians consider these results settled issue most allow possible examine formal consequences ch negation axioms imply those
+others continue look natural plausible axioms added zfc will permit either proof refutation ch even direct evidence against ch itself among most prominent these w
+hugh woodin
+gödel's last papers argues ch false continuum cardinality aleph-2
+dauben 1979 pp
+240–270 see especially pp
+241 259
+hallett 1986
+weir alan 1998 naive set theory innocent! mind 107 428 763–798 doi10
+763 p
+may well seriously mistaken think cantor's mengenlehre [set theory] naive
+dauben 1979 p
+dauben 1979 p
+hallett 1986 p
+compare writings thomas aquinas
+dauben 1979 p
+225 snapper ernst 1979 three crises mathematics logicism intuitionism formalism pdf mathematics magazine 524 207–216
+davenport anne
+1997 catholics cathars concept infinity thirteenth century isis 88 2 263–295 doi10
+1086/383692 jstor 236574
+dauben 1977 p
+cantor 1932 p
+translation dauben 1977 p
+dauben 1979 p
+dauben 1979 p
+dauben 1977 pp
+cantor husserl gottlob frege see hill rosado haddock 2000
+dauben 1979 p
+grattan-guinness's evidence grandfather's date death signed papers son's engagement
+example jewish encyclopedia art
+cantor georg jewish year book 1896–97 list jewish celebrities nineteenth century p
+119 list star against people jewish parent cantor starred
+c purkert ilgauds 1985 p
+information see dauben 1979 p
+notes grattan-guinness 1971 pp
+350–352 notes purkert ilgauds 1985 letter aczel 2000 pp
+93–94 louis' trip chicago 1863
+ambiguous german english whether recipient included
+tannery paul 1934 memoires scientifique 13 correspondance gauthier-villars paris p
+dauben 1979 p
+mendelsohn ezra ed
+1993 modern jews their musical agendas oxford university press p
+ismerjükoket? zsidó származású nevezetes magyarok arcképcsarnoka istván reményi gyenes ex libris budapest 1997 pages 132–133 russell bertrand
+autobiography vol
+english original italics also original
+grattan-guinness 1971 p
+grattan-guinness 1971 quotation p
+350 note dauben 1979 p
+bell's jewish stereotypes appear removed postwar editions
+dauben 1979 dauben j
+development cantorian set theory pp
+see pp
+bos h
+bunn r
+dauben j
+hawkins t
+pedersen k
+calculus set theory 1630-1910
+introductory history
+gerald duckworth & co
+london 1980
+references dauben joseph w
+1977 georg cantor pope leo xiii mathematics theology infinite journal history ideas 38 85–108 doi10
+2307/2708842 jstor 2708842
+dauben joseph w
+1979 georg cantor mathematics philosophy infinite boston harvard university press 978-0-691-02447-9
+dauben joseph 2004 georg cantor battle transfinite set theory proceedings 9 th acms conference westmont college santa barbara ca pp
+internet version published journal acms 2004
+ewald william
+1996 immanuel kant david hilbert source book foundations mathematics new york oxford university press 978-0-19-853271-2
+grattan-guinness ivor 1971 towards biography georg cantor annals science 27 345–391 doi10
+grattan-guinness ivor 2000 search mathematical roots 1870–1940 princeton university press 978-0-691-05858-0
+hallett michael 1986 cantorian set theory limitation size new york oxford university press 0-19-853283-0
+purkert walter ilgauds hans joachim 1985 georg cantor 1845–1918 birkhäuser 0-8176-1770-1
+suppes patrick 1972 axiomatic set theory new york dover 0-486-61630-4
+although presentation axiomatic rather naive suppes proves discusses many cantor's results demonstrates cantor's continued importance edifice foundational mathematics
+bibliography older sources cantor's life should treated caution
+see historiography section above
+primary literature english cantor georg 1955 philip jourdain ed
+contributions founding theory transfinite numbers new york dover 978-0-486-60045-1
+primary literature german cantor georg 1874 ueber eine eigenschaft des inbegriffes aller reellen algebraischen zahlen pdf journal für die reine und angewandte mathematik 77 258–262 doi10
+georg cantor 1879
+ueber unendliche lineare punktmannichfaltigkeiten
+mathematische annalen 15 1–7
+georg cantor 1880
+ueber unendliche lineare punktmannichfaltigkeiten 2
+mathematische annalen 17 3 355–358
+georg cantor 1882
+ueber unendliche lineare punktmannichfaltigkeiten 3
+mathematische annalen 20 113–121
+georg cantor 1883
+ueber unendliche lineare punktmannichfaltigkeiten 4
+mathematische annalen 21 51–58
+georg cantor 1883
+ueber unendliche lineare punktmannichfaltigkeiten 5
+mathematische annalen 21 4 545–591
+georg cantor 1892
+ueber eine elementare frage mannigfaltigkeitslehre
+jahresbericht deutsche mathematiker-vereinigung 1890-1891 75–78
+cantor georg 1895
+beiträge zur begründung transfiniten mengenlehre pdf
+mathematische annalen 46 481–512
+archived original pdf april 23 2014
+cantor georg 1897
+beiträge zur begründung transfiniten mengenlehre 2
+mathematische annalen 49 207–246
+cantor georg 1932 ernst zermelo ed
+gesammelte abhandlungen mathematischen und philosophischen inhalts berlin springer
+almost everything cantor
+includes excerpts correspondence dedekind p
+443-451 fraenkel's cantor biography p
+452-483 appendix
+secondary literature aczel amir
+2000 mystery aleph mathematics kabbala search infinity new york four walls eight windows publishing
+popular treatment infinity cantor frequently mentioned
+dauben joseph w
+june 1983 georg cantor origins transfinite set theory scientific american 248 6 122–131 doi10
+1038/scientificamerican0683-122 ferreirós josé 2007 labyrinth thought history set theory role mathematical thought basel switzerland birkhäuser
+contains detailed treatment both cantor's dedekind's contributions set theory
+halmos paul 1998 naive set theory new york & berlin springer
+hilbert david 1926
+über das unendliche
+mathematische annalen 95 161–190
+hill c
+rosado haddock g
+2000 husserl frege? meaning objectivity mathematics chicago open court
+three chapters 18 index entries cantor
+meschkowski herbert 1983 georg cantor leben werk und wirkung georg cantor life work influence german vieweg braunschweig penrose roger 2004 road reality alfred
+chapter 16 illustrates how cantorian thinking intrigues leading contemporary theoretical physicist
+rucker rudy 2005 infinity mind princeton university press
+deals similar topics aczel depth
+rodych victor 2007 wittgenstein's philosophy mathematics edward n
+zalta stanford encyclopedia philosophy
+external links wikiquote quotations related georg cantor wikimedia commons media related georg cantor
+works georg cantor internet archive o'connor john j
+robertson edmund f
+georg cantor mac tutor history mathematics archive university st andrews
+o'connor john j
+robertson edmund f
+history set theory mac tutor history mathematics archive university st andrews
+mainly devoted cantor's accomplishment
+georg cantor mathematics genealogy project stanford encyclopedia philosophy set theory thomas jech
+grammar school georg-cantor halle saale georg-cantor-gymnasium halle poem georg cantor vte set theory axioms choice countable dependent extensionality infinity pairing power set regularity union martin's axiom axiom schema replacement specification operations cartesian product complement de morgan's laws disjoint union intersection power set set difference symmetric difference union concepts methods cardinality cardinal number large class constructible universe continuum hypothesis diagonal argument element ordered pair tuple family forcing one-to-one correspondence ordinal number transfinite induction venn diagram set types countable empty finite hereditarily fuzzy infinite recursive subset · superset transitive uncountable universal theories alternative axiomatic naive cantor's theorem zermelo general principia mathematica new foundations zermelo–fraenkel von neumann–bernays–gödel morse–kelley kripke–platek tarski–grothendieck paradoxes problems russell's paradox suslin's problem set theorists abraham fraenkel bertrand russell ernst zermelo georg cantor john von neumann kurt gödel lotfi
+zadeh paul bernays paul cohen richard dedekind thomas jech willard quine vte infinity ∞history controversy over cantor's theory branches mathematics internal set theory non-standard analysis set theory synthetic differential geometry formalizations infinity cardinal numbers hyperreal numbers infinity + ordinal numbers surreal numbers transfinite numbers infinitesimal scientists georg cantor gottfried wilhelm leibniz abraham robinson authority control world cat identities viaf 39412881 lccn n82252409 isni 0000 0001 0889 5716 gnd 118518887 sudoc 027894312 bnf cb121371602 data mgp 29561 ndl 00435223 nkc jn20000700275 bne xx999360

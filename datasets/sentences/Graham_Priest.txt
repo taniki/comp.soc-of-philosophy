@@ -1,0 +1,604 @@
+graham priest born 1948 london era contemporary philosophy region western philosophy school analytic philosophy main interests logic notable ideas dialetheism graham priest born 1948 distinguished professor philosophy cuny graduate center well regular visitor university melbourne boyce gibson professor philosophy also st
+andrews university
+educated university cambridge london school economics
+thesis advisor john lane bell
+contents work 2 selected works 2
+books 2
+2 articles 3 references 4 external links work known defence dialetheism in-depth analyses logical paradoxes holding thesis there uniform treatment many well-known paradoxes such semantic set-theoretic liar paradoxes many writings related paraconsistent other non-classical logics
+priest long-time resident australia now residing new york city author numerous books published articles nearly every major philosophical logical journal
+frequent collaborator late richard sylvan fellow proponent dialetheism paraconsistent logic
+priest also published metaphilosophy
+addition work philosophy logic priest practiced karate-do
+3 rd dan international karate-do shobukai 4 th dan shi’to ryu australian national kumite referee kata judge
+presently practices taichi
+selected works books priest graham routley r
+paraconsistency research report #l3 research school social sciences australian national university 1983
+reprinted introductory chapters paraconsistent logic g
+priest r
+routley j
+norman eds
+philosophia verlag 1989
+translated romanian chapters
+lucica ed
+ex falso quodlibet studii de logica paraconsistenta romanian editura technica 2004
+priest graham
+logic very short introduction oxford university press 2000
+translated portuguese lógica para começar temas & debates 2002
+translated spanish una brevísima introducción lógica oceano 2006
+translated czech logika průvodce pro každého dokořán 2007
+translated persian bahram asadian 2007
+translated japanese iwanami shoten 2008
+priest graham van bendegem jean paul batens diderik mortensen chris 2000
+frontiers paraconsistent logic
+baldock hertfordshire england philadelphia pennysylvania research studies press
+priest graham
+introduction non-classical logic cambridge university press 2001
+2 nd edition introduction non-classical logic cambridge university press 2008
+german translation part introduction non-classical logic einführung die nicht-klassische logik mentis 2008
+priest graham
+beyond limits thought cambridge university press 1995
+2 nd edition oxford university press 2002
+priest graham
+towards non-being semantics metaphysics intentionality oxford university press 2005
+priest graham
+contradiction study transconsistent martinus nijhoff 1987
+second edition oxford university press 2006
+priest graham
+doubt truth liar oxford university press 2006
+priest graham
+logic brief insight sterling 2010
+priest graham
+being investigation unity reality parts including singular object nothingness oxford university press 2014
+articles — september 1976
+gruesome simplicity
+philosophy science 43 3 432–7
+jstor 187236
+— 1976
+modality metaconcept
+notre dame j
+formal logic 17 3 401–414
+mr 0446907
+zbl 0212
+— read s
+formalization ockham's theory supposition pdf
+lxxxvi 341 109–113
+— 1977
+refoundation modal logic
+notre dame j
+formal logic 18 3 340–354
+mr 0505278
+zbl 0348
+— january 1979
+logic paradox
+journal philosophical logic 219–241
+jstor 30227165
+translated french 'la logique du paradoxe' philosophie 94 2007 72–94
+— 1979
+indefinite descriptions
+logique et analyse 5–21
+— march 1979
+note sorites paradox
+australasian journal philosophy 57 74–75
+— 1979
+two dogmas quineanism
+philosophical quarterly 29 117 289–301
+— november 1980
+sense entailment modus ponens
+journal philosophical logic 9 4 415–435
+— read s
+merely confused supposition theoretical advance mere confusion
+franciscan studies 40 265–297
+— read s
+ockham's rejection ampliation pdf
+mind xc 358 274–9
+— december 1981
+argument design
+australasian journal philosophy 59 4 422–431
+— 1983
+logical paradoxes law excluded middle
+philosophical quarterly 33 131 160–5
+— 1982
+dialectical tense logic
+studia logica 41 2–3 249–268
+translated bulgarian reprinted filosofska missal xl8 1984 63–76
+— routley r
+lessons pseudo-scotus
+philosophical studies 42 2 189–199
+— mortensen c
+truth teller paradox
+logique et analyse 95–6 381–8
+— 1983
+anti-realist account mathematical truth
+synthese 57 49–65
+reprinted ch
+jacquette ed
+philosophy mathematics blackwell 2002
+— may 1984
+logic paradox revisited
+journal philosophical logic 13 2 153–179
+— 1984
+semantic closure
+studia logica 43 1–2 117–129
+— routley r
+introduction paraconsistent logics
+studia logica 43 1–2 3–16
+— 1984
+logique et analyse 107 237–243
+— 1985
+hume's final argument
+history philosophy quarterly 2 349–352
+— 1985
+contradictions motion
+american philosophical quarterly 339–346
+— 1985
+contradiction belief rationality
+aristotelian society
+lxxxvi 6 99–116
+— 1986
+tense truth conditions pdf
+analysis 46 4 162–6
+— 1986
+logic nuclear armaments
+critical philosophy 3 107–113
+'unstable solutions liar paradox' self reference reflections reflexivity s
+bartlett p
+suber eds
+nijhoff 1987
+— 1987
+tense tense tense pdf
+analysis 47 4 177–9
+'reasoning truth' technical report tr-arp-2/88 automated reasoning project australian national university 1988
+'consistency default' technical report tr-arp-3/88 automated reasoning project australian national university 1988
+— 1988
+inconsistency inescapable
+south african journal philosophy 7 83–89
+— 1989
+primary qualities secondary qualities too pdf
+br j philos sci 40 29–37
+— sylvan r
+contradiction assertion frege's point pdf
+analysis 49 23–6
+— june 1989
+reasoning truth
+artificial intelligence 39 2 231–244
+— 1989
+denyer's $ backed sterling arguments pdf
+xcviii 390 265–8
+'classical logic aufgehogen' paraconsistent logic g
+priest r
+routley j
+norman eds
+philosophia verlag 1989
+'reductio ad absurdum et modus tollendo ponens' paraconsistent logic g
+priest r
+routley j
+norman eds
+philosophia verlag 1989
+reprinted rumanian
+lucica ed
+ex falso quodlibet studii de logica paraconsistenta romanian editura technica 2004
+'relevance truth meaning' j
+crosthwaite directions relevant logic r
+sylvan j
+norman eds
+nijhoff 1989
+— 1989
+gegen wessel
+philosophische logik 2 109–120
+— 1990
+dialectic dialetheic
+science & society 53 388–415
+— may 1990
+boolean negation
+journal philosophical logic 19 2 201–215
+— mc kenzie j
+paraconsistent dialogues
+logique et analyse 131–2 339–57
+marx dialetheist?
+science & society 54 468–475
+minimally inconsistent lp
+studia logica 50 2 321–331
+intensional paradoxes
+notre dame j
+formal logic 2 193–211
+mr 1122994
+zbl 0747
+limits thought beyond pdf
+mind c 399 361–370
+sorites identity
+logique et analyse 135–6 293–6
+— sylvan r may 1992
+simplified semantics basic relevant logics
+journal philosophical logic 21 2 217–232
+— 1992
+philosophia 50 9–18
+— 1992
+non-normal world?
+logique et analyse 35 291–302
+— march 1993
+another disguise same fundamental problems barwise etchemendy liar
+australasian journal philosophy 71 60–69
+— 1993
+yu your mind
+synthese 95 3 459–460
+— 1993
+contradictions true? ii
+aristotelian society 67 suppl 35–54
+— march 1994
+derrida self-reference
+australasian journal philosophy 72 103–111
+— 1994
+structure paradoxes self-reference pdf
+mind 103 409 25–34
+— 1994
+arithmetic consistent? pdf
+mind 103 411 337–349
+— 1994
+least inconsistent number be?
+logique et analyse 37 3–12
+'goedel's theorem creativity' creativity ed
+t dartnall kluwer academic publishers 1994
+reprinted different introduction 'goedel's theorem mind
+again' philosophy mind place philosophy study mind eds
+michaelis j
+o'leary-horthorne kluwer 1994
+— 1995
+etchemendy logical consequence
+canadian journal philosophy 25 283–292
+— 1995
+gaps gluts reply parsons
+canadian journal philosophy 25 57–66
+— 1995
+multiple denotation ambiguity strange case missing amoeba
+logique et analyse 38 361–73
+'some priorities berkeley' logic reality essays legacy arthur prior ed
+copeland oxford university press 1996
+— 1996
+everett's trilogy pdf
+mind 105 420 631–647
+— 1996
+inconsistent arithmetics reply denyer pdf
+mind 105 420 649–659
+crosthwaite j
+priest g march 1996
+definition sexual harassment
+australasian journal philosophy 74 66–82
+reprinted g
+lee bowie meredith michaels eds
+13 questions ethics social philosophy harcourt brace jovanovich 2 nd ed
+'paraconsistent logic' encyclopaedia mathematics supplement ed
+hazenwinkle kluwer academic publishers 1997 400–1
+'logic nonstandard' pp
+307–10 encyclopedia philosophy supplement ed
+borshert mac millan 1996
+paraconsistent logic' k
+tanaka stanford internet encyclopedia philosophy created 1996
+— february 1997
+paradox hilbert bernays
+journal philosophical logic 45–56
+— 1997
+linguistic construction reality
+exordium 6 1–7
+— 1997
+sylvan's box short story ten morals
+notre dame j
+formal logic 38 4 573–582
+mr 1648853
+zbl 0926
+— 1997
+inconsistent models arithmetic finite models
+journal philosophical logic 2 223–235
+— september 1997
+sexual perversion
+australasian journal philosophy 75 3 360–372
+translated croatian ch
+primoratz ed
+suvremena filozofija seksualnosti zagreb kru zak 2003
+— 1997
+yablo's paradox pdf
+analysis 57 4 236–42
+'language possibility ineffability' pp
+790–794 p
+wiengartner g
+schurz g
+dorn eds
+proceedings 20 th international wittgenstein symposium austrian ludwig wittgenstein society 1997
+— 1998
+what's bad contradictions?
+journal philosophy 95 410–426
+— tanaka k
+error grove's proof
+logique et analyse 158 215–7
+'paraconsistent logic' encyclopedia philosophy vol
+7 208–11 ed
+craig routledge 1998
+— 1998
+fuzzy identity local validity
+monist 81 331–342
+'number' encyclopedia philosophy vol
+7 47–54 ed
+craig routledge 1998
+— 1998
+aristotle law non-contradiction
+philosophiegeschichte und logische analyse 91–130
+— 1998
+trivial object non-triviality semantically closed theory descriptions
+journal applied non-classical logic 171–183
+— 1998
+import inclosure comments grattan-guinness pdf
+mind 107 428 835–840
+'dialetheism' stanford internet encyclopedia philosophy created 1998
+'what not? defence dialetheic account negation'
+gabbay h
+wansing eds
+negation? kluwer academic publishers 1999
+— 1999
+negation cancellation connexivism
+topoi 18 2 141–8
+— 1999
+version zeno's paradoxes pdf
+analysis 59 1–2
+— december 1999
+perceiving contradictions
+australasian journal philosophy 77 4 439–446
+— december 1999
+semantic closure descriptions non-triviality
+journal philosophical logic 28 6 549–558
+'validity' pp
+varzi ed
+nature logic csli publications 1999
+european review philosophy vol
+abbreviated version under same title appears pp
+18–25 logica yearbook 1997 ed
+childers institute philosophy czech republic
+— july 2000
+truth contradiction
+philosophical quarterly 50 200 305–319
+— 2001
+paraconsistent belief revision
+theoria 68 214–228
+— june 2000
+everything true?
+australasian journal philosophy 78 2 189–195
+— 2000
+logic backwards inductions
+economics philosophy 16 2 267–285
+‘worlds apart' mind! 2000 supplement mind 109 2000 25–31
+— 2000
+vasil'év imaginary logic
+history philosophy logic 21 2 135–146
+'motivations paraconsistency slippery slope classical logic dialetheism'
+batens et al
+frontiers paraconsistent logic research studies press 2000
+— 2000
+inconsistent models arithmetic ii genera case
+journal symbolic logic 65 4 1519–29
+— 2000
+principle uniform solution reply smith pdf
+mind 109 433 123–6
+— december 2000
+objects thought
+australasian journal philosophy 78 4 494–502
+logic many’ j
+brown eds
+23–28 logical consequence rival approaches proceedings 1999 conference society exact philosophy stanmore hermes 2001
+'heidegger grammar being’ ch
+10 r
+gaskin ed
+grammar early 20 th century philosophy routledge 2001
+‘why it’s irrational believe consistency’ pp
+284–93 rationality irrationality proc
+23 rd international wittgenstein symposium eds
+smith 2001
+'paraconsistent logic' handbook philosophical logic vol
+6 pp
+287 393 eds
+gabbay f
+guenthner 2 nd edition kluwer academic publishers 2002
+'inconsistency empirical sciences' j
+meheus ed
+inconsistency science kluwer academic publishers 2002
+‘logicians setting together contradictories
+perspective relevance paraconsistency dialetheism’ ch
+jacquette ed
+companion philosophical logic blackwell 2002
+‘fuzzy relevant logic’ paraconsistency logical way inconsistent ed
+carnielli et al
+marcel dekker 2002
+— october 2002
+hooded man
+journal philosophical logic 31 5 445–467
+— 2002
+rational dilemmas pdf
+analysis 62 11–16
+— 2003
+meinong philosophy mathematics
+philosophica mathematica 3–15
+— 2003
+alternative geometries arithmetics logics tribute łukasiewicz
+studia logica 74 3 441–468
+— june 2003
+philosophy start twenty first century?
+aristotelian society 103 85–96
+‘geometries arithmetics’ pp
+65–78 p
+weingartner ed
+alternative logics sciences need them? springer verlag 2003
+site sorites' pp
+9–23 j
+beall ed
+liars heaps new essays paradox oxford university press 2003
+'inconsistent arithmetic issues technical philosophical' pp
+273–99 v
+hendricks j
+malinowski eds
+trends logic 50 years studia logica studia logica library vol
+21 kluwer academic publishers 2003
+'nagarjuna limits thought’ jay garfield philosophy east west 53 2003 1–21
+reprinted ch
+5 j
+garfield empty words oxford university press 2002
+'consistency paraconsistency logical limitative theorems' grenzen und grenzüberschreitungen xix deutscher kongress für philosphie ed
+hogrebe j
+bromond akademie verlag 2004
+bryson brown priest g august 2004
+chunk permeate paraconsistent inference strategy
+part infinitesimal calculus
+journal philosophical logic 33 4 379–388
+— read stephen september 2004
+intentionality meinongianisn medievals
+australasian journal philosophy 82 3 421–442
+'spiking field artillery' j
+armour-garb eds
+3 truth deflationism oxford university press 2005
+— colyvan mark garfield jay 2005
+problems argument fine tuning
+synthese 145 3 325–338
+— 2005
+words without knowledge
+philosophy phenomenological research 71 3 686–694
+'the limits language' k
+brown ed
+encyclopedia language linguistics second edition vol
+7 156–9 elsevier 2005
+— armour-garb brad 2005
+analetheism phyrric victory pdf
+analysis 65 2 167–173
+— 2005
+analysing iraqi adventure
+ormond papers 147–150
+'the paradoxes denotation' ch
+7 self-reference eds
+bolander v
+hendrix s
+pedersen clsi lecture notes stanford university 2006
+‘logic paraconsistent’
+borchert ed
+encyclopedia philosophy second edition macmillan 2006 vol
+7 105–6
+‘logic relevant relevance’
+borchert ed
+encyclopedia philosophy second edition macmillan 2006 vol
+borchert ed
+encyclopedia philosophy second edition macmillan 2006 vol
+6 409–11
+beall jc brady ross t
+priest g restall g
+december 2006
+relevant restricted quantification pdf
+journal philosophical logic 35 6 587–598
+— 2006
+philosophy 81 2 189–207
+— 2006
+hundred flowers
+topoi 25 91–5
+— beall jc 2007
+deep inconsistency reply eklund
+australasian journal logic 5 74–84
+'paraconsistency dialetheism' pp
+129–204 handbook history logic vol
+gabbay j
+woods north holland 2007
+'reply slater' pp
+467–74 j-y beziau w
+gabbay eds
+handbook paraconsistency college publications 2007
+— thomason neil 2007
+60% proof proof lakatos paraconsistency
+australasian journal logic 5 89–100
+‘revenge field zf’ ch
+9 jc beall ed
+revenge liar new essays paradox oxford university press 2007
+— 2007
+how particular quantifier became existentially loaded behind our backs
+soochow journal philosophical studies 16 197–213
+— 2007
+translation 'logic paradox' 'la logique du paraqdoxe'
+philosophie 94 72–94
+— garfield j
+way dialetheist contradictions buddhism
+philosophy east west 58 3 395–402
+— 2008
+jaina logic contemporary perspective
+history philosophy logic 29 3 263–278
+— 2008
+precis towards non-being
+review metaphysics 74 185–190
+— 2008
+replies nolan kroon
+philosophy phenomenological research 74 208–214
+— 2008
+many-valued modal logic simple approach
+review symbolic logic 2 190–203
+— 2008
+closing mind how particular quantifier became existentially loaded behind our backs
+review symbolic logic 42–55
+graham priest diderik batens interview each other
+reasoner 2 2–4
+— 2008
+creating non-existents initial thoughts
+studies logic 18–24
+— 2008
+badici inclosures
+australasian journal philosophy 86 583–596
+— 2008
+logical pluralism hollandaise
+australasian journal logic 6 210–4
+'envelops indifference' greg restall pages 283–290 dialogues logics other strange things essays honour shahid rahman edited cédric dégremont laurent keiff helge rückert college publications 2008
+'conditionals debate jackson' ch
+ravenscroft ed
+minds worlds conditionals themes philosophy frank jackson
+oxford university press 2009
+‘beyond limits knowledge’ ch
+7 pp
+93–104 j
+salerno ed
+new essays knowability paradox oxford university press 2009
+— 2009
+structure emptiness
+philosophy east west 59 4 467–480
+'mountains just mountains' jay garfield pp
+71–82 j
+garfield m
+d’amato eds
+pointing moon buddhism
+logic analytic philosophy oxford university press 2009
+— december 2009
+obituary leonard goddard
+australasian journal philosophy 87 4 693–4
+translation 'objects thought' japanese human ontology 15 2009 1–12
+— 2009
+neighbourhood semantics intentional operators
+review symbolic logic 2 2 360–373
+'not be' ch
+23 r
+le poidevin p
+mc gonical r
+cameron eds
+routledge companion metaphysics routledge 2009
+— 2009
+dualising intuitionist negation
+principia 13 2 165–184
+2009 v13 n2 p165
+'a case mistaken identity’ ch
+205–222 j
+oliver force argument routledge 2010
+— january 2010
+hopes fade saving truth
+philosophy 85 109–140
+‘two truths two models’ appear cowherds eds
+moonshadows oxford university press
+‘the truths two truths’ t
+tilemans m
+siderits appear cowherds eds
+moonshadows oxford university press 2010
+— 2010
+inclosures vagueness self-reference
+notre dame j
+formal logic 51 69–84
+mr 2666570
+zbl 05720470
+references graham priest's university melbourne homepage priest's cuny graduate center homepage priest's st
+andrews homepage external links graham priest personal website -- free pdfs papers available download priest archive cuny philosophy commons video graham priest & maureen eckert deviant logic rationally speaking podcast graham priest paradoxes paraconsistent logic arche foundations logical consequence workshop 2009 ternary r depraved? monthly graham priest gottlob frege philosopher's zone 10 july 2010 it's me forum philosophy self new york times stone blog 28 november 2010 paradoxical truth graham priest photograph full nyt version wikimedia sept
+2010 philosophy tv 10 january 2011 discussion deviant non-classical logic teaching logic metafiction logic maureen eckert umass dartmouth two-part interview florida student philosophy blog part general questions part 2 technical questions
+authority control world cat identities viaf 91364855 lccn n87843920 isni 0000 0001 0924 056 x gnd 111573580 sudoc 06094918 x bnf cb12072179 x data ndl 01120100

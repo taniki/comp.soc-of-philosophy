@@ -1,0 +1,298 @@
+robert j
+marks iiborn 1950-08-25 august 25 1950 age 65 west virginia united states main interests intelligent design · electrical engineering · evolutionary computation · computational intelligence influences william
+dembski robert jackson marks ii polymath electrical engineer
+contributions include zhao-atlas-marks zam time-frequency distribution field signal processing cheung–marks theorem shannon sampling theory
+instrumental defining field computational intelligence co-edited first book using computational intelligence title
+christian old earth creationist subject 2008 pro-intelligent design motion picture expelled no intelligence allowed
+contents professional 2 evolutionary informatics lab website controversy 3 technical contributions 4 christianity 5 other activities 6 books robert j
+marks ii 7 references external links professional marks distinguished professor electrical computer engineering baylor university proponent intelligent design
+1977 2003 faculty university washington seattle
+first president institute electrical electronics engineers ieee neural networks council now ieee computational intelligence society editor-in-chief ieee transactions neural networks
+frequent participant cross disciplinary research marks co-authored over 200 collaborators published over 50 different journals
+fellow ieee optical society america
+evolutionary informatics lab website controversy main article evolutionary informatics lab 2007 marks created baylor university server website evolutionary informatics lab site promoting intelligent design
+website initially hosted baylor servers deleted baylor's administration determined violated university policy forbidding professors creating impression their personal views represent baylor institution
+baylor permit marks repost website their server provided 108 word disclaimer accompany any intelligent design-advancing research make clear work does represent university's position
+site now resides third-party server still contains material advancing intelligent design
+additional controversy arose discovered william dembski notable intelligent design proponent former baylor staff member heart previous intelligent design controversy baylor over michael polanyi center's promotion intelligent design removed center's director returned baylor member evolutionary informatics lab
+dembski's participation funded $30000 grant lifeworks foundation funded administrated researcher brendan dixon biologic institute another lab promoting intelligent design affiliated discovery institute
+marks agrees associating [intelligent design] proponents harmful your career expressed sympathy guillermo gonzalez william dembski feature marks pro-intelligent design film expelled no intelligence allowed
+interview footage marks shot expelled following deletion website
+motion picture alleges persecution intelligent design advocates academic institutions scientific establishment
+technical contributions marks researcher area electrical engineering
+treatment prostate cancer
+marks colleagues developed algorithms real time identification placement radioactive seeds cancerous prostates
+work co-recipient judith stitt best abstract award american brachytherapy society
+algorithm used clinically
+optimal detection
+field detection theory marks colleagues developed first closed form solution neyman–pearson optimal detection signals non-gaussian noise marks wise haldeman whited derived exact expressions test statistic distribution functions thus able analyze performance optimal detector given values signal strength sample size
+power load forecasting using neural networks
+colleagues university washington marks first apply artificial neural network forecast power demands utilities
+six years later neural networks being used major north american utilities remains common use today
+ieee sponsors matlab based webinar use neural networks load forecasting
+technique similar already used successfully forecast electrical load needs used forecast dow jones closing values using data millions twitter messages
+concerning success technology introduced paper marks my wife’s grandfather fond saying known how long lived taken better care himself
+known how successful load forecasting paper become spent time polishing
+convolutional neural networks
+homma atlas marks developed temporal convolutional neural network used widely image video recognition
+signal display time frequency
+zhao-atlas-marks time-frequency distribution
+zam distribution zamd originally called cone shaped time-frequency distribution
+zamd special case cohen's class time-frequency distributions
+zamd currently matlab time-frequency toolbox national instruments' lab view tools time-frequency time-series wavelet analysis zhao–atlas–marks distribution produces good resolution time frequency domains
+zamd method reduces interference resulting cross-terms present multi-component signals
+useful resolving close spectral peaks capturing non-stationary multi-component signals
+[t]he zhao-atlas-marks time-frequency distribution
+significantly enhances time frequency resolution eliminates undesirable cross terms
+// zam distribution applied speech remarkable results
+remote sensing
+marks colleagues first use neural network inversion remote sensing
+measured snow parameters microwave measurements made satellites
+their general approach widely used today
+wireless arrays
+marks co-recipient nasa tech brief pioneering power efficient communication wireless arrays
+power generation
+working southern california edison marks colleagues pioneered computational intelligence based methods early detection intermittent shorted windings multi ton electric generators while rotors still turning
+[their diagnostic test performs] detection localization shorted turns dc field winding turbine-generator rotors using novelty detection fuzzified neural networks
+use neural networks fuzzy logic outputs traveling wave techniques
+accurate locator shorted turns turbo-generator rotors
+marks made number contributions sampling theorem including authoring first book exclusively dedicated subject
+restoration lost samples
+using sophisticated estimation missing samples using previous future samples marks first showed signal sampled above nyquist rate lost samples redundant sense any finite number them obtained remaining ones solving system linear equations
+ill-posed sampling
+sampling theorem's cheung–marks theorem shows samples taken signal above nyquist rate may prove incapable restoring signal presence small amounts noise
+optimal image sampling
+cheung marks also first showed images sampled below their nyquist rate still recovered without aliasing
+their very interesting multidimensional construction
+exploit[s] [required] spectral gaps occur sampling multidimensional signals
+their approach slice spectrum narrow bands handle separately those bands contain signal energy those
+system representation using samples
+marks colleagues showed continuous dynamic systems characterized using sampling theorem
+techniques developed walkup marks their co-workers whereby shift-variant transformation separated number discrete operations
+// marks et al
+derived generalized sampling theorem gives
+rates necessary dealing shift-variant operations
+// marks [also] proposed number processors based temporally multiplexing impulse response
+optical computers
+marks invented implemented optical computer using lenses mirrors light laser performs iterative calculations literally speed light
+while many problems optics solved projections difficult solve such problems using all-optical methods
+notable exception marks' all-optical implementations convex projection algorithm implementing super-resolution
+christianity marks served faculty adviser university washington's chapter campus crusade christ seventeen years
+presented talk does calculus christianity? poland japan canada russia united states
+marks made science-oriented christian apologetics presentations
+venues include poland japan moscow canada siberia
+other activities william
+dembski marks offered statistical arguments against james cameron's claim found burial site jesus portrayed cameron's documentary lost tomb jesus
+marks served consultant microsoft darpa pacific gas electric company boeing corporation john fluke manufacturing company southern california edison
+marks cartoonist student newspaper while rose–hulman institute technology
+[citation needed] marks hosted political radio talk show early 1970 s
+marks's erdős number three bacon number two
+therefore erdős–bacon number five
+books robert j
+marks ii r
+marks ii michael behe william
+dembski bruce l
+gordon john c
+sanford editors biological information - new perspectives world scientific singapore 2013
+marks ii handbook fourier analysis applications oxford university press 2009
+reed r
+marks ii neural smithing supervised learning feedforward artificial neural networks mit press cambridge ma 1999
+attikiouzel r
+marks ii david
+fogel toshio fukuda editors computational intelligence dynamic system perspective ieee press 1995
+marks ii editor fuzzy logic technology applications ieee technical activities board piscataway 1994
+jacek m
+zurada r
+marks ii c
+robinson editors computational intelligence imitating life ieee press 1994
+marks ii editor advanced topics shannon sampling interpolation theory springer-verlag 1993
+marks ii introduction shannon sampling interpolation theory springer-verlag
+el-sharkawi r
+marks ii editors applications neural networks power systems ieee press piscataway
+references review handbook fourier analysis
+geometry online learning center
+retrieved june 3 2015
+leon cohen time frequency analysis theory applications prentice hall 1994 j
+brown s
+cabrera well-posedness papoulis generalized sampling expansion ieee transactions circuits systems may volume 38 issue 5 pp
+554–556 donald c
+wunsch interviews robert j
+marks ii ieee computational intelligence society's history committee
+retrieved june 3 2015
+jacek zurada r
+marks ii c
+robinson editors
+computational intelligence imitating life
+ieee press 1994
+robert j
+marks ii
+impact christian faith mathematics & science yesterday & today
+retrieved june 4 2015
+casey luskin
+id future dr
+robert marks - active information metabiology
+retrieved june 3 2015
+jerry pierce baptist professors featured new film southern baptist texan january 28 2008 lesley burbridge-bates 2007-08-22
+expelled press release pdf
+premise media
+retrieved 2008-04-07
+external link |publisher= help ieee transactions neural networks c e f robert j
+marks ii
+curriculum vitae pdf
+retrieved june 3 2015
+follow money dembski/baylor-related mischief? andrea bottaro
+panda's thumb september 7 2007
+william dembski addresses forthcoming intelligent design research advances id answers critics evolution news & views discovery institute crisis averted mark bergin world magazine baylor u
+removes web page associated intelligent design site elizabeth f
+chronicle higher education sept
+4 2007
+onlinesubscription access evo info
+org grace maalouf brad briggs bu role dembski return baylor lariat nov
+16 2007 follow money dembski/baylor-related mischief? andrea bottaro [[the panda's thumb blog|]] lifeworks foundation 990 form year 2006 well-informed dr
+robert marks evolutionary informatics lab casey luskin interviewer intelligent design future podcast series center science culture discovery institute
+marks's cv
+narayanan p
+cho r
+marks ii fast cross-projection algorithm reconstruction seeds prostate brachytherapy med
+29 7 july 2002 pp
+narayanan p
+cho r
+marks ii three-dimensional seed reconstruction incomplete data set prostate brachytherapy phys
+49 pp
+3483–3494 2004
+reed k
+wallner s
+narayanan s
+sutlief e
+ford p
+cho intraoperative fluoroscopic dose assessment prostate brachytherapy patients international journal radiation oncology biology physics vol 63 issue september 2005 pp
+301–307 s
+kassam signal detection non-gaussian noise
+springer verlag 1988
+detection laplace noise r
+marks ii g
+haldeman j
+whited ieee transactions aerospace electronic systems vol
+aes-14 pp
+866–872 1978
+halverson g
+robust detection nominally laplace noise
+ieee transactions communications volume 42 issue 2-4 pp
+1651–1660 feb–apr
+khotanzad r
+afkhami-rohani lu tsun-liang
+abaye m
+maratukulam annstlf-a neural-network-based electric load forecasting system ieee transactions neural networks volume issue 4 jul 1997 pp
+park m
+el-sharkawi r
+marks ii l
+atlas & m
+damborg electric load forecasting using artificial neural network ieee transactions power engineering vol
+6 pp
+ieee spectrum webinar electricity demand price forecasting matlab analyzing almost 10 million tweets research finds public mood predict dow days advance indiana university press release
+bing sheu neural networks beyond-an interview robert j
+marks ieee circuits devices magazine volume 12 issue 5 1996 [doi 10
+537355] homma toshiteru les atlas robert marks ii 1988
+artificial neural network spatio-temporal bipolar patters application phoneme classification pdf
+advances neural information processing systems 31–40
+zhao l
+atlas r
+marks “the use cone-shape kernels generalized time-frequency representations nonstationary signals” ieee trans
+acoustics speech signal processing vol
+38 no
+7 pp
+1084–1091 july 1990 time-frequency toolbox use matlab national instruments
+lab view tools time-frequency time-series wavelet analysis
+tfa cone-shaped distribution vi g
+chena z
+zhou time–frequency analysis friction-induced vibration under reciprocating sliding conditions wear volume 262 issues 1–2 4 january 2007 pages 1–10 lokenath debnath wavelet transforms their applications birkhäuser boston 2001 p
+355 l
+tsang z
+chen s
+oh r
+marks ii
+chang inversion snow parameters passive microwave remote sensing measurements neural network trained multiple scattering model ieee transactions goescience remote sensing vol
+30 no
+5 pp
+1015–1024 1992
+ishimaru r
+marks ii l
+tsang c
+park s
+kitamaru particle size distribution using optical sensing neural networks optics letters vol
+15 pp
+1221–1223 1990
+vladimir m
+krasnopolsky helmut schillerb neural network applications environmental sciences
+part forward inverse problems geophysical remote measurements neural networks volume 16 issues 3–4 april–may 2003 pp
+321–334 f
+van meer geophysical inversion imaging spectrometer data geologic modelling international journal remote sensing volume 21 issue 2 pp
+387–393 2000 nasa recognizes baylor engineer innovative technology
+das r
+marks ii m
+el-sharkawi payman arabshahi andrew gray minimum power broadcast trees wireless networks optimization using viability lemma proceedings nasa earth science technology conference june 11–13 2002 pasadena ca m
+el-sharkawi r
+marks ii s
+oh s
+rodriguez localization winding shorts using fuzzified neural networks ieee transactions energy conversion vol
+10 no
+march 1995 pp
+guttormsson r
+marks ii m
+kerszenbaum elliptical novelty grouping on-line short-turn detection excited running rotors ieee transactions energy conversion ieee transactions volume 14 march 1999 pp
+16–22 m
+el-hawary fuzzy system theory electrical power engineering ieee press 1998 p
+xxiv r
+marks ii introduction shannon sampling interpolation theory springer-verlag
+marvasti peter m
+clarkson miroslav v
+dokic ut goenchanart chuande liu reconstruction speech signals lost samples ieee transactions signal processing volume 40 issue 12 pp
+2897–2903 december 1992
+marks ii restoring lost samples oversampled bandlimited signal ieee transactions acoustics speech signal processing vol
+assp-31 pp
+752–755 1983
+ferreira incomplete sampling series recovery missing samples oversampled bandlimited signals ieee transactions signal processing 40 pp
+225 227 1992
+cheung r
+marks ii ill-posed sampling theorems ieee transactions circuits systems vol
+cas-32 pp
+829–835 1985
+cheung r
+marks ii image sampling below nyquist density without aliasing journal optical society america vol
+7 pp
+92–105 1990 cormac herley ping wah wong minimum rate sampling reconstruction signals arbitrary frequency support ieee transactions information theory vol no
+5 july 1999 pp
+marks ii j
+walkup m
+hagler sampling theorems linear shift-variant systems ieee transactions circuits systems vol
+cas-25 pp
+228–233 1978
+marks ii two-dimensional coherent space-variant processing using temporal holography applied optics vol
+18 pp
+3670 3674 1979
+joseph l
+horner optical signal processing academic press 1987 pp
+315317 r
+marks ii coherent optical extrapolation two-dimensional signals processor theory applied optics vol
+19 pp
+1670–1672 1980 r
+marks ii
+smith gerchberg type linear deconvolution extrapolation algorithms transformations optical signal processing edited w
+rhodes j
+saleh spie vol
+373 pp
+161–178 1984
+henry stark yongyi yang vector space projections numerical approach signal image processing neural nets optics wiley-interscience1998 p
+does calculus christianity presentation marks' apologetics page benjamin hawkins southwestern professors make no bones christ’s resurrection mar 2008 w
+dembski r
+marks ii ``the jesus tomb math buried hope risen savior? search jesus tomb edited charles quarles
+sketch marks marks's web page
+wpfr tele talk marks's web page
+robert j
+marks ii erdős-bacon number five
+retrieved 2010-05-05
+external links wikiquote quotations related robert j
+marks ii robert j
+marks ii ph home page dr
+robert j
+marks ii engineering faculty baylor university

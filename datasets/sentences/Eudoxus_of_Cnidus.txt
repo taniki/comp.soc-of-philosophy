@@ -1,0 +1,138 @@
+confused eudoxus cyzicus
+eudoxus cnidus /ˈjuːdəksəs/ greek εὔδοξος ὁ κνίδιος eúdoxos ho knídios 408–355 bc greek astronomer mathematician scholar student plato
+works lost though fragments preserved hipparchus' commentary aratus's poem astronomy
+theodosius bithynia's important work sphaerics may based work eudoxus
+contents life 2 mathematics 3 astronomy 3
+eudoxan planetary models 3
+2 importance eudoxan system 4 ethics 5 see also 6 notes 7 references further reading 9 external links life name eudoxus means honored good repute greek εὔδοξος eu good doxa opinion belief fame
+analogous latin name benedictus
+eudoxus's father aeschines cnidus loved watch stars night
+eudoxus first travelled tarentum study archytas whom learned mathematics
+while italy eudoxus visited sicily studied medicine philiston
+around 387 bc age 23 traveled physician theomedon according diogenes laërtius believed lover athens study followers socrates
+eventually attended lectures plato other philosophers several months due disagreement falling out
+eudoxus quite poor afford apartment piraeus
+attend plato's lectures walked seven miles km each direction each day
+due poverty friends raised funds sufficient send heliopolis egypt pursue study astronomy mathematics
+lived there 16 months
+egypt then traveled north cyzicus located south shore sea marmara propontis
+traveled south court mausolus
+during travels gathered many students own
+around 368 bc eudoxus returned athens students
+according sources around 367 assumed headship academy during plato's period syracuse taught aristotle
+[citation needed] eventually returned native cnidus served city assembly
+while cnidus built observatory continued writing lecturing theology astronomy meteorology
+son aristagoras three daughters actis philtis delphis
+mathematical astronomy fame due introduction astronomical globe early contributions understanding movement planets
+work proportions shows insight numbers allows rigorous treatment continuous quantities just whole numbers even rational numbers
+revived tartaglia others 16 th century became basis quantitative work science century until replaced richard dedekind
+craters mars moon named honor
+algebraic curve kampyle eudoxus also named after a2 x4 = b4 x2 + y2
+mathematics eudoxus considered greatest classical greek mathematicians antiquity second archimedes
+rigorously developed antiphon's method exhaustion precursor integral calculus also used masterly way archimedes following century
+applying method eudoxus proved such mathematical statements areas circles another squares their radii volumes spheres another cubes their radii volume pyramid one-third volume prism same base altitude volume cone one-third corresponding cylinder
+eudoxus introduced idea non-quantified mathematical magnitude describe work continuous geometrical entities such lines angles areas volumes thereby avoiding use irrational numbers
+doing reversed pythagorean emphasis number arithmetic focusing instead geometrical concepts basis rigorous mathematics
+pythagoreans such eudoxus' teacher archytas believed arithmetic provide basis proofs
+induced need understand operate incommensurable quantities eudoxus established may first deductive organization mathematics basis explicit axioms
+change focus eudoxus stimulated divide mathematics lasted two thousand years
+combination greek intellectual attitude unconcerned practical problems there followed significant retreat development techniques arithmetic algebra
+pythagoreans discovered diagonal square does common unit measurement sides square famous discovery square root 2 cannot expressed ratio two integers
+discovery heralded existence incommensurable quantities beyond integers rational fractions same time threw question idea measurement calculations geometry whole
+example euclid provides elaborate proof pythagorean theorem elements
+47 using addition areas much later elements vi
+31 simpler proof similar triangles relies ratios line segments
+ancient greek mathematicians calculated quantities equations today instead used proportionalities express relationship quantities
+thus ratio two similar quantities just numerical value think today ratio two similar quantities primitive relationship them
+eudoxus able restore confidence use proportionalities providing astounding definition meaning equality two ratios
+definition proportion forms subject euclid's book v
+definition 5 euclid's book v read magnitudes same ratio first second third fourth any equimultiples whatever taken first third any equimultiples whatever second fourth former equimultiples alike exceed alike equal alike fall short latter equimultiples respectively taken corresponding order
+using modern-day notation clarified follows
+take four quantities c then first second ratio similarly third fourth ratio
+now say following any two arbitrary integers m n form equimultiples m·a m·c first third likewise form equimultiples n·b n·d second fourth
+happens m·a > n·b then must also m·c > n·d
+happens m·a = n·b then must also m·c = n·d
+finally happens m·a < n·b then must also m·c < n·d
+notice definition depends comparing similar quantities m·a n·b similar quantities m·c n·d does depend existence common unit measuring these quantities
+complexity definition reflects deep conceptual methodological innovation involved
+brings mind famous fifth postulate euclid concerning parallels extensive complicated wording other postulates
+eudoxian definition proportionality uses quantifier every
+harness infinite infinitesimal just modern epsilon-delta definitions limit continuity
+additionally archimedean property stated definition 4 euclid's book v originally due archimedes eudoxus
+astronomy ancient greece astronomy branch mathematics astronomers sought create geometrical models imitate appearances celestial motions
+identifying astronomical work eudoxus separate category therefore modern convenience
+eudoxus' astronomical texts whose names survived include disappearances sun possibly eclipses oktaeteris ὀκταετηρίς eight-year lunisolar cycle calendar phaenomena φαινόμενα entropon ἔντροπον spherical astronomy probably based observations made eudoxus egypt cnidus speeds planetary motions fairly well informed contents phaenomena eudoxus' prose text basis poem same name aratus
+hipparchus quoted text eudoxus commentary aratus
+eudoxan planetary models general idea content speeds gleaned aristotle's metaphysics xii commentary simplicius cilicia 6 th century ad de caelo another work aristotle
+according story reported simplicius plato posed question greek astronomers assumption uniform orderly motions apparent motions planets accounted for? quoted lloyd 1970 p
+plato proposed seemingly chaotic wandering motions planets explained combinations uniform circular motions centered spherical earth apparently novel idea 4 th century bc
+most modern reconstructions eudoxan model moon assigned three spheres outermost rotates westward once 24 hours explaining rising setting
+second rotates eastward once month explaining monthly motion moon through zodiac
+third also completes revolution month axis tilted slightly different angle explaining motion latitude deviation ecliptic motion lunar nodes
+sun also assigned three spheres
+second completes motion year instead month
+inclusion third sphere implies eudoxus mistakenly believed sun motion latitude
+five visible planets venus mercury mars jupiter saturn assigned four spheres each outermost explains daily motion
+second explains planet's motion through zodiac
+third fourth together explain retrogradation planet appears slow down then briefly reverse motion through zodiac
+inclining axes two spheres respect each other rotating them opposite directions equal periods eudoxus make point inner sphere trace out figure-eight shape hippopede
+importance eudoxan system callippus greek astronomer 4 th century added seven spheres eudoxus' original 27 addition planetary spheres eudoxus included sphere fixed stars
+aristotle described both systems insisted adding unrolling spheres each set spheres cancel motions outer set
+aristotle concerned physical nature system without unrollers outer motions transferred inner planets
+major flaw eudoxan system inability explain changes brightness planets seen earth
+because spheres concentric planets will remain same distance earth
+problem pointed out antiquity autolycus pitane
+astronomers responded introducing deferent epicycle caused planet vary distance
+however eudoxus' importance greek astronomy considerable first attempt mathematical explanation planets
+ethics aristotle nicomachean ethics attributes eudoxus argument favor hedonism pleasure ultimate good activity strives
+according aristotle eudoxus put forward following arguments position things rational irrational aim pleasure things aim believe good good indication chief good thing most things aim
+similarly pleasure's opposite − pain − universally avoided provides additional support idea pleasure universally considered good
+people don't seek pleasure means something else end own right
+any other good you think better pleasure added good good increased
+things good happiness peculiar being praised may show crowning good
+see also incommensurable magnitudes eudoxus reals fairly recently discovered construction real numbers named honor notes lasserre françois 1966 die fragmente des eudoxos von knidos de gruyter berlin diogenes laertius viii
+87 calinger ronald 1982
+classics mathematics
+oak park illinois moore publishing company inc
+morris kline mathematical thought ancient modern times oxford university press 1972 pp
+48–50 knopp konrad 1951
+theory application infinite series english 2 nd ed
+london glasgow blackie & son ltd
+largely book ten
+particular argument referenced book
+references evans james 1998
+history practice ancient astronomy
+oxford university press
+oclc 185509676
+huxley gl 1980
+eudoxus cnidus p
+465-7 dictionary scientific biography volume 4
+lloyd ger 1970
+early greek science thales aristotle
+further reading de santillana g
+eudoxus plato study chronology
+reflections men ideas
+cambridge ma mit press
+huxley g
+eudoxian topics
+greek roman byzantine studies 4 83–96
+knorr wilbur richard 1986
+ancient tradition geometric problems
+boston birkhäuser
+knorr wilbur richard 1978
+archimedes pre-euclidean proportion theory
+archives intemationales d'histoire des sciences 28 183–244
+neugebauer o
+history ancient mathematical astronomy
+berlin springer-verlag
+van waerden
+science awakening 5 th ed
+leiden noordhoff
+lasserre françois 1966 die fragmente des eudoxos von knidos de gruyter berlin manitius c
+1894 hipparchi arati et eudoxi phaenomena commentariorum libri tres teubner external links working model complete explanation eudoxus's spheres dennis duke statistical dating phaenomena eudoxus dio volume 15 see pages 7 23 diogenes laërtius life eudoxus translated robert drew hicks 1925
+wikisource eudoxus cnidus britannica
+com eudoxus cnidus donald allen professor texas a&m university eudoxos knidos eudoxus cnidus astronomy homocentric spheres henry mendell cal state u herodotus project extensive b+w photo essay cnidus models planetary motion—eudoxus craig mc connell ph
+cal state fullerton o'connor john j
+robertson edmund f
+eudoxus cnidus mac tutor history mathematics archive university st andrews
+universe according eudoxus java applet vte platonists academics old plato speusippus heraclides ponticus menedemus pyrrha eudoxus cnidus philip opus xenocrates crantor polemon crates athens middle arcesilaus lacydes telecles evander hegesinus new carneades clitomachus charmadas philo larissa middle platonists antiochus philo alexandria plutarch albinus alcinous atticus maximus tyre numenius apamea longinus origen pagan neoplatonists ammonius saccas plotinus disciples plotinus amelius porphyry iamblichus sopater sosipatra aedesius dexippus chrysanthius julian sallustius maximus ephesus eusebius myndus antoninus hypatia plutarch athens macrobius asclepigenia hierocles syrianus hermias aedesia proclus ammonius hermiae asclepiodotus marinus zenodotus hegias isidore damascius simplicius priscian olympiodorus john philoponus vte ancient greek astronomy astronomers acoreus aglaonice agrippa anaximander andronicus apollonius aratus aristarchus aristyllus attalus autolycus bion callippus cleomedes cleostratus conon eratosthenes euctemon eudoxus geminus heraclides hicetas hipparchus hippocrates chios hypsicles menelaus meton oenopides philip opus philolaus posidonius ptolemy pytheas seleucus sosigenes alexandria sosigenes peripatetic strabo thales theodosius theon alexandria theon smyrna timocharis works almagest ptolemy sizes distances hipparchus sizes distances aristarchus heavens aristotle instruments antikythera mechanism armillary sphere astrolabe dioptra equatorial ring gnomon mural instrument triquetrum concepts callippic cycle celestial spheres circle latitude counter-earth deferent epicycle equant geocentrism heliocentrism hipparchic cycle metonic cycle octaeteris solstice spherical earth sublunary sphere zodiac influences babylonian astronomy egyptian astronomy influenced medieval european science indian astronomy medieval islamic astronomy vte ancient greek mathematics mathematicians anaxagoras anthemius archytas aristaeus elder aristarchus apollonius archimedes autolycus bion boethius bryson callippus carpus chrysippus cleomedes conon ctesibius democritus dicaearchus diocles diophantus dinostratus dionysodorus domninus eratosthenes eudemus euclid eudoxus eutocius geminus heron hipparchus hippasus hippias hippocrates hypatia hypsicles isidore miletus leon marinus menaechmus menelaus metrodorus nicomachus nicomedes nicoteles oenopides pappus perseus philolaus philon porphyry posidonius proclus ptolemy pythagoras serenus simplicius sosigenes sporus thales theaetetus theano theodorus theodosius theon alexandria theon smyrna thymaridas xenocrates zeno elea zeno sidon zenodorus treatises almagest archimedes palimpsest arithmetica conics apollonius elements euclid sizes distances aristarchus sizes distances hipparchus moving sphere autolycus sand reckoner problems problem apollonius squaring circle doubling cube angle trisection centers cyrene library alexandria platonic academy timeline ancient greek mathematicians authority control world cat identities viaf 10637157 lccn n85011976 isni 0000 0001 0869 7437 gnd 11853131 x sudoc 068529937 bnf cb12812945 z data

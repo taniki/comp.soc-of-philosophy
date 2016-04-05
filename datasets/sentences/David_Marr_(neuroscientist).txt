@@ -1,0 +1,129 @@
+david courtnay marr born 1945-01-1919 january 1945 woodford london died 17 november 19801980-11-17 aged 35 cambridge massachusetts fields computational neuroscience artificial intelligence psychology institutions massachusetts institute technology alma mater trinity college cambridge thesis general theory cerebral cortex 1972 doctoral advisor giles brindley doctoral students shimon ullman eric grimson john m
+hollerbach notable awards ijcai computers thought award david courtnay marr 19 january 1945 17 november 1980 british neuroscientist psychologist
+marr integrated results psychology artificial intelligence neurophysiology new models visual processing
+work very influential computational neuroscience led resurgence interest discipline
+contents biography 2 work 2
+theories cerebellum hippocampus neocortex 2
+2 levels analysis 2
+3 stages vision 3 see also 4 publications 5 references 6 further reading 7 external links biography born woodford essex educated rugby school admitted trinity college cambridge october 1963 having awarded lees knowles rugby exhibition
+awarded coutts trotter scholarship 1966 obtained ba mathematics same year got ph physiology under giles brindley 1972
+interest turned general brain theory visual processing
+doctoral dissertation submitted 1969 described model function cerebellum based mainly anatomical physiological data garnered book j
+subsequently worked massachusetts institute technology took faculty appointment department psychology 1977 subsequently made tenured full professor 1980
+marr proposed understanding brain requires understanding problems faces solutions finds
+emphasised need avoid general theoretical debates instead focus understanding specific problems
+marr died leukaemia cambridge massachusetts age 35
+findings collected book vision computational investigation human representation processing visual information finished mainly 1979 summer published 1982 after death re-issued 2010 mit press
+book key role beginning rapid growth computational neuroscience field
+married lucia m
+vaina boston university's department biomedical engineering neurology
+marr prize most prestigious awards computer vision named honour
+cognitive science society also awards marr prize best student paper annual conference
+work theories cerebellum hippocampus neocortex marr best known work vision before began work topic published three seminal papers proposing computational theories cerebellum 1969 neocortex 1970 hippocampus 1971
+each those papers presented important new ideas continue influence modern theoretical thinking
+cerebellum theory motivated two unique features cerebellar anatomy cerebellum contains vast numbers tiny granule cells each receiving few inputs mossy fibers 2 purkinje cells cerebellar cortex each receive tens thousands inputs parallel fibers input single climbing fiber however extremely strong
+marr proposed granule cells encode combinations mossy fibre inputs climbing fibres carry teaching signal instructs their purkinje cell targets modify strength synaptic connections parallel fibres
+neither those ideas universally accepted both form essential elements viable modern theories
+theory neocortex primarily motivated discoveries david hubel torsten wiesel found several types feature detectors primary visual area cortex
+marr proposed generalising observation cells neocortex flexible categorizers—that learn statistical structure their input patterns become sensitive combinations frequently repeated
+theory hippocampus marr called archicortex motivated discovery william scoville brenda milner destruction hippocampus produced amnesia memories new recent events left intact memories events occurred years earlier
+marr called theory simple memory basic idea hippocampus rapidly form memory traces simple type strengthening connections neurons
+remarkably marr's paper preceded two years paper tim bliss terje lømo provided first clear report long-term potentiation hippocampus type synaptic plasticity very similar marr hypothesized
+marr's paper contains footnote mentioning preliminary report discovery
+details marr's theory no longer great value because errors understanding hippocampal anatomy basic concept hippocampus temporary memory system remains number modern theories
+end paper marr promised follow-up paper relations hippocampus neocortex no such paper ever appeared
+levels analysis marr treated vision information processing system
+put forth concert tomaso poggio idea must understand information processing systems three distinct complementary levels analysis
+idea known cognitive science marr's tri-level hypothesis computational level does system e
+problems does solve overcome similarly why does these things algorithmic/representational level how does system does specifically representations does use processes does employ build manipulate representations implementational/physical level how system physically realised case biological vision neural structures neuronal activities implement visual system after thirty years vision 1982 w
+freeman company tomaso poggio adds higher level beyond computational level learning
+am sure marr agree am tempted add learning very top level understanding above computational level
+then may able build intelligent machines learn see—and think—without need programmed
+— tomaso poggio vision 2010 mit press afterword p
+367 stages vision marr described vision proceeding two-dimensional visual array retina three-dimensional description world output
+stages vision include primal sketch scene based feature extraction fundamental components scene including edges regions etc
+note similarity concept pencil sketch drawn quickly artist impression
+5 sketch scene textures acknowledged etc
+note similarity concept stage drawing artist highlights shades areas scene provide depth
+3 model scene visualised continuous 3-dimensional map
+5 sketch related stereopsis optic flow motion parallax
+5 sketch represents reality see our surroundings construct viewer-centered three dimensional view our environment
+5 sketch paraline [clarification needed] drawing often referred generic term axonometric isometric drawing often used modern architects designers
+see also high low level description marr prize level analysis publications 1969 theory cerebellar cortex
+1970 theory cerebral neocortex
+proceedings royal society london 176161–234
+1971 simple memory theory archicortex
+royal soc
+london 26223–81
+1974 computation lightness primate retina
+vision research 141377–1388
+1975 approaches biological information processing
+science 190875–876
+1976 early processing visual information
+1976 cooperative computation stereo disparity
+science 194283–287
+tomaso poggio march 1976 artificial intelligence personal view
+technical report aim 355 mit ai laboratory cambridge ma
+1977 artificial intelligence personal view
+artificial intelligence 91 37–48
+1977 understanding computation understanding neural circuitry
+neurosciences res
+tomaso poggio 1978 representation recognition spatial organization three dimensional shapes
+proceedings royal society london 200269–294
+nishihara 1979 computational theory human stereo vision
+proceedings royal society london 204301–328
+tomaso poggio 1980 theory edge detection
+hildreth 1981 artificial intelligence personal view
+haugeland j
+mind design chapter 4 pages 129–142
+mit press cambridge ma
+1982 representation recognition movements shapes
+proceedings royal society london 214501–524
+vaina 1982
+vision computational investigation human representation processing visual information
+new york freeman
+references marr david 2010
+afterword tomaso poggio
+computational investigation human representation processing visual information
+mit press
+though may true book started fi eld known computational neuroscience certainly true key role beginning rapid growth marr june 1969
+theory cerebellar cortex
+202 2 437–70
+pmc 1351491
+pmid 5784296
+marr november 1970
+theory cerebral neocortex
+176 43 161–234
+pmid 4394740
+marr july 1971
+simple memory theory archicortex
+262 841 23–81
+pmid 4399412
+bliss tv lømo t july 1973
+long-lasting potentiation synaptic transmission dentate area anaesthetized rabbit following stimulation perforant path
+232 2 331–56
+pmc 1350458
+pmid 4727084
+bliss tv lømo t april 1970
+plasticity monosynaptic cortical pathway
+207 2 61 p
+pmid 5511138
+willshaw dj buckingham jt august 1990
+assessment marr's theory hippocampus temporary memory store
+329 1253 205–15
+pmid 1978365
+poggio t
+understanding computation understanding neural circuitry
+artificial intelligence laboratory
+massachusetts institute technology
+dawson michael
+understanding cognitive science
+blackwell publishing 1998
+uddin saleh
+conventions construction paralines
+axonometric oblique drawing 3-d construction rendering design guide 1–14
+new york mc graw-hill 1997
+further reading vaina l
+retina neocortex selected papers david marr
+boston ma birkhauser
+external links extensive online biography authority control world cat identities viaf 54237276 lccn n81106284 isni 0000 0000 8383 3868 gnd 118985477 sudoc 169614220 bnf cb124223376 data mgp 67765 ndl 00471088

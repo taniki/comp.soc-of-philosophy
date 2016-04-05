@@ -1,0 +1,639 @@
+native form personal name wigner jenő
+article uses western name order
+eugene wigner born eugene paul wigner1902-11-17 november 17 1902 budapest austria-hungary died january 19951995-01-01 aged 92 princeton new jersey united states residence united states citizenship american post-1937 hungarian pre-1937 fields theoretical physics atomic physics nuclear physics solid-state physics institutions university göttingen university wisconsin–madison princeton university manhattan project alma mater technical university berlin doctoral advisor michael polanyi other academic advisors lászló rátz richard becker doctoral students john bardeen victor frederick weisskopf marcos moshinsky abner shimony edwin thompson jaynes frederick seitz conyers herring frederick tappert j o hirschfelder conyers herring known bargmann–wigner equations law conservation parity wigner d-matrix wigner–eckart theorem wigner's friend wigner semicircle distribution wigner's classification wigner distribution function wigner quasi-probability distribution wigner crystal wigner effect wigner energy wigner lattice relativistic breit–wigner distribution modified wigner distribution function wigner–d'espagnat inequality gabor–wigner transform wigner's theorem jordan–wigner transformation newton–wigner localization wigner-inonu contraction wigner–seitz cell wigner–seitz radius thomas-wigner rotation wigner–weyl transform wigner-wilkins spectra6-j symbol9-j symbol notable awards medal merit 1946 franklin medal 1950 enrico fermi award 1958 atoms peace award 1959 max planck medal 1961 nobel prize physics 1963 national medal science 1969 albert einstein award 1972 wigner medal 1978 spouse amelia frank 1936–1937 her death mary annette wheeler 1941–1977 her death 2 children eileen clare-patton hamilton child died november 21 2010 signature eugene paul e
+wigner hungarian wigner jenő pál november 17 1902 january 1995 hungarian american theoretical physicist mathematician
+received half nobel prize physics 1963 contributions theory atomic nucleus elementary particles particularly through discovery application fundamental symmetry principles
+graduate technical university berlin wigner worked assistant karl weissenberg richard becker kaiser wilhelm institute berlin david hilbert university göttingen
+wigner hermann weyl responsible introducing group theory physics particularly theory symmetry physics
+along way performed ground-breaking work pure mathematics authored number mathematical theorems
+particular wigner's theorem cornerstone mathematical formulation quantum mechanics
+also known research structure atomic nucleus
+1930 princeton university recruited wigner along john von neumann moved united states
+wigner participated meeting leo szilard albert einstein resulted einstein-szilard letter prompted president franklin
+roosevelt initiate manhattan project develop atomic bombs
+wigner afraid german nuclear weapon project develop atomic bomb first
+during manhattan project led team whose task design nuclear reactors convert uranium weapons grade plutonium
+time reactors existed paper no reactor yet gone critical
+wigner disappointed du pont given responsibility detailed design reactors just their construction
+became director research development clinton laboratory now oak ridge national laboratory early 1946 became frustrated bureaucratic interference atomic energy commission returned princeton
+postwar period served number government bodies including national bureau standards 1947 1951 mathematics panel national research council 1951 1954 physics panel national science foundation influential general advisory committee atomic energy commission 1952 1957 again 1959 1964
+later life became philosophical published unreasonable effectiveness mathematics natural sciences best-known work outside technical mathematics physics
+contents early life 2 middle years 3 manhattan project 4 later years 5 publications 6 see also 7 notes references 9 external links early life werner heisenberg eugene wigner 1928 wigner jenő pál born budapest austria-hungary november 17 1902 middle class jewish parents elisabeth einhorn anthony wigner leather tanner
+older sister bertha known biri younger sister margit known manci later married british theoretical physicist paul dirac
+home schooled professional teacher until age 9 started school third grade
+during period wigner developed interest mathematical problems
+age wigner contracted doctors believed tuberculosis
+parents sent live six weeks sanatorium austrian mountains before doctors concluded diagnosis mistaken
+wigner's family jewish religiously observant bar mitzvah secular
+1915 through 1919 studied secondary grammar school called fasori evangélikus gimnázium school father attended
+religious education compulsory attended classes judaism taught rabbi
+fellow student jános von neumann year behind wigner
+both benefited instruction noted mathematics teacher lászló rátz
+1919 escape béla kun communist regime wigner family briefly fled austria returning hungary after kun's downfall
+partly reaction prominence jews kun regime family converted lutheranism
+wigner explained later life family decision convert lutheranism heart religious decision anti-communist
+religious views wigner atheist
+after graduating secondary school 1920 wigner enrolled budapest university technical sciences known műegyetem
+happy courses offer 1921 enrolled technische hochschule berlin now technical university berlin studied chemical engineering
+also attended wednesday afternoon colloquia german physical society
+these colloquia featured such luminaries max planck max von laue rudolf ladenburg werner heisenberg walther nernst wolfgang pauli albert einstein
+wigner also met physicist leó szilárd once became wigner's closest friend
+third experience berlin formative
+wigner worked kaiser wilhelm institute physical chemistry electrochemistry now fritz haber institute there met michael polanyi became after lászló rátz wigner's greatest teacher
+polanyi supervised wigner's dsc thesis bildung und zerfall von molekülen formation decay molecules
+middle years wigner returned budapest went work father's tannery 1926 accepted offer karl weissenberg kaiser wilhelm institute berlin
+weissenberg wanted someone assist work x-ray crystallography polanyi recommended wigner
+after six months weissenberg's assistant wigner went work richard becker two semesters
+wigner explored quantum mechanics studying work erwin schrödinger
+also delved group theory ferdinand frobenius eduard ritter von weber
+wigner received request arnold sommerfeld work university göttingen assistant great mathematician david hilbert
+proved disappointment aged hilbert's abilities failing interests shifted logic
+wigner nonetheless studied independently
+laid foundation theory symmetries quantum mechanics 1927 introduced now known wigner d-matrix
+wigner hermann weyl responsible introducing group theory quantum mechanics
+latter written standard text group theory quantum mechanics 1928 easy understand especially younger physicists
+wigner's group theory application quantum mechanics atomic spectra 1931 made group theory accessible wider audience
+these works wigner laid foundation theory symmetries quantum mechanics
+wigner's theorem proved wigner 1931 cornerstone mathematical formulation quantum mechanics
+theorem specifies how physical symmetries such rotations translations cpt symmetry represented hilbert space states
+according theorem any symmetry transformation represented linear unitary antilinear antiunitary transformation hilbert space
+representation symmetry group hilbert space either ordinary representation projective representation
+late 1930 s wigner extended research atomic nuclei
+1929 papers drawing notice world physics
+1930 princeton university recruited wigner one-year lectureship 7 times salary drawing europe
+princeton recruited von neumann same time
+jenő pál wigner jános von neumann collaborated three papers together 1928 two 1929
+anglicized their first names eugene john respectively
+their year up princeton offered five-year contract visiting professors half year
+technische hochschule responded teaching assignment other half year
+very timely since nazis soon rose power germany
+princeton 1934 wigner introduced sister manci physicist paul dirac whom she married
+princeton rehire wigner contract ran out 1936
+through gregory breit wigner found new employment university wisconsin
+there met first wife amelia frank physics student there
+however she died unexpectedly 1937 leaving wigner distraught
+therefore accepted 1938 offer princeton return there
+wigner became naturalized citizen united states january 1937 brought parents united states
+manhattan project wigner receiving medal merit work manhattan project robert p
+patterson left march 5 1946 although professed political amateur august 2 1939 participated meeting leó szilárd albert einstein resulted einstein–szilárd letter prompted president franklin
+roosevelt initiate manhattan project develop atomic bombs
+wigner afraid german nuclear weapon project develop atomic bomb first even refused fingerprints taken because used track down germany won
+thoughts being murdered later recalled focus your mind wonderfully
+june 4 1941 wigner married second wife mary annette wheeler professor physics vassar college completed her ph
+yale university 1932
+after war she taught physics faculty rutgers university's douglass college new jersey until her retirement 1964
+remained married until her death november 1977
+two children david wigner martha wigner upton
+during manhattan project wigner led team included alvin m
+weinberg katharine way gale young edward creutz
+group's task design production nuclear reactors convert uranium weapons grade plutonium
+time reactors existed paper no reactor yet gone critical
+july 1942 wigner chose conservative 100 mw design graphite neutron moderator water cooling
+wigner present converted rackets court under stands university chicago's abandoned stagg field december 2 1942 world's first atomic reactor chicago pile cp-1 achieved controlled nuclear chain reaction
+wigner disappointed du pont given responsibility detailed design reactors just their construction
+threatened resign february 1943 talked out head metallurgical laboratory arthur compton sent vacation instead
+turned out design decision du pont give reactor additional load tubes uranium saved project neutron poisoning became problem
+without additional tubes reactor run 35% power until boron impurities graphite burned up enough plutonium produced run reactor full power set project back year
+during 1950 s even work du pont savannah river site
+wigner regret working manhattan project sometimes wished atomic bomb ready year earlier
+important discovery wigner made during project wigner effect
+swelling graphite moderator caused displacement atoms neutron radiation
+wigner effect serious problem reactors hanford site immediate post-war period resulted production cutbacks reactor being shut down entirely
+eventually discovered overcome controlled heating annealing
+through manhattan project funding wigner leonard eisenbud also developed important general approach nuclear reactions wigner–eisenbud r-matrix theory published 1947
+later years wigner accepted position director research development clinton laboratory now oak ridge national laboratory oak ridge tennessee early 1946
+because want involved administrative duties became co-director laboratory james lum handling administrative chores executive director
+newly created atomic energy commission aec took charge laboratory's operations start 1947 wigner feared many technical decisions made washington
+also saw army's continuation wartime security policies laboratory meddlesome oversight interfering research
+such incident occurred march 1947 aec discovered wigner's scientists conducting experiments critical mass uranium-235 director manhattan project major general leslie r
+groves jr
+forbidden such experiments august 1946 after death louis slotin los alamos laboratory
+wigner argued groves's order superseded forced terminate experiments completely different killed slotin
+feeling unsuited managerial role such environment left oak ridge end summer 1947 returned princeton university although maintained consulting role facility many years
+postwar period served number government bodies including national bureau standards 1947 1951 mathematics panel national research council 1951 1954 physics panel national science foundation influential general advisory committee atomic energy commission 1952 1957 again 1959 1964
+also contributed civil defense
+near end life wigner's thoughts turned philosophical
+1960 published now classic article philosophy mathematics physics become best-known work outside technical mathematics physics unreasonable effectiveness mathematics natural sciences
+argued biology cognition origin physical concepts humans perceive them happy coincidence mathematics physics well matched seemed unreasonable hard explain
+original paper provoked inspired many responses across wide range disciplines
+these included richard hamming computer science arthur lesk molecular biology peter norvig data mining max tegmark physics ivor grattan-guinness mathematics vela velupillai economics
+wigner awarded nobel prize physics 1963 contributions theory atomic nucleus elementary particles particularly through discovery application fundamental symmetry principles
+prize shared year other half award divided maria goeppert-mayer j
+wigner professed never considered possibility might occur added never expected get my name newspapers without doing something wicked
+also won franklin medal 1950 enrico fermi award 1958 atoms peace award 1959 max planck medal 1961 national medal science 1969 albert einstein award 1972 eponymous wigner medal 1978
+1968 gave josiah willard gibbs lecture
+mary died november 1977
+1979 wigner married third wife eileen clare-patton pat hamilton widow physicist donald ross hamilton dean graduate school princeton university died 1972
+1992 age 90 published memoirs recollections eugene p
+wigner andrew szanton
+wigner full meaning life collective meaning human desires fundamentally mystery beyond our grasp
+young man chafed state affairs
+now made peace
+even feel certain honor associated such mystery
+collection essays symmetries reflections scientific essays 1995 commented possible formulate laws quantum mechanics fully consistent way without reference consciousness
+wigner died pneumonia university medical center princeton new jersey january 1995
+survived wife eileen children erika david martha sisters bertha margit
+publications 1958 alvin m
+physical theory neutron chain reactors university chicago press
+group theory application quantum mechanics atomic spectra
+new york academic press
+translation j
+griffin 1931 gruppentheorie und ihre anwendungen auf die quantenmechanik atomspektren vieweg verlag braunschweig
+1970 symmetries reflections scientific essays
+indiana university press bloomington 1992 andrew szanton
+recollections eugene p
+1995 jagdish mehra arthur s
+wightman eds
+philosophical reflections syntheses
+springer berlin see also wikimedia commons media related eugene wigner
+wikiquote quotations related eugene wigner list things named after eugene wigner wigner rotation wigner quasi-probability distribution wigner semicircle distribution particle physics representation theory wigner effect wigner–seitz cell wigner 3-j symbols list jewish nobel laureates wigner–inönü group contraction wigner–eckart theorem random matrix notes c nobel prize physics 1963
+nobel foundation
+retrieved may 19 2015
+szanton 1992 pp
+szanton 1992 pp
+szanton 1992 pp
+szanton 1992 pp
+szanton 1992 pp
+33–34 47
+szanton 1992 pp
+szanton 1992 pp
+szanton 1992 p
+szanton 1992 pp
+szanton 1992 p
+szanton 1992 pp
+szanton 1992 pp
+szanton 1992 pp
+szanton 1992 pp
+szanton 1992 pp
+szanton 1992 pp
+wigner e
+einige folgerungen aus schrödingerschen theorie für die termstrukturen
+zeitschrift für physik german 43 9–10 624–652
+bibcode1927 zphy
+624 w
+szanton 1992 pp
+eugene paul wigner 1902–1995 pdf
+notices american mathematical society 42 7 769–771
+wigner 1931 pp
+wigner 1959 pp
+szanton 1992 pp
+szanton 1992 pp
+136 153–155
+szanton 1992 pp
+szanton 1992 pp
+szanton 1992 pp
+szanton 1992 pp
+szanton 1992 pp
+szanton 1992 p
+szanton 1992 pp
+obituary mary wigner
+physics today 31 7 58
+july 1978
+bibcode1978 ph t
+31 g
+wigner biography
+st andrews university
+retrieved august 10 2013
+szanton 1992 pp
+chicago pile pioneers
+los alamos national laboratory
+retrieved august 10 2013
+szanton 1992 pp
+wigner & weinberg 1992 p
+szanton 1992 p
+wigner e
+theoretical physics metallurgical laboratory chicago
+journal applied physics 17 857
+bibcode1946 jap
+857 w
+rhodes 1995 p
+wilson richard november 2002
+young scientist's meetings wigner america
+budapest wigner symposium hungarian academy sciences
+retrieved may 16 2015
+leal l
+brief review r-matrix theory pdf
+retrieved august 12 2013
+original paper wigner e
+eisenbud l
+july 1947
+higher angular momenta long range interaction resonance reactions
+physical review 72 29–41
+bibcode1947 ph rv
+29 w
+1103/phys rev
+johnson & schaffer 1994 p
+seitz frederick vogt erich weinberg alvin m
+eugene paul wigner
+biographical memoirs
+national academies press
+retrieved 20 august 2013
+ornl history
+chapter 2 high-flux years
+section research regulations
+ornl review
+oak ridge national laboratory's communications community outreach
+retrieved 20 august 2013
+oak ridge time terribly bureaucratized am sorry say stand
+hewlett & duncan 1969 pp
+johnson & schaffer 1994 p
+szanton 1992 p
+szanton 1992 pp
+wigner e
+unreasonable effectiveness mathematics natural sciences
+richard courant lecture mathematical sciences delivered new york university may 1959
+communications pure applied mathematics 13 1–14
+bibcode1960 cpam
+hamming r
+unreasonable effectiveness mathematics
+american mathematical monthly 87 2 81–90
+unreasonable effectiveness mathematics molecular biology
+mathematical intelligencer 2 28–37
+norvig p
+pereira f
+unreasonable effectiveness data pdf
+ieee intelligent systems 24 2 8–12
+tegmark max 2007
+mathematical universe
+foundations physics 38 2 101–150
+ar xiv0704
+bibcode2008 fo ph
+101 t
+solving wigner’s mystery reasonable though perhaps limited effectiveness mathematics natural sciences
+mathematical intelligencer 30 3 7–17
+velupillai k
+unreasonable ineffectiveness mathematics economics
+cambridge journal economics 29 6 849–872
+szanton 1992 p
+eugene p
+franklin institute
+retrieved may 19 2015
+eugene p
+wigner 1958
+united states department energy office science
+retrieved may 19 2015
+guide atoms peace awards records mc
+massachusetts institute technology
+retrieved may 19 2015
+preisträger max planck nach jahren german
+deutschen physikalischen gesellschaft
+retrieved may 19 2015
+president's national medal science recipient details
+united states national science foundation
+retrieved may 19 2015
+eugene p
+princeton university
+wigner medal
+university texas
+retrieved may 19 2015
+josiah willard gibbs lectures
+american mathematical society
+retrieved may 15 2015
+problems symmetry old new physics
+bulletin american mathematical society 75 5 793–815
+mr 1566474
+szanton 1992 p
+szanton 1992 p
+wigner mehra & wightman 1995 p
+broad william j
+january 4 1995
+eugene wigner 92 quantum theorist helped usher atomic age dies
+new york times
+|access-date= requires |url= help references hewlett richard g
+duncan francis 1969
+atomic shield 1947–1952 pdf
+history united states atomic energy commission
+university park pennsylvania pennsylvania state university press
+oclc 3717478
+retrieved 7 march 2015
+johnson leland schaffer daniel 1994
+oak ridge national laboratory first fifty years
+knoxville university tennessee press
+rhodes richard 1995
+dark sun making hydrogen bomb
+new york simon & schuster
+szanton andrew 1992
+recollections eugene p
+wigner e
+gruppentheorie und ihre anwendung auf die quanten mechanik atomspektren german
+braunschweig germany friedrich vieweg und sohn
+asin b000 k1 mpei
+wigner e
+group theory application quantum mechanics atomic spectra
+translation german j
+new york academic press
+wigner e
+weinberg alvin m
+collected works eugene paul wigner volume 5 part nuclear energy
+berlin springer
+wigner eugene paul mehra jagdish wightman
+philosophical reflections syntheses
+berlin springer
+external links 1964 audio interview eugene wigner stephane groueff voices manhattan project biography bibliographic resources office scientific technical information united states department energy o'connor john j
+robertson edmund f
+eugene wigner mac tutor history mathematics archive university st andrews
+eugene wigner mathematics genealogy project epw contributions theory atomic nucleus elementary particles particularly through discovery application fundamental symmetry principles wayback machine archived july 9 2011 1984 interview wigner princeton university mathematics community 1930 s
+wayback machine archived october 5 oral history interview transcript eugene wigner 21 november 1963 american institute physics niels bohr library & archives wayback machine archived october 2013 oral history interview transcript eugene wigner 24 january 1981 american institute physics niels bohr library & archives archived march 2015 wayback machine
+wigner jenö iskolás évei radnai gyula elte fizikai szemle 2007/2 62
+description childhood especially school-years budapest interesting photos too
+interview eugene p
+wigner john von neumann charles babbage institute university minnesota minneapolis wigner talks association john von neumann during their school years hungary their graduate studies berlin their appointments princeton 1930
+wigner discusses von neumann's contributions theory quantum mechanics wigner's own work area von neumann's interest application theory atomic bomb project
+vte laureates nobel prize physics1901–1925 1901 röntgen 1902 lorentz / zeeman 1903 becquerel / p
+curie / m
+curie 1904 rayleigh 1905 lenard 1906 j
+thomson 1907 michelson 1908 lippmann 1909 marconi / braun 1910 van waals 1911 wien 1912 dalén 1913 kamerlingh onnes 1914 laue 1915 w
+bragg / w
+bragg 1916 1917 barkla 1918 planck 1919 stark 1920 guillaume 1921 einstein 1922 n
+bohr 1923 millikan 1924 m
+siegbahn 1925 franck / hertz 1926–1950 1926 perrin 1927 compton / c
+wilson 1928 o
+richardson 1929 de broglie 1930 raman 1931 1932 heisenberg 1933 schrödinger / dirac 1934 1935 chadwick 1936 hess / c
+anderson 1937 davisson / g
+thomson 1938 fermi 1939 lawrence 1940 1941 1942 1943 stern 1944 rabi 1945 pauli 1946 bridgman 1947 appleton 1948 blackett 1949 yukawa 1950 powell 1951–1975 1951 cockcroft / walton 1952 bloch / purcell 1953 zernike 1954 born / bothe 1955 lamb / kusch 1956 shockley / bardeen / brattain 1957 c
+yang / t
+lee 1958 cherenkov / frank / tamm 1959 segrè / chamberlain 1960 glaser 1961 hofstadter / mössbauer 1962 landau 1963 wigner / goeppert-mayer / jensen 1964 townes / basov / prokhorov 1965 tomonaga / schwinger / feynman 1966 kastler 1967 bethe 1968 alvarez 1969 gell-mann 1970 alfvén / néel 1971 gabor 1972 bardeen / cooper / schrieffer 1973 esaki / giaever / josephson 1974 ryle / hewish 1975
+bohr / mottelson / rainwater 1976–2000 1976 richter / ting 1977 p
+anderson / mott / van vleck 1978 kapitsa / penzias / r
+wilson 1979 glashow / salam / weinberg 1980 cronin / fitch 1981 bloembergen / schawlow / k
+siegbahn 1982 k
+wilson 1983 chandrasekhar / fowler 1984 rubbia / van meer 1985 von klitzing 1986 ruska / binnig / rohrer 1987 bednorz / müller 1988 lederman / schwartz / steinberger 1989 ramsey / dehmelt / paul 1990 friedman / kendall / r
+taylor de gennes 1992 charpak 1993 hulse / j
+taylor 1994 brockhouse / shull 1995 perl / reines 1996
+lee / osheroff / r
+richardson 1997 chu / cohen-tannoudji / phillips 1998 laughlin / störmer / tsui 1999 't hooft / veltman 2000 alferov / kroemer / kilby 2001–present 2001 cornell / ketterle / wieman 2002 davis / koshiba / giacconi 2003 abrikosov / ginzburg / leggett 2004 gross / politzer / wilczek 2005 glauber / hall / hänsch 2006 mather / smoot 2007 fert / grünberg 2008 nambu / kobayashi / maskawa 2009 kao / boyle / smith 2010 geim / novoselov 2011 perlmutter / riess / schmidt wineland / haroche 2013 englert / higgs 2014 akasaki / amano / nakamura 2015 kajita / mc donald vte hungarian hungarian-american nobel laureates chemistry zsigmondy richárd 1925 hevesy györgy 1943 polányi jános 1986 oláh györgy 1994 avram hershko 2004 literature kertész imre 2002 physics lénárd fülöp 1905 wigner jenő 1963 gábor dénes 1971 physiology medicine bárány róbert 1914 szent-györgyi albert 1937 békésy györgy 1961 economic sciences harsányi jános 1994 vte united states national medal science laureates behavioral social science1960 s 1964 roger adams othmar h
+ammann theodosius dobzhansky neal elgar miller 1980 s 1986 herbert
+simon 1987 anne anastasi george j
+stigler 1988 milton friedman 1990 s 1990 leonid hurwicz patrick suppes robert w
+kates george
+miller 1992 eleanor j
+gibson 1994 robert k
+merton 1995 roger n
+shepard 1996 paul samuelson 1997 william k
+estes 1998 william julius wilson 1999 robert m
+solow 2000 s 2000 gary becker 2001 george bass 2003 r
+duncan luce 2004 kenneth arrow 2005 gordon h
+bower 2008 michael
+posner 2009 mortimer mishkin 2010 s 2011 anne treisman 2014 robert axelrod biological sciences1960 s 1963 c
+van niel 1964 marshall w
+nirenberg 1965 francis p
+rous george g
+simpson donald
+van slyke 1966 edward f
+knipling fritz albert lipmann william c
+rose sewall wright 1967 kenneth s
+cole harry f
+harlow michael heidelberger alfred h
+sturtevant 1968 horace barker bernard
+brodie detlev w
+bronk jay lush burrhus frederic skinner 1969 robert huebner ernst mayr 1970 s 1970 barbara mc clintock albert
+sabin 1973 daniel
+arnon earl w
+sutherland jr
+1974 britton chance erwin chargaff james v
+neel james augustine shannon 1975 hallowell davis paul gyorgy sterling
+hendricks orville lvin vogel 1976 roger guillemin keith roberts porter efraim racker e
+wilson 1979 robert h
+burris elizabeth c
+crosby arthur kornberg severo ochoa earl reece stadtman george ledyard stebbins paul alfred weiss 1980 s 1981 philip handler 1982 seymour benzer glenn w
+burton mildred cohn 1983 howard l
+bachrach paul berg wendell l
+roelofs berta scharrer 1986 stanley cohen donald
+henderson vernon
+mountcastle george emil palade joan
+steitz 1987 michael e
+de bakey theodor o
+diener harry eagle har gobind khorana rita levi-montalcini 1988 michael s
+brown stanley norman cohen joseph l
+goldstein maurice r
+hilleman eric r
+kandel rosalyn sussman yalow 1989 katherine esau viktor hamburger philip leder joshua lederberg roger w
+sperry harland g
+wood 1990 s 1990 baruj benacerraf herbert w
+boyer daniel e
+koshland jr
+lewis david g
+nathan e
+donnall thomas mary ellen avery g
+evelyn hutchinson elvin
+kabat salvador luria paul
+marks folke k
+skoog paul c
+zamecnik 1992 maxine singer howard martin temin 1993 daniel nathans salome g
+waelsch 1994 thomas eisner elizabeth f
+neufeld 1995 alexander rich 1996 ruth patrick 1997 james watson robert
+weinberg 1998 bruce ames janet rowley 1999 david baltimore jared diamond lynn margulis 2000 s 2000 nancy c
+andreasen peter h
+raven carl woese 2001 francisco j
+ayala mario r
+capecchi ann graybiel gene e
+likens victor
+mc kusick harold varmus 2002 james e
+darnell evelyn m
+witkin 2003 j
+michael bishop solomon h
+snyder charles yanofsky 2004 norman e
+borlaug phillip
+sharp thomas e
+starzl 2005 anthony s
+fauci torsten n
+wiesel 2006 rita r
+colwell nina fedoroff lubert stryer 2007 robert j
+lefkowitz bert w
+o'malley 2008 francis s
+collins elaine fuchs j
+craig venter 2009 susan l
+lindquist stanley
+prusiner 2010 s 2010 ralph l
+brinster shu chien rudolf jaenisch 2011 lucy shapiro leroy hood sallie chisholm 2014 may berenbaum bruce alberts chemistry1980 s 1982 f
+albert cotton gilbert stork 1983 roald hoffmann george c
+pimentel richard n
+zare 1986 harry
+gray yuan tseh lee carl s
+marvel frank h
+westheimer 1987 william s
+johnson walter h
+stockmayer max tishler 1988 william o
+baker konrad e
+bloch elias j
+corey 1989 richard
+bernstein melvin calvin rudolph
+marcus harden m
+mc connell 1990 s 1990 elkan blout karl folkers john
+roberts ronald breslow gertrude
+elion dudley r
+herschbach glenn t
+seaborg 1992 howard e
+simmons jr
+1993 donald j
+cram norman hackerman 1994 george s
+hammond 1995 thomas cech isabella l
+karle 1996 norman davidson 1997 darleane c
+hoffman harold s
+johnston 1998 john w
+cahn george m
+whitesides 1999 stuart
+rice john ross susan solomon 2000 s 2000 john
+baldeschwieler ralph f
+hirschmann 2001 ernest r
+davidson gábor
+somorjai 2002 john
+brauman 2004 stephen j
+lippard 2006 marvin h
+caruthers peter
+dervan 2007 mostafa
+el-sayed 2008 joanna fowler jo anne stubbe 2009 stephen j
+benkovic marye anne fox 2010 s 2010 jacqueline k
+barton peter j
+stang 2011 allen j
+bard m
+frederick hawthorne 2014 judith p
+klinman jerrold meinwald 2015 geraldine l
+richmond engineering sciences1960 s 1962 theodore von kármán 1963 vannevar bush john robinson pierce 1964 charles s
+draper 1965 hugh l
+dryden clarence l
+johnson warren k
+lewis 1966 claude e
+shannon 1967 edwin h
+land igor
+sikorsky 1968 j
+presper eckert nathan m
+newmark 1969 jack st
+clair kilby 1970 s 1970 george e
+mueller 1973 harold e
+edgerton richard t
+whitcomb 1974 rudolf kompfner ralph brazelton peck abel wolman 1975 manson benedict william hayward pickering frederick e
+terman wernher von braun 1976 morris cohen peter c
+goldmark erwin wilhelm müller 1979 emmett n
+leith raymond
+mindlin robert n
+noyce earl r
+parker simon ramo 1980 s 1982 edward h
+heinemann donald l
+katz 1983 william redington hewlett george m
+low john g
+trump 1986 hans wolfgang liepmann t
+lin bernard m
+oliver 1987 r
+byron bird h
+bolton seed ernst weber 1988 daniel c
+drucker willis m
+hawkins george w
+housner 1989 harry george drickamer herbert e
+grier 1990 s 1990 mildred dresselhaus nick holonyak jr
+george h
+heilmeier luna
+leopold h
+guyford stever 1992 calvin f
+quate john roy whinnery 1993 alfred
+cho 1994 ray w
+clough 1995 hermann
+haus 1996 james l
+flanagan c
+kumar n
+patel 1998 eli ruckenstein 1999 kenneth n
+stevens 2000 s 2000 yuan-cheng
+fung 2001 andreas acrivos 2002 leo beranek 2003 john m
+prausnitz 2004 edwin n
+lightfoot 2005 jan
+achenbach tobin j
+marks 2006 robert s
+langer 2007 david j
+wineland 2008 rudolf e
+kálmán 2009 amnon yariv 2010 s 2011 sidney drell sandra faber sylvester james gates john goodenough mathematical statistical computer sciences1960 s 1963 norbert wiener 1964 solomon lefschetz h
+marston morse 1965 oscar zariski 1966 john milnor 1967 paul cohen 1968 jerzy neyman 1969 william feller 1970 s 1970 richard brauer 1973 john tukey 1974 kurt gödel 1975 john w
+backus shiing-shen chern george dantzig 1976 kurt otto friedrichs hassler whitney 1979 joseph l
+doob donald e
+knuth 1980 s 1982 marshall harvey stone 1983 herman goldstine isadore singer 1986 peter lax antoni zygmund 1987 raoul bott michael freedman 1988 ralph e
+gomory joseph
+keller 1989 samuel karlin saunders mac lane donald c
+spencer 1990 s 1990 george f
+carrier stephen cole kleene john mc carthy alberto calderón 1992 allen newell 1993 martin david kruskal 1994 john cocke 1995 louis nirenberg 1996 richard karp stephen smale 1997 shing-tung yau 1998 cathleen synge morawetz 1999 felix browder ronald r
+coifman 2000 s 2000 john griggs thompson karen k
+uhlenbeck 2001 calyampudi r
+rao elias m
+stein 2002 james g
+glimm 2003 carl r
+de boor 2004 dennis p
+sullivan 2005 bradley efron 2006 hyman bass 2007 leonard kleinrock andrew j
+viterbi 2009 david
+mumford 2010 s 2010 richard
+tapia s
+srinivasa varadhan 2011 solomon golomb barry mazur 2014 alexandre chorin thomas kailath david blackwell physical sciences1960 s 1963 luis w
+alvarez 1964 julian schwinger harold clayton urey robert burns woodward 1965 john bardeen peter debye leon m
+lederman william rubey 1966 jacob bjerknes subrahmanyan chandrasekhar henry eyring john h
+van vleck vladimir k
+zworykin 1967 jesse beams francis birch gregory breit louis hammett george kistiakowsky 1968 paul bartlett herbert friedman lars onsager eugene wigner 1969 herbert c
+brown wolfgang panofsky 1970 s 1970 robert h
+dicke allan r
+sandage john c
+slater john
+wheeler saul winstein 1973 carl djerassi maurice ewing arie jan haagen-smit vladimir haensel frederick seitz robert rathbun wilson 1974 nicolaas bloembergen paul flory william alfred fowler linus carl pauling kenneth sanborn pitzer 1975 hans
+bethe joseph o
+hirschfelder lewis sarett edgar bright wilson chien-shiung wu 1976 samuel goudsmit herbert s
+gutowsky frederick rossini verner suomi henry taube george uhlenbeck 1979 richard p
+feynman herman mark edward m
+purcell john sinfelt lyman spitzer victor f
+weisskopf 1980 s 1982 philip w
+anderson yoichiro nambu edward teller charles h
+townes 1983 e
+margaret burbidge maurice goldhaber helmut landsberg walter munk frederick reines bruno
+rossi j
+robert schrieffer 1986 solomon j
+buchsbaum h
+richard crane herman feshbach robert hofstadter chen-ning yang 1987 philip abelson walter elsasser paul c
+lauterbur george pake james
+van allen 1988
+allan bromley paul ching-wu chu walter kohn norman f
+ramsey jack steinberger 1989 arnold o
+beckman eugene parker robert sharp henry stommel 1990 s 1990 allan m
+cormack edwin m
+mc millan robert pound roger revelle arthur l
+schawlow ed stone steven weinberg 1992 eugene m
+shoemaker 1993 val fitch vera rubin 1994 albert overhauser frank press 1995 hans dehmelt peter goldreich 1996 wallace s
+broecker 1997 marshall rosenbluth martin schwarzschild george wetherill 1998 don l
+anderson john n
+bahcall 1999 james cronin leo kadanoff 2000 s 2000 willis e
+lamb jeremiah p
+ostriker gilbert f
+white 2001 marvin l
+cohen raymond davis jr
+charles keeling 2002 richard garwin w
+jason morgan edward witten 2003 g
+brent dalrymple riccardo giacconi 2004 robert n
+clayton 2005 ralph
+alpher lonnie thompson 2006 daniel kleppner 2007 fay ajzenberg-selove charles p
+slichter 2008 berni alder james e
+gunn 2009 yakir aharonov esther m
+conwell warren m
+washington 2010 s 2011 sidney drell 2014 burton richter sean c
+solomon vte presidents american physical society1899–1925 henry augustus rowland 1899 albert
+michelson 1901 arthur gordon webster 1903 carl barus 1905 edward leamington nichols 1907 henry crew 1909 william francis magie 1911 benjamin osgood peirce 1913 ernest merritt 1914 robert andrews millikan 1916 henry andrews bumstead 1918 joseph sweetman ames 1919 theodore lyman 1921 thomas corwin mendenhall 1923 dayton miller 1925 1926–1950 karl taylor compton 1927 henry gale 1929 william francis gray swann 1931 paul
+foote 1933 arthur compton 1934 robert w
+wood 1935 floyd k
+richtmyer 1936 harrison m
+randall 1937 lyman james briggs 1938 john torrence tate sr
+1939 john zeleny 1940 george braxton pegram 1941 g
+stewart 1941 percy williams bridgman 1942 albert hull 1943 arthur jeffrey dempster 1944 harvey fletcher 1945 edward condon 1946 lee alvin du bridge 1947 j
+robert oppenheimer 1948 francis wheeler loomis 1949 isidor isaac rabi 1950 1951–1975 charles christian lauritsen 1951 john hasbrouck van vleck 1952 enrico fermi 1953 h
+bethe 1954 raymond thayer birge 1955 e
+wigner 1956 henry de wolf smyth 1957 jesse beams 1958 george eugene uhlenbeck 1959 victor frederick weisskopf 1960 frederick seitz 1961 william v
+houston 1962 john harry williams 1963 robert bacher 1964 felix bloch 1965 john archibald wheeler 1966 charles h
+townes 1967 john bardeen 1968 luis walter alvarez 1969 edward mills purcell 1970 robert serber 1971 philip m
+morse 1972 joseph edward mayer 1973 wolfgang k
+panofsky 1974 chien-shiung wu 1975 1976–2000 william
+fowler 1976 george pake 1977 norman foster ramsey jr
+1978 lewis m
+branscomb 1979 herman feshbach 1980 arthur leonard schawlow 1981 maurice goldhaber 1982 robert marshak 1983 mildred dresselhaus 1984 robert r
+wilson 1985 sidney drell 1986 val logsdon fitch 1987 james
+krumhansl 1989 eugen merzbacher 1990 nicolaas bloembergen ernest m
+henley 1992 donald n
+langenberg 1993 burton richter 1994 c
+kumar patel 1995 j
+schrieffer 1996
+allan bromley 1997 andrew sessler 1998 jerome
+friedman 1999 james s
+langer 2000 2001–future george trilling 2001 william brinkman 2002 myriam sarachik 2003 helen quinn 2004 marvin cohen 2005 john hopfield 2006 leo kadanoff 2007 arthur bienenstock 2008 cherry
+murray 2009 curtis callan 2010 barry barish 2011 robert l
+byer michael turner 2013 malcolm r
+beasley 2014 sam aronson 2015 homer neal 2016 laura greene 2017 vte manhattan project timeline sites berkeley radiation laboratory clinton engineer works dayton project hanford engineer works los alamos national laboratory metallurgical laboratory montreal laboratory inyokern trinity test site wendover heavy water sites administrators vannevar bush arthur compton james conant priscilla duffield thomas farrell leslie groves john lansdale ernest lawrence james marshall franklin matthias dorothy mc kibbin kenneth nichols robert oppenheimer deak parsons william purnell frank spedding charles thomas paul tibbets bud uanna harold urey stafford warren ed westcott roscoe wilson scientists luis alvarez robert bacher hans bethe aage bohr niels bohr norris bradbury james chadwick charles critchfield harry daghlian enrico fermi richard feynman val fitch james franck klaus fuchs maria goeppert-mayer george kistiakowsky george koval willard libby edwin mc millan mark oliphant norman ramsey james rainwater bruno rossi glenn seaborg emilio segrè louis slotin henry de wolf smyth leo szilard edward teller stanisław ulam eugene wigner robert wilson leona woods operations alsos mission bombings hiroshima nagasaki operation crossroads operation peppermint project alberta silverplate 509 th composite group enola gay bockscar great artiste weapons fat man little boy pumpkin bomb thin man related topics ames process armed forces special weapons project atomic energy act 1946 british contribution calutron demon core einstein–szilárd letter interim committee oppenheimer security hearing plutonium ra experiment s-1 uranium committee smyth report uranium manhattan project biography portal hungary portal physics portal history science portal nuclear technology portal world war ii portal authority control world cat identities viaf 108474833 lccn n50015686 isni 0000 0001 0859 7559 gnd 119134047 sudoc 031154433 bnf cb12242500 g data mgp 36900 ndl 00460889

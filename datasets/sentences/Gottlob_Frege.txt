@@ -1,0 +1,370 @@
+gottlob frege frege c
+1879 born november 1848 wismar mecklenburg-schwerin germany died july 19251925-07-26 aged 76 bad kleinen mecklenburg-schwerin germany alma mater university jena university göttingen ph dnotable work begriffsschrift 1879 foundations arithmetic 1884 era 19 th-century philosophy20 th-century philosophy region western philosophy school analytic philosophy main interests philosophy mathematics mathematical logic philosophy language notable ideas principle compositionality quantification theory predicate calculus logicism sense reference hume's principle frege–geach problem influences kuno fischer adolf trendelenburg hermann lotze ernst abbe david hume leibniz influenced giuseppe peano bertrand russell rudolf carnap ludwig wittgenstein michael dummett edmund husserl gershom scholem most analytic tradition gottlob frege thesis über eine geometrische darstellung imaginären gebilde ebene geometrical representation imaginary forms plane 1873 doctoral advisor ernst christian julius schering other academic advisors rudolf friedrich alfred clebsch friedrich ludwig gottlob frege /ˈfreɪɡə/ german [ˈɡɔtloːp ˈfreːɡə] november 1848 july 1925 german philosopher logician mathematician
+considered founders modern logic made major contributions foundations mathematics
+generally considered father analytic philosophy writings philosophy language mathematics
+while mainly ignored intellectual world published writings giuseppe peano 1858–1932 bertrand russell 1872–1970 introduced work later generations logicians philosophers
+contents life
+childhood 1848–69
+2 studies university jena göttingen 1869–74 2 work logician 3 philosopher 4 sense reference 5 1924 diary 6 personality 7 legacy important dates 9 important works 9
+logic foundation arithmetic 9
+2 philosophical studies 9
+3 articles geometry 10 references 10
+primary 10
+2 secondary external links life childhood 1848–69 frege born 1848 wismar state mecklenburg-schwerin today part german federal state mecklenburg-vorpommern
+father carl karl alexander frege 3 august 1809 30 november 1866 co-founder headmaster girls' high school until death
+after carl's death school led frege's mother auguste wilhelmine sophie frege née bialloblotzky polish descent 12 january 1815 14 october 1898
+childhood frege encountered philosophies guide future scientific career
+example father textbook german language children aged 9–13 entitled hülfsbuch zum unterrichte deutschen sprache für kinder von 9 bis 13 jahren 2 nd ed
+wismar 1850 3 rd ed
+wismar ludwigslust hinstorff 1862 first section dealt structure logic language
+frege studied gymnasium wismar graduated 1869
+teacher gustav adolf leo sachse 5 november 1843 september 1909 poet played most important role determining frege's future scientific career encouraging continue studies university jena
+studies university jena göttingen 1869–74 frege matriculated university jena spring 1869 citizen north german confederation
+four semesters studies attended approximately twenty courses lectures most them mathematics physics
+most important teacher ernst karl abbe 1840–1905 physicist mathematician inventor
+abbe gave lectures theory gravity galvanism electrodynamics complex analysis theory functions complex variable applications physics selected divisions mechanics mechanics solids
+abbe teacher frege trusted friend director optical manufacturer carl zeiss ag position advance frege's career
+after frege's graduation came closer correspondence
+other notable university teachers christian philipp karl snell 1806–86 subjects use infinitesimal analysis geometry analytical geometry planes analytical mechanics optics physical foundations mechanics hermann karl julius traugott schaeffer 1824–1900 analytical geometry applied physics algebraic analysis telegraph other electronic machines philosopher kuno fischer 1824–1907 kantian critical philosophy
+starting 1871 frege continued studies göttingen leading university mathematics german-speaking territories attended lectures rudolf friedrich alfred clebsch 1833–72 analytical geometry ernst christian julius schering 1824–97 function theory wilhelm eduard weber 1804–91 physical studies applied physics eduard riecke 1845–1915 theory electricity hermann lotze 1817–81 philosophy religion
+many philosophical doctrines mature frege parallels lotze subject scholarly debate whether there direct influence frege's views arising attending lotze's lectures
+1873 frege attained doctorate under ernst christian julius schering dissertation under title über eine geometrische darstellung imaginären gebilde ebene geometrical representation imaginary forms plane aimed solve such fundamental problems geometry mathematical interpretation projective geometry's infinitely distant imaginary points
+frege married margarete katharina sophia anna lieseberg 15 february 1856 25 june 1904 14 march 1887
+work logician main article begriffsschrift though education early work mathematical especially geometrical frege's thought soon turned logic
+begriffsschrift eine arithmetischen nachgebildete formelsprache des reinen denkens [concept-script formal language pure thought modeled arithmetic] halle a/s verlag von louis nebert 1879 marked turning point history logic
+begriffsschrift broke new ground including rigorous treatment ideas functions variables
+frege wanted show mathematics grows out logic doing devised techniques took far beyond aristotelian syllogistic stoic propositional logic come down logical tradition
+title page begriffsschrift 1879 effect frege invented axiomatic predicate logic large part thanks invention quantified variables eventually became ubiquitous mathematics logic solved problem multiple generality
+previous logic dealt logical constants
+iterations these operations especially little understood even distinction sentence like every boy loves girl girl loved every boy represented very artificially whereas frege's formalism no difficulty expressing different readings every boy loves girl loves boy loves girl similar sentences complete parallel treatment say every boy foolish
+frequently noted example aristotle's logic unable represent mathematical statements like euclid's theorem fundamental statement number theory there infinite number prime numbers
+frege's conceptual notation however represent such inferences
+analysis logical concepts machinery formalization essential principia mathematica 3 vols
+1910–13 bertrand russell 1872–1970 alfred north whitehead 1861–1947 russell's theory descriptions kurt gödel's 1906–78 incompleteness theorems alfred tarski's 1901–83 theory truth ultimately due frege
+frege's stated purposes isolate genuinely logical principles inference proper representation mathematical proof no point appeal intuition
+there intuitive element isolated represented separately axiom there proof purely logical without gaps
+having exhibited possibility frege's larger purpose defend view arithmetic branch logic view known logicism unlike geometry arithmetic shown no basis intuition no need non-logical axioms
+already 1879 begriffsschrift important preliminary theorems example generalized form law trichotomy derived within frege understood pure logic
+idea formulated non-symbolic terms die grundlagen arithmetik [the foundations arithmetic] 1884
+later grundgesetze arithmetik [basic laws arithmetic] vol
+1893 vol
+2 1903 vol
+2 published own expense frege attempted derive use symbolism laws arithmetic axioms asserted logical
+most these axioms carried over begriffsschrift though without significant changes
+truly new principle called basic law v value-range function fx same value-range function gx ∀x[fx = gx]
+crucial case law may formulated modern notation follows
+let {x|fx} denote extension predicate fx
+set fs similarly gx
+then basic law v says predicates fx gx same extension iff ∀x[fx ↔ gx]
+set fs same set gs just case every f g every g f
+case special because here being called extension predicate set type value-range function
+famous episode bertrand russell frege just vol
+2 grundgesetze go press 1903 showing russell's paradox derived frege's basic law v
+easy define relation membership set extension frege's system russell then drew attention set things x such x member x
+system grundgesetze entails set thus characterised both member itself thus inconsistent
+frege hasty last-minute appendix vol
+2 deriving contradiction proposing eliminate modifying basic law v
+frege opened appendix exceptionally honest comment hardly anything unfortunate befall scientific writer foundations edifice shaken after work finished
+position placed letter mr
+bertrand russell just printing volume nearing completion
+letter frege's reply translated jean van heijenoort 1967
+frege's proposed remedy subsequently shown imply there object universe discourse hence worthless indeed make contradiction frege's system axiomatized idea fundamental discussion true false distinct objects see example dummett 1973 recent work shown much program grundgesetze might salvaged other ways basic law v weakened other ways
+best-known way due philosopher mathematical logician george boolos 1940–1996 expert work frege
+concept f small objects falling under f cannot put one-to-one correspondence universe discourse unless ∃r[r 1-to-1 & ∀x∃yx ry & fy]
+now weaken v v* concept f concept g same extension neither f nor g small ∀x fx ↔ gx
+v* consistent second-order arithmetic suffices prove axioms second-order arithmetic
+basic law v simply replaced hume's principle says number fs same number gs fs put one-to-one correspondence gs
+principle too consistent second-order arithmetic suffices prove axioms second-order arithmetic
+result termed frege's theorem because noticed developing arithmetic frege's use basic law v restricted proof hume's principle turn arithmetical principles derived
+hume's principle frege's theorem see frege's logic theorem foundations arithmetic
+frege's logic now known second-order logic weakened so-called predicative second-order logic
+predicative second-order logic plus basic law v provably consistent finitistic constructive methods interpret very weak fragments arithmetic
+frege's work logic little international attention until 1903 russell appendix principles mathematics stating differences frege
+diagrammatic notation frege used no antecedents no imitators since
+moreover until russell whitehead's principia mathematica 3 vols
+appeared 1910–13 dominant approach mathematical logic still george boole 1815–64 intellectual descendants especially ernst schröder 1841–1902
+frege's logical ideas nevertheless spread through writings student rudolf carnap 1891–1970 other admirers particularly bertrand russell ludwig wittgenstein 1889–1951
+philosopher frege founders analytic philosophy mainly because contributions philosophy language including function–argument analysis proposition distinction concept object begriff und gegenstand principle compositionality context principle distinction sense reference sinn und bedeutung names other expressions sometimes involve mediated reference theory
+philosopher mathematics frege attacked psychologistic appeal mental explanations content judgment meaning sentences
+original purpose very far answering general questions meaning instead devised logic explore foundations arithmetic undertaking answer questions such number? objects number-words two etc
+refer to? pursuing these matters eventually found himself analysing explaining meaning thus came several conclusions proved highly consequential subsequent course analytic philosophy philosophy language
+should kept mind frege employed mathematician philosopher published philosophical papers scholarly journals often hard access outside german-speaking world
+never published philosophical monograph other foundations arithmetic much mathematical content first collections writings appeared after world war ii
+volume english translations frege's philosophical essays first appeared 1952 edited students wittgenstein peter geach born 1916 max black 1909–88 bibliographic assistance wittgenstein see geach ed
+1975 introduction
+despite generous praise russell wittgenstein frege little known philosopher during lifetime
+ideas spread chiefly through those influenced such russell wittgenstein carnap through work logic semantics polish logicians
+sense reference main article sense reference distinction sinn sense bedeutung usually translated reference also meaning denotation innovation frege 1892 paper über sinn und bedeutung sense reference
+according frege sense reference two different aspects significance expression
+frege applied bedeutung first instance proper names means bearer name object question then also other expressions including complete sentences bedeuten two truth values true false contrast sense sinn associated complete sentence thought expresses
+sense expression mode presentation item referred
+distinction illustrated thus their ordinary uses name charles philip arthur george mountbatten-windsor logical purposes unanalyzable whole functional expression prince wales contains significant parts prince ξ wales same reference namely person best known prince charles
+sense word wales part sense latter expression no part sense full name prince charles
+these distinctions disputed bertrand russell especially paper denoting controversy continued present fueled especially saul kripke's famous lectures naming necessity
+1924 diary frege's published philosophical writings very technical nature divorced practical issues much frege scholar dummett expresses shock discover while reading frege's diary hero anti-semite
+after world war political opinion became radical
+last year life age 76 diary contains extreme right-wing political opinions opposing parliamentary system democrats liberals catholics french jews thought ought deprived political rights preferably expelled germany
+frege confided once thought himself liberal admirer bismarck then sympathized general ludendorff adolf hitler
+interpretations written time
+diary contains critique universal suffrage socialism
+frege friendly relations jews real life among students gershom scholem much valued teacher encouraged ludwig wittgenstein leave england
+1924 diary published posthumously 1944
+frege apparently never spoke public political viewpoints
+personality frege described students highly introverted person seldom entering dialogue mostly facing blackboard while lecturing though being witty sometimes bitterly sarcastic
+legacy frege programming language named after
+important dates born november 1848 wismar mecklenburg-schwerin
+1869 — attends university jena
+1871 — attends university göttingen
+1873 — ph doctor mathematics geometry attained göttingen
+1874 — habilitation jena private teacher
+1879 — ausserordentlicher professor jena
+1896 — ordentlicher honorarprofessor jena
+1917 1918 — retires
+died july 1925 bad kleinen now part mecklenburg-vorpommern
+important works logic foundation arithmetic begriffsschrift eine arithmetischen nachgebildete formelsprache des reinen denkens 1879
+english concept notation formal language pure thought like arithmetics
+die grundlagen arithmetik eine logisch-mathematische untersuchung über den begriff zahl 1884
+english foundations arithmetic logical-mathematical investigation concept number
+grundgesetze arithmetik band 1893 band ii 1903
+jena verlag hermann pohle
+english basic laws arithmetic translated edited introduction philip
+ebert marcus rossberg
+oxford oxford university press 2013
+philosophical studies function concept 1891 original funktion und begriff vortrag gehalten sitzung vom 9
+januar 1891 jenaischen gesellschaft für medizin und naturwissenschaft jena 1891 english function concept
+sense reference 1892 original über sinn und bedeutung zeitschrift für philosophie und philosophische kritik c 1892 25–50 english sense reference alternatively translated later edition sense meaning
+concept object 1892 original über begriff und gegenstand vierteljahresschrift für wissenschaftliche philosophie xvi 1892 192–205 english concept object
+function? 1904 original ist eine funktion? festschrift ludwig boltzmann gewidmet zum sechzigsten geburtstage 20
+february 1904 s
+meyer ed
+leipzig 1904 pp
+656–666 internet archive english function?
+logical investigations 1918–1923
+frege intended following three papers published together book titled logische untersuchungen logical investigations
+though german book never appeared papers published together logische untersuchungen ed
+patzig vandenhoeck & ruprecht 1966 english translations appeared together logical investigations ed
+peter geach blackwell 1975
+gedanke eine logische untersuchung thought logical inquiry beiträge zur philosophie des deutschen idealismus 58–77
+die verneinung negation beiträge zur philosophie des deutschen idealismus 143–157
+gedankengefüge compound thought beiträge zur philosophie des deutschen idealismus iii 36–51
+articles geometry 1903 über die grundlagen geometrie
+jahresbericht deutschen mathematiker-vereinigung xii 1903 368–375 english foundations geometry
+1967 kleine schriften
+angelelli ed
+wissenschaftliche buchgesellschaft
+darmstadt 1967 és g
+olms hildescheim 1967
+small writings collection most writings e
+previous posthumously published
+references frege's technical concepts frege synthesized essays philosophical foundational work g
+frege l
+haaparanta j
+hintikka synthese library
+reidel 1986 pp
+253–295 frege's technical concepts frege synthesized essays philosophical foundational work g
+frege l
+haaparanta j
+hintikka synthese library
+reidel 1986 pp
+253–295 frege
+random house webster's unabridged dictionary
+horsten leon pettigrew richard introduction continuum companion philosophical logic continuum international publishing group 2011 p
+frege's logic theorem foundations arithmetic stanford encyclopedia philosophy plato
+edu burgess john 2005
+fixing frege
+hersh reuben mathematics really? oxford university press 1997 p
+michael dummett frege philosophy language p
+hans sluga heidegger's crisis philosophy politics nazi germany p
+99 ff
+sluga's source article eckart menzler-trott ich wünsch die wahrheit und nichts als die wahrheit das politische testament des deutschen mathematikers und logikers gottlob frege
+forum vol
+36 no
+432 20 december 1989 pp
+html http//www
+htm juliet floyd frege-wittgenstein correspondence interpretive themes
+edu/philo/files/2011/01/frege-witt correspondence
+pdf gottfried gabriel wolfgang kienzler editors gottlob freges politisches tagebuch
+deutsche zeitschrift für philosophie vol
+42 1994 pp
+introduction editors pp
+article translated english inquiry vol
+39 1996 pp
+frege's lectures logic erich h
+reck steve awodey pp
+18–26 primary online bibliography frege's works their english translations compiled e
+zalta stanford encyclopedia philosophy
+begriffsschrift eine arithmetischen nachgebildete formelsprache des reinen denkens
+louis nebert
+translation concept script formal language pure thought modelled upon arithmetic s
+bauer-mengelberg jean van heijenoort ed
+frege gödel source book mathematical logic 1879–1931
+harvard university press
+die grundlagen arithmetik eine logisch-mathematische untersuchung über den begriff zahl
+breslau w
+translation j
+austin 1974
+foundations arithmetic logico-mathematical enquiry concept number 2 nd ed
+funktion und begriff
+translation function concept geach black 1980
+über sinn und bedeutung zeitschrift für philosophie und philosophische kritik 100 25–50
+translation sense reference geach black 1980
+über begriff und gegenstand vierteljahresschrift für wissenschaftliche philosophie 16 192–205
+translation concept object geach black 1980
+grundgesetze arithmetik band
+jena verlag hermann pohle
+band ii 1903
+band i+ii online partial translation volume furth m 1964
+basic laws arithmetic
+california press
+translation selected sections volume 2 geach black 1980
+complete translation both volumes ebert p
+rossberg m
+2013 basic laws arithmetic
+oxford university press
+ist eine funktion? meyer s
+festschrift ludwig boltzmann gewidmet zum sechzigsten geburtstage 20
+februar 1904
+leipzig barth 656–666
+translation function? geach black 1980
+peter geach editor logical investigations blackwell's 1975
+gottfried gabriel wolfgang kienzler editors gottlob freges politisches tagebuch
+deutsche zeitschrift für philosophie vol
+42 1994 pp
+introduction editors pp
+article translated english inquiry vol
+39 1996 pp
+peter geach max black eds
+translations philosophical writings gottlob frege 3 rd ed
+blackwell st ed
+secondary philosophy badiou alain
+contemporary usage frege trans
+justin clemens sam gillespie
+umbra no
+2000 pp
+baker gordon p
+hacker 1984
+frege logical excavations
+oxford university press
+— vigorous controversial criticism both frege's philosophy influential contemporary interpretations such dummett's
+currie gregory 1982
+frege introduction philosophy
+harvester press
+dummett michael 1973
+frege philosophy language
+harvard university press
+------ 1981
+interpretation frege's philosophy
+harvard university press
+hill claire ortiz
+word object husserl frege russell roots twentieth-century philosophy
+athens oh ohio university press
+------ rosado haddock g
+husserl frege meaning objectivity mathematics
+open court
+— frege-husserl-cantor triangle
+kenny anthony 1995
+frege — introduction founder modern analytic philosophy
+penguin books
+— excellent non-technical introduction overview frege's philosophy
+klemke e
+essays frege
+university illinois press
+— 31 essays philosophers grouped under three headings
+ontology 2
+semantics 3
+logic philosophy mathematics
+rosado haddock guillermo e
+critical introduction philosophy gottlob frege
+ashgate publishing
+sisti nicola 2005
+il programma logicista di frege e il tema delle definizioni
+franco angeli
+— frege's theory definitions
+sluga hans 1980
+gottlob frege
+nicla vassallo 2014 frege thinking epistemic significance pieranna garavaso lexington books–rowman & littlefield lanham md usa
+weiner joan 1990
+frege perspective cornell university press
+logic mathematics anderson
+edward zalta 2004 frege boolos logical objects journal philosophical logic 33 1–26
+blanchette patricia frege's conception logic
+oxford oxford university press burgess john 2005
+fixing frege
+princeton univ
+— critical survey ongoing rehabilitation frege's logicism
+boolos george 1998
+logic logic logic
+mit press
+— 12 papers frege's theorem logicist approach foundation arithmetic
+dummett michael
+frege philosophy mathematics
+harvard university press
+demopoulos william ed
+frege's philosophy mathematics
+harvard univ
+— papers exploring frege's theorem frege's mathematical intellectual background
+ferreira f
+wehmeier k
+2002 consistency delta-1-1-ca fragment frege's grundgesetze journal philosophic logic 31 301–11
+grattan-guinness ivor 2000
+search mathematical roots 1870–1940
+princeton university press
+— fair mathematician less philosopher
+gillies donald
+frege dedekind peano foundations arithmetic
+methodology science foundation 2
+van gorcum & co
+assen 1982
+gillies donald fregean revolution logic
+revolutions mathematics 265–305 oxford sci
+oxford univ
+press new york 1992
+charles parsons 1965 frege's theory number
+reprinted postscript demopoulos 1965 182–210
+starting point ongoing sympathetic reexamination frege's logicism
+gillies donald fregean revolution logic
+revolutions mathematics 265–305 oxford sci
+oxford univ
+press new york 1992
+heck richard g
+jr frege's theorem
+oxford oxford university press 2011 heck richard g
+jr reading frege's grundgesetze
+oxford oxford university press 2013 wright crispin 1983
+frege's conception numbers objects
+aberdeen university press
+— systematic exposition scope-restricted defense frege's grundlagen conception numbers
+external links find gottlob fregeat wikipedia's sister projects media commons quotations wikiquote source texts wikisource philosophy portal logic portal works gottlob frege internet archive frege genealogy project comprehensive guide fregean material available web brian carver
+stanford encyclopedia philosophy gottlob frege — edward zalta
+frege's logic theorem foundations arithmetic — edward zalta
+internet encyclopedia philosophy gottlob frege — kevin c
+frege language — dorothea lotter
+metaphysics research lab gottlob frege
+frege being existence truth
+o'connor john j
+robertson edmund f
+gottlob frege mac tutor history mathematics archive university st andrews
+begriff te x package typesetting frege's logic notation earlier version grundgesetze te x package typesetting frege's logic notation mature version frege's basic laws arithmetic info website incl
+corrigenda te x typesetting tool — p
+ebert m
+rossberg vte analytic philosophy philosophers robert merrihew adams william p
+alston j
+ayer g
+anscombe david malet armstrong robert audi robert brandom c
+broad tyler burge john p
+burgess rudolf carnap roderick chisholm patricia churchland paul churchland david chalmers noam chomsky donald davidson daniel dennett michael dummett bas van fraassen gottlob frege jerry fodor philippa foot peter geach
+grayling paul grice alvin goldman peter hacker r
+hare gilbert harman john hawthorne ian hacking carl hempel jaakko hintikka peter van inwagen frank cameron jackson christine korsgaard saul kripke david lewis j
+mackie norman malcolm john mc dowell g
+moore thomas nagel robert nozick derek parfit
+phillips alvin plantinga
+prior hilary putnam w
+quine john rawls hans reichenbach bertrand russell gilbert ryle john searle moritz schlick wilfrid sellars peter singer peter strawson richard swinburne peter unger bernard williams timothy williamson john wisdom ludwig wittgenstein stephen yablo
+theories deflationism direct reference theory empiricism holism logical atomism logical positivism naturalism naturalized epistemology neopragmatism neutral monism particularism reductionism scientism skepticism verificationism
+concepts analysis analytic–synthetic distinction causal / deductive / epistemic closure concept counterfactual denotation / reference definite description factive family resemblance intuition meaning proposition modality natural kind / projectability necessary–sufficient conditions paradox analysis possible world reduction reflective equilibrium rigid–flaccid designators sense data supervenience thought experiment truth function truthmaker truth-bearer type–token distinction related articles australian realism ordinary language philosophy philosophical logic philosophy language philosophy science postanalytic philosophy
+category task force discussion philosophy stubs vte philosophy language philosophers plato cratylus gorgias confucius xunzi aristotle stoics pyrrhonists scholasticism ibn rushd ibn khaldun thomas hobbes gottfried wilhelm leibniz johann herder ludwig noire wilhelm von humboldt fritz mauthner paul ricœur ferdinand de saussure gottlob frege franz boas paul tillich edward sapir leonard bloomfield zhuangzi henri bergson lev vygotsky ludwig wittgenstein philosophical investigations tractatus logico-philosophicus bertrand russell rudolf carnap jacques derrida grammatology limited inc benjamin lee whorf gustav bergmann j
+austin noam chomsky hans-georg gadamer saul kripke
+ayer g
+anscombe jaakko hintikka michael dummett donald davidson paul grice gilbert ryle p
+strawson willard van orman quine hilary putnam david lewis john searle joxe azurmendi scott soames stephen yablo john hawthorne stephen neale theories causal theory reference contrast theory meaning contrastivism conventionalism cratylism deconstruction descriptivist theory names direct reference theory dramatism expressivism linguistic determinism logical atomism logical positivism mediated reference theory nominalism non-cognitivism phallogocentrism quietism relevance theory semantic externalism semantic holism structuralism supposition theory symbiosism theological noncognitivism theory descriptions verification theory concepts ambiguity linguistic relativity meaning language truth-bearer proposition use–mention distinction concept categories set class intension logical form metalanguage mental representation principle compositionality property sign sense reference speech act symbol entity sentence statement
+related articles analytic philosophy philosophy information philosophical logic linguistics pragmatics rhetoric semantics formal semantics semiotics category task force discussion authority control world cat identities viaf 51689723 lccn n79117996 isni 0000 0001 2132 6294 gnd 118535161 selibr 187415 sudoc 026874229 bnf cb119035228 data mgp 46166 nla 35102466 ndl 00440110 nkc jn20000700561 bne xx933058

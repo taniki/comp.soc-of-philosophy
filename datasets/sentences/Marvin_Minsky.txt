@@ -1,0 +1,212 @@
+marvin minsky minsky 2008 born marvin lee minsky1927-08-09 august 9 1927 new york city new york u
+died january 24 20162016-01-24 aged 88 boston massachusetts u
+nationality american fields cognitive science computer science artificial intelligence philosophy mind institutions massachusetts institute technology mitalma mater phillips academy harvard university
+1950 princeton university ph
+1954 thesis theory neural-analog reinforcement systems application brain model problem 1954 doctoral advisor albert w
+tucker doctoral students james robert slagle manuel blum daniel bobrow ivan sutherland bertram raphael william
+martin joel moses warren teitelman adolfo guzmán arenas patrick winston eugene charniak gerald jay sussman scott fahlman benjamin kuipers luc steels danny hillis k
+eric drexler known artificial intelligence confocal microscope useless machine triadex muse transhumanism perceptrons book society mind emotion machine frames influenced david waltz[citation needed]notable awards turing award 1969 japan prize 1990 ijcai award research excellence benjamin franklin medal 2001 computer history museum fellow 2006 bbva foundation frontiers knowledge award 2013 websiteweb
+edu/~minsky marvin lee minsky august 9 1927 january 24 2016 american cognitive scientist field artificial intelligence ai co-founder massachusetts institute technology's ai laboratory author several texts ai philosophy
+contents biography 2 personal life death 2
+views 3 bibliography selected 4 awards affiliations 5 references 6 external links biography marvin lee minsky born eye surgeon father henry jewish mother fannie activist zionist affairs new york city attended fieldstone school bronx high school science
+later attended phillips academy andover massachusetts
+then served us navy 1944 1945
+held ba mathematics harvard 1950 ph mathematics princeton 1954
+mit faculty 1958 death
+1959 john mc carthy founded now known mit computer science artificial intelligence laboratory
+toshiba professor media arts sciences professor electrical engineering computer science
+3 profile coin partial measured modern confocal white light microscope minsky's inventions include first head-mounted graphical display 1963 confocal microscope 1957 predecessor today's widely used confocal laser scanning microscope
+developed seymour papert first logo turtle
+minsky also built 1951 first randomly wired neural network learning machine snarc
+minsky book perceptrons seymour papert became foundational work analysis artificial neural networks
+book center controversy history ai claim great importance driving research away neural networks 1970 s contributing so-called ai winter
+also founded several other famous ai models
+book framework representing knowledge created new paradigm programming
+while perceptrons now historical practical book theory frames wide use
+minsky also written possibility extraterrestrial life may think like humans permitting communication
+adviser movie 2001 space odyssey referred movie book probably no ever know matter
+1980 s minsky good shown how neural networks generated automatically—self replicated—in accordance any arbitrary learning program
+artificial brains grown process strikingly analogous development human brain
+any given case precise details never known even millions times too complex human understanding
+early 1970 s mit artificial intelligence lab minsky papert started developing came called society mind theory
+theory attempts explain how call intelligence product interaction non-intelligent parts
+minsky says biggest source ideas theory came work trying create machine uses robotic arm video camera computer build children's blocks
+1986 minsky published society mind comprehensive book theory unlike most previously published work written general audience
+november 2006 minsky published emotion machine book critiques many popular theories how human minds work suggests alternative theories often replacing simple ideas complex ones
+recent drafts book freely available webpage
+personal life death minskytron three position display running computer history museum's pdp-1 2007 1952 minsky married pediatrician dr
+gloria rudisch together three children
+minsky talented improvisational pianist published musings connections music psychology
+worked adviser stanley kubrick's film 2001 space odyssey film's characters victor kaminski named minsky's honor
+minsky enjoyed posing philosophical riddles such science learn most studying seems least
+minsky died boston cerebral hemorrhage january 24 2016
+known whether cryopreserved
+views minsky atheist signatory scientists' open letter cryonics
+critic loebner prize
+minsky believed there no fundamental difference humans machines humans machines whose intelligence emerges interplay many unintelligent semi-autonomous agents make up brain
+stated somewhere down line computers will become intelligent most people it's very hard predict how fast progress will
+cautioned artificial superintelligence designed solve innocuous mathematical problem might decide take over earth's resources build supercomputers help achieve goal believed such negative scenarios hard take seriously because confident ai go through lot testing before being deployed
+bibliography selected 1967 computation finite infinite machines prentice-hall 1986 society mind 2006 emotion machine commonsense thinking artificial intelligence future human mind awards affiliations minsky won turing award highest distinction computer science 1969 japan prize 1990 ijcai award research excellence benjamin franklin medal franklin institute 2001
+2006 inducted fellow computer history museum co-founding field artificial intelligence creating early neural networks robots developing theories human machine cognition
+2011 minsky inducted ieee intelligent systems' ai's hall fame significant contributions field ai intelligent systems
+2014 minsky won dan david prize field artificial intelligence digital mind
+also awarded 2013 bbva foundation frontiers knowledge award information communication technologies category
+minsky affiliated following organizations united states national academy engineering united states national academy sciences extropy institute's council advisors alcor life extension foundation's scientific advisory board kynamatrix research network's board directors references marvin lee minsky mathematics genealogy project marvin lee minsky ai genealogy project
+pdf minsky m
+steps toward artificial intelligence
+proceedings ire 49 8–1
+minsky m
+memoir inventing confocal scanning microscope
+scanning 10 4 128–138
+pesta march 12 2014
+looking something useful your time? don't try
+retrieved march 24 2014
+hillis danny mc carthy john mitchell tom m
+mueller erik t
+riecken doug sloman aaron winston patrick henry 2007
+honor marvin minsky's contributions 80 th birthday
+ai magazine 28 4 109
+v28 i4
+2064 inactive 2016-02-10
+retrieved january 2016
+minsky marvin 1960
+steps toward artificial intelligence
+retrieved december 13 2006
+papert seymour minsky marvin lee 1988
+perceptrons introduction computational geometry
+cambridge mass mit press
+minsky marvin lee 1986
+society mind
+new york simon schuster
+first comprehensive description society mind theory intellectual structure development
+see also society mind cd-rom version voyager 1996
+minsky marvin lee 2007
+emotion machine commonsense thinking artificial intelligence future human mind
+new york simon & schuster
+marvin minsky
+marvin minsky's publications indexed dblp bibliography server university trier list publications microsoft academic search marvin minsky google scholar
+winston patrick henry 2016
+marvin l
+minsky 1927-2016
+nature springer nature 530 7590 282–282
+pmid 26887486
+science contemporary world encyclopedia minsky marvin lee 1954
+theory neural-analog reinforcement systems application brain model problem ph thesis
+princeton university
+oclc 3020680
+hillis danny john mc carthy tom m
+mitchell erik t
+mueller doug riecken aaron sloman patrick henry winston 2007
+honor marvin minsky’s contributions 80 th birthday
+ai magazine association advancement artificial intelligence 28 4 103–110
+retrieved november 24 2010
+horgan john november 1993
+profile marvin l
+minsky mastermind artificial intelligence
+scientific american 269 5 14–15
+c brief academic biography marvin minsky
+retrieved january 2016
+patent minsky's microscopy apparatus applied 1957 subsequently granted us patent number 3013467 1961
+according published biography mit media lab webpage 1956 junior fellow harvard minsky invented built first confocal scanning microscope optical instrument unprecedented resolution image quality
+olazaran mikel august 1996
+sociological study official history perceptrons controversy
+social studies science 3 611–659
+jstor 285702
+unknown 1975
+minsky's frame system theory
+proceedings 1975 workshop theoretical issues natural language processing tinlap '75
+minsky marvin april 1985
+communication alien intelligence
+retrieved october 27 2013
+see interview https//mitpress
+html clarke arthur c
+2001 space odyssey marvin minsky
+marvin minsky
+washington post
+january 2016
+retrieved 28 january 2016
+obituary marvin minsky 88 mit professor helped found field artificial intelligence
+boston globe
+january 2016
+retrieved 28 january 2016
+ai pioneer marvin minsky dies aged 88
+bbc news
+january 2016
+retrieved 28 january 2016
+c marvin minsky pioneer artificial intelligence dies 88
+new york times
+january 25 2016
+retrieved january 25 2016
+official alcor statement concerning marvin minsky
+alcor news
+leon m
+lederman judith
+scheppler 2001
+marvin minsky mind maker
+portraits great american scientists
+prometheus books
+another area goes against flow spiritual beliefs
+far religion concerned he's confirmed atheist
+think [religion] contagious mental disease
+brain need believe knows reason things
+scientists' open letter cryonics institute evidence based cryonics retrieved january 29 2016 minsky -thread
+com technology | artificial stupidity artificial intelligence pioneer marvin minsky computers soul
+jerusalem post
+13 may 2014
+retrieved 27 january 2016
+russell stuart j
+norvig peter 2003
+3 ethics risks developing artificial intelligence
+artificial intelligence modern approach
+upper saddle river n
+prentice hall
+similarly marvin minsky once suggested ai program designed solve riemann hypothesis might end up taking over resources earth build powerful supercomputers help achieve goal
+achenbach joel 6 january 2016
+marvin minsky architect artificial intelligence dies 88
+washington post
+retrieved 27 january 2016
+marvin minsky franklin institute awards laureate database
+franklin institute
+retrieved march 25 2008
+marvin minsky — chm fellow award winner
+retrieved march 30 2015
+ai's hall fame pdf
+ieee intelligent systems ieee computer society 4 5–15
+ieee computer society magazine honors artificial intelligence leaders
+digital journal
+august 24 2011
+retrieved september 18 2011
+press release source prweb vocus
+dan david prize 2014 winners
+may 15 2014
+retrieved may 20 2014
+mit artificial intelligence robotics pioneer feted award celebrates minsky’s career
+boston globe
+august 24 2011
+retrieved january 18 2014
+extropy institute directors & advisors
+alcor scientific advisory board
+minsky joins kynamatrix board directors external links wikimedia commons media related marvin minsky
+wikiquote quotations related marvin minsky oral history interview marvin minsky charles babbage institute university minnesota minneapolis
+minsky describes artificial intelligence ai research massachusetts institute technology mit
+topics include work john mc carthy changes mit research laboratories advent project mac research areas expert systems graphics word processing time-sharing variations advanced research projects agency arpa attitude toward ai
+oral history interview terry winograd charles babbage institute university minnesota minneapolis
+winograd describes work computer science linguistics artificial intelligence massachusetts institute technology mit discussing work marvin minsky others
+scientist set interview marvin minsky marvin minsky playlist appearance wmbr's dinnertime sampler radio show november 2003 consciousness big suitcase talk marvin minsky video minsky speaking international conference complex systems hosted new england complex systems institute necsi emotion universe video marvin minsky marvin minsky's thoughts fermi paradox transvisions 2007 conference health population human mind marvin minsky talk ted conference society mind mit open course ware marvin minsky tells life story web stories video vte
+turing award laureates alan perlis 1966 maurice vincent wilkes 1967 richard hamming 1968 marvin minsky 1969 james h
+wilkinson 1970 john mc carthy 1971 edsger w
+dijkstra 1972 charles bachman 1973 donald knuth 1974 allen newell / herbert
+simon 1975 michael o
+rabin / dana scott 1976 john backus 1977 robert w
+floyd 1978 kenneth e
+iverson 1979 tony hoare 1980 edgar f
+codd 1981 stephen cook 1982 ken thompson / dennis ritchie 1983 niklaus wirth 1984 richard karp 1985 john hopcroft / robert tarjan 1986 john cocke 1987 ivan sutherland 1988 william kahan 1989 fernando j
+corbató 1990 robin milner butler lampson 1992 juris hartmanis / richard e
+stearns 1993 edward feigenbaum / raj reddy 1994 manuel blum 1995 amir pnueli 1996 douglas engelbart 1997 jim gray 1998 fred brooks 1999 andrew yao 2000 ole-johan dahl / kristen nygaard 2001 ron rivest / adi shamir / leonard adleman 2002 alan kay 2003 vint cerf / bob kahn 2004 peter naur 2005 frances e
+allen 2006 edmund m
+clarke / e
+allen emerson / joseph sifakis 2007 barbara liskov 2008 charles p
+thacker 2009 leslie g
+valiant 2010 judea pearl 2011 shafi goldwasser / silvio micali leslie lamport 2013 michael stonebraker 2014 martin hellman / whitfield diffie 2015 vte philosophy mind philosophers anscombe austin aquinas bain bergson bhattacharya block brentano broad burge chalmers churchland dennett dharmakirti davidson descartes goldman heidegger husserl fodor james kierkegaard leibniz lewis mc dowell merleau-ponty minsky moore nagel parfit putnam popper rorty ryle searle spinoza turing vasubandhu wittgenstein zhuangzi
+theories behaviorism biological naturalism dualism eliminative materialism emergent materialism epiphenomenalism functionalism idealism interactionism materialism monism naïve realism neutral monism phenomenalism phenomenology existential neurophenomenology physicalism identity theory pragmatism property dualism representational solipsism subjectivism substance dualism concepts abstract object artificial intelligence chinese room cognition cognitive closure concept concept object consciousness hard problem consciousness hypostatic abstraction idea identity ingenuity intelligence intentionality introspection intuition language thought materialism mental event mental image mental process mental property mental representation mind mind–body problem new mysterianism pain problem other minds propositional attitude qualia tabula rasa understanding zombie
+related topics metaphysics philosophy artificial intelligence / information / perception / self portal category task force discussion authority control world cat identities viaf 22166315 lccn n50032614 isni 0000 0001 1469 0776 gnd 12009231 x sudoc 029097401 bnf cb12079407 k data mgp 6869 nla 35355124 ndl 00450165 nkc skuk0004141 rls 000086976 bne xx1033183

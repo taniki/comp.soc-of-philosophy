@@ -24,6 +24,6 @@ bigram = models.phrases.Phrases(sentences)
 dictionary = corpora.Dictionary(bigram[sentences])
 corpus = [ dictionary.doc2bow(text) for text in bigram[sentences] ]
 
-model = models.ldamodel.LdaMulticore(corpus=corpus, workers=9, id2word=dictionary, num_topics=100, chunksize=1000, update_every=1)
+model = models.ldamodel.LdaMulticore(corpus=corpus, workers=32, id2word=dictionary, num_topics=100, chunksize=1000, update_every=1)
 
 model.save("../../tmp/100topics.txt")

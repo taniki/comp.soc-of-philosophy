@@ -21,6 +21,9 @@
 
 ## exploration
 
+  - [Basic statistics about dbpedia network of influences](https://github.com/taniki/comp.soc-of-philosophy/blob/master/reports/influences.gexf%20-%20statistics.ipynb)
+  - [Using word2vec to create map of words](https://github.com/taniki/comp.soc-of-philosophy/blob/master/(analytic%20vs%20continental)%20x%20philosophy.ipynb)
+
 ## current sources
 
 - [wikipedia](http://en.wikipedia.org) and [dbpedia](http://wiki.dbpedia.org/)
